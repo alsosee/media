@@ -1,7 +1,7 @@
 - path: Chris Pine.jpg
   width: 972
   height: 972
-  thumb: thumbnails_0.jpg?crc=ebfc7e3e
+  thumb: thumbnails_0.jpg?crc=7e90d6cf
   thumb_width: 324
   thumb_height: 324
   thumb_total_width: 1944
@@ -9,7 +9,7 @@
 - path: Hugh Grant.jpg
   width: 1067
   height: 1067
-  thumb: thumbnails_0.jpg?crc=ebfc7e3e
+  thumb: thumbnails_0.jpg?crc=7e90d6cf
   thumb_x: 324
   thumb_width: 324
   thumb_height: 324
@@ -18,7 +18,7 @@
 - path: Justice Smith.jpg
   width: 782
   height: 782
-  thumb: thumbnails_0.jpg?crc=ebfc7e3e
+  thumb: thumbnails_0.jpg?crc=7e90d6cf
   thumb_x: 648
   thumb_width: 324
   thumb_height: 324
@@ -27,17 +27,8 @@
 - path: Michelle Rodriguez.jpg
   width: 1196
   height: 1196
-  thumb: thumbnails_0.jpg?crc=ebfc7e3e
+  thumb: thumbnails_0.jpg?crc=7e90d6cf
   thumb_x: 972
-  thumb_width: 324
-  thumb_height: 324
-  thumb_total_width: 1944
-  thumb_total_height: 324
-- path: Regé-Jean Page.jpg
-  width: 832
-  height: 832
-  thumb: thumbnails_0.jpg?crc=ebfc7e3e
-  thumb_x: 1296
   thumb_width: 324
   thumb_height: 324
   thumb_total_width: 1944
@@ -45,7 +36,16 @@
 - path: Sophia Lillis.jpg
   width: 982
   height: 982
-  thumb: thumbnails_0.jpg?crc=ebfc7e3e
+  thumb: thumbnails_0.jpg?crc=7e90d6cf
+  thumb_x: 1296
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 1944
+  thumb_total_height: 324
+- path: Regé-Jean Page.jpg
+  width: 832
+  height: 832
+  thumb: thumbnails_0.jpg?crc=7e90d6cf
   thumb_x: 1620
   thumb_width: 324
   thumb_height: 324
