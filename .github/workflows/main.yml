@@ -21,7 +21,7 @@ jobs:
           media: ./media
           r2_account_id: ${{ secrets.R2_ACCOUNT_ID }}
           r2_access_key_id: ${{ secrets.R2_ACCESS_KEY_ID }}
-          r2_access_key_secret: ${{ secrets.R2_SECRET_KEY }}
+          r2_access_key_secret: ${{ secrets.R2_ACCESS_KEY_SECRET }}
           r2_bucket: media
 
       - name: Commit changes
