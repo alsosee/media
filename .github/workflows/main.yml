@@ -30,6 +30,7 @@ jobs:
           r2_bucket: media
 
       - name: Commit changes
+        id: changes
         run: |
           cd media
           if [[ -z $(git status --porcelain) ]]; then
@@ -43,9 +44,11 @@ jobs:
           git add .
           git commit -m "Update thumbnails [skip ci]"
           git push
+          echo "pushed=true" >> $GITHUB_OUTPUT
 
       - name: Trigger deploy
         uses: peter-evans/repository-dispatch@v2
+        if: steps.changes.outputs.pushed == 'true'
         with:
           token: ${{ secrets.TOKEN }}
           repository: alsosee/finder
