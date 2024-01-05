@@ -1,53 +1,89 @@
 - path: Doric.jpg
   width: 645
   height: 645
-  thumb: thumbnails_0.jpg?crc=3122c22f
+  thumb: thumbnails_0.jpg?crc=26579784
   thumb_width: 324
   thumb_height: 324
-  thumb_total_width: 1944
+  thumb_total_width: 3086
   thumb_total_height: 324
-- path: Edgin.jpg
-  width: 730
-  height: 730
-  thumb: thumbnails_0.jpg?crc=3122c22f
+- path: Dralas.jpeg
+  width: 362
+  height: 362
+  thumb: thumbnails_0.jpg?crc=26579784
   thumb_x: 324
   thumb_width: 324
   thumb_height: 324
-  thumb_total_width: 1944
+  thumb_total_width: 3086
   thumb_total_height: 324
-- path: Forge.jpg
-  width: 800
-  height: 800
-  thumb: thumbnails_0.jpg?crc=3122c22f
+- path: Edgin Darvis.jpg
+  width: 730
+  height: 730
+  thumb: thumbnails_0.jpg?crc=26579784
   thumb_x: 648
   thumb_width: 324
   thumb_height: 324
-  thumb_total_width: 1944
+  thumb_total_width: 3086
   thumb_total_height: 324
-- path: Holga.jpg
-  width: 673
-  height: 673
-  thumb: thumbnails_0.jpg?crc=3122c22f
+- path: Forge Fitzwilliam.jpg
+  width: 800
+  height: 800
+  thumb: thumbnails_0.jpg?crc=26579784
   thumb_x: 972
   thumb_width: 324
   thumb_height: 324
-  thumb_total_width: 1944
+  thumb_total_width: 3086
   thumb_total_height: 324
-- path: Simon.jpg
-  width: 691
-  height: 691
-  thumb: thumbnails_0.jpg?crc=3122c22f
+- path: Holga Kilgore.jpg
+  width: 673
+  height: 673
+  thumb: thumbnails_0.jpg?crc=26579784
   thumb_x: 1296
   thumb_width: 324
   thumb_height: 324
-  thumb_total_width: 1944
+  thumb_total_width: 3086
   thumb_total_height: 324
-- path: Xenk.jpg
-  width: 725
-  height: 725
-  thumb: thumbnails_0.jpg?crc=3122c22f
+- path: Kira Darvis.jpeg
+  width: 427
+  height: 427
+  thumb: thumbnails_0.jpg?crc=26579784
   thumb_x: 1620
   thumb_width: 324
   thumb_height: 324
-  thumb_total_width: 1944
+  thumb_total_width: 3086
+  thumb_total_height: 324
+- path: Marlamin.jpg
+  width: 170
+  height: 170
+  thumb: thumbnails_0.jpg?crc=26579784
+  thumb_x: 2916
+  thumb_width: 170
+  thumb_height: 170
+  thumb_total_width: 3086
+  thumb_total_height: 324
+- path: Simon Aumar.jpg
+  width: 691
+  height: 691
+  thumb: thumbnails_0.jpg?crc=26579784
+  thumb_x: 1944
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3086
+  thumb_total_height: 324
+- path: Sofina.jpeg
+  width: 342
+  height: 342
+  thumb: thumbnails_0.jpg?crc=26579784
+  thumb_x: 2268
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3086
+  thumb_total_height: 324
+- path: Xenk Yendar.jpg
+  width: 725
+  height: 725
+  thumb: thumbnails_0.jpg?crc=26579784
+  thumb_x: 2592
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3086
   thumb_total_height: 324
