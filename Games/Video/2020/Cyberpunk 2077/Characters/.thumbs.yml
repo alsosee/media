@@ -1,7 +1,7 @@
 - path: Dexter DeShawn.jpeg
   width: 253
   height: 253
-  thumb: thumbnails_0.jpg?crc=fbc3c858
+  thumb: thumbnails_0.jpg?crc=1d10cd3
   thumb_x: 1944
   thumb_width: 253
   thumb_height: 253
@@ -10,7 +10,7 @@
 - path: Evelyn Parker.jpeg
   width: 242
   height: 242
-  thumb: thumbnails_0.jpg?crc=fbc3c858
+  thumb: thumbnails_0.jpg?crc=1d10cd3
   thumb_x: 2440
   thumb_width: 242
   thumb_height: 242
@@ -19,15 +19,15 @@
 - path: Jackie Welles.jpeg
   width: 782
   height: 782
-  thumb: thumbnails_0.jpg?crc=fbc3c858
+  thumb: thumbnails_0.jpg?crc=1d10cd3
   thumb_width: 324
   thumb_height: 324
   thumb_total_width: 2893
   thumb_total_height: 324
 - path: Judy Alvarez.jpeg
-  width: 503
-  height: 503
-  thumb: thumbnails_0.jpg?crc=fbc3c858
+  width: 333
+  height: 333
+  thumb: thumbnails_0.jpg?crc=1d10cd3
   thumb_x: 324
   thumb_width: 324
   thumb_height: 324
@@ -36,7 +36,7 @@
 - path: Panam Palmer.jpeg
   width: 411
   height: 411
-  thumb: thumbnails_0.jpg?crc=fbc3c858
+  thumb: thumbnails_0.jpg?crc=1d10cd3
   thumb_x: 648
   thumb_width: 324
   thumb_height: 324
@@ -45,26 +45,17 @@
 - path: Rogue Amendiares.jpeg
   width: 243
   height: 243
-  thumb: thumbnails_0.jpg?crc=fbc3c858
+  thumb: thumbnails_0.jpg?crc=1d10cd3
   thumb_x: 2197
   thumb_width: 243
   thumb_height: 243
   thumb_total_width: 2893
   thumb_total_height: 324
-- path: Takemura.jpg
-  width: 452
-  height: 452
-  thumb: thumbnails_0.jpg?crc=fbc3c858
-  thumb_x: 972
-  thumb_width: 324
-  thumb_height: 324
-  thumb_total_width: 2893
-  thumb_total_height: 324
 - path: Johnny Silverhand.jpeg
   width: 715
   height: 715
-  thumb: thumbnails_0.jpg?crc=fbc3c858
-  thumb_x: 1296
+  thumb: thumbnails_0.jpg?crc=1d10cd3
+  thumb_x: 972
   thumb_width: 324
   thumb_height: 324
   thumb_total_width: 2893
@@ -72,7 +63,7 @@
 - path: Kerry Eurodyne.jpeg
   width: 211
   height: 211
-  thumb: thumbnails_0.jpg?crc=fbc3c858
+  thumb: thumbnails_0.jpg?crc=1d10cd3
   thumb_x: 2682
   thumb_width: 211
   thumb_height: 211
@@ -81,7 +72,16 @@
 - path: V.jpg
   width: 401
   height: 401
-  thumb: thumbnails_0.jpg?crc=fbc3c858
+  thumb: thumbnails_0.jpg?crc=1d10cd3
+  thumb_x: 1296
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 2893
+  thumb_total_height: 324
+- path: Goro Takemura.jpg
+  width: 452
+  height: 452
+  thumb: thumbnails_0.jpg?crc=1d10cd3
   thumb_x: 1620
   thumb_width: 324
   thumb_height: 324
