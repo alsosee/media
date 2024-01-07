@@ -1,89 +1,108 @@
 - path: Dexter DeShawn.jpeg
   width: 253
   height: 253
-  thumb: thumbnails_0.jpg?crc=1d10cd3
-  thumb_x: 1944
+  thumb: thumbnails_0.jpg?crc=7a10259b
+  thumb_x: 2592
   thumb_width: 253
   thumb_height: 253
-  thumb_total_width: 2893
-  thumb_total_height: 324
+  thumb_total_width: 3088
+  thumb_total_height: 566
 - path: Evelyn Parker.jpeg
   width: 242
   height: 242
-  thumb: thumbnails_0.jpg?crc=1d10cd3
-  thumb_x: 2440
+  thumb: thumbnails_0.jpg?crc=7a10259b
+  thumb_y: 324
   thumb_width: 242
   thumb_height: 242
-  thumb_total_width: 2893
-  thumb_total_height: 324
+  thumb_total_width: 3088
+  thumb_total_height: 566
 - path: Jackie Welles.jpeg
   width: 782
   height: 782
-  thumb: thumbnails_0.jpg?crc=1d10cd3
+  thumb: thumbnails_0.jpg?crc=7a10259b
   thumb_width: 324
   thumb_height: 324
-  thumb_total_width: 2893
-  thumb_total_height: 324
+  thumb_total_width: 3088
+  thumb_total_height: 566
 - path: Judy Alvarez.jpeg
   width: 333
   height: 333
-  thumb: thumbnails_0.jpg?crc=1d10cd3
+  thumb: thumbnails_0.jpg?crc=7a10259b
   thumb_x: 324
   thumb_width: 324
   thumb_height: 324
-  thumb_total_width: 2893
-  thumb_total_height: 324
+  thumb_total_width: 3088
+  thumb_total_height: 566
 - path: Panam Palmer.jpeg
   width: 411
   height: 411
-  thumb: thumbnails_0.jpg?crc=1d10cd3
+  thumb: thumbnails_0.jpg?crc=7a10259b
   thumb_x: 648
   thumb_width: 324
   thumb_height: 324
-  thumb_total_width: 2893
-  thumb_total_height: 324
+  thumb_total_width: 3088
+  thumb_total_height: 566
 - path: Rogue Amendiares.jpeg
   width: 243
   height: 243
-  thumb: thumbnails_0.jpg?crc=1d10cd3
-  thumb_x: 2197
+  thumb: thumbnails_0.jpg?crc=7a10259b
+  thumb_x: 2845
   thumb_width: 243
   thumb_height: 243
-  thumb_total_width: 2893
-  thumb_total_height: 324
+  thumb_total_width: 3088
+  thumb_total_height: 566
 - path: Johnny Silverhand.jpeg
   width: 715
   height: 715
-  thumb: thumbnails_0.jpg?crc=1d10cd3
+  thumb: thumbnails_0.jpg?crc=7a10259b
   thumb_x: 972
   thumb_width: 324
   thumb_height: 324
-  thumb_total_width: 2893
-  thumb_total_height: 324
+  thumb_total_width: 3088
+  thumb_total_height: 566
 - path: Kerry Eurodyne.jpeg
   width: 211
   height: 211
-  thumb: thumbnails_0.jpg?crc=1d10cd3
-  thumb_x: 2682
+  thumb: thumbnails_0.jpg?crc=7a10259b
+  thumb_x: 242
+  thumb_y: 324
   thumb_width: 211
   thumb_height: 211
-  thumb_total_width: 2893
-  thumb_total_height: 324
-- path: V.jpg
-  width: 401
-  height: 401
-  thumb: thumbnails_0.jpg?crc=1d10cd3
-  thumb_x: 1296
-  thumb_width: 324
-  thumb_height: 324
-  thumb_total_width: 2893
-  thumb_total_height: 324
+  thumb_total_width: 3088
+  thumb_total_height: 566
 - path: Goro Takemura.jpg
   width: 452
   height: 452
-  thumb: thumbnails_0.jpg?crc=1d10cd3
+  thumb: thumbnails_0.jpg?crc=7a10259b
+  thumb_x: 1296
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3088
+  thumb_total_height: 566
+- path: Adam Smasher.jpg
+  width: 1173
+  height: 1173
+  thumb: thumbnails_0.jpg?crc=7a10259b
   thumb_x: 1620
   thumb_width: 324
   thumb_height: 324
-  thumb_total_width: 2893
-  thumb_total_height: 324
+  thumb_total_width: 3088
+  thumb_total_height: 566
+- path: V (female).jpeg
+  width: 567
+  height: 567
+  thumb: thumbnails_0.jpg?crc=7a10259b
+  thumb_x: 1944
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3088
+  thumb_total_height: 566
+- path: V (male).jpeg
+  width: 541
+  height: 541
+  thumb: thumbnails_0.jpg?crc=7a10259b
+  thumb_x: 2268
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3088
+  thumb_total_height: 566
