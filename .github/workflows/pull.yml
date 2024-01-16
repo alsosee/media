@@ -42,15 +42,15 @@ jobs:
           key: ${{ env.MEDIAPATH }}
           file: media/${{ env.MEDIAPATH }}
 
-      # - name: Run thumnbailer
-      #   uses: alsosee/thumbnailer@main
-      #   with:
-      #     media: ./media
-      #     skip_image_upload: "true" # we don't need to upload images to R2, as they are already there
-      #     r2_account_id: ${{ secrets.R2_ACCOUNT_ID }}
-      #     r2_access_key_id: ${{ secrets.R2_ACCESS_KEY_ID }}
-      #     r2_access_key_secret: ${{ secrets.R2_ACCESS_KEY_SECRET }}
-      #     r2_bucket: media
+      - name: Run thumnbailer
+        uses: alsosee/thumbnailer@main
+        with:
+          media: ./media
+          skip_image_upload: "true" # we don't need to upload images to R2, as they are already there
+          r2_account_id: ${{ secrets.R2_ACCOUNT_ID }}
+          r2_access_key_id: ${{ secrets.R2_ACCESS_KEY_ID }}
+          r2_access_key_secret: ${{ secrets.R2_ACCESS_KEY_SECRET }}
+          r2_bucket: media
 
       - name: Commit changes
         id: changes
@@ -61,13 +61,13 @@ jobs:
             exit 0
           fi
 
-          # git config --global user.name "thumbnailer"
-          # git config --global user.email "thumbnailer@alsosee.info"
-          # git status --porcelain
-          # git add .
-          # git commit -m "Update thumbnails [skip ci]"
-          # git push
-          # echo "pushed=true" >> $GITHUB_OUTPUT
+          git config --global user.name "thumbnailer"
+          git config --global user.email "thumbnailer@alsosee.info"
+          git status --porcelain
+          git add .
+          git commit -m "Update thumbnails [skip ci]"
+          git push
+          echo "pushed=true" >> $GITHUB_OUTPUT
 
       # - name: Trigger deploy
       #   uses: peter-evans/repository-dispatch@v2
