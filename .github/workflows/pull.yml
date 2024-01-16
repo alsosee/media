@@ -21,23 +21,29 @@ jobs:
         with:
           path: media
 
-      - name: Pull media (workflow_dispatch)
+      - name: Set environment variables (workflow_dispatch)
         if: github.event_name == 'workflow_dispatch'
         shell: bash
         run: |
-          cd media
-          mkdir -p "$(dirname "${{ github.event.inputs.path }}")"
-          cd "$(dirname "${{ github.event.inputs.path }}")"
-          curl -sSfL "https://media.alsosee.info/${{ github.event.inputs.path }}" -o "$(basename "${{ github.event.inputs.path }}")"
+          echo "MEDIAPATH=${{ github.event.inputs.path }}" >> $GITHUB_ENV
+          echo "DIRNAME=$(dirname "${{ github.event.inputs.path }}")" >> $GITHUB_ENV
 
-      - name: Pull media (repository_dispatch)
+      - name: Set environment variables (repository_dispatch)
         if: github.event_name == 'repository_dispatch'
         shell: bash
         run: |
-          cd media
-          mkdir -p "$(dirname "${{ github.event.client_payload.path }}")"
-          cd "$(dirname "${{ github.event.client_payload.path }}")"
-          curl -sSfL "https://media.alsosee.info/${{ github.event.client_payload.path }}" -o "$(basename "${{ github.event.client_payload.path }}")"
+          echo "MEDIAPATH=${{ github.event.client_payload.path }}" >> $GITHUB_ENV
+          echo "DIRNAME=$(dirname "${{ github.event.client_payload.path }}")" >> $GITHUB_ENV
+
+      - name: Download from R2
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CF_API_TOKEN }}
+          accountId: ${{ secrets.CF_ACCOUNT_ID }}
+          preCommands: |
+            cd media
+            mkdir -p "$DIRNAME"
+          command: r2 object get media/"${{ env.MEDIAPATH }}"
 
       # - name: Run thumnbailer
       #   uses: alsosee/thumbnailer@main
