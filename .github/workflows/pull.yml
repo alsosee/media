@@ -44,7 +44,7 @@ jobs:
           bucket: media
           operation: get
           key: ${{ env.MEDIAPATH }}
-          file: media/"${{ env.MEDIAPATH }}"
+          file: media/${{ env.MEDIAPATH }}
 
       # - name: Run thumnbailer
       #   uses: alsosee/thumbnailer@main
