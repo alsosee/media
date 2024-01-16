@@ -27,6 +27,7 @@ jobs:
         run: |
           echo "MEDIAPATH=${{ github.event.inputs.path }}" >> $GITHUB_ENV
           echo "DIRNAME=$(dirname "${{ github.event.inputs.path }}")" >> $GITHUB_ENV
+          mkdir -p media/$DIRNAME
 
       - name: Set environment variables (repository_dispatch)
         if: github.event_name == 'repository_dispatch'
@@ -34,6 +35,7 @@ jobs:
         run: |
           echo "MEDIAPATH=${{ github.event.client_payload.path }}" >> $GITHUB_ENV
           echo "DIRNAME=$(dirname "${{ github.event.client_payload.path }}")" >> $GITHUB_ENV
+          mkdir -p media/$DIRNAME
 
       - name: Download from R2
         uses: alsosee/r2action@main
