@@ -87,7 +87,7 @@ jobs:
           export STATE=$(gh pr view "$BRANCHNAME" --json state --jq '.state')
           if [ "$STATE" == "OPEN" ]; then
             echo "PR exists"
-            return 0
+            exit 0
           fi
           
           gh pr create --title "Pull $DIRNAME" --body "Pull $DIRNAME" --base main --head "$BRANCHNAME" --repo alsosee/media
