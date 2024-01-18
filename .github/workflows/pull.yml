@@ -68,14 +68,26 @@ jobs:
           key: ${{ env.MEDIAPATH }}
           file: media/${{ env.MEDIAPATH }}
 
+      - name: Commit and push
+        shell: bash
+        run: |
+          cd media
+          git config --global user.name 'GitHub Actions (pull workflow)'
+          git config --global user.email 'gha@alsosee.info'
+          git add "$MEDIAPATH"
+          git commit -m "$FILENAME"
+          git push origin $BRANCHNAME
+
       - name: Create pull request
-        uses: peter-evans/create-pull-request@v5
-        with:
-          path: media
-          commit-message: ${{ env.FILENAME }}
-          committer: GitHub Actions (pull workflow) <gha@alsosee.info>
-          branch: ${{ env.BRANCHNAME }}
-          base: main
-          title: Pull ${{ env.DIRNAME }}
-          body: Pull ${{ env.DIRNAME }}
-          delete-branch: false
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cd media
+          export STATE=$(gh pr view "$BRANCHNAME" --json state --jq '.state')
+          if [ "$STATE" == "OPEN" ]; then
+            echo "PR exists"
+            echo "::set-output name=pr_number::$(cat pr_number.txt)"
+          else
+            gh pr create --title "Pull $DIRNAME" --body "Pull $DIRNAME" --base main --head "$BRANCHNAME" --repo alsosee/media
+          fi
