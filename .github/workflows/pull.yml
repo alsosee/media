@@ -2,14 +2,19 @@
 # Workflow can be triggered manually or via repository_dispatch event (by CloudFlare Pages function).
 # To minimize number of commits in main branch, this workflow creates a new branch, and commits changes there.
 # Then it creates a pull request to merge changes from the new branch to main (if needed).
-# Branch name is the same as the image path in R2, e.g. "Movies/2001/Harry Potter and the Philosopher's Stone/Characters".
+#
+# Branch name is generated from the path to the media file,
+# e.g. "Movies/2001/Harry Potter and the Philosopher's Stone/Characters"
+# -> "movies-2001-harry-potter-and-the-philosophers-stone-characters".
+#
+# Commit message is the name of the file, e.g. "Professor McGonagall.jpg".
 name: pull
 
 on:
   workflow_dispatch:
     inputs:
       path:
-        description: Path to media to pull from R2, e.g. "Movies/2001/Harry Potter and the Philosopher's Stone/Characters/Harry Potter"
+        description: Path to media to pull from R2, e.g. "Movies/2001/Harry Potter and the Philosopher's Stone/Characters/Harry Potter.jpg"
         required: true
   repository_dispatch:
     types: [pull]
@@ -41,7 +46,16 @@ jobs:
         shell: bash
         run: |
           echo "DIRNAME=$(dirname "$MEDIAPATH")" >> $GITHUB_ENV
+          echo "FILENAME=$(basename "$MEDIAPATH")" >> $GITHUB_ENV
           echo "BRANCHNAME=$(dirname "$MEDIAPATH" | tr '[:upper:]' '[:lower:]' | tr ' ' '-' | tr '~^:' '-' | sed "s/'/-/g")" >> $GITHUB_ENV
+
+      - name: Pull or create branch
+        run: |
+          cd media
+          git fetch origin $BRANCHNAME || git checkout -b $BRANCHNAME
+          if [ "$(git rev-parse HEAD)" != "$(git rev-parse origin/$BRANCHNAME)" ]; then
+            git checkout $BRANCHNAME
+          fi
 
       - name: Download from R2
         uses: alsosee/r2action@main
@@ -54,23 +68,14 @@ jobs:
           key: ${{ env.MEDIAPATH }}
           file: media/${{ env.MEDIAPATH }}
 
-      - name: Create branch
-        run: |
-          cd media
-          git config --global user.name 'GitHub Actions (pull workflow)'
-          git config --global user.email 'gha@alsosee.info'
-          git checkout -b $BRANCHNAME
-          git add "$MEDIAPATH"
-          git commit -m "Pull $MEDIAPATH"
-          git push origin $BRANCHNAME
-
       - name: Create pull request
         uses: peter-evans/create-pull-request@v5
         with:
           path: media
-          commit-message: "Pull $MEDIAPATH"
+          commit-message: ${{ env.FILENAME }}
           committer: GitHub Actions (pull workflow) <gha@alsosee.info>
-          branch: $BRANCHNAME
-          title: "Pull $DIRNAME"
-          body: "Pull $DIRNAME"
-          delete-branch: true
+          branch: ${{ env.BRANCHNAME }}
+          base: main
+          title: Pull ${{ env.DIRNAME }}
+          body: Pull ${{ env.DIRNAME }}
+          delete-branch: false
