@@ -16,6 +16,7 @@ on:
 
 permissions:
   contents: write
+  pull-requests: write
 
 jobs:
   pull:
@@ -64,11 +65,11 @@ jobs:
           git push origin $BRANCHNAME
 
       - name: Create pull request
-        uses: peter-evans/create-pull-request@v3
+        uses: peter-evans/create-pull-request@v5
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Pull $MEDIAPATH"
           path: media
+          commit-message: "Pull $MEDIAPATH"
+          committer: GitHub Actions (pull workflow) <gha@alsosee.info>
           branch: $BRANCHNAME
           title: "Pull $DIRNAME"
           body: "Pull $DIRNAME"
