@@ -1,17 +1,26 @@
 - path: Harry Potter.jpg
   width: 473
   height: 473
-  thumb: thumbnails_0.jpg?crc=6d6ea53b
+  thumb: thumbnails_0.jpg?crc=4bcb77ca
   thumb_width: 324
   thumb_height: 324
-  thumb_total_width: 648
+  thumb_total_width: 972
   thumb_total_height: 324
 - path: Ron Weasley.jpg
   width: 326
   height: 325
-  thumb: thumbnails_0.jpg?crc=6d6ea53b
+  thumb: thumbnails_0.jpg?crc=4bcb77ca
   thumb_x: 324
   thumb_width: 324
   thumb_height: 323
-  thumb_total_width: 648
+  thumb_total_width: 972
+  thumb_total_height: 324
+- path: Hermione Granger.jpg
+  width: 1384
+  height: 1383
+  thumb: thumbnails_0.jpg?crc=4bcb77ca
+  thumb_x: 648
+  thumb_width: 324
+  thumb_height: 323
+  thumb_total_width: 972
   thumb_total_height: 324
