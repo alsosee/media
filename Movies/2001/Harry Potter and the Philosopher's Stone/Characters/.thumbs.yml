@@ -1,26 +1,158 @@
 - path: Harry Potter.jpg
   width: 473
   height: 473
-  thumb: thumbnails_0.jpg?crc=4bcb77ca
+  thumb: thumbnails_0.jpg?crc=a9311c2e
+  thumb_x: 648
+  thumb_y: 324
   thumb_width: 324
   thumb_height: 324
-  thumb_total_width: 972
-  thumb_total_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
 - path: Ron Weasley.jpg
-  width: 326
-  height: 325
-  thumb: thumbnails_0.jpg?crc=4bcb77ca
-  thumb_x: 324
+  width: 583
+  height: 583
+  thumb: thumbnails_0.jpg?crc=a9311c2e
+  thumb_x: 2916
   thumb_width: 324
-  thumb_height: 323
-  thumb_total_width: 972
-  thumb_total_height: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
 - path: Hermione Granger.jpg
   width: 1384
   height: 1383
-  thumb: thumbnails_0.jpg?crc=4bcb77ca
-  thumb_x: 648
+  thumb: thumbnails_0.jpg?crc=a9311c2e
+  thumb_x: 1619
+  thumb_y: 324
   thumb_width: 324
   thumb_height: 323
-  thumb_total_width: 972
-  thumb_total_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Albus Dumbledore.jpg
+  width: 881
+  height: 881
+  thumb: thumbnails_0.jpg?crc=a9311c2e
+  thumb_x: 972
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Aunt Petunia Dursley.jpg
+  width: 340
+  height: 339
+  thumb: thumbnails_0.jpg?crc=a9311c2e
+  thumb_x: 972
+  thumb_y: 324
+  thumb_width: 324
+  thumb_height: 323
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Draco Malfoy.jpg
+  width: 439
+  height: 439
+  thumb: thumbnails_0.jpg?crc=a9311c2e
+  thumb_x: 1620
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Dudley Dursley.jpg
+  width: 486
+  height: 486
+  thumb: thumbnails_0.jpg?crc=a9311c2e
+  thumb_x: 1944
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Fred Weasley.jpg
+  width: 363
+  height: 363
+  thumb: thumbnails_0.jpg?crc=a9311c2e
+  thumb_y: 324
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: George Weasley.jpg
+  width: 367
+  height: 367
+  thumb: thumbnails_0.jpg?crc=a9311c2e
+  thumb_x: 648
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Mr. Ollivander.jpg
+  width: 267
+  height: 266
+  thumb: thumbnails_0.jpg?crc=a9311c2e
+  thumb_x: 1943
+  thumb_y: 324
+  thumb_width: 267
+  thumb_height: 266
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Nearly Headless Nick.jpg
+  width: 411
+  height: 411
+  thumb: thumbnails_0.jpg?crc=a9311c2e
+  thumb_x: 2268
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Percy Weasley.jpg
+  width: 564
+  height: 564
+  thumb: thumbnails_0.jpg?crc=a9311c2e
+  thumb_x: 324
+  thumb_y: 324
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Professor Quirrell.jpg
+  width: 490
+  height: 490
+  thumb: thumbnails_0.jpg?crc=a9311c2e
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Rubeus Hagrid.jpg
+  width: 323
+  height: 323
+  thumb: thumbnails_0.jpg?crc=a9311c2e
+  thumb_x: 1296
+  thumb_y: 324
+  thumb_width: 323
+  thumb_height: 323
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Severus Snape.jpg
+  width: 386
+  height: 386
+  thumb: thumbnails_0.jpg?crc=a9311c2e
+  thumb_x: 324
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: The sorting hat.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=a9311c2e
+  thumb_x: 2592
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Uncle Vernon Dursley.jpg
+  width: 426
+  height: 426
+  thumb: thumbnails_0.jpg?crc=a9311c2e
+  thumb_x: 1296
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
