@@ -1,17 +1,26 @@
 - path: Dungeons & Dragons Honor among thieves.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=a848d6c6
+  thumb: thumbnails_0.jpg?crc=ee911974
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 432
+  thumb_total_width: 648
   thumb_total_height: 324
 - path: John Wick Chapter 4.jpg
   width: 384
   height: 576
-  thumb: thumbnails_0.jpg?crc=a848d6c6
+  thumb: thumbnails_0.jpg?crc=ee911974
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 432
+  thumb_total_width: 648
+  thumb_total_height: 324
+- path: Oppenheimer.jpg
+  width: 1280
+  height: 1920
+  thumb: thumbnails_0.jpg?crc=ee911974
+  thumb_x: 432
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 648
   thumb_total_height: 324
