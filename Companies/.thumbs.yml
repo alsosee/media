@@ -6,3 +6,11 @@
   thumb_height: 182
   thumb_total_width: 324
   thumb_total_height: 182
+- path: Peacock.jpg
+  width: 1000
+  height: 404
+  thumb: thumbnails_0.jpg?crc=619ff6cd
+  thumb_width: 324
+  thumb_height: 130
+  thumb_total_width: 324
+  thumb_total_height: 130
