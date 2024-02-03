@@ -1,8 +1,17 @@
 - path: The Continental.jpeg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=2598a653
+  thumb: thumbnails_0.jpg?crc=38eae7d1
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 216
+  thumb_total_width: 432
+  thumb_total_height: 324
+- path: Mrs. Davis.jpg
+  width: 474
+  height: 711
+  thumb: thumbnails_0.jpg?crc=38eae7d1
+  thumb_x: 216
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 432
   thumb_total_height: 324
