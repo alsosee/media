@@ -1,0 +1,17 @@
+- path: Child Emperor.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=7f8308b3
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 648
+  thumb_total_height: 324
+- path: Metal Bat.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=7f8308b3
+  thumb_x: 324
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 648
+  thumb_total_height: 324
