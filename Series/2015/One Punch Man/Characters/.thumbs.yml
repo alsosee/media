@@ -1,89 +1,138 @@
 - path: Child Emperor.jpg
   width: 400
   height: 400
-  thumb: thumbnails_0.jpg?crc=a2f18e0b
+  thumb: thumbnails_0.jpg?crc=a99686f2
   thumb_width: 324
   thumb_height: 324
   thumb_total_width: 3240
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Deep Sea King.jpg
   width: 400
   height: 400
-  thumb: thumbnails_0.jpg?crc=a2f18e0b
+  thumb: thumbnails_0.jpg?crc=a99686f2
   thumb_x: 324
   thumb_width: 324
   thumb_height: 324
   thumb_total_width: 3240
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Genos.jpg
   width: 400
   height: 400
-  thumb: thumbnails_0.jpg?crc=a2f18e0b
+  thumb: thumbnails_0.jpg?crc=a99686f2
   thumb_x: 648
   thumb_width: 324
   thumb_height: 324
   thumb_total_width: 3240
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Melzargard.jpg
   width: 400
   height: 400
-  thumb: thumbnails_0.jpg?crc=a2f18e0b
+  thumb: thumbnails_0.jpg?crc=a99686f2
   thumb_x: 972
   thumb_width: 324
   thumb_height: 324
   thumb_total_width: 3240
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Mumen Rider.jpg
   width: 400
   height: 400
-  thumb: thumbnails_0.jpg?crc=a2f18e0b
+  thumb: thumbnails_0.jpg?crc=a99686f2
   thumb_x: 1296
   thumb_width: 324
   thumb_height: 324
   thumb_total_width: 3240
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Puri-Puri Prisoner.jpg
   width: 400
   height: 400
-  thumb: thumbnails_0.jpg?crc=a2f18e0b
+  thumb: thumbnails_0.jpg?crc=a99686f2
   thumb_x: 1620
   thumb_width: 324
   thumb_height: 324
   thumb_total_width: 3240
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Saitama.jpg
   width: 400
   height: 400
-  thumb: thumbnails_0.jpg?crc=a2f18e0b
+  thumb: thumbnails_0.jpg?crc=a99686f2
   thumb_x: 1944
   thumb_width: 324
   thumb_height: 324
   thumb_total_width: 3240
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Silver Fang.jpg
   width: 400
   height: 400
-  thumb: thumbnails_0.jpg?crc=a2f18e0b
+  thumb: thumbnails_0.jpg?crc=a99686f2
   thumb_x: 2268
   thumb_width: 324
   thumb_height: 324
   thumb_total_width: 3240
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Speed-o'-Sound Sonic.jpg
   width: 400
   height: 400
-  thumb: thumbnails_0.jpg?crc=a2f18e0b
+  thumb: thumbnails_0.jpg?crc=a99686f2
   thumb_x: 2592
   thumb_width: 324
   thumb_height: 324
   thumb_total_width: 3240
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Tatsumaki.jpg
   width: 400
   height: 400
-  thumb: thumbnails_0.jpg?crc=a2f18e0b
+  thumb: thumbnails_0.jpg?crc=a99686f2
   thumb_x: 2916
   thumb_width: 324
   thumb_height: 324
   thumb_total_width: 3240
-  thumb_total_height: 324
+  thumb_total_height: 648
+- path: Carnage Kabuto.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=a99686f2
+  thumb_y: 324
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Doctor Genus.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=a99686f2
+  thumb_x: 324
+  thumb_y: 324
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Geruganshoop.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=a99686f2
+  thumb_x: 648
+  thumb_y: 324
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Lord Boros.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=a99686f2
+  thumb_x: 972
+  thumb_y: 324
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Metal Bat.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=a99686f2
+  thumb_x: 1296
+  thumb_y: 324
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
