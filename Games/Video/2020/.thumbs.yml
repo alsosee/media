@@ -1,8 +1,17 @@
 - path: Cyberpunk 2077.jpg
   width: 1200
   height: 1600
-  thumb: thumbnails_0.jpg?crc=b0eed1ba
+  thumb: thumbnails_0.jpg?crc=3ef88f5e
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 243
+  thumb_total_width: 459
+  thumb_total_height: 324
+- path: One-Punch Man A Hero Nobody Knows.jpg
+  width: 720
+  height: 1080
+  thumb: thumbnails_0.jpg?crc=3ef88f5e
+  thumb_x: 243
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 459
   thumb_total_height: 324
