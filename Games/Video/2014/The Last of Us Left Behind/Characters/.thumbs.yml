@@ -1,0 +1,17 @@
+- path: Ellie.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=62ebc6e
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 648
+  thumb_total_height: 324
+- path: Riley.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=62ebc6e
+  thumb_x: 324
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 648
+  thumb_total_height: 324
