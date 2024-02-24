@@ -1,8 +1,8 @@
 - path: Chris Pine.jpg
   width: 903
   height: 903
-  thumb: thumbnails_0.jpg?crc=8e47da67
-  thumb_x: 324
+  thumb: thumbnails_0.jpg?crc=9b6618c0
+  thumb_x: 2592
   thumb_width: 324
   thumb_height: 324
   thumb_total_width: 3240
@@ -10,7 +10,7 @@
 - path: Hugh Grant.jpg
   width: 1067
   height: 1067
-  thumb: thumbnails_0.jpg?crc=8e47da67
+  thumb: thumbnails_0.jpg?crc=9b6618c0
   thumb_x: 1944
   thumb_width: 324
   thumb_height: 324
@@ -19,7 +19,7 @@
 - path: Justice Smith.jpg
   width: 782
   height: 782
-  thumb: thumbnails_0.jpg?crc=8e47da67
+  thumb: thumbnails_0.jpg?crc=9b6618c0
   thumb_x: 648
   thumb_width: 324
   thumb_height: 324
@@ -28,7 +28,7 @@
 - path: Michelle Rodriguez.jpg
   width: 1196
   height: 1196
-  thumb: thumbnails_0.jpg?crc=8e47da67
+  thumb: thumbnails_0.jpg?crc=9b6618c0
   thumb_x: 972
   thumb_width: 324
   thumb_height: 324
@@ -37,7 +37,7 @@
 - path: Sophia Lillis.jpg
   width: 982
   height: 982
-  thumb: thumbnails_0.jpg?crc=8e47da67
+  thumb: thumbnails_0.jpg?crc=9b6618c0
   thumb_x: 1296
   thumb_width: 324
   thumb_height: 324
@@ -46,7 +46,7 @@
 - path: Steve Jobs.jpeg
   width: 733
   height: 733
-  thumb: thumbnails_0.jpg?crc=8e47da67
+  thumb: thumbnails_0.jpg?crc=9b6618c0
   thumb_x: 1620
   thumb_width: 324
   thumb_height: 324
@@ -55,7 +55,7 @@
 - path: Regé-Jean Page.jpg
   width: 832
   height: 832
-  thumb: thumbnails_0.jpg?crc=8e47da67
+  thumb: thumbnails_0.jpg?crc=9b6618c0
   thumb_width: 324
   thumb_height: 324
   thumb_total_width: 3240
@@ -63,8 +63,8 @@
 - path: Keanu Reeves.jpg
   width: 226
   height: 226
-  thumb: thumbnails_0.jpg?crc=8e47da67
-  thumb_x: 972
+  thumb: thumbnails_0.jpg?crc=9b6618c0
+  thumb_x: 1296
   thumb_y: 324
   thumb_width: 226
   thumb_height: 226
@@ -73,8 +73,8 @@
 - path: Chad Stahelski.jpg
   width: 1071
   height: 1071
-  thumb: thumbnails_0.jpg?crc=8e47da67
-  thumb_y: 324
+  thumb: thumbnails_0.jpg?crc=9b6618c0
+  thumb_x: 324
   thumb_width: 324
   thumb_height: 324
   thumb_total_width: 3240
@@ -82,7 +82,7 @@
 - path: Derek Kolstad.jpeg
   width: 352
   height: 352
-  thumb: thumbnails_0.jpg?crc=8e47da67
+  thumb: thumbnails_0.jpg?crc=9b6618c0
   thumb_x: 2916
   thumb_width: 324
   thumb_height: 324
@@ -91,8 +91,8 @@
 - path: Ian McShane.jpg
   width: 1403
   height: 1403
-  thumb: thumbnails_0.jpg?crc=8e47da67
-  thumb_x: 2592
+  thumb: thumbnails_0.jpg?crc=9b6618c0
+  thumb_y: 324
   thumb_width: 324
   thumb_height: 324
   thumb_total_width: 3240
@@ -100,7 +100,7 @@
 - path: Lance Reddick.jpg
   width: 1173
   height: 1173
-  thumb: thumbnails_0.jpg?crc=8e47da67
+  thumb: thumbnails_0.jpg?crc=9b6618c0
   thumb_x: 324
   thumb_y: 324
   thumb_width: 324
@@ -110,7 +110,7 @@
 - path: Troy Baker.jpeg
   width: 500
   height: 500
-  thumb: thumbnails_0.jpg?crc=8e47da67
+  thumb: thumbnails_0.jpg?crc=9b6618c0
   thumb_x: 648
   thumb_y: 324
   thumb_width: 324
@@ -120,7 +120,17 @@
 - path: Ashley Johnson.jpeg
   width: 500
   height: 500
-  thumb: thumbnails_0.jpg?crc=8e47da67
+  thumb: thumbnails_0.jpg?crc=9b6618c0
+  thumb_x: 972
+  thumb_y: 324
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Robert Downey Jr..jpeg
+  width: 500
+  height: 500
+  thumb: thumbnails_0.jpg?crc=9b6618c0
   thumb_x: 2268
   thumb_width: 324
   thumb_height: 324
