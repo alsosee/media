@@ -1,26 +1,44 @@
 - path: Dungeons & Dragons Honor among thieves.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=ee911974
+  thumb: thumbnails_0.jpg?crc=bf166e39
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 648
+  thumb_total_width: 1082
   thumb_total_height: 324
 - path: John Wick Chapter 4.jpg
   width: 384
   height: 576
-  thumb: thumbnails_0.jpg?crc=ee911974
+  thumb: thumbnails_0.jpg?crc=bf166e39
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 648
+  thumb_total_width: 1082
   thumb_total_height: 324
 - path: Oppenheimer.jpg
   width: 1280
   height: 1920
-  thumb: thumbnails_0.jpg?crc=ee911974
+  thumb: thumbnails_0.jpg?crc=bf166e39
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 648
+  thumb_total_width: 1082
+  thumb_total_height: 324
+- path: Poor Things.jpg
+  width: 675
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=bf166e39
+  thumb_x: 648
+  thumb_width: 218
+  thumb_height: 324
+  thumb_total_width: 1082
+  thumb_total_height: 324
+- path: The Zone of Interest.jpeg
+  width: 667
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=bf166e39
+  thumb_x: 866
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1082
   thumb_total_height: 324

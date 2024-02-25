@@ -1,0 +1,35 @@
+- path: Bella Baxter.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=a34403e8
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 1296
+  thumb_total_height: 324
+- path: Dr. Godwin Baxter.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=a34403e8
+  thumb_x: 324
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 1296
+  thumb_total_height: 324
+- path: Duncan Wedderburn.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=a34403e8
+  thumb_x: 648
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 1296
+  thumb_total_height: 324
+- path: Max McCandles.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=a34403e8
+  thumb_x: 972
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 1296
+  thumb_total_height: 324

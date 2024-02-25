@@ -1,0 +1,26 @@
+- path: Hans Höss.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=2dcc92f9
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 972
+  thumb_total_height: 324
+- path: Hedwig Höss.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=2dcc92f9
+  thumb_x: 324
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 972
+  thumb_total_height: 324
+- path: Rudolf Höss.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=2dcc92f9
+  thumb_x: 648
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 972
+  thumb_total_height: 324
