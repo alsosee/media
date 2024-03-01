@@ -1,0 +1,53 @@
+- path: Albert Kropp.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=fca6be39
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 1944
+  thumb_total_height: 324
+- path: General Friedrichs.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=fca6be39
+  thumb_x: 324
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 1944
+  thumb_total_height: 324
+- path: Matthias Erzberger.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=fca6be39
+  thumb_x: 648
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 1944
+  thumb_total_height: 324
+- path: Paul Bäumer.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=fca6be39
+  thumb_x: 972
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 1944
+  thumb_total_height: 324
+- path: Stanislaus Katczinsky.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=fca6be39
+  thumb_x: 1296
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 1944
+  thumb_total_height: 324
+- path: Tjaden Stackfleet.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=fca6be39
+  thumb_x: 1620
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 1944
+  thumb_total_height: 324
