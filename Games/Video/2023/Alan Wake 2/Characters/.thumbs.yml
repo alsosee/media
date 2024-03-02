@@ -1,0 +1,98 @@
+- path: Ahti.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=45a647b4
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Alan Wake.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=45a647b4
+  thumb_x: 324
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Alex Casey.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=45a647b4
+  thumb_x: 648
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Alice Wake.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=45a647b4
+  thumb_x: 972
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Odin Anderson.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=45a647b4
+  thumb_x: 1296
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Rose Marigold.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=45a647b4
+  thumb_x: 1620
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Saga Anderson.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=45a647b4
+  thumb_x: 1944
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Thomas Zane.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=45a647b4
+  thumb_x: 2268
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Tim Breaker.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=45a647b4
+  thumb_x: 2592
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Tor Anderson.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=45a647b4
+  thumb_x: 2916
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Warlin Door.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=45a647b4
+  thumb_y: 324
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
