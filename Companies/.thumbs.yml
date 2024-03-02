@@ -1,11 +1,12 @@
 - path: Universal Pictures.png
   width: 1067
   height: 600
-  thumb: thumbnails_0.png?crc=20798d57
+  thumb: thumbnails_0.png?crc=68ad43c8
+  thumb_x: 253
   thumb_width: 324
   thumb_height: 182
-  thumb_total_width: 324
-  thumb_total_height: 182
+  thumb_total_width: 577
+  thumb_total_height: 324
 - path: Peacock.jpg
   width: 1000
   height: 404
@@ -14,3 +15,11 @@
   thumb_height: 130
   thumb_total_width: 324
   thumb_total_height: 130
+- path: Remedy Entertainment.png
+  width: 1920
+  height: 2458
+  thumb: thumbnails_0.png?crc=68ad43c8
+  thumb_width: 253
+  thumb_height: 324
+  thumb_total_width: 577
+  thumb_total_height: 324
