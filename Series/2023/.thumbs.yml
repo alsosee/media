@@ -1,26 +1,35 @@
 - path: The Continental.jpeg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=ada2a5e7
+  thumb: thumbnails_0.jpg?crc=6c655d1a
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 662
+  thumb_total_width: 921
   thumb_total_height: 324
 - path: Mrs. Davis.jpg
   width: 474
   height: 711
-  thumb: thumbnails_0.jpg?crc=ada2a5e7
+  thumb: thumbnails_0.jpg?crc=6c655d1a
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 662
+  thumb_total_width: 921
   thumb_total_height: 324
 - path: The Last of Us.jpg
   width: 426
   height: 600
-  thumb: thumbnails_0.jpg?crc=ada2a5e7
+  thumb: thumbnails_0.jpg?crc=6c655d1a
   thumb_x: 432
   thumb_width: 230
   thumb_height: 324
-  thumb_total_width: 662
+  thumb_total_width: 921
+  thumb_total_height: 324
+- path: Scott Pilgrim Takes Off.jpeg
+  width: 1400
+  height: 1750
+  thumb: thumbnails_0.jpg?crc=6c655d1a
+  thumb_x: 662
+  thumb_width: 259
+  thumb_height: 324
+  thumb_total_width: 921
   thumb_total_height: 324
