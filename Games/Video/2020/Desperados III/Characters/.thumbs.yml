@@ -1,0 +1,44 @@
+- path: Arthur "Doc" McCoy.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=e286caa1
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 1620
+  thumb_total_height: 324
+- path: Hector Mendoza.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=e286caa1
+  thumb_x: 324
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 1620
+  thumb_total_height: 324
+- path: Isabelle Moreau.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=e286caa1
+  thumb_x: 648
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 1620
+  thumb_total_height: 324
+- path: John Cooper.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=e286caa1
+  thumb_x: 972
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 1620
+  thumb_total_height: 324
+- path: Kate O'Hara.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=e286caa1
+  thumb_x: 1296
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 1620
+  thumb_total_height: 324
