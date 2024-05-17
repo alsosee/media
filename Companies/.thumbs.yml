@@ -1,25 +1,88 @@
 - path: Universal Pictures.png
   width: 1067
   height: 600
-  thumb: thumbnails_0.png?crc=68ad43c8
-  thumb_x: 253
+  thumb: thumbnails_0.png?crc=f090a5a4
+  thumb_x: 1126
   thumb_width: 324
   thumb_height: 182
-  thumb_total_width: 577
+  thumb_total_width: 2098
   thumb_total_height: 324
 - path: Peacock.jpg
   width: 1000
   height: 404
-  thumb: thumbnails_0.jpg?crc=619ff6cd
+  thumb: thumbnails_0.jpg?crc=4383f01a
+  thumb_x: 324
   thumb_width: 324
   thumb_height: 130
-  thumb_total_width: 324
-  thumb_total_height: 130
+  thumb_total_width: 972
+  thumb_total_height: 135
 - path: Remedy Entertainment.png
   width: 1920
   height: 2458
-  thumb: thumbnails_0.png?crc=68ad43c8
+  thumb: thumbnails_0.png?crc=f090a5a4
   thumb_width: 253
   thumb_height: 324
-  thumb_total_width: 577
+  thumb_total_width: 2098
+  thumb_total_height: 324
+- path: Lionsgate.jpg
+  width: 1000
+  height: 193
+  thumb: thumbnails_0.jpg?crc=4383f01a
+  thumb_x: 648
+  thumb_width: 324
+  thumb_height: 62
+  thumb_total_width: 972
+  thumb_total_height: 135
+- path: Marc Platt Productions.jpg
+  width: 1000
+  height: 417
+  thumb: thumbnails_0.jpg?crc=4383f01a
+  thumb_width: 324
+  thumb_height: 135
+  thumb_total_width: 972
+  thumb_total_height: 135
+- path: Naughty Dog.png
+  width: 1280
+  height: 247
+  thumb: thumbnails_0.png?crc=f090a5a4
+  thumb_x: 1774
+  thumb_width: 324
+  thumb_height: 62
+  thumb_total_width: 2098
+  thumb_total_height: 324
+- path: Netflix.png
+  width: 512
+  height: 512
+  thumb: thumbnails_0.png?crc=f090a5a4
+  thumb_x: 253
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 2098
+  thumb_total_height: 324
+- path: Sony Computer Entertainment.png
+  width: 711
+  height: 1024
+  thumb: thumbnails_0.png?crc=f090a5a4
+  thumb_x: 577
+  thumb_width: 225
+  thumb_height: 324
+  thumb_total_width: 2098
+  thumb_total_height: 324
+- path: TV Tokyo.png
+  width: 1000
+  height: 523
+  thumb: thumbnails_0.png?crc=f090a5a4
+  thumb_x: 1450
+  thumb_width: 324
+  thumb_height: 169
+  thumb_total_width: 2098
+  thumb_total_height: 324
+- path: Warner Bros. Pictures.png
+  width: 1000
+  height: 918
+  thumb: thumbnails_0.png?crc=f090a5a4
+  thumb_x: 802
+  thumb_width: 324
+  thumb_height: 297
+  thumb_total_width: 2098
   thumb_total_height: 324
