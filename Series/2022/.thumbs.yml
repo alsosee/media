@@ -1,8 +1,35 @@
 - path: Cyberpunk Edgerunners.jpeg
   width: 1500
   height: 2222
-  thumb: thumbnails_0.jpg?crc=ce9a2001
+  thumb: thumbnails_0.jpg?crc=d183b705
   thumb_width: 219
   thumb_height: 324
-  thumb_total_width: 219
+  thumb_total_width: 867
+  thumb_total_height: 324
+- path: Andor.jpg
+  width: 667
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=d183b705
+  thumb_x: 219
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 867
+  thumb_total_height: 324
+- path: Severance.jpg
+  width: 666
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=d183b705
+  thumb_x: 435
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 867
+  thumb_total_height: 324
+- path: 'Star Trek: Strange New Worlds.jpg'
+  width: 1000
+  height: 1500
+  thumb: thumbnails_0.jpg?crc=d183b705
+  thumb_x: 651
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 867
   thumb_total_height: 324
