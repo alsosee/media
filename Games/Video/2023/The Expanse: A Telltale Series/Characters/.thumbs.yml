@@ -1,0 +1,44 @@
+- path: Arlen Morozav.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=cd62dbf
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 1620
+  thumb_total_height: 324
+- path: Camina Drummer.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=cd62dbf
+  thumb_x: 324
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 1620
+  thumb_total_height: 324
+- path: Chrisjen Avasarala.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=cd62dbf
+  thumb_x: 648
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 1620
+  thumb_total_height: 324
+- path: Maya Castillo.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=cd62dbf
+  thumb_x: 972
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 1620
+  thumb_total_height: 324
+- path: Virgil Marks.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=cd62dbf
+  thumb_x: 1296
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 1620
+  thumb_total_height: 324
