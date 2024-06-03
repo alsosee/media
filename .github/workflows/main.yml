@@ -59,7 +59,7 @@ jobs:
         if: steps.changes.outputs.pushed == 'true'
         uses: peter-evans/repository-dispatch@v3
         with:
-          token: ${{ secrets.PKG_TOKEN }}
+          token: ${{ secrets.TOKEN }}
           repository: alsosee/search
           event-type: index
           client-payload: |
