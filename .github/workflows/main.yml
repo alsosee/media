@@ -21,6 +21,7 @@ jobs:
           path: media
 
       - name: Run thumnbailer
+        id: thumbnailer
         uses: alsosee/thumbnailer@main
         with:
           media: ./media
@@ -53,3 +54,15 @@ jobs:
           token: ${{ secrets.TOKEN }}
           repository: alsosee/finder
           event-type: deploy
+
+      - name: Trigger index
+        if: steps.changes.outputs.pushed == 'true'
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.PKG_TOKEN }}
+          repository: alsosee/search
+          event-type: index
+          client-payload: |
+            {
+              "force": "${{ steps.thumbnailer.outputs.updated }}",
+            }
