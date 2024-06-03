@@ -1,44 +1,118 @@
 - path: Everything Everywhere All at Once.jpeg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=b8f37d8b
+  thumb: thumbnails_0.jpg?crc=cead5e38
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1110
-  thumb_total_height: 324
+  thumb_total_width: 2218
+  thumb_total_height: 648
 - path: RRR.jpeg
   width: 1000
   height: 1500
-  thumb: thumbnails_0.jpg?crc=b8f37d8b
+  thumb: thumbnails_0.jpg?crc=cead5e38
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1110
-  thumb_total_height: 324
+  thumb_total_width: 2218
+  thumb_total_height: 648
 - path: All Quiet on the Western Front.jpeg
   width: 1000
   height: 1400
-  thumb: thumbnails_0.jpg?crc=b8f37d8b
+  thumb: thumbnails_0.jpg?crc=cead5e38
   thumb_x: 432
   thumb_width: 231
   thumb_height: 324
-  thumb_total_width: 1110
-  thumb_total_height: 324
+  thumb_total_width: 2218
+  thumb_total_height: 648
 - path: Bullet Train.jpg
   width: 666
   height: 1000
-  thumb: thumbnails_0.jpg?crc=b8f37d8b
+  thumb: thumbnails_0.jpg?crc=cead5e38
   thumb_x: 663
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1110
-  thumb_total_height: 324
+  thumb_total_width: 2218
+  thumb_total_height: 648
 - path: 'Glass Onion: A Knives Out Mystery.jpg'
   width: 714
   height: 1000
-  thumb: thumbnails_0.jpg?crc=b8f37d8b
+  thumb: thumbnails_0.jpg?crc=cead5e38
   thumb_x: 879
   thumb_width: 231
   thumb_height: 324
-  thumb_total_width: 1110
-  thumb_total_height: 324
+  thumb_total_width: 2218
+  thumb_total_height: 648
+- path: An Irish Goodbye.jpg
+  width: 706
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=cead5e38
+  thumb_x: 1110
+  thumb_width: 229
+  thumb_height: 324
+  thumb_total_width: 2218
+  thumb_total_height: 648
+- path: 'Avatar: The Way of Water.jpg'
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=cead5e38
+  thumb_x: 1339
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2218
+  thumb_total_height: 648
+- path: Elvis.jpg
+  width: 500
+  height: 750
+  thumb: thumbnails_0.jpg?crc=cead5e38
+  thumb_x: 1555
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2218
+  thumb_total_height: 648
+- path: Guillermo del Toro's Pinocchio.jpg
+  width: 714
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=cead5e38
+  thumb_x: 1771
+  thumb_width: 231
+  thumb_height: 324
+  thumb_total_width: 2218
+  thumb_total_height: 648
+- path: Navalny.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=cead5e38
+  thumb_x: 2002
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2218
+  thumb_total_height: 648
+- path: Puss in the Boots.jpg
+  width: 900
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=cead5e38
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2218
+  thumb_total_height: 648
+- path: The Banshees of Inisherin.jpg
+  width: 718
+  height: 1024
+  thumb: thumbnails_0.jpg?crc=cead5e38
+  thumb_x: 243
+  thumb_y: 324
+  thumb_width: 227
+  thumb_height: 324
+  thumb_total_width: 2218
+  thumb_total_height: 648
+- path: The Whale.jpg
+  width: 460
+  height: 690
+  thumb: thumbnails_0.jpg?crc=cead5e38
+  thumb_x: 470
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2218
+  thumb_total_height: 648
