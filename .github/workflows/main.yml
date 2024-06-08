@@ -64,5 +64,5 @@ jobs:
           event-type: index
           client-payload: |
             {
-              "force": "${{ steps.thumbnailer.outputs.updated }}",
+              "force": "${{ steps.thumbnailer.outputs.updated }}"
             }
