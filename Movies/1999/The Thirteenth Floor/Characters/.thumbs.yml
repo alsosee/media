@@ -1,0 +1,44 @@
+- path: Det. Larry McBain.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=d08ceea
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 1620
+  thumb_total_height: 324
+- path: Douglas Hall.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=d08ceea
+  thumb_x: 324
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 1620
+  thumb_total_height: 324
+- path: Hannon Fuller.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=d08ceea
+  thumb_x: 648
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 1620
+  thumb_total_height: 324
+- path: Jane Fuller.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=d08ceea
+  thumb_x: 972
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 1620
+  thumb_total_height: 324
+- path: Jason Whitney.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=d08ceea
+  thumb_x: 1296
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 1620
+  thumb_total_height: 324
