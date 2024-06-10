@@ -1,8 +1,8 @@
 - path: Universal Pictures.png
   width: 1067
   height: 600
-  thumb: thumbnails_0.png?crc=ad02faf9
-  thumb_x: 1126
+  thumb: thumbnails_0.png?crc=d8e21e5d
+  thumb_x: 1450
   thumb_width: 324
   thumb_height: 182
   thumb_total_width: 2422
@@ -19,7 +19,7 @@
 - path: Remedy Entertainment.png
   width: 1920
   height: 2458
-  thumb: thumbnails_0.png?crc=ad02faf9
+  thumb: thumbnails_0.png?crc=d8e21e5d
   thumb_width: 253
   thumb_height: 324
   thumb_total_width: 2422
@@ -42,19 +42,19 @@
   thumb_total_width: 972
   thumb_total_height: 135
 - path: Naughty Dog.png
-  width: 1280
-  height: 247
-  thumb: thumbnails_0.png?crc=ad02faf9
-  thumb_x: 2098
+  width: 600
+  height: 600
+  thumb: thumbnails_0.png?crc=d8e21e5d
+  thumb_x: 253
   thumb_width: 324
-  thumb_height: 62
+  thumb_height: 324
   thumb_total_width: 2422
   thumb_total_height: 324
 - path: Netflix.png
   width: 512
   height: 512
-  thumb: thumbnails_0.png?crc=ad02faf9
-  thumb_x: 253
+  thumb: thumbnails_0.png?crc=d8e21e5d
+  thumb_x: 577
   thumb_width: 324
   thumb_height: 324
   thumb_total_width: 2422
@@ -62,8 +62,8 @@
 - path: Sony Computer Entertainment.png
   width: 711
   height: 1024
-  thumb: thumbnails_0.png?crc=ad02faf9
-  thumb_x: 577
+  thumb: thumbnails_0.png?crc=d8e21e5d
+  thumb_x: 901
   thumb_width: 225
   thumb_height: 324
   thumb_total_width: 2422
@@ -71,26 +71,26 @@
 - path: TV Tokyo.png
   width: 1000
   height: 523
-  thumb: thumbnails_0.png?crc=ad02faf9
-  thumb_x: 1774
+  thumb: thumbnails_0.png?crc=d8e21e5d
+  thumb_x: 2098
   thumb_width: 324
   thumb_height: 169
   thumb_total_width: 2422
   thumb_total_height: 324
 - path: Warner Bros. Pictures.png
-  width: 1000
-  height: 918
-  thumb: thumbnails_0.png?crc=ad02faf9
-  thumb_x: 802
+  width: 600
+  height: 580
+  thumb: thumbnails_0.png?crc=d8e21e5d
+  thumb_x: 1126
   thumb_width: 324
-  thumb_height: 297
+  thumb_height: 313
   thumb_total_width: 2422
   thumb_total_height: 324
 - path: Legendary Pictures.png
   width: 1447
   height: 768
-  thumb: thumbnails_0.png?crc=ad02faf9
-  thumb_x: 1450
+  thumb: thumbnails_0.png?crc=d8e21e5d
+  thumb_x: 1774
   thumb_width: 324
   thumb_height: 171
   thumb_total_width: 2422
