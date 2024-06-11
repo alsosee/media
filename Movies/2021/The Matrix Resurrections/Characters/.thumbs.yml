@@ -1,71 +1,80 @@
 - path: Morpheus.jpg
   width: 400
   height: 400
-  thumb: thumbnails_0.jpg?crc=b22b3d5
+  thumb: thumbnails_0.jpg?crc=280243eb
   thumb_width: 324
   thumb_height: 324
-  thumb_total_width: 2592
+  thumb_total_width: 2916
   thumb_total_height: 324
 - path: Neo.jpg
   width: 400
   height: 400
-  thumb: thumbnails_0.jpg?crc=b22b3d5
+  thumb: thumbnails_0.jpg?crc=280243eb
   thumb_x: 324
   thumb_width: 324
   thumb_height: 324
-  thumb_total_width: 2592
+  thumb_total_width: 2916
   thumb_total_height: 324
 - path: Niobe.jpg
   width: 400
   height: 400
-  thumb: thumbnails_0.jpg?crc=b22b3d5
+  thumb: thumbnails_0.jpg?crc=280243eb
   thumb_x: 648
   thumb_width: 324
   thumb_height: 324
-  thumb_total_width: 2592
+  thumb_total_width: 2916
   thumb_total_height: 324
 - path: Sati.jpg
   width: 400
   height: 400
-  thumb: thumbnails_0.jpg?crc=b22b3d5
+  thumb: thumbnails_0.jpg?crc=280243eb
   thumb_x: 972
   thumb_width: 324
   thumb_height: 324
-  thumb_total_width: 2592
+  thumb_total_width: 2916
   thumb_total_height: 324
 - path: Smith.jpg
   width: 400
   height: 400
-  thumb: thumbnails_0.jpg?crc=b22b3d5
+  thumb: thumbnails_0.jpg?crc=280243eb
   thumb_x: 1296
   thumb_width: 324
   thumb_height: 324
-  thumb_total_width: 2592
+  thumb_total_width: 2916
   thumb_total_height: 324
 - path: The Analyst.jpg
   width: 400
   height: 400
-  thumb: thumbnails_0.jpg?crc=b22b3d5
+  thumb: thumbnails_0.jpg?crc=280243eb
   thumb_x: 1620
   thumb_width: 324
   thumb_height: 324
-  thumb_total_width: 2592
+  thumb_total_width: 2916
   thumb_total_height: 324
 - path: The Merovingian.jpg
   width: 400
   height: 400
-  thumb: thumbnails_0.jpg?crc=b22b3d5
+  thumb: thumbnails_0.jpg?crc=280243eb
   thumb_x: 1944
   thumb_width: 324
   thumb_height: 324
-  thumb_total_width: 2592
+  thumb_total_width: 2916
   thumb_total_height: 324
 - path: Trinity.jpg
   width: 400
   height: 400
-  thumb: thumbnails_0.jpg?crc=b22b3d5
+  thumb: thumbnails_0.jpg?crc=280243eb
   thumb_x: 2268
   thumb_width: 324
   thumb_height: 324
-  thumb_total_width: 2592
+  thumb_total_width: 2916
+  thumb_total_height: 324
+- path: Bugs.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=280243eb
+  thumb_x: 2592
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 2916
   thumb_total_height: 324
