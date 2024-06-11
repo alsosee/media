@@ -1,11 +1,11 @@
 - path: Universal Pictures.png
   width: 1067
   height: 600
-  thumb: thumbnails_0.png?crc=d8e21e5d
+  thumb: thumbnails_0.png?crc=f7a70ed4
   thumb_x: 1450
   thumb_width: 324
   thumb_height: 182
-  thumb_total_width: 2422
+  thumb_total_width: 2746
   thumb_total_height: 324
 - path: Peacock.jpg
   width: 1000
@@ -19,10 +19,10 @@
 - path: Remedy Entertainment.png
   width: 1920
   height: 2458
-  thumb: thumbnails_0.png?crc=d8e21e5d
+  thumb: thumbnails_0.png?crc=f7a70ed4
   thumb_width: 253
   thumb_height: 324
-  thumb_total_width: 2422
+  thumb_total_width: 2746
   thumb_total_height: 324
 - path: Lionsgate.jpg
   width: 1000
@@ -44,54 +44,63 @@
 - path: Naughty Dog.png
   width: 600
   height: 600
-  thumb: thumbnails_0.png?crc=d8e21e5d
+  thumb: thumbnails_0.png?crc=f7a70ed4
   thumb_x: 253
   thumb_width: 324
   thumb_height: 324
-  thumb_total_width: 2422
+  thumb_total_width: 2746
   thumb_total_height: 324
 - path: Netflix.png
   width: 512
   height: 512
-  thumb: thumbnails_0.png?crc=d8e21e5d
+  thumb: thumbnails_0.png?crc=f7a70ed4
   thumb_x: 577
   thumb_width: 324
   thumb_height: 324
-  thumb_total_width: 2422
+  thumb_total_width: 2746
   thumb_total_height: 324
 - path: Sony Computer Entertainment.png
   width: 711
   height: 1024
-  thumb: thumbnails_0.png?crc=d8e21e5d
+  thumb: thumbnails_0.png?crc=f7a70ed4
   thumb_x: 901
   thumb_width: 225
   thumb_height: 324
-  thumb_total_width: 2422
+  thumb_total_width: 2746
   thumb_total_height: 324
 - path: TV Tokyo.png
   width: 1000
   height: 523
-  thumb: thumbnails_0.png?crc=d8e21e5d
+  thumb: thumbnails_0.png?crc=f7a70ed4
   thumb_x: 2098
   thumb_width: 324
   thumb_height: 169
-  thumb_total_width: 2422
+  thumb_total_width: 2746
   thumb_total_height: 324
 - path: Warner Bros. Pictures.png
   width: 600
   height: 580
-  thumb: thumbnails_0.png?crc=d8e21e5d
+  thumb: thumbnails_0.png?crc=f7a70ed4
   thumb_x: 1126
   thumb_width: 324
   thumb_height: 313
-  thumb_total_width: 2422
+  thumb_total_width: 2746
   thumb_total_height: 324
 - path: Legendary Pictures.png
   width: 1447
   height: 768
-  thumb: thumbnails_0.png?crc=d8e21e5d
+  thumb: thumbnails_0.png?crc=f7a70ed4
   thumb_x: 1774
   thumb_width: 324
   thumb_height: 171
-  thumb_total_width: 2422
+  thumb_total_width: 2746
+  thumb_total_height: 324
+- path: Columbia Pictures.png
+  width: 835
+  height: 347
+  thumb: thumbnails_0.png?crc=f7a70ed4
+  thumb_x: 2422
+  thumb_width: 324
+  thumb_height: 134
+  thumb_total_width: 2746
   thumb_total_height: 324
