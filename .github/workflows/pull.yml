@@ -55,7 +55,7 @@ jobs:
         run: |
           echo "DIRNAME=$(dirname "$MEDIAPATH")" >> $GITHUB_ENV
           echo "FILENAME=$(basename "$MEDIAPATH")" >> $GITHUB_ENV
-          echo "BRANCHNAME=$(dirname "$MEDIAPATH" | tr '[:upper:]' '[:lower:]' | tr ' ' '-' | tr '~^:' '-' | sed -e 's/\//--/g' -e "s/'/-/g")" >> $GITHUB_ENV
+          echo "BRANCHNAME=$(dirname "$MEDIAPATH" | tr '[:upper:]' '[:lower:]' | tr ' ~^:,' '-' | sed -e 's/\//--/g' -e "s/'/-/g")" >> $GITHUB_ENV
 
       - name: Pull or create branch
         run: |
