@@ -56,7 +56,7 @@ jobs:
         if: steps.changes.outputs.pushed == 'true'
         with:
           token: ${{ secrets.TOKEN }}
-          repository: alsosee/finder
+          repository: alsosee/info
           event-type: deploy
 
       - name: Trigger index
