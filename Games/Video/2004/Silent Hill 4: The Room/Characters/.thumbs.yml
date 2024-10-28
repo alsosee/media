@@ -1,0 +1,35 @@
+- path: Cynthia Velasquez.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=5e6e2d56
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 1296
+  thumb_total_height: 324
+- path: Eileen Galvin.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=5e6e2d56
+  thumb_x: 324
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 1296
+  thumb_total_height: 324
+- path: Henry Townshend.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=5e6e2d56
+  thumb_x: 648
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 1296
+  thumb_total_height: 324
+- path: Walter Sullivan.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=5e6e2d56
+  thumb_x: 972
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 1296
+  thumb_total_height: 324
