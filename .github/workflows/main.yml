@@ -58,14 +58,6 @@ jobs:
           token: ${{ secrets.TOKEN }}
           repository: alsosee/info
           event-type: deploy
-
-      - name: Trigger index
-        if: steps.changes.outputs.pushed == 'true'
-        uses: peter-evans/repository-dispatch@v3
-        with:
-          token: ${{ secrets.TOKEN }}
-          repository: alsosee/search
-          event-type: index
           client-payload: |
             {
               "force": ${{ steps.thumbnailer.outputs.updated }}
