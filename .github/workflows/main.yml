@@ -60,5 +60,8 @@ jobs:
           event-type: deploy
           client-payload: |
             {
-              "force": ${{ steps.thumbnailer.outputs.updated }}
+              "force": '${{ steps.thumbnailer.outputs.updated }}',
+              "trigger": "media",
+              "ref": "${{ github.ref }}",
+              "sha": "${{ github.sha }}"
             }
