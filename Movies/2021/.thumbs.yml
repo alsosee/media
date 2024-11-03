@@ -1,17 +1,26 @@
 - path: Dune.jpeg
   width: 1365
   height: 2048
-  thumb: thumbnails_0.jpg?crc=d513ccb2
+  thumb: thumbnails_0.jpg?crc=6b47aa31
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 459
+  thumb_total_width: 675
   thumb_total_height: 324
 - path: The Matrix Resurrections.jpg
   width: 900
   height: 1200
-  thumb: thumbnails_0.jpg?crc=d513ccb2
+  thumb: thumbnails_0.jpg?crc=6b47aa31
   thumb_x: 216
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 459
+  thumb_total_width: 675
+  thumb_total_height: 324
+- path: Old.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=6b47aa31
+  thumb_x: 459
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 675
   thumb_total_height: 324
