@@ -1,35 +1,44 @@
 - path: Cyberpunk 2077 Trauma Team.jpg
   width: 520
   height: 800
-  thumb: thumbnails_0.jpg?crc=ece868d4
+  thumb: thumbnails_0.jpg?crc=53bdffa3
   thumb_width: 210
   thumb_height: 324
-  thumb_total_width: 850
+  thumb_total_width: 1091
   thumb_total_height: 324
 - path: One Punch Man.jpeg
   width: 700
   height: 1050
-  thumb: thumbnails_0.jpg?crc=ece868d4
+  thumb: thumbnails_0.jpg?crc=53bdffa3
   thumb_x: 210
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 850
+  thumb_total_width: 1091
   thumb_total_height: 324
 - path: Scott Pilgrim.jpeg
   width: 600
   height: 906
-  thumb: thumbnails_0.jpg?crc=ece868d4
+  thumb: thumbnails_0.jpg?crc=53bdffa3
   thumb_x: 426
   thumb_width: 214
   thumb_height: 324
-  thumb_total_width: 850
+  thumb_total_width: 1091
   thumb_total_height: 324
 - path: The Last of Us American Dreams.jpg
   width: 650
   height: 1000
-  thumb: thumbnails_0.jpg?crc=ece868d4
+  thumb: thumbnails_0.jpg?crc=53bdffa3
   thumb_x: 640
   thumb_width: 210
   thumb_height: 324
-  thumb_total_width: 850
+  thumb_total_width: 1091
+  thumb_total_height: 324
+- path: Sandcastle.jpg
+  width: 510
+  height: 686
+  thumb: thumbnails_0.jpg?crc=53bdffa3
+  thumb_x: 850
+  thumb_width: 241
+  thumb_height: 324
+  thumb_total_width: 1091
   thumb_total_height: 324
