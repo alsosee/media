@@ -1,8 +1,17 @@
 - path: The Last of Us Part I.jpeg
   width: 750
   height: 1000
-  thumb: thumbnails_0.jpg?crc=dc9a64e8
+  thumb: thumbnails_0.jpg?crc=e1e0ee44
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 243
+  thumb_total_width: 459
+  thumb_total_height: 324
+- path: Tunic.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=e1e0ee44
+  thumb_x: 243
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 459
   thumb_total_height: 324

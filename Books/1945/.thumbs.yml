@@ -1,0 +1,8 @@
+- path: Animal Farm.jpg
+  width: 307
+  height: 500
+  thumb: thumbnails_0.jpg?crc=c7fa7cea
+  thumb_width: 198
+  thumb_height: 324
+  thumb_total_width: 198
+  thumb_total_height: 324
