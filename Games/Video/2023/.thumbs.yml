@@ -1,53 +1,62 @@
 - path: Baldur's Gate 3.jpg
   width: 1440
   height: 2160
-  thumb: thumbnails_0.jpg?crc=aebb1a40
+  thumb: thumbnails_0.jpg?crc=c7fb7986
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1393
+  thumb_total_width: 1636
   thumb_total_height: 324
 - path: Cyberpunk 2077 Phantom Liberty.jpeg
   width: 1200
   height: 1600
-  thumb: thumbnails_0.jpg?crc=aebb1a40
+  thumb: thumbnails_0.jpg?crc=c7fb7986
   thumb_x: 216
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1393
+  thumb_total_width: 1636
   thumb_total_height: 324
 - path: Alan Wake 2.jpg
   width: 1200
   height: 1600
-  thumb: thumbnails_0.jpg?crc=aebb1a40
+  thumb: thumbnails_0.jpg?crc=c7fb7986
   thumb_x: 459
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1393
+  thumb_total_width: 1636
   thumb_total_height: 324
 - path: Stray Gods.jpg
   width: 720
   height: 1080
-  thumb: thumbnails_0.jpg?crc=aebb1a40
+  thumb: thumbnails_0.jpg?crc=c7fb7986
   thumb_x: 702
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1393
+  thumb_total_width: 1636
   thumb_total_height: 324
 - path: Forza Motorsport.jpg
   width: 1000
   height: 1250
-  thumb: thumbnails_0.jpg?crc=aebb1a40
+  thumb: thumbnails_0.jpg?crc=c7fb7986
   thumb_x: 918
   thumb_width: 259
   thumb_height: 324
-  thumb_total_width: 1393
+  thumb_total_width: 1636
   thumb_total_height: 324
 - path: 'The Expanse: A Telltale Series.jpg'
   width: 666
   height: 1000
-  thumb: thumbnails_0.jpg?crc=aebb1a40
+  thumb: thumbnails_0.jpg?crc=c7fb7986
   thumb_x: 1177
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1393
+  thumb_total_width: 1636
+  thumb_total_height: 324
+- path: Deliver Us Mars.jpg
+  width: 900
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=c7fb7986
+  thumb_x: 1393
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 1636
   thumb_total_height: 324
