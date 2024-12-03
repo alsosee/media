@@ -1,0 +1,44 @@
+- path: Claire Johannson.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=57da42f3
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 1620
+  thumb_total_height: 324
+- path: Isaac Johannsen.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=57da42f3
+  thumb_x: 324
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 1620
+  thumb_total_height: 324
+- path: Kathy Johannson.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=57da42f3
+  thumb_x: 648
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 1620
+  thumb_total_height: 324
+- path: Ryan Delyanin.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=57da42f3
+  thumb_x: 972
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 1620
+  thumb_total_height: 324
+- path: Sarah Baker.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=57da42f3
+  thumb_x: 1296
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 1620
+  thumb_total_height: 324
