@@ -1,8 +1,17 @@
 - path: 3 Body Problem.jpg
   width: 1000
   height: 1500
-  thumb: thumbnails_0.jpg?crc=b0534a1e
+  thumb: thumbnails_0.jpg?crc=e76d4d71
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 216
+  thumb_total_width: 432
+  thumb_total_height: 324
+- path: The Penguin.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=e76d4d71
+  thumb_x: 216
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 432
   thumb_total_height: 324
