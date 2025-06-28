@@ -1,0 +1,138 @@
+- path: 3-D.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=4d57bb18
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Biff Tannen.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=4d57bb18
+  thumb_x: 324
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Dave McFly.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=4d57bb18
+  thumb_x: 648
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Dr. Emmett "Doc" Brown.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=4d57bb18
+  thumb_x: 972
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: George McFly.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=4d57bb18
+  thumb_x: 1296
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Goldie Wilson.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=4d57bb18
+  thumb_x: 1620
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Jennifer Parker.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=4d57bb18
+  thumb_x: 1944
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Linda McFly.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=4d57bb18
+  thumb_x: 2268
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Lorraine Baines McFly.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=4d57bb18
+  thumb_x: 2592
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Lou Caruthers.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=4d57bb18
+  thumb_x: 2916
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Marty McFly.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=4d57bb18
+  thumb_y: 324
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Marvin Berry.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=4d57bb18
+  thumb_x: 324
+  thumb_y: 324
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Principal Strickland.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=4d57bb18
+  thumb_x: 648
+  thumb_y: 324
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Sam Baines.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=4d57bb18
+  thumb_x: 972
+  thumb_y: 324
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Stella Baines.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=4d57bb18
+  thumb_x: 1296
+  thumb_y: 324
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
