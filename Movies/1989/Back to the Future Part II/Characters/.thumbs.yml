@@ -1,0 +1,128 @@
+- path: Biff Tannen.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=cf437cc5
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Data.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=cf437cc5
+  thumb_x: 324
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Douglas J. Needles.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=cf437cc5
+  thumb_x: 648
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Dr. Emmett "Doc" Brown.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=cf437cc5
+  thumb_x: 972
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Fujitsu Supervisor.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=cf437cc5
+  thumb_x: 1296
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Griff Tannen.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=cf437cc5
+  thumb_x: 1620
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Jennifer Parker.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=cf437cc5
+  thumb_x: 1944
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Lorraine Baines McFly.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=cf437cc5
+  thumb_x: 2268
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Marlene McFly.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=cf437cc5
+  thumb_x: 2592
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Marty McFly Jr..jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=cf437cc5
+  thumb_x: 2916
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Marty McFly.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=cf437cc5
+  thumb_y: 324
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Principal Strickland.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=cf437cc5
+  thumb_x: 324
+  thumb_y: 324
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Spike.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=cf437cc5
+  thumb_x: 648
+  thumb_y: 324
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
+- path: Video Game Bystander.jpg
+  width: 400
+  height: 400
+  thumb: thumbnails_0.jpg?crc=cf437cc5
+  thumb_x: 972
+  thumb_y: 324
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3240
+  thumb_total_height: 648
