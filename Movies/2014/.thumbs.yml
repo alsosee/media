@@ -1,17 +1,44 @@
 - path: John Wick.jpg
   width: 533
   height: 799
-  thumb: thumbnails_0.jpg?crc=2291dc6
+  thumb: thumbnails_0.jpg?crc=488c644a
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 432
+  thumb_total_width: 1080
   thumb_total_height: 324
 - path: The Grand Budapest Hotel.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=2291dc6
+  thumb: thumbnails_0.jpg?crc=488c644a
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 432
+  thumb_total_width: 1080
+  thumb_total_height: 324
+- path: Guardians of the Galaxy.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=488c644a
+  thumb_x: 432
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1080
+  thumb_total_height: 324
+- path: The Theory Of Everything.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=488c644a
+  thumb_x: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1080
+  thumb_total_height: 324
+- path: Whiplash.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=488c644a
+  thumb_x: 864
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1080
   thumb_total_height: 324
