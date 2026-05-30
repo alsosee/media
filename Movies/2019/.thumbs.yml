@@ -1,8 +1,188 @@
 - path: John Wick Chapter 3 – Parabellum.jpg
   width: 533
   height: 798
-  thumb: thumbnails_0.jpg?crc=fdc99cc9
+  thumb: thumbnails_0.jpg?crc=65179196
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 216
-  thumb_total_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: 1917.jpg
+  width: 800
+  height: 1199
+  thumb: thumbnails_0.jpg?crc=65179196
+  thumb_x: 216
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Avengers Endgame.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=65179196
+  thumb_x: 432
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Bombshell.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=65179196
+  thumb_x: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Captain Marvel.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=65179196
+  thumb_x: 864
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Dolemite Is My Name.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=65179196
+  thumb_x: 1080
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Fast & Furious Presents Hobbs & Shaw.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=65179196
+  thumb_x: 1296
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Ford v Ferrari.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=65179196
+  thumb_x: 1512
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Jojo Rabbit.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=65179196
+  thumb_x: 1728
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Joker.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=65179196
+  thumb_x: 1944
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Judy.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=65179196
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Knives Out.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=65179196
+  thumb_x: 216
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Learning To Skateboard In A Warzone (If You're A Girl).jpg
+  width: 600
+  height: 900
+  thumb: thumbnails_0.jpg?crc=65179196
+  thumb_x: 432
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Little Women.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=65179196
+  thumb_x: 648
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Midsommar.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=65179196
+  thumb_x: 864
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Once Upon a Time in Hollywood.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=65179196
+  thumb_x: 1080
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Parasite.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=65179196
+  thumb_x: 1296
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Rambo Last Blood.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=65179196
+  thumb_x: 1512
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Spider-Man Far From Home.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=65179196
+  thumb_x: 1728
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: The Gangster, the Cop, the Devil.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=65179196
+  thumb_x: 1944
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
