@@ -1,0 +1,62 @@
+- path: A House of Dynamite.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=c28b6b4
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1512
+  thumb_total_height: 324
+- path: Bugonia.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=c28b6b4
+  thumb_x: 216
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1512
+  thumb_total_height: 324
+- path: Captain America Brave New World.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=c28b6b4
+  thumb_x: 432
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1512
+  thumb_total_height: 324
+- path: From the World of John Wick Ballerina.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=c28b6b4
+  thumb_x: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1512
+  thumb_total_height: 324
+- path: Hamnet.jpg
+  width: 800
+  height: 1199
+  thumb: thumbnails_0.jpg?crc=c28b6b4
+  thumb_x: 864
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1512
+  thumb_total_height: 324
+- path: I Swear.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=c28b6b4
+  thumb_x: 1080
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1512
+  thumb_total_height: 324
+- path: Predator Badlands.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=c28b6b4
+  thumb_x: 1296
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1512
+  thumb_total_height: 324
