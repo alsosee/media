@@ -1,8 +1,44 @@
 - path: All Quiet on the Western Front.jpeg
   width: 958
   height: 1500
-  thumb: thumbnails_0.jpg?crc=2a4879a6
+  thumb: thumbnails_0.jpg?crc=8befc765
   thumb_width: 207
   thumb_height: 324
-  thumb_total_width: 207
+  thumb_total_width: 1071
+  thumb_total_height: 324
+- path: Alien.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=8befc765
+  thumb_x: 207
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1071
+  thumb_total_height: 324
+- path: Apocalypse Now.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=8befc765
+  thumb_x: 423
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1071
+  thumb_total_height: 324
+- path: Mad Max.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=8befc765
+  thumb_x: 639
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1071
+  thumb_total_height: 324
+- path: Rocky II.jpg
+  width: 500
+  height: 750
+  thumb: thumbnails_0.jpg?crc=8befc765
+  thumb_x: 855
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1071
   thumb_total_height: 324

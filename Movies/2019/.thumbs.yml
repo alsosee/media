@@ -1,188 +1,395 @@
 - path: John Wick Chapter 3 – Parabellum.jpg
   width: 533
   height: 798
-  thumb: thumbnails_0.jpg?crc=65179196
+  thumb: thumbnails_0.jpg?crc=c500aed6
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_height: 1620
 - path: 1917.jpg
   width: 800
-  height: 1199
-  thumb: thumbnails_0.jpg?crc=65179196
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=c500aed6
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_height: 1620
 - path: Avengers Endgame.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=65179196
+  thumb: thumbnails_0.jpg?crc=c500aed6
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_height: 1620
 - path: Bombshell.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=65179196
+  thumb: thumbnails_0.jpg?crc=c500aed6
   thumb_x: 648
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_height: 1620
 - path: Captain Marvel.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=65179196
+  thumb: thumbnails_0.jpg?crc=c500aed6
   thumb_x: 864
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_height: 1620
 - path: Dolemite Is My Name.jpg
   width: 800
-  height: 1200
-  thumb: thumbnails_0.jpg?crc=65179196
+  height: 1267
+  thumb: thumbnails_0.jpg?crc=c500aed6
   thumb_x: 1080
-  thumb_width: 216
+  thumb_width: 204
   thumb_height: 324
   thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_height: 1620
 - path: Fast & Furious Presents Hobbs & Shaw.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=65179196
-  thumb_x: 1296
+  thumb: thumbnails_0.jpg?crc=c500aed6
+  thumb_x: 1284
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_height: 1620
 - path: Ford v Ferrari.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=65179196
-  thumb_x: 1512
+  thumb: thumbnails_0.jpg?crc=c500aed6
+  thumb_x: 1500
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_height: 1620
 - path: Jojo Rabbit.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=65179196
-  thumb_x: 1728
+  thumb: thumbnails_0.jpg?crc=c500aed6
+  thumb_x: 1716
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_height: 1620
 - path: Joker.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=65179196
-  thumb_x: 1944
+  thumb: thumbnails_0.jpg?crc=c500aed6
+  thumb_x: 1932
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_height: 1620
 - path: Judy.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=65179196
+  thumb: thumbnails_0.jpg?crc=c500aed6
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_height: 1620
 - path: Knives Out.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=65179196
+  thumb: thumbnails_0.jpg?crc=c500aed6
   thumb_x: 216
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_height: 1620
 - path: Learning To Skateboard In A Warzone (If You're A Girl).jpg
   width: 600
   height: 900
-  thumb: thumbnails_0.jpg?crc=65179196
+  thumb: thumbnails_0.jpg?crc=c500aed6
   thumb_x: 432
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_height: 1620
 - path: Little Women.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=65179196
+  thumb: thumbnails_0.jpg?crc=c500aed6
   thumb_x: 648
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_height: 1620
 - path: Midsommar.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=65179196
+  thumb: thumbnails_0.jpg?crc=c500aed6
   thumb_x: 864
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_height: 1620
 - path: Once Upon a Time in Hollywood.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=65179196
+  thumb: thumbnails_0.jpg?crc=c500aed6
   thumb_x: 1080
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_height: 1620
 - path: Parasite.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=65179196
+  thumb: thumbnails_0.jpg?crc=c500aed6
   thumb_x: 1296
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_height: 1620
 - path: Rambo Last Blood.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=65179196
+  thumb: thumbnails_0.jpg?crc=c500aed6
   thumb_x: 1512
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_height: 1620
 - path: Spider-Man Far From Home.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=65179196
+  thumb: thumbnails_0.jpg?crc=c500aed6
   thumb_x: 1728
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_height: 1620
 - path: The Gangster, the Cop, the Devil.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=65179196
+  thumb: thumbnails_0.jpg?crc=c500aed6
   thumb_x: 1944
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_height: 1620
+- path: Annabelle Comes Home.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=c500aed6
+  thumb_y: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 1620
+- path: Booksmart.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=c500aed6
+  thumb_x: 216
+  thumb_y: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 1620
+- path: Dark Phoenix.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=c500aed6
+  thumb_x: 432
+  thumb_y: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 1620
+- path: Godzilla King of the Monsters.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=c500aed6
+  thumb_x: 648
+  thumb_y: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 1620
+- path: It Chapter Two.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=c500aed6
+  thumb_x: 864
+  thumb_y: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 1620
+- path: Marriage Story.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=c500aed6
+  thumb_x: 1080
+  thumb_y: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 1620
+- path: Once Upon a Time...jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=c500aed6
+  thumb_x: 1296
+  thumb_y: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 1620
+- path: Pain and Glory.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=c500aed6
+  thumb_x: 1512
+  thumb_y: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 1620
+- path: Portrait of a Lady on Fire.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=c500aed6
+  thumb_x: 1728
+  thumb_y: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 1620
+- path: Ready or Not.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=c500aed6
+  thumb_x: 1944
+  thumb_y: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 1620
+- path: Shazam!.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=c500aed6
+  thumb_y: 972
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 1620
+- path: Sound of Metal.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=c500aed6
+  thumb_x: 216
+  thumb_y: 972
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 1620
+- path: Star Wars Episode IX - The Rise of Skywalker.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=c500aed6
+  thumb_x: 432
+  thumb_y: 972
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 1620
+- path: Terminator Dark Fate.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=c500aed6
+  thumb_x: 648
+  thumb_y: 972
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 1620
+- path: The Curse of La Llorona.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=c500aed6
+  thumb_x: 864
+  thumb_y: 972
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 1620
+- path: The Farewell.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=c500aed6
+  thumb_x: 1080
+  thumb_y: 972
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 1620
+- path: The Irishman.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=c500aed6
+  thumb_x: 1296
+  thumb_y: 972
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 1620
+- path: The Lighthouse.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=c500aed6
+  thumb_x: 1512
+  thumb_y: 972
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 1620
+- path: Uncut Gems.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=c500aed6
+  thumb_x: 1728
+  thumb_y: 972
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 1620
+- path: Under the Silver Lake.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=c500aed6
+  thumb_x: 1944
+  thumb_y: 972
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 1620
+- path: Us.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=c500aed6
+  thumb_y: 1296
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 1620

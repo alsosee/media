@@ -1,8 +1,44 @@
 - path: Project Hail Mary.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=c0532a40
+  thumb: thumbnails_0.jpg?crc=16d9a62f
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 216
+  thumb_total_width: 1080
+  thumb_total_height: 324
+- path: Backrooms.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=16d9a62f
+  thumb_x: 216
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1080
+  thumb_total_height: 324
+- path: Good Luck, Have Fun, Don't Die.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=16d9a62f
+  thumb_x: 432
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1080
+  thumb_total_height: 324
+- path: Hokum.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=16d9a62f
+  thumb_x: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1080
+  thumb_total_height: 324
+- path: They Will Kill You.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=16d9a62f
+  thumb_x: 864
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1080
   thumb_total_height: 324

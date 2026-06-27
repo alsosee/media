@@ -1,0 +1,227 @@
+- path: 3 Idiots.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=3f1cdfe5
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 972
+- path: 500 Days of Summer.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=3f1cdfe5
+  thumb_x: 216
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 972
+- path: A Prophet.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=3f1cdfe5
+  thumb_x: 432
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 972
+- path: A Serious Man.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=3f1cdfe5
+  thumb_x: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 972
+- path: Avatar.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=3f1cdfe5
+  thumb_x: 864
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 972
+- path: District 9.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=3f1cdfe5
+  thumb_x: 1080
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 972
+- path: Dogtooth.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=3f1cdfe5
+  thumb_x: 1296
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 972
+- path: Enter the Void.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=3f1cdfe5
+  thumb_x: 1512
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 972
+- path: Fast & Furious.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=3f1cdfe5
+  thumb_x: 1728
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 972
+- path: Halloween II.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=3f1cdfe5
+  thumb_x: 1944
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 972
+- path: Harry Potter and the Half-Blood Prince.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=3f1cdfe5
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 972
+- path: Ice Age Dawn of the Dinosaurs.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=3f1cdfe5
+  thumb_x: 216
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 972
+- path: Inglourious Basterds.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=3f1cdfe5
+  thumb_x: 432
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 972
+- path: Jennifer's Body.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=3f1cdfe5
+  thumb_x: 648
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 972
+- path: Terminator Salvation.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=3f1cdfe5
+  thumb_x: 864
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 972
+- path: The Final Destination.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=3f1cdfe5
+  thumb_x: 1080
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 972
+- path: The Hangover.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=3f1cdfe5
+  thumb_x: 1296
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 972
+- path: The Hurt Locker.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=3f1cdfe5
+  thumb_x: 1512
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 972
+- path: The Secret in Their Eyes.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=3f1cdfe5
+  thumb_x: 1728
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 972
+- path: The Twilight Saga New Moon.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=3f1cdfe5
+  thumb_x: 1944
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 972
+- path: The White Ribbon.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=3f1cdfe5
+  thumb_y: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 972
+- path: Transformers Revenge of the Fallen.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=3f1cdfe5
+  thumb_x: 216
+  thumb_y: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 972
+- path: Up.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=3f1cdfe5
+  thumb_x: 432
+  thumb_y: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 972
+- path: X-Men Origins Wolverine.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=3f1cdfe5
+  thumb_x: 648
+  thumb_y: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 972

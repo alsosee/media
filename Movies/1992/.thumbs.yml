@@ -1,0 +1,62 @@
+- path: Aladdin.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=745a769c
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1512
+  thumb_total_height: 324
+- path: Alien 3.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=745a769c
+  thumb_x: 216
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1512
+  thumb_total_height: 324
+- path: Hard Boiled.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=745a769c
+  thumb_x: 432
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1512
+  thumb_total_height: 324
+- path: Home Alone 2 Lost in New York.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=745a769c
+  thumb_x: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1512
+  thumb_total_height: 324
+- path: Lethal Weapon 3.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=745a769c
+  thumb_x: 864
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1512
+  thumb_total_height: 324
+- path: Reservoir Dogs.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=745a769c
+  thumb_x: 1080
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1512
+  thumb_total_height: 324
+- path: Universal Soldier.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=745a769c
+  thumb_x: 1296
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1512
+  thumb_total_height: 324

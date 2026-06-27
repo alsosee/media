@@ -1,8 +1,53 @@
 - path: Back to the Future Part II.jpg
   width: 1000
   height: 1500
-  thumb: thumbnails_0.jpg?crc=e3ef5749
+  thumb: thumbnails_0.jpg?crc=a4c63340
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 216
+  thumb_total_width: 1296
+  thumb_total_height: 324
+- path: Cyborg.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=a4c63340
+  thumb_x: 216
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1296
+  thumb_total_height: 324
+- path: Ghostbusters II.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=a4c63340
+  thumb_x: 432
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1296
+  thumb_total_height: 324
+- path: Halloween 5 The Revenge of Michael Myers.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=a4c63340
+  thumb_x: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1296
+  thumb_total_height: 324
+- path: Hitman.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=a4c63340
+  thumb_x: 864
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1296
+  thumb_total_height: 324
+- path: Lethal Weapon 2.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=a4c63340
+  thumb_x: 1080
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1296
   thumb_total_height: 324

@@ -1,8 +1,62 @@
 - path: The Shawshank Redemption.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=f7f686ec
+  thumb: thumbnails_0.jpg?crc=441cd334
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 216
+  thumb_total_width: 1512
+  thumb_total_height: 324
+- path: Destroyer.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=441cd334
+  thumb_x: 216
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1512
+  thumb_total_height: 324
+- path: Forrest Gump.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=441cd334
+  thumb_x: 432
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1512
+  thumb_total_height: 324
+- path: Leon The Professional.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=441cd334
+  thumb_x: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1512
+  thumb_total_height: 324
+- path: Pulp Fiction.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=441cd334
+  thumb_x: 864
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1512
+  thumb_total_height: 324
+- path: Speed.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=441cd334
+  thumb_x: 1080
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1512
+  thumb_total_height: 324
+- path: Truthful love.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=441cd334
+  thumb_x: 1296
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1512
   thumb_total_height: 324
