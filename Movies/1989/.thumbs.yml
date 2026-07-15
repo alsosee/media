@@ -1,89 +1,98 @@
 - path: Back to the Future Part II.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=892402ba
+  thumb: thumbnails_0.jpg?crc=e2e0d0bc
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Cyborg.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=892402ba
+  thumb: thumbnails_0.jpg?crc=e2e0d0bc
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Ghostbusters II.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=892402ba
+  thumb: thumbnails_0.jpg?crc=e2e0d0bc
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Halloween 5 The Revenge of Michael Myers.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=892402ba
+  thumb: thumbnails_0.jpg?crc=e2e0d0bc
   thumb_x: 648
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Hitman.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=892402ba
+  thumb: thumbnails_0.jpg?crc=e2e0d0bc
   thumb_x: 864
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Lethal Weapon 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=892402ba
+  thumb: thumbnails_0.jpg?crc=e2e0d0bc
   thumb_x: 1080
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: A Nightmare on Elm Street 5 The Dream Child.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=892402ba
+  thumb: thumbnails_0.jpg?crc=e2e0d0bc
   thumb_x: 1296
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Friday the 13th Part VIII Jason Takes Manhattan.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=892402ba
+  thumb: thumbnails_0.jpg?crc=e2e0d0bc
   thumb_x: 1512
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Licence to Kill.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=892402ba
+  thumb: thumbnails_0.jpg?crc=e2e0d0bc
   thumb_x: 1728
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Tango and Cash.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=892402ba
+  thumb: thumbnails_0.jpg?crc=e2e0d0bc
   thumb_x: 1944
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
-  thumb_total_height: 324
+  thumb_total_height: 648
+- path: Star Trek V The Final Frontier.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=e2e0d0bc
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
