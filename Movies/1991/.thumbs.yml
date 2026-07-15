@@ -1,17 +1,35 @@
 - path: Terminator 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=b6a88be3
+  thumb: thumbnails_0.jpg?crc=37f1a50d
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 432
+  thumb_total_width: 864
   thumb_total_height: 324
 - path: The Silence of the Lambs.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=b6a88be3
+  thumb: thumbnails_0.jpg?crc=37f1a50d
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 432
+  thumb_total_width: 864
+  thumb_total_height: 324
+- path: Freddy's Dead The Final Nightmare.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=37f1a50d
+  thumb_x: 432
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 864
+  thumb_total_height: 324
+- path: The Addams Family.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=37f1a50d
+  thumb_x: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 864
   thumb_total_height: 324

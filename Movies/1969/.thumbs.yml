@@ -1,26 +1,44 @@
 - path: Good, bad, evil.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=81e7f94d
+  thumb: thumbnails_0.jpg?crc=35f799fa
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 648
+  thumb_total_width: 1080
   thumb_total_height: 324
 - path: True Grit.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=81e7f94d
+  thumb: thumbnails_0.jpg?crc=35f799fa
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 648
+  thumb_total_width: 1080
   thumb_total_height: 324
 - path: Wild band.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=81e7f94d
+  thumb: thumbnails_0.jpg?crc=35f799fa
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 648
+  thumb_total_width: 1080
+  thumb_total_height: 324
+- path: Butch Cassidy and the Sundance Kid.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=35f799fa
+  thumb_x: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1080
+  thumb_total_height: 324
+- path: On Her Majesty's Secret Service.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=35f799fa
+  thumb_x: 864
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1080
   thumb_total_height: 324

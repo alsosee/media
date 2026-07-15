@@ -1,26 +1,44 @@
 - path: Dirty Harry.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=42e95054
+  thumb: thumbnails_0.jpg?crc=307a809e
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 648
+  thumb_total_width: 1080
   thumb_total_height: 324
 - path: Escape from the Planet of the Apes.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=42e95054
+  thumb: thumbnails_0.jpg?crc=307a809e
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 648
+  thumb_total_width: 1080
   thumb_total_height: 324
 - path: The Big Boss.jpg
   width: 500
   height: 750
-  thumb: thumbnails_0.jpg?crc=42e95054
+  thumb: thumbnails_0.jpg?crc=307a809e
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 648
+  thumb_total_width: 1080
+  thumb_total_height: 324
+- path: Death In Venice.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=307a809e
+  thumb_x: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1080
+  thumb_total_height: 324
+- path: Diamonds Are Forever.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=307a809e
+  thumb_x: 864
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1080
   thumb_total_height: 324

@@ -1,26 +1,35 @@
 - path: Project A.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=f4f1f2a5
+  thumb: thumbnails_0.jpg?crc=b427c6e7
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 648
+  thumb_total_width: 864
   thumb_total_height: 324
 - path: Scarface.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=f4f1f2a5
+  thumb: thumbnails_0.jpg?crc=b427c6e7
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 648
+  thumb_total_width: 864
   thumb_total_height: 324
 - path: Star Wars Episode VI - Return of the Jedi.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=f4f1f2a5
+  thumb: thumbnails_0.jpg?crc=b427c6e7
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 648
+  thumb_total_width: 864
+  thumb_total_height: 324
+- path: Octopussy.jpg
+  width: 800
+  height: 1199
+  thumb: thumbnails_0.jpg?crc=b427c6e7
+  thumb_x: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 864
   thumb_total_height: 324

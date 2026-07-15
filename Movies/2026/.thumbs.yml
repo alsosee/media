@@ -1,44 +1,108 @@
 - path: Project Hail Mary.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=16d9a62f
+  thumb: thumbnails_0.jpg?crc=cba274bb
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1080
-  thumb_total_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
 - path: Backrooms.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=16d9a62f
+  thumb: thumbnails_0.jpg?crc=cba274bb
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1080
-  thumb_total_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
 - path: Good Luck, Have Fun, Don't Die.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=16d9a62f
+  thumb: thumbnails_0.jpg?crc=cba274bb
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1080
-  thumb_total_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
 - path: Hokum.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=16d9a62f
+  thumb: thumbnails_0.jpg?crc=cba274bb
   thumb_x: 648
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1080
-  thumb_total_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
 - path: They Will Kill You.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=16d9a62f
+  thumb: thumbnails_0.jpg?crc=cba274bb
   thumb_x: 864
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1080
-  thumb_total_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Insidious Out of the Further.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=cba274bb
+  thumb_x: 1080
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Jumanji Open World.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=cba274bb
+  thumb_x: 1296
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Mortal Kombat II.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=cba274bb
+  thumb_x: 1512
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Resident Evil.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=cba274bb
+  thumb_x: 1728
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Scream 7.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=cba274bb
+  thumb_x: 1944
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: The Devil Wears Prada 2.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=cba274bb
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Toy Story 5.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=cba274bb
+  thumb_x: 216
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648

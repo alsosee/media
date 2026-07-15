@@ -1,35 +1,53 @@
 - path: Groundhog Day.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=dc05946
+  thumb: thumbnails_0.jpg?crc=a63b6c11
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 864
+  thumb_total_width: 1296
   thumb_total_height: 324
 - path: Jurassic Park.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=dc05946
+  thumb: thumbnails_0.jpg?crc=a63b6c11
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 864
+  thumb_total_width: 1296
   thumb_total_height: 324
 - path: Last Action Hero.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=dc05946
+  thumb: thumbnails_0.jpg?crc=a63b6c11
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 864
+  thumb_total_width: 1296
   thumb_total_height: 324
 - path: Schindler's List.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=dc05946
+  thumb: thumbnails_0.jpg?crc=a63b6c11
   thumb_x: 648
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 864
+  thumb_total_width: 1296
+  thumb_total_height: 324
+- path: Addams Family Values.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=a63b6c11
+  thumb_x: 864
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1296
+  thumb_total_height: 324
+- path: Jason Goes to Hell The Final Friday.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=a63b6c11
+  thumb_x: 1080
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1296
   thumb_total_height: 324

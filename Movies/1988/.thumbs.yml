@@ -1,44 +1,62 @@
 - path: Bloodsport.jpg
   width: 800
   height: 1177
-  thumb: thumbnails_0.jpg?crc=f9cdee9a
+  thumb: thumbnails_0.jpg?crc=d61827d5
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1084
+  thumb_total_width: 1516
   thumb_total_height: 324
 - path: Die Hard.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=f9cdee9a
+  thumb: thumbnails_0.jpg?crc=d61827d5
   thumb_x: 220
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1084
+  thumb_total_width: 1516
   thumb_total_height: 324
 - path: Halloween 4 The Return of Michael Myers.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=f9cdee9a
+  thumb: thumbnails_0.jpg?crc=d61827d5
   thumb_x: 436
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1084
+  thumb_total_width: 1516
   thumb_total_height: 324
 - path: Rambo III.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=f9cdee9a
+  thumb: thumbnails_0.jpg?crc=d61827d5
   thumb_x: 652
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1084
+  thumb_total_width: 1516
   thumb_total_height: 324
 - path: Who Framed Roger Rabbit.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=f9cdee9a
+  thumb: thumbnails_0.jpg?crc=d61827d5
   thumb_x: 868
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1084
+  thumb_total_width: 1516
+  thumb_total_height: 324
+- path: A Nightmare on Elm Street 4 The Dream Master.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=d61827d5
+  thumb_x: 1084
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1516
+  thumb_total_height: 324
+- path: Friday the 13th Part VII The New Blood.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=d61827d5
+  thumb_x: 1300
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1516
   thumb_total_height: 324

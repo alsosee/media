@@ -1,17 +1,26 @@
 - path: Battle for the Planet of the Apes.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=9fee9fc8
+  thumb: thumbnails_0.jpg?crc=e6ea5b8
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 432
+  thumb_total_width: 648
   thumb_total_height: 324
 - path: Enter the Dragon.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=9fee9fc8
+  thumb: thumbnails_0.jpg?crc=e6ea5b8
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 432
+  thumb_total_width: 648
+  thumb_total_height: 324
+- path: Live and Let Die.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=e6ea5b8
+  thumb_x: 432
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 648
   thumb_total_height: 324
