@@ -1,0 +1,26 @@
+- path: Mad Men, Season 7.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=8e60a989
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 652
+  thumb_total_height: 324
+- path: The Americans, Season 2.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=8e60a989
+  thumb_x: 216
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 652
+  thumb_total_height: 324
+- path: True Detective.jpg
+  width: 680
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=8e60a989
+  thumb_x: 432
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 652
+  thumb_total_height: 324

@@ -1,0 +1,26 @@
+- path: Six Feet Under, Season 2.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=9db9b9ae
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 648
+  thumb_total_height: 324
+- path: The Sopranos, Season 4.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=9db9b9ae
+  thumb_x: 216
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 648
+  thumb_total_height: 324
+- path: The Wire.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=9db9b9ae
+  thumb_x: 432
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 648
+  thumb_total_height: 324

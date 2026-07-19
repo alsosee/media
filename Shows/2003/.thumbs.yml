@@ -1,0 +1,17 @@
+- path: Six Feet Under, Season 3.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=3b96f41c
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 432
+  thumb_total_height: 324
+- path: The Wire, Season 2.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=3b96f41c
+  thumb_x: 216
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 432
+  thumb_total_height: 324
