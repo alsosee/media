@@ -1,44 +1,138 @@
 - path: Succession, Season 3.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=4c039c71
+  thumb: thumbnails_0.jpg?crc=b9f801c4
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1080
-  thumb_total_height: 324
+  thumb_total_width: 2164
+  thumb_total_height: 648
 - path: Brooklyn Nine-Nine, Season 8.jpg
-  width: 533
-  height: 800
-  thumb: thumbnails_0.jpg?crc=4c039c71
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=b9f801c4
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1080
-  thumb_total_height: 324
+  thumb_total_width: 2164
+  thumb_total_height: 648
 - path: Curb Your Enthusiasm, Season 11.jpg
-  width: 533
-  height: 800
-  thumb: thumbnails_0.jpg?crc=4c039c71
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=b9f801c4
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1080
-  thumb_total_height: 324
+  thumb_total_width: 2164
+  thumb_total_height: 648
 - path: It's Always Sunny in Philadelphia, Season 15.jpg
-  width: 533
-  height: 800
-  thumb: thumbnails_0.jpg?crc=4c039c71
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=b9f801c4
   thumb_x: 648
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1080
-  thumb_total_height: 324
+  thumb_total_width: 2164
+  thumb_total_height: 648
 - path: Ted Lasso, Season 2.jpg
-  width: 533
-  height: 800
-  thumb: thumbnails_0.jpg?crc=4c039c71
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=b9f801c4
   thumb_x: 864
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1080
-  thumb_total_height: 324
+  thumb_total_width: 2164
+  thumb_total_height: 648
+- path: Central Park, Season 2.jpg
+  width: 680
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=b9f801c4
+  thumb_x: 1080
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2164
+  thumb_total_height: 648
+- path: Dopesick.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=b9f801c4
+  thumb_x: 1300
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2164
+  thumb_total_height: 648
+- path: Hacks.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=b9f801c4
+  thumb_x: 1516
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2164
+  thumb_total_height: 648
+- path: Hawkeye.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=b9f801c4
+  thumb_x: 1732
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2164
+  thumb_total_height: 648
+- path: Infinity Train, Season 4.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=b9f801c4
+  thumb_x: 1948
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2164
+  thumb_total_height: 648
+- path: Invincible.jpg
+  width: 800
+  height: 1199
+  thumb: thumbnails_0.jpg?crc=b9f801c4
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2164
+  thumb_total_height: 648
+- path: Resident Evil Infinite Darkness.jpg
+  width: 800
+  height: 1199
+  thumb: thumbnails_0.jpg?crc=b9f801c4
+  thumb_x: 216
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2164
+  thumb_total_height: 648
+- path: The Falcon and the Winter Soldier.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=b9f801c4
+  thumb_x: 432
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2164
+  thumb_total_height: 648
+- path: WandaVision.jpg
+  width: 667
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=b9f801c4
+  thumb_x: 648
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2164
+  thumb_total_height: 648
+- path: What We Do in the Shadows, Season 3.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=b9f801c4
+  thumb_x: 864
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2164
+  thumb_total_height: 648

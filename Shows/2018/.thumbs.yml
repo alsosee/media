@@ -1,53 +1,98 @@
 - path: Better Call Saul, Season 4.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=8304fca0
+  thumb: thumbnails_0.jpg?crc=40804b53
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1296
-  thumb_total_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
 - path: Succession.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=8304fca0
+  thumb: thumbnails_0.jpg?crc=40804b53
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1296
-  thumb_total_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
 - path: The Americans, Season 6.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=8304fca0
+  thumb: thumbnails_0.jpg?crc=40804b53
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1296
-  thumb_total_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
 - path: Arrested Development, Season 5.jpg
-  width: 533
-  height: 800
-  thumb: thumbnails_0.jpg?crc=8304fca0
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=40804b53
   thumb_x: 648
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1296
-  thumb_total_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
 - path: It's Always Sunny in Philadelphia, Season 13.jpg
-  width: 533
-  height: 800
-  thumb: thumbnails_0.jpg?crc=8304fca0
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=40804b53
   thumb_x: 864
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1296
-  thumb_total_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
 - path: Modern Family, Season 10.jpg
-  width: 533
-  height: 800
-  thumb: thumbnails_0.jpg?crc=8304fca0
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=40804b53
   thumb_x: 1080
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1296
-  thumb_total_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Atlanta, Season 2.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=40804b53
+  thumb_x: 1296
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Legion, Season 2.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=40804b53
+  thumb_x: 1512
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Maniac.jpg
+  width: 735
+  height: 1102
+  thumb: thumbnails_0.jpg?crc=40804b53
+  thumb_x: 1728
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Ozark, Season 2.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=40804b53
+  thumb_x: 1944
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: The Purge.jpg
+  width: 500
+  height: 750
+  thumb: thumbnails_0.jpg?crc=40804b53
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648

@@ -1,53 +1,98 @@
 - path: Groundhog Day.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=a63b6c11
+  thumb: thumbnails_0.jpg?crc=69d4ad3b
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1296
-  thumb_total_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
 - path: Jurassic Park.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=a63b6c11
+  thumb: thumbnails_0.jpg?crc=69d4ad3b
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1296
-  thumb_total_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
 - path: Last Action Hero.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=a63b6c11
+  thumb: thumbnails_0.jpg?crc=69d4ad3b
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1296
-  thumb_total_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
 - path: Schindler's List.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=a63b6c11
+  thumb: thumbnails_0.jpg?crc=69d4ad3b
   thumb_x: 648
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1296
-  thumb_total_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
 - path: Addams Family Values.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=a63b6c11
+  thumb: thumbnails_0.jpg?crc=69d4ad3b
   thumb_x: 864
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1296
-  thumb_total_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
 - path: Jason Goes to Hell The Final Friday.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=a63b6c11
+  thumb: thumbnails_0.jpg?crc=69d4ad3b
   thumb_x: 1080
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1296
-  thumb_total_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Dragon Ball Z Bojack Unbound.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=69d4ad3b
+  thumb_x: 1296
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Dragon Ball Z Broly - The Legendary Super Saiyan.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=69d4ad3b
+  thumb_x: 1512
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Once Upon a Time in China IV.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=69d4ad3b
+  thumb_x: 1728
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Son of the Pink Panther.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=69d4ad3b
+  thumb_x: 1944
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Supercop 2.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=69d4ad3b
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648

@@ -1,80 +1,108 @@
 - path: Halloween The Curse of Michael Myers.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=d2b677e8
+  thumb: thumbnails_0.jpg?crc=3961dcea
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1944
-  thumb_total_height: 324
+  thumb_total_width: 2166
+  thumb_total_height: 648
 - path: Judge Dredd.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=d2b677e8
+  thumb: thumbnails_0.jpg?crc=3961dcea
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1944
-  thumb_total_height: 324
+  thumb_total_width: 2166
+  thumb_total_height: 648
 - path: Mortal Kombat.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=d2b677e8
+  thumb: thumbnails_0.jpg?crc=3961dcea
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1944
-  thumb_total_height: 324
+  thumb_total_width: 2166
+  thumb_total_height: 648
 - path: Rob Roy.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=d2b677e8
+  thumb: thumbnails_0.jpg?crc=3961dcea
   thumb_x: 648
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1944
-  thumb_total_height: 324
+  thumb_total_width: 2166
+  thumb_total_height: 648
 - path: Bad Boys.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=d2b677e8
+  thumb: thumbnails_0.jpg?crc=3961dcea
   thumb_x: 864
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1944
-  thumb_total_height: 324
+  thumb_total_width: 2166
+  thumb_total_height: 648
 - path: Die Hard with a Vengeance.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=d2b677e8
+  thumb: thumbnails_0.jpg?crc=3961dcea
   thumb_x: 1080
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1944
-  thumb_total_height: 324
+  thumb_total_width: 2166
+  thumb_total_height: 648
 - path: GoldenEye.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=d2b677e8
+  thumb: thumbnails_0.jpg?crc=3961dcea
   thumb_x: 1296
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1944
-  thumb_total_height: 324
+  thumb_total_width: 2166
+  thumb_total_height: 648
 - path: Jumanji.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=d2b677e8
+  thumb: thumbnails_0.jpg?crc=3961dcea
   thumb_x: 1512
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1944
-  thumb_total_height: 324
+  thumb_total_width: 2166
+  thumb_total_height: 648
 - path: Before Sunrise.jpg
   width: 800
   height: 1199
-  thumb: thumbnails_0.jpg?crc=d2b677e8
+  thumb: thumbnails_0.jpg?crc=3961dcea
   thumb_x: 1728
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1944
-  thumb_total_height: 324
+  thumb_total_width: 2166
+  thumb_total_height: 648
+- path: Dragon Ball Z Fusion Reborn.jpg
+  width: 800
+  height: 1166
+  thumb: thumbnails_0.jpg?crc=3961dcea
+  thumb_x: 1944
+  thumb_width: 222
+  thumb_height: 324
+  thumb_total_width: 2166
+  thumb_total_height: 648
+- path: Dragon Ball Z Wrath of the Dragon.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=3961dcea
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2166
+  thumb_total_height: 648
+- path: Texas Chainsaw Massacre The Next Generation.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=3961dcea
+  thumb_x: 216
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2166
+  thumb_total_height: 648

@@ -1,53 +1,80 @@
 - path: Mad Men, Season 5.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=c8ce47b0
+  thumb: thumbnails_0.jpg?crc=a59740ae
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1296
+  thumb_total_width: 1944
   thumb_total_height: 324
 - path: 30 Rock, Season 6.jpg
-  width: 533
-  height: 800
-  thumb: thumbnails_0.jpg?crc=c8ce47b0
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=a59740ae
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1296
+  thumb_total_width: 1944
   thumb_total_height: 324
 - path: 30 Rock, Season 7.jpg
-  width: 533
-  height: 800
-  thumb: thumbnails_0.jpg?crc=c8ce47b0
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=a59740ae
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1296
+  thumb_total_width: 1944
   thumb_total_height: 324
 - path: It's Always Sunny in Philadelphia, Season 8.jpg
-  width: 533
-  height: 800
-  thumb: thumbnails_0.jpg?crc=c8ce47b0
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=a59740ae
   thumb_x: 648
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1296
+  thumb_total_width: 1944
   thumb_total_height: 324
 - path: Modern Family, Season 4.jpg
-  width: 533
-  height: 800
-  thumb: thumbnails_0.jpg?crc=c8ce47b0
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=a59740ae
   thumb_x: 864
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1296
+  thumb_total_width: 1944
   thumb_total_height: 324
 - path: Parks and Recreation, Season 5.jpg
-  width: 533
-  height: 800
-  thumb: thumbnails_0.jpg?crc=c8ce47b0
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=a59740ae
   thumb_x: 1080
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1296
+  thumb_total_width: 1944
+  thumb_total_height: 324
+- path: Breaking Bad, Season 5.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=a59740ae
+  thumb_x: 1296
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1944
+  thumb_total_height: 324
+- path: Dexter, Season 7.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=a59740ae
+  thumb_x: 1512
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1944
+  thumb_total_height: 324
+- path: Game of Thrones, Season 2.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=a59740ae
+  thumb_x: 1728
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1944
   thumb_total_height: 324

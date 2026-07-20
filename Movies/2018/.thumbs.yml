@@ -483,3 +483,47 @@
   thumb_height: 324
   thumb_total_width: 2160
   thumb_total_height: 1620
+- path: Dragon Ball Super Broly.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_1.jpg?crc=49016e0c
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1080
+  thumb_total_height: 324
+- path: Hellraiser Judgment.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_1.jpg?crc=49016e0c
+  thumb_x: 216
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1080
+  thumb_total_height: 324
+- path: Master Z The Ip Man Legacy.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_1.jpg?crc=49016e0c
+  thumb_x: 432
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1080
+  thumb_total_height: 324
+- path: My Hero Academia Two Heroes.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_1.jpg?crc=49016e0c
+  thumb_x: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1080
+  thumb_total_height: 324
+- path: Pokémon the Movie The Power of Us.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_1.jpg?crc=49016e0c
+  thumb_x: 864
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1080
+  thumb_total_height: 324

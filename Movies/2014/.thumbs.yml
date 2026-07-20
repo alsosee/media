@@ -1,7 +1,7 @@
 - path: John Wick.jpg
   width: 800
   height: 1199
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2164
@@ -9,7 +9,7 @@
 - path: The Grand Budapest Hotel.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
@@ -18,7 +18,7 @@
 - path: Guardians of the Galaxy.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
@@ -27,7 +27,7 @@
 - path: The Theory Of Everything.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_x: 648
   thumb_width: 216
   thumb_height: 324
@@ -36,7 +36,7 @@
 - path: Whiplash.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_x: 864
   thumb_width: 216
   thumb_height: 324
@@ -45,7 +45,7 @@
 - path: Annabelle.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_x: 1080
   thumb_width: 216
   thumb_height: 324
@@ -54,7 +54,7 @@
 - path: Birdman or (The Unexpected Virtue of Ignorance).jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_x: 1296
   thumb_width: 216
   thumb_height: 324
@@ -63,7 +63,7 @@
 - path: Boyhood.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_x: 1512
   thumb_width: 216
   thumb_height: 324
@@ -72,7 +72,7 @@
 - path: Captain America The Winter Soldier.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_x: 1728
   thumb_width: 216
   thumb_height: 324
@@ -81,7 +81,7 @@
 - path: Dawn of the Planet of the Apes.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_x: 1944
   thumb_width: 216
   thumb_height: 324
@@ -90,7 +90,7 @@
 - path: Divergent.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
@@ -99,7 +99,7 @@
 - path: Edge of Tomorrow.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_x: 216
   thumb_y: 324
   thumb_width: 216
@@ -109,7 +109,7 @@
 - path: Ex Machina.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_x: 432
   thumb_y: 324
   thumb_width: 216
@@ -119,7 +119,7 @@
 - path: Force Majeure.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_x: 648
   thumb_y: 324
   thumb_width: 216
@@ -129,7 +129,7 @@
 - path: Foxcatcher.jpg
   width: 800
   height: 1201
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_x: 864
   thumb_y: 324
   thumb_width: 216
@@ -139,7 +139,7 @@
 - path: Godzilla.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_x: 1080
   thumb_y: 324
   thumb_width: 216
@@ -149,7 +149,7 @@
 - path: Gone Girl.jpg
   width: 800
   height: 1178
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_x: 1296
   thumb_y: 324
   thumb_width: 220
@@ -159,7 +159,7 @@
 - path: Inherent Vice.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_x: 1516
   thumb_y: 324
   thumb_width: 216
@@ -169,7 +169,7 @@
 - path: Interstellar.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_x: 1732
   thumb_y: 324
   thumb_width: 216
@@ -179,7 +179,7 @@
 - path: It Follows.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_x: 1948
   thumb_y: 324
   thumb_width: 216
@@ -189,7 +189,7 @@
 - path: Mommy.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_y: 648
   thumb_width: 216
   thumb_height: 324
@@ -198,7 +198,7 @@
 - path: Nightcrawler.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_x: 216
   thumb_y: 648
   thumb_width: 216
@@ -208,7 +208,7 @@
 - path: Paddington.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_x: 432
   thumb_y: 648
   thumb_width: 216
@@ -218,7 +218,7 @@
 - path: Paranormal Activity The Marked Ones.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_x: 648
   thumb_y: 648
   thumb_width: 216
@@ -228,7 +228,7 @@
 - path: Penguins of Madagascar.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_x: 864
   thumb_y: 648
   thumb_width: 216
@@ -238,7 +238,7 @@
 - path: Predestination.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_x: 1080
   thumb_y: 648
   thumb_width: 216
@@ -248,7 +248,7 @@
 - path: Raid 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_x: 1296
   thumb_y: 648
   thumb_width: 216
@@ -258,7 +258,7 @@
 - path: The Hobbit The Battle of the Five Armies.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_x: 1512
   thumb_y: 648
   thumb_width: 216
@@ -268,7 +268,7 @@
 - path: The Hunger Games Mockingjay – Part 1.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_x: 1728
   thumb_y: 648
   thumb_width: 216
@@ -278,7 +278,7 @@
 - path: The Imitation Game.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_x: 1944
   thumb_y: 648
   thumb_width: 216
@@ -288,7 +288,7 @@
 - path: The Lego Movie.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_y: 972
   thumb_width: 216
   thumb_height: 324
@@ -297,7 +297,7 @@
 - path: The Purge Anarchy.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_x: 216
   thumb_y: 972
   thumb_width: 216
@@ -307,7 +307,7 @@
 - path: Transformers Age of Extinction.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_x: 432
   thumb_y: 972
   thumb_width: 216
@@ -317,7 +317,7 @@
 - path: What We Do in the Shadows.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_x: 648
   thumb_y: 972
   thumb_width: 216
@@ -327,7 +327,7 @@
 - path: Wild Tales.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_x: 864
   thumb_y: 972
   thumb_width: 216
@@ -337,7 +337,7 @@
 - path: X-Men Days of Future Past.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_x: 1080
   thumb_y: 972
   thumb_width: 216
@@ -347,7 +347,7 @@
 - path: How to Train Your Dragon 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_x: 1296
   thumb_y: 972
   thumb_width: 216
@@ -357,7 +357,7 @@
 - path: Kingsman The Secret Service.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_x: 1512
   thumb_y: 972
   thumb_width: 216
@@ -367,7 +367,7 @@
 - path: Taken 3.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_x: 1728
   thumb_y: 972
   thumb_width: 216
@@ -377,7 +377,7 @@
 - path: The Equalizer.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_x: 1944
   thumb_y: 972
   thumb_width: 216
@@ -387,7 +387,7 @@
 - path: The Expendables 3.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_y: 1296
   thumb_width: 216
   thumb_height: 324
@@ -396,8 +396,18 @@
 - path: The Maze Runner.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=188b6a5e
+  thumb: thumbnails_0.jpg?crc=abc49a45
   thumb_x: 216
+  thumb_y: 1296
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2164
+  thumb_total_height: 1620
+- path: Pokémon the Movie Diancie and the Cocoon of Destruction.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=abc49a45
+  thumb_x: 432
   thumb_y: 1296
   thumb_width: 216
   thumb_height: 324

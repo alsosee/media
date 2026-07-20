@@ -1,89 +1,98 @@
 - path: Back to the Future.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=17f9ab4b
+  thumb: thumbnails_0.jpg?crc=5fe6ebb
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Mad Max 3.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=17f9ab4b
+  thumb: thumbnails_0.jpg?crc=5fe6ebb
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Police story.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=17f9ab4b
+  thumb: thumbnails_0.jpg?crc=5fe6ebb
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Rambo First Blood Part II.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=17f9ab4b
+  thumb: thumbnails_0.jpg?crc=5fe6ebb
   thumb_x: 648
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Rocky IV.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=17f9ab4b
+  thumb: thumbnails_0.jpg?crc=5fe6ebb
   thumb_x: 864
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: A Nightmare on Elm Street 2 Freddy's Revenge.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=17f9ab4b
+  thumb: thumbnails_0.jpg?crc=5fe6ebb
   thumb_x: 1080
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: A View to a Kill.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=17f9ab4b
+  thumb: thumbnails_0.jpg?crc=5fe6ebb
   thumb_x: 1296
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: American Ninja.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=17f9ab4b
+  thumb: thumbnails_0.jpg?crc=5fe6ebb
   thumb_x: 1512
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Clue.jpg
   width: 800
   height: 1196
-  thumb: thumbnails_0.jpg?crc=17f9ab4b
+  thumb: thumbnails_0.jpg?crc=5fe6ebb
   thumb_x: 1728
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Friday the 13th A New Beginning.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=17f9ab4b
+  thumb: thumbnails_0.jpg?crc=5fe6ebb
   thumb_x: 1944
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
-  thumb_total_height: 324
+  thumb_total_height: 648
+- path: Police Academy 2 Their First Assignment.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=5fe6ebb
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648

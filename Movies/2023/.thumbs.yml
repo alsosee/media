@@ -486,8 +486,44 @@
 - path: The Marvels.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_1.jpg?crc=39ebb3ef
+  thumb: thumbnails_1.jpg?crc=4f46889
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 216
+  thumb_total_width: 1080
+  thumb_total_height: 324
+- path: Demon Slayer Kimetsu no Yaiba To the Swordsmith Village.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_1.jpg?crc=4f46889
+  thumb_x: 216
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1080
+  thumb_total_height: 324
+- path: Diary of a Wimpy Kid Christmas Cabin Fever.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_1.jpg?crc=4f46889
+  thumb_x: 432
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1080
+  thumb_total_height: 324
+- path: Evil Dead Rise.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_1.jpg?crc=4f46889
+  thumb_x: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1080
+  thumb_total_height: 324
+- path: The Exorcist Believer.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_1.jpg?crc=4f46889
+  thumb_x: 864
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1080
   thumb_total_height: 324

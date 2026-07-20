@@ -1,26 +1,98 @@
 - path: Succession, Season 4.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e46e9c74
+  thumb: thumbnails_0.jpg?crc=8898bc16
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 648
-  thumb_total_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
 - path: It's Always Sunny in Philadelphia, Season 16.jpg
-  width: 533
-  height: 800
-  thumb: thumbnails_0.jpg?crc=e46e9c74
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=8898bc16
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 648
-  thumb_total_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
 - path: Ted Lasso, Season 3.jpg
-  width: 533
-  height: 800
-  thumb: thumbnails_0.jpg?crc=e46e9c74
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=8898bc16
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 648
-  thumb_total_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Painkiller.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=8898bc16
+  thumb_x: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Scavengers Reign.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=8898bc16
+  thumb_x: 864
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Silo Series.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=8898bc16
+  thumb_x: 1080
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Silo.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=8898bc16
+  thumb_x: 1296
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Star Trek Picard, Season 3.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=8898bc16
+  thumb_x: 1512
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Star Trek Strange New Worlds, Season 2.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=8898bc16
+  thumb_x: 1728
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: The Mandalorian, Season 3.jpg
+  width: 500
+  height: 750
+  thumb: thumbnails_0.jpg?crc=8898bc16
+  thumb_x: 1944
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: What We Do in the Shadows, Season 5.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=8898bc16
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648

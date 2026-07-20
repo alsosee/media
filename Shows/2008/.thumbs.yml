@@ -1,35 +1,71 @@
 - path: Mad Men, Season 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e4f7383d
+  thumb: thumbnails_0.jpg?crc=2e10f55a
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 864
+  thumb_total_width: 1728
   thumb_total_height: 324
 - path: The Wire, Season 5.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e4f7383d
+  thumb: thumbnails_0.jpg?crc=2e10f55a
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 864
+  thumb_total_width: 1728
   thumb_total_height: 324
 - path: 30 Rock, Season 3.jpg
-  width: 533
-  height: 800
-  thumb: thumbnails_0.jpg?crc=e4f7383d
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=2e10f55a
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 864
+  thumb_total_width: 1728
   thumb_total_height: 324
 - path: It's Always Sunny in Philadelphia, Season 4.jpg
-  width: 533
-  height: 800
-  thumb: thumbnails_0.jpg?crc=e4f7383d
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=2e10f55a
   thumb_x: 648
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 864
+  thumb_total_width: 1728
+  thumb_total_height: 324
+- path: Breaking Bad.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=2e10f55a
+  thumb_x: 864
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1728
+  thumb_total_height: 324
+- path: Dexter, Season 3.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=2e10f55a
+  thumb_x: 1080
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1728
+  thumb_total_height: 324
+- path: Fringe.jpg
+  width: 667
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=2e10f55a
+  thumb_x: 1296
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1728
+  thumb_total_height: 324
+- path: The Penguins of Madagascar.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=2e10f55a
+  thumb_x: 1512
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1728
   thumb_total_height: 324

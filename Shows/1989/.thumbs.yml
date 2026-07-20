@@ -1,17 +1,26 @@
 - path: Cheers, Season 8.jpg
-  width: 533
-  height: 800
-  thumb: thumbnails_0.jpg?crc=296c8572
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=f26a3d66
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 432
+  thumb_total_width: 648
   thumb_total_height: 324
 - path: Seinfeld.jpg
-  width: 533
-  height: 800
-  thumb: thumbnails_0.jpg?crc=296c8572
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=f26a3d66
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 432
+  thumb_total_width: 648
+  thumb_total_height: 324
+- path: Chip 'n Dale Rescue Rangers.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=f26a3d66
+  thumb_x: 432
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 648
   thumb_total_height: 324

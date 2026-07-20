@@ -1,26 +1,35 @@
 - path: Battle for the Planet of the Apes.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e6ea5b8
+  thumb: thumbnails_0.jpg?crc=7a7a7e2d
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 648
+  thumb_total_width: 864
   thumb_total_height: 324
 - path: Enter the Dragon.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e6ea5b8
+  thumb: thumbnails_0.jpg?crc=7a7a7e2d
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 648
+  thumb_total_width: 864
   thumb_total_height: 324
 - path: Live and Let Die.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e6ea5b8
+  thumb: thumbnails_0.jpg?crc=7a7a7e2d
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 648
+  thumb_total_width: 864
+  thumb_total_height: 324
+- path: The Exorcist.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=7a7a7e2d
+  thumb_x: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 864
   thumb_total_height: 324

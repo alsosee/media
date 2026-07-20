@@ -1,35 +1,44 @@
 - path: Chinatown.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e76dd8b6
+  thumb: thumbnails_0.jpg?crc=3435c5e1
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 864
+  thumb_total_width: 1080
   thumb_total_height: 324
 - path: Death Wish.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e76dd8b6
+  thumb: thumbnails_0.jpg?crc=3435c5e1
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 864
+  thumb_total_width: 1080
   thumb_total_height: 324
 - path: The Godfather Part II.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e76dd8b6
+  thumb: thumbnails_0.jpg?crc=3435c5e1
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 864
+  thumb_total_width: 1080
   thumb_total_height: 324
 - path: The Man with the Golden Gun.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e76dd8b6
+  thumb: thumbnails_0.jpg?crc=3435c5e1
   thumb_x: 648
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 864
+  thumb_total_width: 1080
+  thumb_total_height: 324
+- path: The Texas Chain Saw Massacre.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=3435c5e1
+  thumb_x: 864
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1080
   thumb_total_height: 324

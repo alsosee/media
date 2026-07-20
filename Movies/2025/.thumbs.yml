@@ -1,178 +1,217 @@
 - path: A House of Dynamite.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=9669623
+  thumb: thumbnails_0.jpg?crc=4925132f
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_width: 2163
+  thumb_total_height: 972
 - path: Bugonia.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=9669623
+  thumb: thumbnails_0.jpg?crc=4925132f
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_width: 2163
+  thumb_total_height: 972
 - path: Captain America Brave New World.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=9669623
+  thumb: thumbnails_0.jpg?crc=4925132f
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_width: 2163
+  thumb_total_height: 972
 - path: From the World of John Wick Ballerina.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=9669623
+  thumb: thumbnails_0.jpg?crc=4925132f
   thumb_x: 648
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_width: 2163
+  thumb_total_height: 972
 - path: Hamnet.jpg
   width: 800
   height: 1199
-  thumb: thumbnails_0.jpg?crc=9669623
+  thumb: thumbnails_0.jpg?crc=4925132f
   thumb_x: 864
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_width: 2163
+  thumb_total_height: 972
 - path: I Swear.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=9669623
+  thumb: thumbnails_0.jpg?crc=4925132f
   thumb_x: 1080
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_width: 2163
+  thumb_total_height: 972
 - path: Predator Badlands.jpg
   width: 529
   height: 794
-  thumb: thumbnails_0.jpg?crc=9669623
+  thumb: thumbnails_0.jpg?crc=4925132f
   thumb_x: 1296
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_width: 2163
+  thumb_total_height: 972
 - path: Jurassic World Rebirth.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=9669623
+  thumb: thumbnails_0.jpg?crc=4925132f
   thumb_x: 1512
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_width: 2163
+  thumb_total_height: 972
 - path: Mission Impossible The Final Reckoning.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=9669623
+  thumb: thumbnails_0.jpg?crc=4925132f
   thumb_x: 1728
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_width: 2163
+  thumb_total_height: 972
 - path: Sinners.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=9669623
+  thumb: thumbnails_0.jpg?crc=4925132f
   thumb_x: 1944
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_width: 2163
+  thumb_total_height: 972
 - path: Superman.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=9669623
+  thumb: thumbnails_0.jpg?crc=4925132f
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_width: 2163
+  thumb_total_height: 972
 - path: The Conjuring Last Rites.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=9669623
+  thumb: thumbnails_0.jpg?crc=4925132f
   thumb_x: 216
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_width: 2163
+  thumb_total_height: 972
 - path: Train Dreams.jpg
   width: 800
   height: 1185
-  thumb: thumbnails_0.jpg?crc=9669623
+  thumb: thumbnails_0.jpg?crc=4925132f
   thumb_x: 432
   thumb_y: 324
   thumb_width: 219
   thumb_height: 324
-  thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_width: 2163
+  thumb_total_height: 972
 - path: Final Destination Bloodlines.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=9669623
+  thumb: thumbnails_0.jpg?crc=4925132f
   thumb_x: 651
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_width: 2163
+  thumb_total_height: 972
 - path: How to Train Your Dragon.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=9669623
+  thumb: thumbnails_0.jpg?crc=4925132f
   thumb_x: 867
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_width: 2163
+  thumb_total_height: 972
 - path: Predator Killer of Killers.jpg
   width: 800
   height: 1199
-  thumb: thumbnails_0.jpg?crc=9669623
+  thumb: thumbnails_0.jpg?crc=4925132f
   thumb_x: 1083
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_width: 2163
+  thumb_total_height: 972
 - path: The SpongeBob Movie Search for SquarePants.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=9669623
+  thumb: thumbnails_0.jpg?crc=4925132f
   thumb_x: 1299
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_width: 2163
+  thumb_total_height: 972
 - path: Thunderbolts.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=9669623
+  thumb: thumbnails_0.jpg?crc=4925132f
   thumb_x: 1515
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_width: 2163
+  thumb_total_height: 972
 - path: Wake Up Dead Man.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=9669623
+  thumb: thumbnails_0.jpg?crc=4925132f
   thumb_x: 1731
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_width: 2163
+  thumb_total_height: 972
+- path: Demon Slayer Kimetsu no Yaiba Infinity Castle.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=4925132f
+  thumb_x: 1947
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2163
+  thumb_total_height: 972
+- path: Diary of a Wimpy Kid The Last Straw.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=4925132f
+  thumb_y: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2163
+  thumb_total_height: 972
+- path: Karate Kid Legends.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=4925132f
+  thumb_x: 216
+  thumb_y: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2163
+  thumb_total_height: 972
+- path: The Naked Gun.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=4925132f
+  thumb_x: 432
+  thumb_y: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2163
+  thumb_total_height: 972

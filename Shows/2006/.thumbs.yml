@@ -1,44 +1,71 @@
 - path: Deadwood, Season 3.jpg
-  width: 680
-  height: 1000
-  thumb: thumbnails_0.jpg?crc=e8151547
-  thumb_width: 220
+  width: 400
+  height: 578
+  thumb: thumbnails_0.jpg?crc=adfadeff
+  thumb_width: 224
   thumb_height: 324
-  thumb_total_width: 1084
+  thumb_total_width: 1736
   thumb_total_height: 324
 - path: The Sopranos, Season 6.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e8151547
-  thumb_x: 220
+  thumb: thumbnails_0.jpg?crc=adfadeff
+  thumb_x: 224
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1084
+  thumb_total_width: 1736
   thumb_total_height: 324
 - path: The Wire, Season 4.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e8151547
-  thumb_x: 436
+  thumb: thumbnails_0.jpg?crc=adfadeff
+  thumb_x: 440
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1084
+  thumb_total_width: 1736
   thumb_total_height: 324
 - path: 30 Rock.jpg
-  width: 533
-  height: 800
-  thumb: thumbnails_0.jpg?crc=e8151547
-  thumb_x: 652
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=adfadeff
+  thumb_x: 656
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1084
+  thumb_total_width: 1736
   thumb_total_height: 324
 - path: It's Always Sunny in Philadelphia, Season 2.jpg
-  width: 533
-  height: 800
-  thumb: thumbnails_0.jpg?crc=e8151547
-  thumb_x: 868
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=adfadeff
+  thumb_x: 872
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1084
+  thumb_total_width: 1736
+  thumb_total_height: 324
+- path: Avatar The Last Airbender, Season 2.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=adfadeff
+  thumb_x: 1088
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1736
+  thumb_total_height: 324
+- path: Dexter Series.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=adfadeff
+  thumb_x: 1304
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1736
+  thumb_total_height: 324
+- path: Dexter.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=adfadeff
+  thumb_x: 1520
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1736
   thumb_total_height: 324

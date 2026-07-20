@@ -1,71 +1,138 @@
 - path: Mad Men, Season 6.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=c38ffdb6
+  thumb: thumbnails_0.jpg?crc=20581827
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1728
-  thumb_total_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
 - path: The Americans.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=c38ffdb6
+  thumb: thumbnails_0.jpg?crc=20581827
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1728
-  thumb_total_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
 - path: Arrested Development, Season 4.jpg
-  width: 533
-  height: 800
-  thumb: thumbnails_0.jpg?crc=c38ffdb6
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=20581827
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1728
-  thumb_total_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
 - path: Brooklyn Nine-Nine.jpg
-  width: 533
-  height: 800
-  thumb: thumbnails_0.jpg?crc=c38ffdb6
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=20581827
   thumb_x: 648
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1728
-  thumb_total_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
 - path: Community, Season 4.jpg
-  width: 533
-  height: 800
-  thumb: thumbnails_0.jpg?crc=c38ffdb6
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=20581827
   thumb_x: 864
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1728
-  thumb_total_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
 - path: It's Always Sunny in Philadelphia, Season 9.jpg
-  width: 533
-  height: 800
-  thumb: thumbnails_0.jpg?crc=c38ffdb6
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=20581827
   thumb_x: 1080
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1728
-  thumb_total_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
 - path: Modern Family, Season 5.jpg
-  width: 533
-  height: 800
-  thumb: thumbnails_0.jpg?crc=c38ffdb6
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=20581827
   thumb_x: 1296
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1728
-  thumb_total_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
 - path: Parks and Recreation, Season 6.jpg
-  width: 533
-  height: 800
-  thumb: thumbnails_0.jpg?crc=c38ffdb6
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=20581827
   thumb_x: 1512
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1728
-  thumb_total_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Black Mirror, Season 2.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=20581827
+  thumb_x: 1728
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Dexter, Season 8.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=20581827
+  thumb_x: 1944
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Game of Thrones, Season 3.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=20581827
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: House of Cards.jpg
+  width: 800
+  height: 1141
+  thumb: thumbnails_0.jpg?crc=20581827
+  thumb_x: 216
+  thumb_y: 324
+  thumb_width: 227
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Luther, Season 3.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=20581827
+  thumb_x: 443
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Marvel's Agents of S.H.I.E.L.D..jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=20581827
+  thumb_x: 659
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: Rectify.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=20581827
+  thumb_x: 875
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
