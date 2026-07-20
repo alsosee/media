@@ -1,26 +1,53 @@
 - path: Better Call Saul, Season 4.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=322ac2a0
+  thumb: thumbnails_0.jpg?crc=8304fca0
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 648
+  thumb_total_width: 1296
   thumb_total_height: 324
 - path: Succession.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=322ac2a0
+  thumb: thumbnails_0.jpg?crc=8304fca0
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 648
+  thumb_total_width: 1296
   thumb_total_height: 324
 - path: The Americans, Season 6.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=322ac2a0
+  thumb: thumbnails_0.jpg?crc=8304fca0
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 648
+  thumb_total_width: 1296
+  thumb_total_height: 324
+- path: Arrested Development, Season 5.jpg
+  width: 533
+  height: 800
+  thumb: thumbnails_0.jpg?crc=8304fca0
+  thumb_x: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1296
+  thumb_total_height: 324
+- path: It's Always Sunny in Philadelphia, Season 13.jpg
+  width: 533
+  height: 800
+  thumb: thumbnails_0.jpg?crc=8304fca0
+  thumb_x: 864
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1296
+  thumb_total_height: 324
+- path: Modern Family, Season 10.jpg
+  width: 533
+  height: 800
+  thumb: thumbnails_0.jpg?crc=8304fca0
+  thumb_x: 1080
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1296
   thumb_total_height: 324

@@ -1,26 +1,53 @@
 - path: Chernobyl.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=b5ad6f74
+  thumb: thumbnails_0.jpg?crc=db6493cd
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 652
+  thumb_total_width: 1300
   thumb_total_height: 324
 - path: Succession, Season 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=b5ad6f74
+  thumb: thumbnails_0.jpg?crc=db6493cd
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 652
+  thumb_total_width: 1300
   thumb_total_height: 324
 - path: True Detective, Season 3.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=b5ad6f74
+  thumb: thumbnails_0.jpg?crc=db6493cd
   thumb_x: 432
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 652
+  thumb_total_width: 1300
+  thumb_total_height: 324
+- path: Brooklyn Nine-Nine, Season 6.jpg
+  width: 533
+  height: 800
+  thumb: thumbnails_0.jpg?crc=db6493cd
+  thumb_x: 652
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1300
+  thumb_total_height: 324
+- path: It's Always Sunny in Philadelphia, Season 14.jpg
+  width: 533
+  height: 800
+  thumb: thumbnails_0.jpg?crc=db6493cd
+  thumb_x: 868
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1300
+  thumb_total_height: 324
+- path: Modern Family, Season 11.jpg
+  width: 533
+  height: 800
+  thumb: thumbnails_0.jpg?crc=db6493cd
+  thumb_x: 1084
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1300
   thumb_total_height: 324

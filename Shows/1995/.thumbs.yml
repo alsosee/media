@@ -1,0 +1,17 @@
+- path: Frasier, Season 3.jpg
+  width: 533
+  height: 800
+  thumb: thumbnails_0.jpg?crc=d2cf0f5c
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 432
+  thumb_total_height: 324
+- path: Seinfeld, Season 7.jpg
+  width: 533
+  height: 800
+  thumb: thumbnails_0.jpg?crc=d2cf0f5c
+  thumb_x: 216
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 432
+  thumb_total_height: 324

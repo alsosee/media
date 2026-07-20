@@ -1,17 +1,53 @@
 - path: Better Call Saul, Season 3.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=9da84f27
+  thumb: thumbnails_0.jpg?crc=bb64ae1
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 432
+  thumb_total_width: 1296
   thumb_total_height: 324
 - path: The Americans, Season 5.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=9da84f27
+  thumb: thumbnails_0.jpg?crc=bb64ae1
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 432
+  thumb_total_width: 1296
+  thumb_total_height: 324
+- path: Brooklyn Nine-Nine, Season 5.jpg
+  width: 533
+  height: 800
+  thumb: thumbnails_0.jpg?crc=bb64ae1
+  thumb_x: 432
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1296
+  thumb_total_height: 324
+- path: Curb Your Enthusiasm, Season 9.jpg
+  width: 533
+  height: 800
+  thumb: thumbnails_0.jpg?crc=bb64ae1
+  thumb_x: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1296
+  thumb_total_height: 324
+- path: It's Always Sunny in Philadelphia, Season 12.jpg
+  width: 533
+  height: 800
+  thumb: thumbnails_0.jpg?crc=bb64ae1
+  thumb_x: 864
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1296
+  thumb_total_height: 324
+- path: Modern Family, Season 9.jpg
+  width: 533
+  height: 800
+  thumb: thumbnails_0.jpg?crc=bb64ae1
+  thumb_x: 1080
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1296
   thumb_total_height: 324
