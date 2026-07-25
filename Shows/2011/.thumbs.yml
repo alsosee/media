@@ -1,7 +1,7 @@
 - path: Community, Season 3.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=70d9f3ba
+  thumb: thumbnails_0.jpg?crc=834d5c9f
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
@@ -9,7 +9,7 @@
 - path: Curb Your Enthusiasm, Season 8.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=70d9f3ba
+  thumb: thumbnails_0.jpg?crc=834d5c9f
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
@@ -18,7 +18,7 @@
 - path: It's Always Sunny in Philadelphia, Season 7.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=70d9f3ba
+  thumb: thumbnails_0.jpg?crc=834d5c9f
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
@@ -27,7 +27,7 @@
 - path: Modern Family, Season 3.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=70d9f3ba
+  thumb: thumbnails_0.jpg?crc=834d5c9f
   thumb_x: 648
   thumb_width: 216
   thumb_height: 324
@@ -36,7 +36,7 @@
 - path: Parks and Recreation, Season 3.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=70d9f3ba
+  thumb: thumbnails_0.jpg?crc=834d5c9f
   thumb_x: 864
   thumb_width: 216
   thumb_height: 324
@@ -45,7 +45,7 @@
 - path: Parks and Recreation, Season 4.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=70d9f3ba
+  thumb: thumbnails_0.jpg?crc=834d5c9f
   thumb_x: 1080
   thumb_width: 216
   thumb_height: 324
@@ -54,7 +54,7 @@
 - path: Black Mirror.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=70d9f3ba
+  thumb: thumbnails_0.jpg?crc=834d5c9f
   thumb_x: 1296
   thumb_width: 216
   thumb_height: 324
@@ -63,7 +63,7 @@
 - path: Breaking Bad, Season 4.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=70d9f3ba
+  thumb: thumbnails_0.jpg?crc=834d5c9f
   thumb_x: 1512
   thumb_width: 216
   thumb_height: 324
@@ -72,7 +72,7 @@
 - path: Dexter, Season 6.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=70d9f3ba
+  thumb: thumbnails_0.jpg?crc=834d5c9f
   thumb_x: 1728
   thumb_width: 216
   thumb_height: 324
@@ -81,7 +81,7 @@
 - path: Game of Thrones.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=70d9f3ba
+  thumb: thumbnails_0.jpg?crc=834d5c9f
   thumb_x: 1944
   thumb_width: 216
   thumb_height: 324
@@ -90,7 +90,7 @@
 - path: Haven, Season 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=70d9f3ba
+  thumb: thumbnails_0.jpg?crc=834d5c9f
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
@@ -99,7 +99,7 @@
 - path: Luther, Season 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=70d9f3ba
+  thumb: thumbnails_0.jpg?crc=834d5c9f
   thumb_x: 216
   thumb_y: 324
   thumb_width: 216
@@ -109,8 +109,28 @@
 - path: The Walking Dead, Season 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=70d9f3ba
+  thumb: thumbnails_0.jpg?crc=834d5c9f
   thumb_x: 432
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: One Piece, Season 14.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=834d5c9f
+  thumb_x: 648
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: One Piece, Season 15.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=834d5c9f
+  thumb_x: 864
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324

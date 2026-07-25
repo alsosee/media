@@ -1,53 +1,62 @@
 - path: Mad Men.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e0913c83
+  thumb: thumbnails_0.jpg?crc=2e91d297
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1304
+  thumb_total_width: 1520
   thumb_total_height: 324
 - path: 30 Rock, Season 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e0913c83
+  thumb: thumbnails_0.jpg?crc=2e91d297
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1304
+  thumb_total_width: 1520
   thumb_total_height: 324
 - path: Curb Your Enthusiasm, Season 6.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e0913c83
+  thumb: thumbnails_0.jpg?crc=2e91d297
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1304
+  thumb_total_width: 1520
   thumb_total_height: 324
 - path: It's Always Sunny in Philadelphia, Season 3.jpg
   width: 400
   height: 578
-  thumb: thumbnails_0.jpg?crc=e0913c83
+  thumb: thumbnails_0.jpg?crc=2e91d297
   thumb_x: 648
   thumb_width: 224
   thumb_height: 324
-  thumb_total_width: 1304
+  thumb_total_width: 1520
   thumb_total_height: 324
 - path: Avatar The Last Airbender, Season 3.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e0913c83
+  thumb: thumbnails_0.jpg?crc=2e91d297
   thumb_x: 872
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1304
+  thumb_total_width: 1520
   thumb_total_height: 324
 - path: Dexter, Season 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e0913c83
+  thumb: thumbnails_0.jpg?crc=2e91d297
   thumb_x: 1088
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1304
+  thumb_total_width: 1520
+  thumb_total_height: 324
+- path: One Piece, Season 12.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=2e91d297
+  thumb_x: 1304
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1520
   thumb_total_height: 324

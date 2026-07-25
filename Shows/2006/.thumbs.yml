@@ -1,71 +1,98 @@
 - path: Deadwood, Season 3.jpg
   width: 400
   height: 578
-  thumb: thumbnails_0.jpg?crc=adfadeff
+  thumb: thumbnails_0.jpg?crc=6e8e8826
   thumb_width: 224
   thumb_height: 324
-  thumb_total_width: 1736
-  thumb_total_height: 324
+  thumb_total_width: 2168
+  thumb_total_height: 648
 - path: The Sopranos, Season 6.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=adfadeff
+  thumb: thumbnails_0.jpg?crc=6e8e8826
   thumb_x: 224
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1736
-  thumb_total_height: 324
+  thumb_total_width: 2168
+  thumb_total_height: 648
 - path: The Wire, Season 4.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=adfadeff
+  thumb: thumbnails_0.jpg?crc=6e8e8826
   thumb_x: 440
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1736
-  thumb_total_height: 324
+  thumb_total_width: 2168
+  thumb_total_height: 648
 - path: 30 Rock.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=adfadeff
+  thumb: thumbnails_0.jpg?crc=6e8e8826
   thumb_x: 656
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1736
-  thumb_total_height: 324
+  thumb_total_width: 2168
+  thumb_total_height: 648
 - path: It's Always Sunny in Philadelphia, Season 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=adfadeff
+  thumb: thumbnails_0.jpg?crc=6e8e8826
   thumb_x: 872
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1736
-  thumb_total_height: 324
+  thumb_total_width: 2168
+  thumb_total_height: 648
 - path: Avatar The Last Airbender, Season 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=adfadeff
+  thumb: thumbnails_0.jpg?crc=6e8e8826
   thumb_x: 1088
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1736
-  thumb_total_height: 324
+  thumb_total_width: 2168
+  thumb_total_height: 648
 - path: Dexter Series.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=adfadeff
+  thumb: thumbnails_0.jpg?crc=6e8e8826
   thumb_x: 1304
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1736
-  thumb_total_height: 324
+  thumb_total_width: 2168
+  thumb_total_height: 648
 - path: Dexter.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=adfadeff
+  thumb: thumbnails_0.jpg?crc=6e8e8826
   thumb_x: 1520
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1736
-  thumb_total_height: 324
+  thumb_total_width: 2168
+  thumb_total_height: 648
+- path: Death Note.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=6e8e8826
+  thumb_x: 1736
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2168
+  thumb_total_height: 648
+- path: Naruto, Season 8.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=6e8e8826
+  thumb_x: 1952
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2168
+  thumb_total_height: 648
+- path: Naruto, Season 9.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=6e8e8826
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2168
+  thumb_total_height: 648

@@ -1,35 +1,44 @@
 - path: The Sopranos.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=d436a9bb
+  thumb: thumbnails_0.jpg?crc=6e710b27
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 864
+  thumb_total_width: 1080
   thumb_total_height: 324
 - path: Frasier, Season 7.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=d436a9bb
+  thumb: thumbnails_0.jpg?crc=6e710b27
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 864
+  thumb_total_width: 1080
   thumb_total_height: 324
 - path: SpongeBob SquarePants Series.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=d436a9bb
+  thumb: thumbnails_0.jpg?crc=6e710b27
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 864
+  thumb_total_width: 1080
   thumb_total_height: 324
 - path: SpongeBob SquarePants.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=d436a9bb
+  thumb: thumbnails_0.jpg?crc=6e710b27
   thumb_x: 648
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 864
+  thumb_total_width: 1080
+  thumb_total_height: 324
+- path: One Piece.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=6e710b27
+  thumb_x: 864
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1080
   thumb_total_height: 324
