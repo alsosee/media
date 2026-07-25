@@ -1,7 +1,7 @@
 - path: True Detective, Season 4.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=c1751c56
+  thumb: thumbnails_0.jpg?crc=a88dd9a0
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2160
@@ -9,7 +9,7 @@
 - path: Curb Your Enthusiasm, Season 12.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=c1751c56
+  thumb: thumbnails_0.jpg?crc=a88dd9a0
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
@@ -18,7 +18,7 @@
 - path: 3 Body Problem.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=c1751c56
+  thumb: thumbnails_0.jpg?crc=a88dd9a0
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
@@ -27,7 +27,7 @@
 - path: Avatar The Last Airbender.jpg
   width: 800
   height: 1199
-  thumb: thumbnails_0.jpg?crc=c1751c56
+  thumb: thumbnails_0.jpg?crc=a88dd9a0
   thumb_x: 648
   thumb_width: 216
   thumb_height: 324
@@ -36,7 +36,7 @@
 - path: Bad Monkey.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=c1751c56
+  thumb: thumbnails_0.jpg?crc=a88dd9a0
   thumb_x: 864
   thumb_width: 216
   thumb_height: 324
@@ -45,7 +45,7 @@
 - path: Doctor Who, Season 1.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=c1751c56
+  thumb: thumbnails_0.jpg?crc=a88dd9a0
   thumb_x: 1080
   thumb_width: 216
   thumb_height: 324
@@ -54,7 +54,7 @@
 - path: Fallout.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=c1751c56
+  thumb: thumbnails_0.jpg?crc=a88dd9a0
   thumb_x: 1296
   thumb_width: 216
   thumb_height: 324
@@ -63,7 +63,7 @@
 - path: Silo, Season 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=c1751c56
+  thumb: thumbnails_0.jpg?crc=a88dd9a0
   thumb_x: 1512
   thumb_width: 216
   thumb_height: 324
@@ -72,7 +72,7 @@
 - path: Terminator Zero.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=c1751c56
+  thumb: thumbnails_0.jpg?crc=a88dd9a0
   thumb_x: 1728
   thumb_width: 216
   thumb_height: 324
@@ -81,7 +81,7 @@
 - path: The Boys, Season 4.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=c1751c56
+  thumb: thumbnails_0.jpg?crc=a88dd9a0
   thumb_x: 1944
   thumb_width: 216
   thumb_height: 324
@@ -90,7 +90,7 @@
 - path: What We Do in the Shadows, Season 6.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=c1751c56
+  thumb: thumbnails_0.jpg?crc=a88dd9a0
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
@@ -99,8 +99,18 @@
 - path: Demon Slayer Kimetsu no Yaiba, Season 5.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=c1751c56
+  thumb: thumbnails_0.jpg?crc=a88dd9a0
   thumb_x: 216
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 648
+- path: The Penguin.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=a88dd9a0
+  thumb_x: 432
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324

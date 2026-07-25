@@ -1,7 +1,7 @@
 - path: Better Call Saul, Season 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e532bd53
+  thumb: thumbnails_0.jpg?crc=b9823e0d
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2168
@@ -9,7 +9,7 @@
 - path: The Americans, Season 4.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e532bd53
+  thumb: thumbnails_0.jpg?crc=b9823e0d
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
@@ -18,7 +18,7 @@
 - path: Brooklyn Nine-Nine, Season 4.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e532bd53
+  thumb: thumbnails_0.jpg?crc=b9823e0d
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
@@ -27,7 +27,7 @@
 - path: It's Always Sunny in Philadelphia, Season 11.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e532bd53
+  thumb: thumbnails_0.jpg?crc=b9823e0d
   thumb_x: 648
   thumb_width: 216
   thumb_height: 324
@@ -36,7 +36,7 @@
 - path: Modern Family, Season 8.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e532bd53
+  thumb: thumbnails_0.jpg?crc=b9823e0d
   thumb_x: 864
   thumb_width: 216
   thumb_height: 324
@@ -45,7 +45,7 @@
 - path: Agent Carter, Season 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e532bd53
+  thumb: thumbnails_0.jpg?crc=b9823e0d
   thumb_x: 1080
   thumb_width: 216
   thumb_height: 324
@@ -54,7 +54,7 @@
 - path: Atlanta.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e532bd53
+  thumb: thumbnails_0.jpg?crc=b9823e0d
   thumb_x: 1296
   thumb_width: 216
   thumb_height: 324
@@ -63,7 +63,7 @@
 - path: Billions.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e532bd53
+  thumb: thumbnails_0.jpg?crc=b9823e0d
   thumb_x: 1512
   thumb_width: 216
   thumb_height: 324
@@ -72,7 +72,7 @@
 - path: Black Mirror, Season 3.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e532bd53
+  thumb: thumbnails_0.jpg?crc=b9823e0d
   thumb_x: 1728
   thumb_width: 216
   thumb_height: 324
@@ -81,7 +81,7 @@
 - path: Easy.jpg
   width: 400
   height: 578
-  thumb: thumbnails_0.jpg?crc=e532bd53
+  thumb: thumbnails_0.jpg?crc=b9823e0d
   thumb_x: 1944
   thumb_width: 224
   thumb_height: 324
@@ -90,7 +90,7 @@
 - path: Fleabag.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e532bd53
+  thumb: thumbnails_0.jpg?crc=b9823e0d
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
@@ -99,7 +99,7 @@
 - path: Game of Thrones, Season 6.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e532bd53
+  thumb: thumbnails_0.jpg?crc=b9823e0d
   thumb_x: 216
   thumb_y: 324
   thumb_width: 216
@@ -109,7 +109,7 @@
 - path: Killjoys, Season 2.jpg
   width: 566
   height: 800
-  thumb: thumbnails_0.jpg?crc=e532bd53
+  thumb: thumbnails_0.jpg?crc=b9823e0d
   thumb_x: 432
   thumb_y: 324
   thumb_width: 229
@@ -119,7 +119,7 @@
 - path: Narcos, Season 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e532bd53
+  thumb: thumbnails_0.jpg?crc=b9823e0d
   thumb_x: 661
   thumb_y: 324
   thumb_width: 216
@@ -129,7 +129,7 @@
 - path: Rectify, Season 4.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e532bd53
+  thumb: thumbnails_0.jpg?crc=b9823e0d
   thumb_x: 877
   thumb_y: 324
   thumb_width: 216
@@ -139,7 +139,7 @@
 - path: Stranger Things.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e532bd53
+  thumb: thumbnails_0.jpg?crc=b9823e0d
   thumb_x: 1093
   thumb_y: 324
   thumb_width: 216
@@ -149,8 +149,18 @@
 - path: One Piece, Season 18.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e532bd53
+  thumb: thumbnails_0.jpg?crc=b9823e0d
   thumb_x: 1309
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2168
+  thumb_total_height: 648
+- path: The X-Files, Season 10.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=b9823e0d
+  thumb_x: 1525
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
