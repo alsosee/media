@@ -1,26 +1,44 @@
 - path: Cheers, Season 9.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=59c7e661
+  thumb: thumbnails_0.jpg?crc=4891b595
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 648
+  thumb_total_width: 1080
   thumb_total_height: 324
 - path: It.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=59c7e661
+  thumb: thumbnails_0.jpg?crc=4891b595
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 648
+  thumb_total_width: 1080
   thumb_total_height: 324
 - path: Mr. Bean.jpg
   width: 660
   height: 990
-  thumb: thumbnails_0.jpg?crc=59c7e661
+  thumb: thumbnails_0.jpg?crc=4891b595
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 648
+  thumb_total_width: 1080
+  thumb_total_height: 324
+- path: Twin Peaks, Season 2.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=4891b595
+  thumb_x: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1080
+  thumb_total_height: 324
+- path: Twin Peaks.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=4891b595
+  thumb_x: 864
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1080
   thumb_total_height: 324
