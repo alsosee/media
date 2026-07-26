@@ -1,158 +1,207 @@
 - path: Mad Men, Season 6.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=1779a88b
+  thumb: thumbnails_0.jpg?crc=96e363b3
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_width: 2171
+  thumb_total_height: 972
 - path: The Americans.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=1779a88b
+  thumb: thumbnails_0.jpg?crc=96e363b3
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_width: 2171
+  thumb_total_height: 972
 - path: Arrested Development, Season 4.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=1779a88b
+  thumb: thumbnails_0.jpg?crc=96e363b3
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_width: 2171
+  thumb_total_height: 972
 - path: Brooklyn Nine-Nine.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=1779a88b
+  thumb: thumbnails_0.jpg?crc=96e363b3
   thumb_x: 648
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_width: 2171
+  thumb_total_height: 972
 - path: Community, Season 4.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=1779a88b
+  thumb: thumbnails_0.jpg?crc=96e363b3
   thumb_x: 864
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_width: 2171
+  thumb_total_height: 972
 - path: It's Always Sunny in Philadelphia, Season 9.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=1779a88b
+  thumb: thumbnails_0.jpg?crc=96e363b3
   thumb_x: 1080
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_width: 2171
+  thumb_total_height: 972
 - path: Modern Family, Season 5.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=1779a88b
+  thumb: thumbnails_0.jpg?crc=96e363b3
   thumb_x: 1296
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_width: 2171
+  thumb_total_height: 972
 - path: Parks and Recreation, Season 6.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=1779a88b
+  thumb: thumbnails_0.jpg?crc=96e363b3
   thumb_x: 1512
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_width: 2171
+  thumb_total_height: 972
 - path: Black Mirror, Season 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=1779a88b
+  thumb: thumbnails_0.jpg?crc=96e363b3
   thumb_x: 1728
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_width: 2171
+  thumb_total_height: 972
 - path: Dexter, Season 8.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=1779a88b
+  thumb: thumbnails_0.jpg?crc=96e363b3
   thumb_x: 1944
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_width: 2171
+  thumb_total_height: 972
 - path: Game of Thrones, Season 3.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=1779a88b
+  thumb: thumbnails_0.jpg?crc=96e363b3
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_width: 2171
+  thumb_total_height: 972
 - path: House of Cards.jpg
   width: 800
   height: 1141
-  thumb: thumbnails_0.jpg?crc=1779a88b
+  thumb: thumbnails_0.jpg?crc=96e363b3
   thumb_x: 216
   thumb_y: 324
   thumb_width: 227
   thumb_height: 324
-  thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_width: 2171
+  thumb_total_height: 972
 - path: Luther, Season 3.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=1779a88b
+  thumb: thumbnails_0.jpg?crc=96e363b3
   thumb_x: 443
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_width: 2171
+  thumb_total_height: 972
 - path: Marvel's Agents of S.H.I.E.L.D..jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=1779a88b
+  thumb: thumbnails_0.jpg?crc=96e363b3
   thumb_x: 659
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_width: 2171
+  thumb_total_height: 972
 - path: Rectify.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=1779a88b
+  thumb: thumbnails_0.jpg?crc=96e363b3
   thumb_x: 875
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_width: 2171
+  thumb_total_height: 972
 - path: Attack on Titan.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=1779a88b
+  thumb: thumbnails_0.jpg?crc=96e363b3
   thumb_x: 1091
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_width: 2171
+  thumb_total_height: 972
 - path: One Piece, Season 16.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=1779a88b
+  thumb: thumbnails_0.jpg?crc=96e363b3
   thumb_x: 1307
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
-  thumb_total_height: 648
+  thumb_total_width: 2171
+  thumb_total_height: 972
+- path: CSI Crime Scene Investigation, Season 14.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=96e363b3
+  thumb_x: 1523
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2171
+  thumb_total_height: 972
+- path: Criminal Minds, Season 9.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=96e363b3
+  thumb_x: 1739
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2171
+  thumb_total_height: 972
+- path: Grey's Anatomy, Season 10.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=96e363b3
+  thumb_x: 1955
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2171
+  thumb_total_height: 972
+- path: Homeland, Season 3.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=96e363b3
+  thumb_y: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2171
+  thumb_total_height: 972
+- path: NCIS, Season 11.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=96e363b3
+  thumb_x: 216
+  thumb_y: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2171
+  thumb_total_height: 972

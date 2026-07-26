@@ -1,7 +1,7 @@
 - path: Mad Men, Season 7.jpg
   width: 800
   height: 1199
-  thumb: thumbnails_0.jpg?crc=7d828ee8
+  thumb: thumbnails_0.jpg?crc=ff1e422d
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2164
@@ -9,7 +9,7 @@
 - path: The Americans, Season 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=7d828ee8
+  thumb: thumbnails_0.jpg?crc=ff1e422d
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
@@ -18,7 +18,7 @@
 - path: True Detective.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=7d828ee8
+  thumb: thumbnails_0.jpg?crc=ff1e422d
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
@@ -27,7 +27,7 @@
 - path: Brooklyn Nine-Nine, Season 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=7d828ee8
+  thumb: thumbnails_0.jpg?crc=ff1e422d
   thumb_x: 648
   thumb_width: 216
   thumb_height: 324
@@ -36,7 +36,7 @@
 - path: Community, Season 5.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=7d828ee8
+  thumb: thumbnails_0.jpg?crc=ff1e422d
   thumb_x: 864
   thumb_width: 216
   thumb_height: 324
@@ -45,7 +45,7 @@
 - path: Modern Family, Season 6.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=7d828ee8
+  thumb: thumbnails_0.jpg?crc=ff1e422d
   thumb_x: 1080
   thumb_width: 216
   thumb_height: 324
@@ -54,7 +54,7 @@
 - path: All Hail King Julien.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=7d828ee8
+  thumb: thumbnails_0.jpg?crc=ff1e422d
   thumb_x: 1296
   thumb_width: 216
   thumb_height: 324
@@ -63,7 +63,7 @@
 - path: Fargo.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=7d828ee8
+  thumb: thumbnails_0.jpg?crc=ff1e422d
   thumb_x: 1512
   thumb_width: 216
   thumb_height: 324
@@ -72,7 +72,7 @@
 - path: Game of Thrones, Season 4.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=7d828ee8
+  thumb: thumbnails_0.jpg?crc=ff1e422d
   thumb_x: 1728
   thumb_width: 216
   thumb_height: 324
@@ -81,7 +81,7 @@
 - path: Marco Polo.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=7d828ee8
+  thumb: thumbnails_0.jpg?crc=ff1e422d
   thumb_x: 1944
   thumb_width: 220
   thumb_height: 324
@@ -90,7 +90,7 @@
 - path: Rectify, Season 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=7d828ee8
+  thumb: thumbnails_0.jpg?crc=ff1e422d
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
@@ -99,10 +99,70 @@
 - path: One Piece, Season 17.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=7d828ee8
+  thumb: thumbnails_0.jpg?crc=ff1e422d
   thumb_x: 216
   thumb_y: 324
   thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2164
+  thumb_total_height: 648
+- path: 24, Season 9.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=ff1e422d
+  thumb_x: 432
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2164
+  thumb_total_height: 648
+- path: CSI Crime Scene Investigation, Season 15.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=ff1e422d
+  thumb_x: 648
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2164
+  thumb_total_height: 648
+- path: Criminal Minds, Season 10.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=ff1e422d
+  thumb_x: 864
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2164
+  thumb_total_height: 648
+- path: Grey's Anatomy, Season 11.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=ff1e422d
+  thumb_x: 1080
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2164
+  thumb_total_height: 648
+- path: Homeland, Season 4.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=ff1e422d
+  thumb_x: 1296
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2164
+  thumb_total_height: 648
+- path: NCIS, Season 12.jpg
+  width: 800
+  height: 1124
+  thumb: thumbnails_0.jpg?crc=ff1e422d
+  thumb_x: 1512
+  thumb_y: 324
+  thumb_width: 230
   thumb_height: 324
   thumb_total_width: 2164
   thumb_total_height: 648

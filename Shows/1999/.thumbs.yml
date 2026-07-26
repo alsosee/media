@@ -1,62 +1,89 @@
 - path: The Sopranos.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=1ddb78bc
+  thumb: thumbnails_0.jpg?crc=9559fe3c
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1512
+  thumb_total_width: 2160
   thumb_total_height: 324
 - path: Frasier, Season 7.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=1ddb78bc
+  thumb: thumbnails_0.jpg?crc=9559fe3c
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1512
+  thumb_total_width: 2160
   thumb_total_height: 324
 - path: SpongeBob SquarePants Series.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=1ddb78bc
+  thumb: thumbnails_0.jpg?crc=9559fe3c
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1512
+  thumb_total_width: 2160
   thumb_total_height: 324
 - path: SpongeBob SquarePants.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=1ddb78bc
+  thumb: thumbnails_0.jpg?crc=9559fe3c
   thumb_x: 648
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1512
+  thumb_total_width: 2160
   thumb_total_height: 324
 - path: One Piece.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=1ddb78bc
+  thumb: thumbnails_0.jpg?crc=9559fe3c
   thumb_x: 864
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1512
+  thumb_total_width: 2160
   thumb_total_height: 324
 - path: Stargate SG-1, Season 3.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=1ddb78bc
+  thumb: thumbnails_0.jpg?crc=9559fe3c
   thumb_x: 1080
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1512
+  thumb_total_width: 2160
   thumb_total_height: 324
 - path: The X-Files, Season 7.jpg
   width: 600
   height: 900
-  thumb: thumbnails_0.jpg?crc=1ddb78bc
+  thumb: thumbnails_0.jpg?crc=9559fe3c
   thumb_x: 1296
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1512
+  thumb_total_width: 2160
+  thumb_total_height: 324
+- path: ER, Season 6.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=9559fe3c
+  thumb_x: 1512
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 324
+- path: Law & Order, Season 10.jpg
+  width: 500
+  height: 750
+  thumb: thumbnails_0.jpg?crc=9559fe3c
+  thumb_x: 1728
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
+  thumb_total_height: 324
+- path: The West Wing.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=9559fe3c
+  thumb_x: 1944
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2160
   thumb_total_height: 324
