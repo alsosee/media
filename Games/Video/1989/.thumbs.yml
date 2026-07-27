@@ -1,0 +1,35 @@
+- path: Fester's Quest.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=2edd5f0c
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 972
+  thumb_total_height: 324
+- path: Final Fight.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=2edd5f0c
+  thumb_x: 243
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 972
+  thumb_total_height: 324
+- path: Friday the 13th.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=2edd5f0c
+  thumb_x: 486
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 972
+  thumb_total_height: 324
+- path: Prince of Persia.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=2edd5f0c
+  thumb_x: 729
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 972
+  thumb_total_height: 324
