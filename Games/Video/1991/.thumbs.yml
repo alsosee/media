@@ -1,0 +1,35 @@
+- path: Captain Commando.jpg
+  width: 800
+  height: 1065
+  thumb: thumbnails_0.jpg?crc=496fc52a
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 972
+  thumb_total_height: 324
+- path: Sonic the Hedgehog.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=496fc52a
+  thumb_x: 243
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 972
+  thumb_total_height: 324
+- path: Street Fighter II The World Warrior.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=496fc52a
+  thumb_x: 486
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 972
+  thumb_total_height: 324
+- path: Streets of Rage.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=496fc52a
+  thumb_x: 729
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 972
+  thumb_total_height: 324
