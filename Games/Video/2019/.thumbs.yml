@@ -1,8 +1,158 @@
 - path: John Wick Hex.jpg
   width: 600
   height: 800
-  thumb: thumbnails_0.jpg?crc=c491c322
+  thumb: thumbnails_0.jpg?crc=3f8a2fdd
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 243
-  thumb_total_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: Alien Blackout.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=3f8a2fdd
+  thumb_x: 243
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: Apex Legends.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=3f8a2fdd
+  thumb_x: 486
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: Control.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=3f8a2fdd
+  thumb_x: 729
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: Disco Elysium.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=3f8a2fdd
+  thumb_x: 972
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: Forza Street.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=3f8a2fdd
+  thumb_x: 1215
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: Ice Age Scrat's Nutty Adventure.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=3f8a2fdd
+  thumb_x: 1458
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: Manifold Garden.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=3f8a2fdd
+  thumb_x: 1701
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: Need for Speed Heat.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=3f8a2fdd
+  thumb_x: 1944
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: Outer Wilds.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=3f8a2fdd
+  thumb_x: 2187
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: Rebel Cops.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=3f8a2fdd
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: Resident Evil 2.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=3f8a2fdd
+  thumb_x: 243
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: Slay the Spire.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=3f8a2fdd
+  thumb_x: 486
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: Superliminal.jpg
+  width: 800
+  height: 1065
+  thumb: thumbnails_0.jpg?crc=3f8a2fdd
+  thumb_x: 729
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: The Addams Family Mystery Mansion.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=3f8a2fdd
+  thumb_x: 972
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: The Outer Worlds.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=3f8a2fdd
+  thumb_x: 1215
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: World of Warcraft Classic.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=3f8a2fdd
+  thumb_x: 1458
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648

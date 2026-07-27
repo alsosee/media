@@ -1,35 +1,197 @@
 - path: Cyberpunk 2077.jpg
   width: 1200
   height: 1600
-  thumb: thumbnails_0.jpg?crc=5b1cfe71
+  thumb: thumbnails_0.jpg?crc=6867e817
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 935
-  thumb_total_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
 - path: One-Punch Man A Hero Nobody Knows.jpg
   width: 720
   height: 1080
-  thumb: thumbnails_0.jpg?crc=5b1cfe71
+  thumb: thumbnails_0.jpg?crc=6867e817
   thumb_x: 243
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 935
-  thumb_total_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
 - path: The Last of Us Part II.jpg
   width: 720
   height: 1000
-  thumb: thumbnails_0.jpg?crc=5b1cfe71
+  thumb: thumbnails_0.jpg?crc=6867e817
   thumb_x: 459
   thumb_width: 233
   thumb_height: 324
-  thumb_total_width: 935
-  thumb_total_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
 - path: Desperados III.jpg
   width: 1200
   height: 1600
-  thumb: thumbnails_0.jpg?crc=5b1cfe71
+  thumb: thumbnails_0.jpg?crc=6867e817
   thumb_x: 692
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 935
-  thumb_total_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Assassin's Creed Valhalla.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=6867e817
+  thumb_x: 935
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Call of Duty Black Ops Cold War.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=6867e817
+  thumb_x: 1178
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Command & Conquer Remastered Collection.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=6867e817
+  thumb_x: 1421
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Doom Eternal.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=6867e817
+  thumb_x: 1664
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Hades.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=6867e817
+  thumb_x: 1907
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Half-Life Alyx.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=6867e817
+  thumb_x: 2150
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Jets'n'Guns 2.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=6867e817
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Jurassic World Aftermath.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=6867e817
+  thumb_x: 243
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Jurassic World Evolution Complete Edition.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=6867e817
+  thumb_x: 486
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Prince of Persia The Dagger of Time.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=6867e817
+  thumb_x: 729
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Resident Evil 3.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=6867e817
+  thumb_x: 972
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: SpongeBob SquarePants Battle for Bikini Bottom - Rehydrated.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=6867e817
+  thumb_x: 1215
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: The Elder Scrolls Blades.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=6867e817
+  thumb_x: 1458
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Warcraft III Reforged.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=6867e817
+  thumb_x: 1701
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Watch Dogs Legion.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=6867e817
+  thumb_x: 1944
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: World of Warcraft Shadowlands.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=6867e817
+  thumb_x: 2187
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Worms Rumble.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=6867e817
+  thumb_y: 648
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
