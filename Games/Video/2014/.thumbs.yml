@@ -1,8 +1,227 @@
 - path: The Last of Us Left Behind.jpg
   width: 600
   height: 776
-  thumb: thumbnails_0.jpg?crc=ae20495f
+  thumb: thumbnails_0.jpg?crc=3e8c3aed
   thumb_width: 250
   thumb_height: 324
-  thumb_total_width: 250
-  thumb_total_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Alien Isolation.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=3e8c3aed
+  thumb_x: 250
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Aliens Armageddon.jpg
+  width: 668
+  height: 1080
+  thumb: thumbnails_0.jpg?crc=3e8c3aed
+  thumb_x: 493
+  thumb_width: 200
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Assassin's Creed Freedom Cry.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=3e8c3aed
+  thumb_x: 693
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Assassin's Creed Memories.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=3e8c3aed
+  thumb_x: 936
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Assassin's Creed Rogue.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=3e8c3aed
+  thumb_x: 1179
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Assassin's Creed Unity.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=3e8c3aed
+  thumb_x: 1422
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Counter-Strike Nexon Studio.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=3e8c3aed
+  thumb_x: 1665
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Divinity Original Sin.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=3e8c3aed
+  thumb_x: 1908
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Fable Anniversary.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=3e8c3aed
+  thumb_x: 2151
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Forza Horizon 2.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=3e8c3aed
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Hearthstone.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=3e8c3aed
+  thumb_x: 243
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Lara Croft and the Temple of Osiris.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=3e8c3aed
+  thumb_x: 486
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Metal Gear Solid V Ground Zeroes.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=3e8c3aed
+  thumb_x: 729
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Penguins of Madagascar.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=3e8c3aed
+  thumb_x: 972
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Sunset Overdrive.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=3e8c3aed
+  thumb_x: 1215
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: The Binding of Isaac Rebirth.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=3e8c3aed
+  thumb_x: 1458
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: The Elder Scrolls Online.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=3e8c3aed
+  thumb_x: 1701
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: The Talos Principle.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=3e8c3aed
+  thumb_x: 1944
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: The Witcher Adventure Game.jpg
+  width: 800
+  height: 1065
+  thumb: thumbnails_0.jpg?crc=3e8c3aed
+  thumb_x: 2187
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Titanfall.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=3e8c3aed
+  thumb_y: 648
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Watch Dogs.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=3e8c3aed
+  thumb_x: 243
+  thumb_y: 648
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: World of Warcraft Warlords of Draenor.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=3e8c3aed
+  thumb_x: 486
+  thumb_y: 648
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Worms Battlegrounds.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=3e8c3aed
+  thumb_x: 729
+  thumb_y: 648
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
