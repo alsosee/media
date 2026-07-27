@@ -1,0 +1,197 @@
+- path: Alien Resurrection.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=7ab7ad29
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Baldur's Gate II Shadows of Amn.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=7ab7ad29
+  thumb_x: 243
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Command & Conquer Red Alert 2.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=7ab7ad29
+  thumb_x: 486
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Command & Conquer Tiberian Sun Firestorm.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=7ab7ad29
+  thumb_x: 729
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Counter-Strike.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=7ab7ad29
+  thumb_x: 972
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Deus Ex.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=7ab7ad29
+  thumb_x: 1215
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Diablo II.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=7ab7ad29
+  thumb_x: 1458
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Disney's Aladdin in Nasira's Revenge.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=7ab7ad29
+  thumb_x: 1701
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Final Fantasy IX.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=7ab7ad29
+  thumb_x: 1944
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Need for Speed Porsche Unleashed.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=7ab7ad29
+  thumb_x: 2187
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Perfect Dark.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=7ab7ad29
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Persona 2 Eternal Punishment.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=7ab7ad29
+  thumb_x: 243
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Project I.G.I. I'm Going In.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=7ab7ad29
+  thumb_x: 486
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Resident Evil Code Veronica.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=7ab7ad29
+  thumb_x: 729
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Spyro Year of the Dragon.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=7ab7ad29
+  thumb_x: 972
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: StarCraft 64.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=7ab7ad29
+  thumb_x: 1215
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: The Legend of Zelda Majora's Mask.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=7ab7ad29
+  thumb_x: 1458
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: The Operative No One Lives Forever.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=7ab7ad29
+  thumb_x: 1701
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Tomb Raider - Game Boy Color.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=7ab7ad29
+  thumb_x: 1944
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Tomb Raider Chronicles.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=7ab7ad29
+  thumb_x: 2187
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Tony Hawk's Pro Skater 2.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=7ab7ad29
+  thumb_y: 648
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
