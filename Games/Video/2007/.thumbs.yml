@@ -1,0 +1,197 @@
+- path: Aliens vs. Predator Requiem.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=766961e
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Assassin's Creed.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=766961e
+  thumb_x: 243
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: BioShock.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=766961e
+  thumb_x: 486
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Command & Conquer 3 Tiberium Wars.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=766961e
+  thumb_x: 729
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Enemy Territory Quake Wars.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=766961e
+  thumb_x: 972
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Final Fantasy Tactics The War of the Lions.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=766961e
+  thumb_x: 1215
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Forza Motorsport 2.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=766961e
+  thumb_x: 1458
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: God of War Betrayal.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=766961e
+  thumb_x: 1701
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: God of War II.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=766961e
+  thumb_x: 1944
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Half-Life 2 Episode Two.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=766961e
+  thumb_x: 2187
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Halo 3.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=766961e
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Jurassic Park Explorer.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=766961e
+  thumb_x: 243
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Need for Speed ProStreet.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=766961e
+  thumb_x: 486
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Portal.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=766961e
+  thumb_x: 729
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Prince of Persia Classic.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=766961e
+  thumb_x: 972
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Prince of Persia Rival Swords.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=766961e
+  thumb_x: 1215
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: The Witcher.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=766961e
+  thumb_x: 1458
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Tomb Raider Anniversary.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=766961e
+  thumb_x: 1701
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: World of Warcraft The Burning Crusade.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=766961e
+  thumb_x: 1944
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Worms Open Warfare 2.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=766961e
+  thumb_x: 2187
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Worms.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=766961e
+  thumb_y: 648
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
