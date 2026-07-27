@@ -1,0 +1,188 @@
+- path: An Elder Scrolls Legend Battlespire.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=58bcdeb9
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: Chaos Island The Lost World.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=58bcdeb9
+  thumb_x: 243
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: Command & Conquer Red Alert Counterstrike.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=58bcdeb9
+  thumb_x: 486
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: Command & Conquer Red Alert The Aftermath.jpg
+  width: 800
+  height: 1065
+  thumb: thumbnails_0.jpg?crc=58bcdeb9
+  thumb_x: 729
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: Command & Conquer Sole Survivor.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=58bcdeb9
+  thumb_x: 972
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: Diablo.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=58bcdeb9
+  thumb_x: 1215
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: Fallout.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=58bcdeb9
+  thumb_x: 1458
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: Grand Theft Auto.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=58bcdeb9
+  thumb_x: 1701
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: Need for Speed II.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=58bcdeb9
+  thumb_x: 1944
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: Quake II.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=58bcdeb9
+  thumb_x: 2187
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: Street Fighter III 2nd Impact.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=58bcdeb9
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: Tekken 3.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=58bcdeb9
+  thumb_x: 243
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: The Lost World Jurassic Park - Genesis.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=58bcdeb9
+  thumb_x: 486
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: The Lost World Jurassic Park - Handhelds.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=58bcdeb9
+  thumb_x: 729
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: The Lost World Jurassic Park - PlayStation and Saturn.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=58bcdeb9
+  thumb_x: 972
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: The Lost World Jurassic Park Arcade.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=58bcdeb9
+  thumb_x: 1215
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: Theme Hospital.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=58bcdeb9
+  thumb_x: 1458
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: Tomb Raider II.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=58bcdeb9
+  thumb_x: 1701
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: Worms 2.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=58bcdeb9
+  thumb_x: 1944
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: Worms The Director's Cut.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=58bcdeb9
+  thumb_x: 2187
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
