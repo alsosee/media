@@ -1,0 +1,8 @@
+- path: Alien.jpg
+  width: 800
+  height: 500
+  thumb: thumbnails_0.jpg?crc=467c13eb
+  thumb_width: 324
+  thumb_height: 202
+  thumb_total_width: 324
+  thumb_total_height: 202
