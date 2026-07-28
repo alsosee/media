@@ -1,168 +1,188 @@
 - path: Deadwood.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=9b6df332
+  thumb: thumbnails_0.jpg?crc=a6650b4b
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
+  thumb_total_width: 2179
   thumb_total_height: 648
 - path: Six Feet Under, Season 4.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=9b6df332
+  thumb: thumbnails_0.jpg?crc=a6650b4b
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
+  thumb_total_width: 2179
   thumb_total_height: 648
 - path: The Sopranos, Season 5.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=9b6df332
+  thumb: thumbnails_0.jpg?crc=a6650b4b
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
+  thumb_total_width: 2179
   thumb_total_height: 648
 - path: The Wire, Season 3.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=9b6df332
+  thumb: thumbnails_0.jpg?crc=a6650b4b
   thumb_x: 648
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
+  thumb_total_width: 2179
   thumb_total_height: 648
 - path: Arrested Development, Season 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=9b6df332
+  thumb: thumbnails_0.jpg?crc=a6650b4b
   thumb_x: 864
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
+  thumb_total_width: 2179
   thumb_total_height: 648
 - path: Curb Your Enthusiasm, Season 4.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=9b6df332
+  thumb: thumbnails_0.jpg?crc=a6650b4b
   thumb_x: 1080
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
+  thumb_total_width: 2179
   thumb_total_height: 648
 - path: Naruto, Season 4.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=9b6df332
+  thumb: thumbnails_0.jpg?crc=a6650b4b
   thumb_x: 1296
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
+  thumb_total_width: 2179
   thumb_total_height: 648
 - path: Naruto, Season 5.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=9b6df332
+  thumb: thumbnails_0.jpg?crc=a6650b4b
   thumb_x: 1512
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
+  thumb_total_width: 2179
   thumb_total_height: 648
 - path: One Piece, Season 10.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=9b6df332
+  thumb: thumbnails_0.jpg?crc=a6650b4b
   thumb_x: 1728
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
+  thumb_total_width: 2179
   thumb_total_height: 648
 - path: Battlestar Galactica.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=9b6df332
+  thumb: thumbnails_0.jpg?crc=a6650b4b
   thumb_x: 1944
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
+  thumb_total_width: 2179
   thumb_total_height: 648
 - path: Lost.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=9b6df332
+  thumb: thumbnails_0.jpg?crc=a6650b4b
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
+  thumb_total_width: 2179
   thumb_total_height: 648
 - path: Stargate SG-1, Season 8.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=9b6df332
+  thumb: thumbnails_0.jpg?crc=a6650b4b
   thumb_x: 216
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
+  thumb_total_width: 2179
   thumb_total_height: 648
 - path: CSI Crime Scene Investigation, Season 5.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=9b6df332
+  thumb: thumbnails_0.jpg?crc=a6650b4b
   thumb_x: 432
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
+  thumb_total_width: 2179
   thumb_total_height: 648
 - path: ER, Season 11.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=9b6df332
+  thumb: thumbnails_0.jpg?crc=a6650b4b
   thumb_x: 648
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
+  thumb_total_width: 2179
   thumb_total_height: 648
 - path: House.jpg
   width: 800
   height: 1142
-  thumb: thumbnails_0.jpg?crc=9b6df332
+  thumb: thumbnails_0.jpg?crc=a6650b4b
   thumb_x: 864
   thumb_y: 324
   thumb_width: 227
   thumb_height: 324
-  thumb_total_width: 2160
+  thumb_total_width: 2179
   thumb_total_height: 648
 - path: Law & Order, Season 15.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=9b6df332
+  thumb: thumbnails_0.jpg?crc=a6650b4b
   thumb_x: 1091
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
+  thumb_total_width: 2179
   thumb_total_height: 648
 - path: NCIS, Season 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=9b6df332
+  thumb: thumbnails_0.jpg?crc=a6650b4b
   thumb_x: 1307
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
+  thumb_total_width: 2179
   thumb_total_height: 648
 - path: The West Wing, Season 6.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=9b6df332
+  thumb: thumbnails_0.jpg?crc=a6650b4b
   thumb_x: 1523
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2160
+  thumb_total_width: 2179
+  thumb_total_height: 648
+- path: South Park, Season 8.jpg
+  width: 400
+  height: 578
+  thumb: thumbnails_0.jpg?crc=a6650b4b
+  thumb_x: 1739
+  thumb_y: 324
+  thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2179
+  thumb_total_height: 648
+- path: The Simpsons, Season 16.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=a6650b4b
+  thumb_x: 1963
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2179
   thumb_total_height: 648

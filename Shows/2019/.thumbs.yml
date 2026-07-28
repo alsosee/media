@@ -1,277 +1,346 @@
 - path: Chernobyl.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=742c4a5e
+  thumb: thumbnails_0.jpg?crc=8db89f27
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2164
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Succession, Season 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=742c4a5e
+  thumb: thumbnails_0.jpg?crc=8db89f27
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2164
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: True Detective, Season 3.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=742c4a5e
+  thumb: thumbnails_0.jpg?crc=8db89f27
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2164
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Brooklyn Nine-Nine, Season 6.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=742c4a5e
+  thumb: thumbnails_0.jpg?crc=8db89f27
   thumb_x: 648
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2164
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: It's Always Sunny in Philadelphia, Season 14.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=742c4a5e
+  thumb: thumbnails_0.jpg?crc=8db89f27
   thumb_x: 864
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2164
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Modern Family, Season 11.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=742c4a5e
+  thumb: thumbnails_0.jpg?crc=8db89f27
   thumb_x: 1080
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2164
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Euphoria.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=742c4a5e
+  thumb: thumbnails_0.jpg?crc=8db89f27
   thumb_x: 1296
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2164
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Fleabag, Season 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=742c4a5e
+  thumb: thumbnails_0.jpg?crc=8db89f27
   thumb_x: 1512
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2164
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Game of Thrones, Season 8.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=742c4a5e
+  thumb: thumbnails_0.jpg?crc=8db89f27
   thumb_x: 1728
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2164
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Good Omens.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=742c4a5e
+  thumb: thumbnails_0.jpg?crc=8db89f27
   thumb_x: 1944
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2164
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Infinity Train.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=742c4a5e
+  thumb: thumbnails_0.jpg?crc=8db89f27
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2164
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Legion, Season 3.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=742c4a5e
+  thumb: thumbnails_0.jpg?crc=8db89f27
   thumb_x: 216
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2164
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Luther, Season 5.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=742c4a5e
+  thumb: thumbnails_0.jpg?crc=8db89f27
   thumb_x: 432
   thumb_y: 324
   thumb_width: 220
   thumb_height: 324
   thumb_total_width: 2164
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Stranger Things, Season 3.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=742c4a5e
+  thumb: thumbnails_0.jpg?crc=8db89f27
   thumb_x: 652
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2164
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: The Boys Series.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=742c4a5e
+  thumb: thumbnails_0.jpg?crc=8db89f27
   thumb_x: 868
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2164
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: The Boys.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=742c4a5e
+  thumb: thumbnails_0.jpg?crc=8db89f27
   thumb_x: 1084
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2164
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: The Mandalorian.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=742c4a5e
+  thumb: thumbnails_0.jpg?crc=8db89f27
   thumb_x: 1300
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2164
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Undone.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=742c4a5e
+  thumb: thumbnails_0.jpg?crc=8db89f27
   thumb_x: 1516
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2164
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: What We Do in the Shadows.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=742c4a5e
+  thumb: thumbnails_0.jpg?crc=8db89f27
   thumb_x: 1732
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2164
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Dark, Season 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=742c4a5e
+  thumb: thumbnails_0.jpg?crc=8db89f27
   thumb_x: 1948
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2164
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Demon Slayer Kimetsu no Yaiba.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=742c4a5e
+  thumb: thumbnails_0.jpg?crc=8db89f27
   thumb_y: 648
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2164
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: For All Mankind.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=742c4a5e
+  thumb: thumbnails_0.jpg?crc=8db89f27
   thumb_x: 216
   thumb_y: 648
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2164
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: One Piece, Season 20.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=742c4a5e
+  thumb: thumbnails_0.jpg?crc=8db89f27
   thumb_x: 432
   thumb_y: 648
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2164
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: One Piece, Season 21.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=742c4a5e
+  thumb: thumbnails_0.jpg?crc=8db89f27
   thumb_x: 648
   thumb_y: 648
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2164
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: One Punch Man, Season 2.jpeg
   width: 1000
   height: 1500
-  thumb: thumbnails_0.jpg?crc=742c4a5e
+  thumb: thumbnails_0.jpg?crc=8db89f27
   thumb_x: 864
   thumb_y: 648
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2164
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: The Expanse, Season 4.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=742c4a5e
+  thumb: thumbnails_0.jpg?crc=8db89f27
   thumb_x: 1080
   thumb_y: 648
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2164
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Grey's Anatomy, Season 16.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=742c4a5e
+  thumb: thumbnails_0.jpg?crc=8db89f27
   thumb_x: 1296
   thumb_y: 648
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2164
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: NCIS, Season 17.jpg
   width: 800
   height: 1199
-  thumb: thumbnails_0.jpg?crc=742c4a5e
+  thumb: thumbnails_0.jpg?crc=8db89f27
   thumb_x: 1512
   thumb_y: 648
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2164
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Easy, Season 3.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=742c4a5e
+  thumb: thumbnails_0.jpg?crc=8db89f27
   thumb_x: 1728
   thumb_y: 648
   thumb_width: 220
   thumb_height: 324
   thumb_total_width: 2164
-  thumb_total_height: 972
+  thumb_total_height: 1296
+- path: Archer, Season 10.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=8db89f27
+  thumb_x: 1948
+  thumb_y: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2164
+  thumb_total_height: 1296
+- path: BoJack Horseman, Season 6.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=8db89f27
+  thumb_y: 972
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2164
+  thumb_total_height: 1296
+- path: Bob's Burgers, Season 10.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=8db89f27
+  thumb_x: 216
+  thumb_y: 972
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2164
+  thumb_total_height: 1296
+- path: Family Guy, Season 18.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=8db89f27
+  thumb_x: 432
+  thumb_y: 972
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2164
+  thumb_total_height: 1296
+- path: Goliath, Season 3.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=8db89f27
+  thumb_x: 648
+  thumb_y: 972
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2164
+  thumb_total_height: 1296
+- path: South Park, Season 23.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=8db89f27
+  thumb_x: 864
+  thumb_y: 972
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2164
+  thumb_total_height: 1296
+- path: The Simpsons, Season 31.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=8db89f27
+  thumb_x: 1080
+  thumb_y: 972
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2164
+  thumb_total_height: 1296
