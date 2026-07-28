@@ -1,0 +1,26 @@
+- path: Aliens The Computer Game - Activision.jpg
+  width: 800
+  height: 1026
+  thumb: thumbnails_0.jpg?crc=79ba8e5b
+  thumb_width: 252
+  thumb_height: 324
+  thumb_total_width: 747
+  thumb_total_height: 324
+- path: Aliens The Computer Game - Software Studios.jpg
+  width: 800
+  height: 1026
+  thumb: thumbnails_0.jpg?crc=79ba8e5b
+  thumb_x: 252
+  thumb_width: 252
+  thumb_height: 324
+  thumb_total_width: 747
+  thumb_total_height: 324
+- path: The Legend of Zelda.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=79ba8e5b
+  thumb_x: 504
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 747
+  thumb_total_height: 324
