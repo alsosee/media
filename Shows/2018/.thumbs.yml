@@ -265,3 +265,11 @@
   thumb_height: 324
   thumb_total_width: 2160
   thumb_total_height: 972
+- path: Kidding.png
+  width: 360
+  height: 203
+  thumb: thumbnails_0.png?crc=f05e64e1
+  thumb_width: 324
+  thumb_height: 182
+  thumb_total_width: 324
+  thumb_total_height: 182

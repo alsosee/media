@@ -69,3 +69,11 @@
   thumb_height: 324
   thumb_total_width: 1728
   thumb_total_height: 324
+- path: In Living Color.png
+  width: 500
+  height: 357
+  thumb: thumbnails_0.png?crc=49b2a47f
+  thumb_width: 324
+  thumb_height: 231
+  thumb_total_width: 324
+  thumb_total_height: 231
