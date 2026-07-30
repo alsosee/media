@@ -1,7 +1,7 @@
 - path: The Matrix.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=554bf9c2
+  thumb: thumbnails_0.jpg?crc=95bb4d1e
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2161
@@ -9,7 +9,7 @@
 - path: The Thirteenth Floor.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=554bf9c2
+  thumb: thumbnails_0.jpg?crc=95bb4d1e
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
@@ -18,7 +18,7 @@
 - path: Beau travail.jpg
   width: 800
   height: 1193
-  thumb: thumbnails_0.jpg?crc=554bf9c2
+  thumb: thumbnails_0.jpg?crc=95bb4d1e
   thumb_x: 432
   thumb_width: 217
   thumb_height: 324
@@ -27,7 +27,7 @@
 - path: Fight Club.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=554bf9c2
+  thumb: thumbnails_0.jpg?crc=95bb4d1e
   thumb_x: 649
   thumb_width: 216
   thumb_height: 324
@@ -36,7 +36,7 @@
 - path: The Virgin Suicides.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=554bf9c2
+  thumb: thumbnails_0.jpg?crc=95bb4d1e
   thumb_x: 865
   thumb_width: 216
   thumb_height: 324
@@ -45,7 +45,7 @@
 - path: Toy Story 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=554bf9c2
+  thumb: thumbnails_0.jpg?crc=95bb4d1e
   thumb_x: 1081
   thumb_width: 216
   thumb_height: 324
@@ -54,7 +54,7 @@
 - path: The Mummy.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=554bf9c2
+  thumb: thumbnails_0.jpg?crc=95bb4d1e
   thumb_x: 1297
   thumb_width: 216
   thumb_height: 324
@@ -63,7 +63,7 @@
 - path: The World Is Not Enough.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=554bf9c2
+  thumb: thumbnails_0.jpg?crc=95bb4d1e
   thumb_x: 1513
   thumb_width: 216
   thumb_height: 324
@@ -72,7 +72,7 @@
 - path: Pokémon The Movie 2000.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=554bf9c2
+  thumb: thumbnails_0.jpg?crc=95bb4d1e
   thumb_x: 1729
   thumb_width: 216
   thumb_height: 324
@@ -81,7 +81,7 @@
 - path: Eyes Wide Shut.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=554bf9c2
+  thumb: thumbnails_0.jpg?crc=95bb4d1e
   thumb_x: 1945
   thumb_width: 216
   thumb_height: 324
@@ -90,7 +90,17 @@
 - path: Magnolia.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=554bf9c2
+  thumb: thumbnails_0.jpg?crc=95bb4d1e
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2161
+  thumb_total_height: 648
+- path: Wild Wild West.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=95bb4d1e
+  thumb_x: 216
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324

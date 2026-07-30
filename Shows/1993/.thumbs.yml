@@ -1,44 +1,53 @@
 - path: Frasier.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=d4ecfbb1
+  thumb: thumbnails_0.jpg?crc=47c53223
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1080
+  thumb_total_width: 1296
   thumb_total_height: 324
 - path: Seinfeld, Season 5.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=d4ecfbb1
+  thumb: thumbnails_0.jpg?crc=47c53223
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1080
+  thumb_total_width: 1296
   thumb_total_height: 324
 - path: The X-Files.jpg
   width: 600
   height: 900
-  thumb: thumbnails_0.jpg?crc=d4ecfbb1
+  thumb: thumbnails_0.jpg?crc=47c53223
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1080
+  thumb_total_width: 1296
   thumb_total_height: 324
 - path: Law & Order, Season 4.jpg
   width: 500
   height: 750
-  thumb: thumbnails_0.jpg?crc=d4ecfbb1
+  thumb: thumbnails_0.jpg?crc=47c53223
   thumb_x: 648
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1080
+  thumb_total_width: 1296
   thumb_total_height: 324
 - path: The Simpsons, Season 5.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=d4ecfbb1
+  thumb: thumbnails_0.jpg?crc=47c53223
   thumb_x: 864
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1080
+  thumb_total_width: 1296
+  thumb_total_height: 324
+- path: The Fresh Prince of Bel-Air, Season 4.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=47c53223
+  thumb_x: 1080
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1296
   thumb_total_height: 324

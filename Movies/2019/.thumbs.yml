@@ -486,17 +486,44 @@
 - path: My Hero Academia Heroes Rising.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_1.jpg?crc=30fcde62
+  thumb: thumbnails_1.jpg?crc=120e3dcd
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 432
+  thumb_total_width: 1080
   thumb_total_height: 324
 - path: Pokémon Mewtwo Strikes Back - Evolution.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_1.jpg?crc=30fcde62
+  thumb: thumbnails_1.jpg?crc=120e3dcd
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 432
+  thumb_total_width: 1080
+  thumb_total_height: 324
+- path: Aladdin.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_1.jpg?crc=120e3dcd
+  thumb_x: 432
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1080
+  thumb_total_height: 324
+- path: Gemini Man.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_1.jpg?crc=120e3dcd
+  thumb_x: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1080
+  thumb_total_height: 324
+- path: Spies in Disguise.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_1.jpg?crc=120e3dcd
+  thumb_x: 864
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1080
   thumb_total_height: 324
