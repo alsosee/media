@@ -1,80 +1,89 @@
 - path: Frasier, Season 6.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=5777c06a
+  thumb: thumbnails_0.jpg?crc=25c75164
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1957
+  thumb_total_width: 2208
   thumb_total_height: 324
 - path: The New Addams Family.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=5777c06a
+  thumb: thumbnails_0.jpg?crc=25c75164
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1957
+  thumb_total_width: 2208
   thumb_total_height: 324
 - path: Cowboy Bebop.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=5777c06a
+  thumb: thumbnails_0.jpg?crc=25c75164
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1957
+  thumb_total_width: 2208
   thumb_total_height: 324
 - path: Stargate SG-1, Season 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=5777c06a
+  thumb: thumbnails_0.jpg?crc=25c75164
   thumb_x: 648
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1957
+  thumb_total_width: 2208
   thumb_total_height: 324
 - path: The X-Files, Season 6.jpg
   width: 600
   height: 900
-  thumb: thumbnails_0.jpg?crc=5777c06a
+  thumb: thumbnails_0.jpg?crc=25c75164
   thumb_x: 864
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1957
+  thumb_total_width: 2208
   thumb_total_height: 324
 - path: ER, Season 5.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=5777c06a
+  thumb: thumbnails_0.jpg?crc=25c75164
   thumb_x: 1080
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1957
+  thumb_total_width: 2208
   thumb_total_height: 324
 - path: Law & Order, Season 9.jpg
   width: 500
   height: 750
-  thumb: thumbnails_0.jpg?crc=5777c06a
+  thumb: thumbnails_0.jpg?crc=25c75164
   thumb_x: 1296
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1957
+  thumb_total_width: 2208
   thumb_total_height: 324
 - path: South Park, Season 2.jpg
   width: 800
   height: 1131
-  thumb: thumbnails_0.jpg?crc=5777c06a
+  thumb: thumbnails_0.jpg?crc=25c75164
   thumb_x: 1512
   thumb_width: 229
   thumb_height: 324
-  thumb_total_width: 1957
+  thumb_total_width: 2208
   thumb_total_height: 324
 - path: The Simpsons, Season 10.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=5777c06a
+  thumb: thumbnails_0.jpg?crc=25c75164
   thumb_x: 1741
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1957
+  thumb_total_width: 2208
+  thumb_total_height: 324
+- path: Buffy the Vampire Slayer, Season 3.jpg
+  width: 619
+  height: 800
+  thumb: thumbnails_0.jpg?crc=25c75164
+  thumb_x: 1957
+  thumb_width: 251
+  thumb_height: 324
+  thumb_total_width: 2208
   thumb_total_height: 324

@@ -1,44 +1,71 @@
 - path: Project A.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=5739ef96
+  thumb: thumbnails_0.jpg?crc=768826d5
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1080
+  thumb_total_width: 1728
   thumb_total_height: 324
 - path: Scarface.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=5739ef96
+  thumb: thumbnails_0.jpg?crc=768826d5
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1080
+  thumb_total_width: 1728
   thumb_total_height: 324
 - path: Star Wars Episode VI - Return of the Jedi.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=5739ef96
+  thumb: thumbnails_0.jpg?crc=768826d5
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1080
+  thumb_total_width: 1728
   thumb_total_height: 324
 - path: Octopussy.jpg
   width: 800
   height: 1199
-  thumb: thumbnails_0.jpg?crc=5739ef96
+  thumb: thumbnails_0.jpg?crc=768826d5
   thumb_x: 648
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1080
+  thumb_total_width: 1728
   thumb_total_height: 324
 - path: Curse of the Pink Panther.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=5739ef96
+  thumb: thumbnails_0.jpg?crc=768826d5
   thumb_x: 864
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1080
+  thumb_total_width: 1728
+  thumb_total_height: 324
+- path: All the Right Moves.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=768826d5
+  thumb_x: 1080
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1728
+  thumb_total_height: 324
+- path: Risky Business.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=768826d5
+  thumb_x: 1296
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1728
+  thumb_total_height: 324
+- path: The Outsiders.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=768826d5
+  thumb_x: 1512
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1728
   thumb_total_height: 324
