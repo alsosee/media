@@ -1,73 +1,73 @@
 - path: Cheers, Season 9.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=fe9565dc
+  thumb: thumbnails_0.jpg?crc=14b7db40
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2167
+  thumb_total_width: 2224
   thumb_total_height: 648
 - path: It.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=fe9565dc
+  thumb: thumbnails_0.jpg?crc=14b7db40
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2167
+  thumb_total_width: 2224
   thumb_total_height: 648
 - path: Mr. Bean.jpg
   width: 660
   height: 990
-  thumb: thumbnails_0.jpg?crc=fe9565dc
+  thumb: thumbnails_0.jpg?crc=14b7db40
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2167
+  thumb_total_width: 2224
   thumb_total_height: 648
 - path: Twin Peaks, Season 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=fe9565dc
+  thumb: thumbnails_0.jpg?crc=14b7db40
   thumb_x: 648
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2167
+  thumb_total_width: 2224
   thumb_total_height: 648
 - path: Twin Peaks.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=fe9565dc
+  thumb: thumbnails_0.jpg?crc=14b7db40
   thumb_x: 864
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2167
+  thumb_total_width: 2224
   thumb_total_height: 648
 - path: Law & Order.jpg
   width: 500
   height: 750
-  thumb: thumbnails_0.jpg?crc=fe9565dc
+  thumb: thumbnails_0.jpg?crc=14b7db40
   thumb_x: 1080
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2167
+  thumb_total_width: 2224
   thumb_total_height: 648
 - path: The Simpsons, Season 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=fe9565dc
+  thumb: thumbnails_0.jpg?crc=14b7db40
   thumb_x: 1296
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2167
+  thumb_total_width: 2224
   thumb_total_height: 648
 - path: The Fresh Prince of Bel-Air.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=fe9565dc
+  thumb: thumbnails_0.jpg?crc=14b7db40
   thumb_x: 1512
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2167
+  thumb_total_width: 2224
   thumb_total_height: 648
 - path: In Living Color.png
   width: 500
@@ -80,67 +80,117 @@
 - path: Mister Rogers' Neighborhood, Season 21.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=fe9565dc
+  thumb: thumbnails_0.jpg?crc=14b7db40
   thumb_x: 1728
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 2167
+  thumb_total_width: 2224
   thumb_total_height: 648
 - path: Roseanne, Season 3.jpg
   width: 1383
   height: 2048
-  thumb: thumbnails_0.jpg?crc=fe9565dc
+  thumb: thumbnails_0.jpg?crc=14b7db40
   thumb_x: 1948
   thumb_width: 219
   thumb_height: 324
-  thumb_total_width: 2167
+  thumb_total_width: 2224
   thumb_total_height: 648
 - path: Saturday Night Live, Season 16.jpg
   width: 2160
   height: 2880
-  thumb: thumbnails_0.jpg?crc=fe9565dc
+  thumb: thumbnails_0.jpg?crc=14b7db40
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2167
+  thumb_total_width: 2224
   thumb_total_height: 648
 - path: Sesame Street, Season 22.jpg
   width: 2000
   height: 3000
-  thumb: thumbnails_0.jpg?crc=fe9565dc
+  thumb: thumbnails_0.jpg?crc=14b7db40
   thumb_x: 243
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2167
+  thumb_total_width: 2224
   thumb_total_height: 648
 - path: The Cosby Show, Season 7.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=fe9565dc
+  thumb: thumbnails_0.jpg?crc=14b7db40
   thumb_x: 459
   thumb_y: 324
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 2167
+  thumb_total_width: 2224
   thumb_total_height: 648
 - path: The Golden Girls, Season 6.jpg
   width: 1000
   height: 1500
-  thumb: thumbnails_0.jpg?crc=fe9565dc
+  thumb: thumbnails_0.jpg?crc=14b7db40
   thumb_x: 679
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2167
+  thumb_total_width: 2224
   thumb_total_height: 648
 - path: The Civil War.jpg
   width: 2000
   height: 3000
-  thumb: thumbnails_0.jpg?crc=fe9565dc
+  thumb: thumbnails_0.jpg?crc=14b7db40
   thumb_x: 895
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2167
+  thumb_total_width: 2224
+  thumb_total_height: 648
+- path: Dallas, Season 14.jpg
+  width: 680
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=14b7db40
+  thumb_x: 1111
+  thumb_y: 324
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2224
+  thumb_total_height: 648
+- path: Northern Exposure.jpg
+  width: 353
+  height: 500
+  thumb: thumbnails_0.jpg?crc=14b7db40
+  thumb_x: 1331
+  thumb_y: 324
+  thumb_width: 229
+  thumb_height: 324
+  thumb_total_width: 2224
+  thumb_total_height: 648
+- path: Quantum Leap, Season 3.jpg
+  width: 400
+  height: 578
+  thumb: thumbnails_0.jpg?crc=14b7db40
+  thumb_x: 1560
+  thumb_y: 324
+  thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2224
+  thumb_total_height: 648
+- path: The Wonder Years, Season 4.jpg
+  width: 680
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=14b7db40
+  thumb_x: 1784
+  thumb_y: 324
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2224
+  thumb_total_height: 648
+- path: thirtysomething, Season 4.jpg
+  width: 680
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=14b7db40
+  thumb_x: 2004
+  thumb_y: 324
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2224
   thumb_total_height: 648

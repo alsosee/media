@@ -1,7 +1,7 @@
 - path: Frasier, Season 6.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=afe34a14
+  thumb: thumbnails_0.jpg?crc=d1469e0a
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2208
@@ -9,7 +9,7 @@
 - path: The New Addams Family.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=afe34a14
+  thumb: thumbnails_0.jpg?crc=d1469e0a
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
@@ -18,7 +18,7 @@
 - path: Cowboy Bebop.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=afe34a14
+  thumb: thumbnails_0.jpg?crc=d1469e0a
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
@@ -27,7 +27,7 @@
 - path: Stargate SG-1, Season 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=afe34a14
+  thumb: thumbnails_0.jpg?crc=d1469e0a
   thumb_x: 648
   thumb_width: 216
   thumb_height: 324
@@ -36,7 +36,7 @@
 - path: The X-Files, Season 6.jpg
   width: 600
   height: 900
-  thumb: thumbnails_0.jpg?crc=afe34a14
+  thumb: thumbnails_0.jpg?crc=d1469e0a
   thumb_x: 864
   thumb_width: 216
   thumb_height: 324
@@ -45,7 +45,7 @@
 - path: ER, Season 5.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=afe34a14
+  thumb: thumbnails_0.jpg?crc=d1469e0a
   thumb_x: 1080
   thumb_width: 216
   thumb_height: 324
@@ -54,7 +54,7 @@
 - path: Law & Order, Season 9.jpg
   width: 500
   height: 750
-  thumb: thumbnails_0.jpg?crc=afe34a14
+  thumb: thumbnails_0.jpg?crc=d1469e0a
   thumb_x: 1296
   thumb_width: 216
   thumb_height: 324
@@ -63,7 +63,7 @@
 - path: South Park, Season 2.jpg
   width: 800
   height: 1131
-  thumb: thumbnails_0.jpg?crc=afe34a14
+  thumb: thumbnails_0.jpg?crc=d1469e0a
   thumb_x: 1512
   thumb_width: 229
   thumb_height: 324
@@ -72,7 +72,7 @@
 - path: The Simpsons, Season 10.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=afe34a14
+  thumb: thumbnails_0.jpg?crc=d1469e0a
   thumb_x: 1741
   thumb_width: 216
   thumb_height: 324
@@ -81,7 +81,7 @@
 - path: Buffy the Vampire Slayer, Season 3.jpg
   width: 619
   height: 800
-  thumb: thumbnails_0.jpg?crc=afe34a14
+  thumb: thumbnails_0.jpg?crc=d1469e0a
   thumb_x: 1957
   thumb_width: 251
   thumb_height: 324
@@ -90,7 +90,7 @@
 - path: Homicide Life on the Street, Season 7.jpg
   width: 354
   height: 500
-  thumb: thumbnails_0.jpg?crc=afe34a14
+  thumb: thumbnails_0.jpg?crc=d1469e0a
   thumb_y: 324
   thumb_width: 229
   thumb_height: 324
@@ -99,7 +99,7 @@
 - path: Mister Rogers' Neighborhood, Season 28.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=afe34a14
+  thumb: thumbnails_0.jpg?crc=d1469e0a
   thumb_x: 229
   thumb_y: 324
   thumb_width: 220
@@ -109,7 +109,7 @@
 - path: NYPD Blue, Season 6.jpg
   width: 1000
   height: 1426
-  thumb: thumbnails_0.jpg?crc=afe34a14
+  thumb: thumbnails_0.jpg?crc=d1469e0a
   thumb_x: 449
   thumb_y: 324
   thumb_width: 227
@@ -119,7 +119,7 @@
 - path: Oz, Season 2.jpg
   width: 340
   height: 491
-  thumb: thumbnails_0.jpg?crc=afe34a14
+  thumb: thumbnails_0.jpg?crc=d1469e0a
   thumb_x: 676
   thumb_y: 324
   thumb_width: 224
@@ -129,7 +129,7 @@
 - path: Saturday Night Live, Season 24.jpg
   width: 2160
   height: 2880
-  thumb: thumbnails_0.jpg?crc=afe34a14
+  thumb: thumbnails_0.jpg?crc=d1469e0a
   thumb_x: 900
   thumb_y: 324
   thumb_width: 243
@@ -139,7 +139,7 @@
 - path: Sesame Street, Season 30.jpg
   width: 2000
   height: 3000
-  thumb: thumbnails_0.jpg?crc=afe34a14
+  thumb: thumbnails_0.jpg?crc=d1469e0a
   thumb_x: 1143
   thumb_y: 324
   thumb_width: 216
@@ -149,7 +149,7 @@
 - path: Sex and the City.jpg
   width: 1000
   height: 1426
-  thumb: thumbnails_0.jpg?crc=afe34a14
+  thumb: thumbnails_0.jpg?crc=d1469e0a
   thumb_x: 1359
   thumb_y: 324
   thumb_width: 227
@@ -159,10 +159,20 @@
 - path: The Larry Sanders Show, Season 6.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=afe34a14
+  thumb: thumbnails_0.jpg?crc=d1469e0a
   thumb_x: 1586
   thumb_y: 324
   thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2208
+  thumb_total_height: 648
+- path: Ally McBeal, Season 2.jpg
+  width: 300
+  height: 433
+  thumb: thumbnails_0.jpg?crc=d1469e0a
+  thumb_x: 1806
+  thumb_y: 324
+  thumb_width: 224
   thumb_height: 324
   thumb_total_width: 2208
   thumb_total_height: 648

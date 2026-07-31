@@ -1,26 +1,44 @@
 - path: Doctor Who, Season 3.jpg
   width: 1080
   height: 1620
-  thumb: thumbnails_0.jpg?crc=904075b2
+  thumb: thumbnails_0.jpg?crc=30f47401
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 660
+  thumb_total_width: 1100
   thumb_total_height: 324
 - path: The Andy Griffith Show, Season 6.jpg
   width: 340
   height: 491
-  thumb: thumbnails_0.jpg?crc=904075b2
+  thumb: thumbnails_0.jpg?crc=30f47401
   thumb_x: 216
   thumb_width: 224
   thumb_height: 324
-  thumb_total_width: 660
+  thumb_total_width: 1100
   thumb_total_height: 324
 - path: The Dick Van Dyke Show, Season 5.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=904075b2
+  thumb: thumbnails_0.jpg?crc=30f47401
   thumb_x: 440
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 660
+  thumb_total_width: 1100
+  thumb_total_height: 324
+- path: Bewitched, Season 2.jpg
+  width: 680
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=30f47401
+  thumb_x: 660
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 1100
+  thumb_total_height: 324
+- path: The Fugitive, Season 3.jpg
+  width: 680
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=30f47401
+  thumb_x: 880
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 1100
   thumb_total_height: 324

@@ -1,62 +1,98 @@
 - path: Cheers, Season 4.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=f7f92b2c
+  thumb: thumbnails_0.jpg?crc=41a78a11
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1598
-  thumb_total_height: 324
+  thumb_total_width: 2258
+  thumb_total_height: 648
 - path: Doctor Who, Season 22.jpg
   width: 287
   height: 347
-  thumb: thumbnails_0.jpg?crc=f7f92b2c
+  thumb: thumbnails_0.jpg?crc=41a78a11
   thumb_x: 216
   thumb_width: 267
   thumb_height: 324
-  thumb_total_width: 1598
-  thumb_total_height: 324
+  thumb_total_width: 2258
+  thumb_total_height: 648
 - path: Mister Rogers' Neighborhood, Season 16.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=f7f92b2c
+  thumb: thumbnails_0.jpg?crc=41a78a11
   thumb_x: 483
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1598
-  thumb_total_height: 324
+  thumb_total_width: 2258
+  thumb_total_height: 648
 - path: Saturday Night Live, Season 11.jpg
   width: 2160
   height: 2880
-  thumb: thumbnails_0.jpg?crc=f7f92b2c
+  thumb: thumbnails_0.jpg?crc=41a78a11
   thumb_x: 703
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1598
-  thumb_total_height: 324
+  thumb_total_width: 2258
+  thumb_total_height: 648
 - path: Sesame Street, Season 17.jpg
   width: 2000
   height: 3000
-  thumb: thumbnails_0.jpg?crc=f7f92b2c
+  thumb: thumbnails_0.jpg?crc=41a78a11
   thumb_x: 946
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1598
-  thumb_total_height: 324
+  thumb_total_width: 2258
+  thumb_total_height: 648
 - path: The Cosby Show, Season 2.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=f7f92b2c
+  thumb: thumbnails_0.jpg?crc=41a78a11
   thumb_x: 1162
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1598
-  thumb_total_height: 324
+  thumb_total_width: 2258
+  thumb_total_height: 648
 - path: The Golden Girls.jpg
   width: 1000
   height: 1500
-  thumb: thumbnails_0.jpg?crc=f7f92b2c
+  thumb: thumbnails_0.jpg?crc=41a78a11
   thumb_x: 1382
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1598
-  thumb_total_height: 324
+  thumb_total_width: 2258
+  thumb_total_height: 648
+- path: Dallas, Season 9.jpg
+  width: 680
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=41a78a11
+  thumb_x: 1598
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2258
+  thumb_total_height: 648
+- path: Moonlighting, Season 2.jpg
+  width: 680
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=41a78a11
+  thumb_x: 1818
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2258
+  thumb_total_height: 648
+- path: Moonlighting.jpg
+  width: 680
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=41a78a11
+  thumb_x: 2038
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2258
+  thumb_total_height: 648
+- path: St. Elsewhere, Season 4.jpg
+  width: 680
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=41a78a11
+  thumb_y: 324
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2258
+  thumb_total_height: 648

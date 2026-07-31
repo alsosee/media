@@ -1,62 +1,80 @@
 - path: Cheers, Season 3.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=85f1dd39
+  thumb: thumbnails_0.jpg?crc=f56a1c3
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1551
+  thumb_total_width: 1991
   thumb_total_height: 324
 - path: Doctor Who, Season 21.jpg
   width: 1080
   height: 1620
-  thumb: thumbnails_0.jpg?crc=85f1dd39
+  thumb: thumbnails_0.jpg?crc=f56a1c3
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1551
+  thumb_total_width: 1991
   thumb_total_height: 324
 - path: Mister Rogers' Neighborhood, Season 15.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=85f1dd39
+  thumb: thumbnails_0.jpg?crc=f56a1c3
   thumb_x: 432
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1551
+  thumb_total_width: 1991
   thumb_total_height: 324
 - path: Saturday Night Live, Season 10.jpg
   width: 2160
   height: 2880
-  thumb: thumbnails_0.jpg?crc=85f1dd39
+  thumb: thumbnails_0.jpg?crc=f56a1c3
   thumb_x: 652
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1551
+  thumb_total_width: 1991
   thumb_total_height: 324
 - path: Sesame Street, Season 16.jpg
   width: 2000
   height: 3000
-  thumb: thumbnails_0.jpg?crc=85f1dd39
+  thumb: thumbnails_0.jpg?crc=f56a1c3
   thumb_x: 895
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1551
+  thumb_total_width: 1991
   thumb_total_height: 324
 - path: The Cosby Show.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=85f1dd39
+  thumb: thumbnails_0.jpg?crc=f56a1c3
   thumb_x: 1111
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1551
+  thumb_total_width: 1991
   thumb_total_height: 324
 - path: The Jeffersons, Season 11.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=85f1dd39
+  thumb: thumbnails_0.jpg?crc=f56a1c3
   thumb_x: 1331
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1551
+  thumb_total_width: 1991
+  thumb_total_height: 324
+- path: Dallas, Season 8.jpg
+  width: 680
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=f56a1c3
+  thumb_x: 1551
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 1991
+  thumb_total_height: 324
+- path: St. Elsewhere, Season 3.jpg
+  width: 680
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=f56a1c3
+  thumb_x: 1771
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 1991
   thumb_total_height: 324
