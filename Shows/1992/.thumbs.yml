@@ -1,44 +1,89 @@
 - path: Cheers, Season 11.jpg
   width: 800
   height: 1133
-  thumb: thumbnails_0.jpg?crc=89decfa5
+  thumb: thumbnails_0.jpg?crc=a1e46e08
   thumb_width: 229
   thumb_height: 324
-  thumb_total_width: 1093
+  thumb_total_width: 2211
   thumb_total_height: 324
 - path: Seinfeld, Season 4.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=89decfa5
+  thumb: thumbnails_0.jpg?crc=a1e46e08
   thumb_x: 229
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1093
+  thumb_total_width: 2211
   thumb_total_height: 324
 - path: Law & Order, Season 3.jpg
   width: 500
   height: 750
-  thumb: thumbnails_0.jpg?crc=89decfa5
+  thumb: thumbnails_0.jpg?crc=a1e46e08
   thumb_x: 445
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1093
+  thumb_total_width: 2211
   thumb_total_height: 324
 - path: The Simpsons, Season 4.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=89decfa5
+  thumb: thumbnails_0.jpg?crc=a1e46e08
   thumb_x: 661
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1093
+  thumb_total_width: 2211
   thumb_total_height: 324
 - path: The Fresh Prince of Bel-Air, Season 3.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=89decfa5
+  thumb: thumbnails_0.jpg?crc=a1e46e08
   thumb_x: 877
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1093
+  thumb_total_width: 2211
+  thumb_total_height: 324
+- path: Mister Rogers' Neighborhood, Season 23.jpg
+  width: 680
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=a1e46e08
+  thumb_x: 1093
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2211
+  thumb_total_height: 324
+- path: Roseanne, Season 5.jpg
+  width: 1383
+  height: 2048
+  thumb: thumbnails_0.jpg?crc=a1e46e08
+  thumb_x: 1313
+  thumb_width: 219
+  thumb_height: 324
+  thumb_total_width: 2211
+  thumb_total_height: 324
+- path: Saturday Night Live, Season 18.jpg
+  width: 2160
+  height: 2880
+  thumb: thumbnails_0.jpg?crc=a1e46e08
+  thumb_x: 1532
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2211
+  thumb_total_height: 324
+- path: Sesame Street, Season 24.jpg
+  width: 2000
+  height: 3000
+  thumb: thumbnails_0.jpg?crc=a1e46e08
+  thumb_x: 1775
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2211
+  thumb_total_height: 324
+- path: The Larry Sanders Show.jpg
+  width: 680
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=a1e46e08
+  thumb_x: 1991
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2211
   thumb_total_height: 324

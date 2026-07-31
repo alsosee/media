@@ -1,44 +1,98 @@
 - path: Cheers, Season 6.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=d4ab18d8
+  thumb: thumbnails_0.jpg?crc=4c4158bc
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1080
-  thumb_total_height: 324
+  thumb_total_width: 2195
+  thumb_total_height: 648
 - path: Dragon Ball, Season 4.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=d4ab18d8
+  thumb: thumbnails_0.jpg?crc=4c4158bc
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1080
-  thumb_total_height: 324
+  thumb_total_width: 2195
+  thumb_total_height: 648
 - path: Dragon Ball, Season 5.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=d4ab18d8
+  thumb: thumbnails_0.jpg?crc=4c4158bc
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1080
-  thumb_total_height: 324
+  thumb_total_width: 2195
+  thumb_total_height: 648
 - path: Dragon Ball, Season 6.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=d4ab18d8
+  thumb: thumbnails_0.jpg?crc=4c4158bc
   thumb_x: 648
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1080
-  thumb_total_height: 324
+  thumb_total_width: 2195
+  thumb_total_height: 648
 - path: Dragon Ball, Season 7.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=d4ab18d8
+  thumb: thumbnails_0.jpg?crc=4c4158bc
   thumb_x: 864
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1080
-  thumb_total_height: 324
+  thumb_total_width: 2195
+  thumb_total_height: 648
+- path: Doctor Who, Season 24.jpg
+  width: 1080
+  height: 1620
+  thumb: thumbnails_0.jpg?crc=4c4158bc
+  thumb_x: 1080
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2195
+  thumb_total_height: 648
+- path: Mister Rogers' Neighborhood, Season 18.jpg
+  width: 680
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=4c4158bc
+  thumb_x: 1296
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2195
+  thumb_total_height: 648
+- path: Saturday Night Live, Season 13.jpg
+  width: 2160
+  height: 2880
+  thumb: thumbnails_0.jpg?crc=4c4158bc
+  thumb_x: 1516
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2195
+  thumb_total_height: 648
+- path: Sesame Street, Season 19.jpg
+  width: 2000
+  height: 3000
+  thumb: thumbnails_0.jpg?crc=4c4158bc
+  thumb_x: 1759
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2195
+  thumb_total_height: 648
+- path: The Cosby Show, Season 4.jpg
+  width: 680
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=4c4158bc
+  thumb_x: 1975
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2195
+  thumb_total_height: 648
+- path: The Golden Girls, Season 3.jpg
+  width: 1000
+  height: 1500
+  thumb: thumbnails_0.jpg?crc=4c4158bc
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2195
+  thumb_total_height: 648

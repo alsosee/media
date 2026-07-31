@@ -1,0 +1,53 @@
+- path: Doctor Who, Season 17.jpg
+  width: 1080
+  height: 1620
+  thumb: thumbnails_0.jpg?crc=dae6ac72
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1339
+  thumb_total_height: 324
+- path: Fawlty Towers, Season 2.jpg
+  width: 680
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=dae6ac72
+  thumb_x: 216
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 1339
+  thumb_total_height: 324
+- path: Mister Rogers' Neighborhood, Season 10.jpg
+  width: 680
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=dae6ac72
+  thumb_x: 436
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 1339
+  thumb_total_height: 324
+- path: Saturday Night Live, Season 5.jpg
+  width: 2160
+  height: 2880
+  thumb: thumbnails_0.jpg?crc=dae6ac72
+  thumb_x: 656
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 1339
+  thumb_total_height: 324
+- path: The Jeffersons, Season 6.jpg
+  width: 680
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=dae6ac72
+  thumb_x: 899
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 1339
+  thumb_total_height: 324
+- path: The Muppet Show, Season 4.jpg
+  width: 680
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=dae6ac72
+  thumb_x: 1119
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 1339
+  thumb_total_height: 324

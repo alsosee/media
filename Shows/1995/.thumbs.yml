@@ -1,62 +1,138 @@
 - path: Frasier, Season 3.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=f5be6bb6
+  thumb: thumbnails_0.jpg?crc=ab75e8d3
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1512
-  thumb_total_height: 324
+  thumb_total_width: 2182
+  thumb_total_height: 648
 - path: Seinfeld, Season 7.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=f5be6bb6
+  thumb: thumbnails_0.jpg?crc=ab75e8d3
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1512
-  thumb_total_height: 324
+  thumb_total_width: 2182
+  thumb_total_height: 648
 - path: The X-Files, Season 3.jpg
   width: 600
   height: 900
-  thumb: thumbnails_0.jpg?crc=f5be6bb6
+  thumb: thumbnails_0.jpg?crc=ab75e8d3
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1512
-  thumb_total_height: 324
+  thumb_total_width: 2182
+  thumb_total_height: 648
 - path: ER, Season 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=f5be6bb6
+  thumb: thumbnails_0.jpg?crc=ab75e8d3
   thumb_x: 648
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1512
-  thumb_total_height: 324
+  thumb_total_width: 2182
+  thumb_total_height: 648
 - path: Law & Order, Season 6.jpg
   width: 500
   height: 750
-  thumb: thumbnails_0.jpg?crc=f5be6bb6
+  thumb: thumbnails_0.jpg?crc=ab75e8d3
   thumb_x: 864
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1512
-  thumb_total_height: 324
+  thumb_total_width: 2182
+  thumb_total_height: 648
 - path: The Simpsons, Season 7.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=f5be6bb6
+  thumb: thumbnails_0.jpg?crc=ab75e8d3
   thumb_x: 1080
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1512
-  thumb_total_height: 324
+  thumb_total_width: 2182
+  thumb_total_height: 648
 - path: The Fresh Prince of Bel-Air, Season 6.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=f5be6bb6
+  thumb: thumbnails_0.jpg?crc=ab75e8d3
   thumb_x: 1296
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1512
-  thumb_total_height: 324
+  thumb_total_width: 2182
+  thumb_total_height: 648
+- path: Homicide Life on the Street, Season 4.jpg
+  width: 356
+  height: 500
+  thumb: thumbnails_0.jpg?crc=ab75e8d3
+  thumb_x: 1512
+  thumb_width: 230
+  thumb_height: 324
+  thumb_total_width: 2182
+  thumb_total_height: 648
+- path: Mister Rogers' Neighborhood, Season 25.jpg
+  width: 680
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=ab75e8d3
+  thumb_x: 1742
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2182
+  thumb_total_height: 648
+- path: Mister Rogers' Neighborhood, Season 26.jpg
+  width: 680
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=ab75e8d3
+  thumb_x: 1962
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2182
+  thumb_total_height: 648
+- path: NYPD Blue, Season 3.jpg
+  width: 1000
+  height: 1426
+  thumb: thumbnails_0.jpg?crc=ab75e8d3
+  thumb_y: 324
+  thumb_width: 227
+  thumb_height: 324
+  thumb_total_width: 2182
+  thumb_total_height: 648
+- path: Roseanne, Season 8.jpg
+  width: 1383
+  height: 2048
+  thumb: thumbnails_0.jpg?crc=ab75e8d3
+  thumb_x: 227
+  thumb_y: 324
+  thumb_width: 219
+  thumb_height: 324
+  thumb_total_width: 2182
+  thumb_total_height: 648
+- path: Saturday Night Live, Season 21.jpg
+  width: 2160
+  height: 2880
+  thumb: thumbnails_0.jpg?crc=ab75e8d3
+  thumb_x: 446
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2182
+  thumb_total_height: 648
+- path: Sesame Street, Season 27.jpg
+  width: 2000
+  height: 3000
+  thumb: thumbnails_0.jpg?crc=ab75e8d3
+  thumb_x: 689
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2182
+  thumb_total_height: 648
+- path: The Larry Sanders Show, Season 4.jpg
+  width: 680
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=ab75e8d3
+  thumb_x: 905
+  thumb_y: 324
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2182
+  thumb_total_height: 648

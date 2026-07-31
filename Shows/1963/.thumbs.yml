@@ -1,0 +1,26 @@
+- path: Doctor Who.jpg
+  width: 1080
+  height: 1620
+  thumb: thumbnails_0.jpg?crc=ff9c9448
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 660
+  thumb_total_height: 324
+- path: The Andy Griffith Show, Season 4.jpg
+  width: 340
+  height: 491
+  thumb: thumbnails_0.jpg?crc=ff9c9448
+  thumb_x: 216
+  thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 660
+  thumb_total_height: 324
+- path: The Dick Van Dyke Show, Season 3.jpg
+  width: 680
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=ff9c9448
+  thumb_x: 440
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 660
+  thumb_total_height: 324

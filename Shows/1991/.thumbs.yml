@@ -1,53 +1,108 @@
 - path: Cheers, Season 10.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e3bbc5ed
+  thumb: thumbnails_0.jpg?crc=f24edae7
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1296
-  thumb_total_height: 324
+  thumb_total_width: 2194
+  thumb_total_height: 648
 - path: Seinfeld, Season 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e3bbc5ed
+  thumb: thumbnails_0.jpg?crc=f24edae7
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1296
-  thumb_total_height: 324
+  thumb_total_width: 2194
+  thumb_total_height: 648
 - path: Seinfeld, Season 3.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e3bbc5ed
+  thumb: thumbnails_0.jpg?crc=f24edae7
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1296
-  thumb_total_height: 324
+  thumb_total_width: 2194
+  thumb_total_height: 648
 - path: Law & Order, Season 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e3bbc5ed
+  thumb: thumbnails_0.jpg?crc=f24edae7
   thumb_x: 648
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1296
-  thumb_total_height: 324
+  thumb_total_width: 2194
+  thumb_total_height: 648
 - path: The Simpsons, Season 3.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e3bbc5ed
+  thumb: thumbnails_0.jpg?crc=f24edae7
   thumb_x: 864
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1296
-  thumb_total_height: 324
+  thumb_total_width: 2194
+  thumb_total_height: 648
 - path: The Fresh Prince of Bel-Air, Season 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e3bbc5ed
+  thumb: thumbnails_0.jpg?crc=f24edae7
   thumb_x: 1080
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1296
-  thumb_total_height: 324
+  thumb_total_width: 2194
+  thumb_total_height: 648
+- path: Mister Rogers' Neighborhood, Season 22.jpg
+  width: 680
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=f24edae7
+  thumb_x: 1296
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2194
+  thumb_total_height: 648
+- path: Roseanne, Season 4.jpg
+  width: 1383
+  height: 2048
+  thumb: thumbnails_0.jpg?crc=f24edae7
+  thumb_x: 1516
+  thumb_width: 219
+  thumb_height: 324
+  thumb_total_width: 2194
+  thumb_total_height: 648
+- path: Saturday Night Live, Season 17.jpg
+  width: 2160
+  height: 2880
+  thumb: thumbnails_0.jpg?crc=f24edae7
+  thumb_x: 1735
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2194
+  thumb_total_height: 648
+- path: Sesame Street, Season 23.jpg
+  width: 2000
+  height: 3000
+  thumb: thumbnails_0.jpg?crc=f24edae7
+  thumb_x: 1978
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2194
+  thumb_total_height: 648
+- path: The Cosby Show, Season 8.jpg
+  width: 680
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=f24edae7
+  thumb_y: 324
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2194
+  thumb_total_height: 648
+- path: The Golden Girls, Season 7.jpg
+  width: 1000
+  height: 1500
+  thumb: thumbnails_0.jpg?crc=f24edae7
+  thumb_x: 220
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2194
+  thumb_total_height: 648

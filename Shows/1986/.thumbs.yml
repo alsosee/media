@@ -1,35 +1,89 @@
 - path: Cheers, Season 5.jpg
   width: 800
   height: 1143
-  thumb: thumbnails_0.jpg?crc=e116228d
+  thumb: thumbnails_0.jpg?crc=6853f719
   thumb_width: 227
   thumb_height: 324
-  thumb_total_width: 875
+  thumb_total_width: 2210
   thumb_total_height: 324
 - path: Dragon Ball, Season 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e116228d
+  thumb: thumbnails_0.jpg?crc=6853f719
   thumb_x: 227
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 875
+  thumb_total_width: 2210
   thumb_total_height: 324
 - path: Dragon Ball, Season 3.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e116228d
+  thumb: thumbnails_0.jpg?crc=6853f719
   thumb_x: 443
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 875
+  thumb_total_width: 2210
   thumb_total_height: 324
 - path: Dragon Ball.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e116228d
+  thumb: thumbnails_0.jpg?crc=6853f719
   thumb_x: 659
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 875
+  thumb_total_width: 2210
+  thumb_total_height: 324
+- path: Doctor Who, Season 23.jpg
+  width: 220
+  height: 266
+  thumb: thumbnails_0.jpg?crc=6853f719
+  thumb_x: 1990
+  thumb_width: 220
+  thumb_height: 266
+  thumb_total_width: 2210
+  thumb_total_height: 324
+- path: Mister Rogers' Neighborhood, Season 17.jpg
+  width: 680
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=6853f719
+  thumb_x: 875
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2210
+  thumb_total_height: 324
+- path: Saturday Night Live, Season 12.jpg
+  width: 2160
+  height: 2880
+  thumb: thumbnails_0.jpg?crc=6853f719
+  thumb_x: 1095
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2210
+  thumb_total_height: 324
+- path: Sesame Street, Season 18.jpg
+  width: 2000
+  height: 3000
+  thumb: thumbnails_0.jpg?crc=6853f719
+  thumb_x: 1338
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2210
+  thumb_total_height: 324
+- path: The Cosby Show, Season 3.jpg
+  width: 680
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=6853f719
+  thumb_x: 1554
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2210
+  thumb_total_height: 324
+- path: The Golden Girls, Season 2.jpg
+  width: 1000
+  height: 1500
+  thumb: thumbnails_0.jpg?crc=6853f719
+  thumb_x: 1774
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2210
   thumb_total_height: 324

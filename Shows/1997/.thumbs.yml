@@ -1,89 +1,148 @@
 - path: Frasier, Season 5.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=8a756f8
+  thumb: thumbnails_0.jpg?crc=ca37ed6d
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2207
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Seinfeld, Season 9.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=8a756f8
+  thumb: thumbnails_0.jpg?crc=ca37ed6d
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2207
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Stargate SG-1.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=8a756f8
+  thumb: thumbnails_0.jpg?crc=ca37ed6d
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2207
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: The X-Files, Season 5.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=8a756f8
+  thumb: thumbnails_0.jpg?crc=ca37ed6d
   thumb_x: 648
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2207
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: ER, Season 4.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=8a756f8
+  thumb: thumbnails_0.jpg?crc=ca37ed6d
   thumb_x: 864
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2207
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Law & Order, Season 8.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=8a756f8
+  thumb: thumbnails_0.jpg?crc=ca37ed6d
   thumb_x: 1080
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2207
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: South Park.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=8a756f8
+  thumb: thumbnails_0.jpg?crc=ca37ed6d
   thumb_x: 1296
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2207
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: The Simpsons, Season 9.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=8a756f8
+  thumb: thumbnails_0.jpg?crc=ca37ed6d
   thumb_x: 1512
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2207
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Buffy the Vampire Slayer, Season 2.jpg
   width: 621
   height: 800
-  thumb: thumbnails_0.jpg?crc=8a756f8
+  thumb: thumbnails_0.jpg?crc=ca37ed6d
   thumb_x: 1728
   thumb_width: 251
   thumb_height: 324
   thumb_total_width: 2207
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Buffy the Vampire Slayer.jpg
   width: 563
   height: 800
-  thumb: thumbnails_0.jpg?crc=8a756f8
+  thumb: thumbnails_0.jpg?crc=ca37ed6d
   thumb_x: 1979
   thumb_width: 228
   thumb_height: 324
   thumb_total_width: 2207
-  thumb_total_height: 324
+  thumb_total_height: 648
+- path: Homicide Life on the Street, Season 6.jpg
+  width: 354
+  height: 500
+  thumb: thumbnails_0.jpg?crc=ca37ed6d
+  thumb_y: 324
+  thumb_width: 229
+  thumb_height: 324
+  thumb_total_width: 2207
+  thumb_total_height: 648
+- path: Mister Rogers' Neighborhood, Season 27.jpg
+  width: 680
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=ca37ed6d
+  thumb_x: 229
+  thumb_y: 324
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2207
+  thumb_total_height: 648
+- path: NYPD Blue, Season 5.jpg
+  width: 1000
+  height: 1426
+  thumb: thumbnails_0.jpg?crc=ca37ed6d
+  thumb_x: 449
+  thumb_y: 324
+  thumb_width: 227
+  thumb_height: 324
+  thumb_total_width: 2207
+  thumb_total_height: 648
+- path: Oz.jpg
+  width: 340
+  height: 491
+  thumb: thumbnails_0.jpg?crc=ca37ed6d
+  thumb_x: 676
+  thumb_y: 324
+  thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2207
+  thumb_total_height: 648
+- path: Saturday Night Live, Season 23.jpg
+  width: 2160
+  height: 2880
+  thumb: thumbnails_0.jpg?crc=ca37ed6d
+  thumb_x: 900
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2207
+  thumb_total_height: 648
+- path: Sesame Street, Season 29.jpg
+  width: 2000
+  height: 3000
+  thumb: thumbnails_0.jpg?crc=ca37ed6d
+  thumb_x: 1143
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2207
+  thumb_total_height: 648

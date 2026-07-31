@@ -1,0 +1,53 @@
+- path: Doctor Who, Season 16.jpg
+  width: 1080
+  height: 1620
+  thumb: thumbnails_0.jpg?crc=94395e5a
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1331
+  thumb_total_height: 324
+- path: Saturday Night Live, Season 4.jpg
+  width: 2160
+  height: 2880
+  thumb: thumbnails_0.jpg?crc=94395e5a
+  thumb_x: 216
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 1331
+  thumb_total_height: 324
+- path: Sesame Street, Season 10.jpg
+  width: 2000
+  height: 3000
+  thumb: thumbnails_0.jpg?crc=94395e5a
+  thumb_x: 459
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1331
+  thumb_total_height: 324
+- path: Sesame Street, Season 11.jpg
+  width: 2000
+  height: 3000
+  thumb: thumbnails_0.jpg?crc=94395e5a
+  thumb_x: 675
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1331
+  thumb_total_height: 324
+- path: The Jeffersons, Season 5.jpg
+  width: 680
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=94395e5a
+  thumb_x: 891
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 1331
+  thumb_total_height: 324
+- path: The Muppet Show, Season 3.jpg
+  width: 680
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=94395e5a
+  thumb_x: 1111
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 1331
+  thumb_total_height: 324

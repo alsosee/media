@@ -1,0 +1,17 @@
+- path: Doctor Who, Season 4.jpg
+  width: 1080
+  height: 1620
+  thumb: thumbnails_0.jpg?crc=ddfa8f39
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 440
+  thumb_total_height: 324
+- path: The Andy Griffith Show, Season 7.jpg
+  width: 340
+  height: 491
+  thumb: thumbnails_0.jpg?crc=ddfa8f39
+  thumb_x: 216
+  thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 440
+  thumb_total_height: 324

@@ -1,0 +1,17 @@
+- path: The Andy Griffith Show, Season 2.jpg
+  width: 340
+  height: 491
+  thumb: thumbnails_0.jpg?crc=c3dd2f2
+  thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 444
+  thumb_total_height: 324
+- path: The Dick Van Dyke Show.jpg
+  width: 680
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=c3dd2f2
+  thumb_x: 224
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 444
+  thumb_total_height: 324

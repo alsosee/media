@@ -1,0 +1,35 @@
+- path: Mister Rogers' Neighborhood, Season 2.jpg
+  width: 680
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=fc974437
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 881
+  thumb_total_height: 324
+- path: Monty Python's Flying Circus.jpg
+  width: 418
+  height: 600
+  thumb: thumbnails_0.jpg?crc=fc974437
+  thumb_x: 220
+  thumb_width: 225
+  thumb_height: 324
+  thumb_total_width: 881
+  thumb_total_height: 324
+- path: Sesame Street.jpg
+  width: 2000
+  height: 3000
+  thumb: thumbnails_0.jpg?crc=fc974437
+  thumb_x: 445
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 881
+  thumb_total_height: 324
+- path: The Carol Burnett Show, Season 3.jpg
+  width: 680
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=fc974437
+  thumb_x: 661
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 881
+  thumb_total_height: 324

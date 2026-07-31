@@ -1,0 +1,26 @@
+- path: Doctor Who, Season 6.jpg
+  width: 1080
+  height: 1620
+  thumb: thumbnails_0.jpg?crc=d3ea3ca1
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 656
+  thumb_total_height: 324
+- path: Mister Rogers' Neighborhood.jpg
+  width: 680
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=d3ea3ca1
+  thumb_x: 216
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 656
+  thumb_total_height: 324
+- path: The Carol Burnett Show, Season 2.jpg
+  width: 680
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=d3ea3ca1
+  thumb_x: 436
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 656
+  thumb_total_height: 324
