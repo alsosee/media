@@ -1,71 +1,80 @@
 - path: Doctor Who, Season 14.jpg
   width: 220
   height: 266
-  thumb: thumbnails_0.jpg?crc=a5c93be
-  thumb_x: 1565
+  thumb: thumbnails_0.jpg?crc=89c1897c
+  thumb_x: 1785
   thumb_width: 220
   thumb_height: 266
-  thumb_total_width: 1785
+  thumb_total_width: 2005
   thumb_total_height: 324
 - path: Mister Rogers' Neighborhood, Season 9.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=a5c93be
+  thumb: thumbnails_0.jpg?crc=89c1897c
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1785
+  thumb_total_width: 2005
   thumb_total_height: 324
 - path: Saturday Night Live, Season 2.jpg
   width: 2160
   height: 2880
-  thumb: thumbnails_0.jpg?crc=a5c93be
+  thumb: thumbnails_0.jpg?crc=89c1897c
   thumb_x: 220
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1785
+  thumb_total_width: 2005
   thumb_total_height: 324
 - path: Sesame Street, Season 8.jpg
   width: 2000
   height: 3000
-  thumb: thumbnails_0.jpg?crc=a5c93be
+  thumb: thumbnails_0.jpg?crc=89c1897c
   thumb_x: 463
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1785
+  thumb_total_width: 2005
   thumb_total_height: 324
 - path: The Carol Burnett Show, Season 10.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=a5c93be
+  thumb: thumbnails_0.jpg?crc=89c1897c
   thumb_x: 679
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1785
+  thumb_total_width: 2005
   thumb_total_height: 324
 - path: The Jeffersons, Season 3.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=a5c93be
+  thumb: thumbnails_0.jpg?crc=89c1897c
   thumb_x: 899
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1785
+  thumb_total_width: 2005
   thumb_total_height: 324
 - path: The Muppet Show.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=a5c93be
+  thumb: thumbnails_0.jpg?crc=89c1897c
   thumb_x: 1119
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1785
+  thumb_total_width: 2005
   thumb_total_height: 324
 - path: Happy Days, Season 4.jpg
   width: 349
   height: 500
-  thumb: thumbnails_0.jpg?crc=a5c93be
+  thumb: thumbnails_0.jpg?crc=89c1897c
   thumb_x: 1339
   thumb_width: 226
   thumb_height: 324
-  thumb_total_width: 1785
+  thumb_total_width: 2005
+  thumb_total_height: 324
+- path: I, Claudius.jpg
+  width: 800
+  height: 1176
+  thumb: thumbnails_0.jpg?crc=89c1897c
+  thumb_x: 1565
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2005
   thumb_total_height: 324

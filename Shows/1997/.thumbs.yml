@@ -1,168 +1,227 @@
 - path: Frasier, Season 5.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=3983eb47
+  thumb: thumbnails_0.jpg?crc=a57bada3
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2207
-  thumb_total_height: 648
+  thumb_total_width: 2247
+  thumb_total_height: 972
 - path: Seinfeld, Season 9.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=3983eb47
+  thumb: thumbnails_0.jpg?crc=a57bada3
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2207
-  thumb_total_height: 648
+  thumb_total_width: 2247
+  thumb_total_height: 972
 - path: Stargate SG-1.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=3983eb47
+  thumb: thumbnails_0.jpg?crc=a57bada3
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2207
-  thumb_total_height: 648
+  thumb_total_width: 2247
+  thumb_total_height: 972
 - path: The X-Files, Season 5.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=3983eb47
+  thumb: thumbnails_0.jpg?crc=a57bada3
   thumb_x: 648
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2207
-  thumb_total_height: 648
+  thumb_total_width: 2247
+  thumb_total_height: 972
 - path: ER, Season 4.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=3983eb47
+  thumb: thumbnails_0.jpg?crc=a57bada3
   thumb_x: 864
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2207
-  thumb_total_height: 648
+  thumb_total_width: 2247
+  thumb_total_height: 972
 - path: Law & Order, Season 8.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=3983eb47
+  thumb: thumbnails_0.jpg?crc=a57bada3
   thumb_x: 1080
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2207
-  thumb_total_height: 648
+  thumb_total_width: 2247
+  thumb_total_height: 972
 - path: South Park.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=3983eb47
+  thumb: thumbnails_0.jpg?crc=a57bada3
   thumb_x: 1296
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2207
-  thumb_total_height: 648
+  thumb_total_width: 2247
+  thumb_total_height: 972
 - path: The Simpsons, Season 9.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=3983eb47
+  thumb: thumbnails_0.jpg?crc=a57bada3
   thumb_x: 1512
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2207
-  thumb_total_height: 648
+  thumb_total_width: 2247
+  thumb_total_height: 972
 - path: Buffy the Vampire Slayer, Season 2.jpg
   width: 621
   height: 800
-  thumb: thumbnails_0.jpg?crc=3983eb47
+  thumb: thumbnails_0.jpg?crc=a57bada3
   thumb_x: 1728
   thumb_width: 251
   thumb_height: 324
-  thumb_total_width: 2207
-  thumb_total_height: 648
+  thumb_total_width: 2247
+  thumb_total_height: 972
 - path: Buffy the Vampire Slayer.jpg
   width: 563
   height: 800
-  thumb: thumbnails_0.jpg?crc=3983eb47
+  thumb: thumbnails_0.jpg?crc=a57bada3
   thumb_x: 1979
   thumb_width: 228
   thumb_height: 324
-  thumb_total_width: 2207
-  thumb_total_height: 648
+  thumb_total_width: 2247
+  thumb_total_height: 972
 - path: Homicide Life on the Street, Season 6.jpg
   width: 354
   height: 500
-  thumb: thumbnails_0.jpg?crc=3983eb47
+  thumb: thumbnails_0.jpg?crc=a57bada3
   thumb_y: 324
   thumb_width: 229
   thumb_height: 324
-  thumb_total_width: 2207
-  thumb_total_height: 648
+  thumb_total_width: 2247
+  thumb_total_height: 972
 - path: Mister Rogers' Neighborhood, Season 27.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=3983eb47
+  thumb: thumbnails_0.jpg?crc=a57bada3
   thumb_x: 229
   thumb_y: 324
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 2207
-  thumb_total_height: 648
+  thumb_total_width: 2247
+  thumb_total_height: 972
 - path: NYPD Blue, Season 5.jpg
   width: 1000
   height: 1426
-  thumb: thumbnails_0.jpg?crc=3983eb47
+  thumb: thumbnails_0.jpg?crc=a57bada3
   thumb_x: 449
   thumb_y: 324
   thumb_width: 227
   thumb_height: 324
-  thumb_total_width: 2207
-  thumb_total_height: 648
+  thumb_total_width: 2247
+  thumb_total_height: 972
 - path: Oz.jpg
   width: 340
   height: 491
-  thumb: thumbnails_0.jpg?crc=3983eb47
+  thumb: thumbnails_0.jpg?crc=a57bada3
   thumb_x: 676
   thumb_y: 324
   thumb_width: 224
   thumb_height: 324
-  thumb_total_width: 2207
-  thumb_total_height: 648
+  thumb_total_width: 2247
+  thumb_total_height: 972
 - path: Saturday Night Live, Season 23.jpg
   width: 2160
   height: 2880
-  thumb: thumbnails_0.jpg?crc=3983eb47
+  thumb: thumbnails_0.jpg?crc=a57bada3
   thumb_x: 900
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2207
-  thumb_total_height: 648
+  thumb_total_width: 2247
+  thumb_total_height: 972
 - path: Sesame Street, Season 29.jpg
   width: 2000
   height: 3000
-  thumb: thumbnails_0.jpg?crc=3983eb47
+  thumb: thumbnails_0.jpg?crc=a57bada3
   thumb_x: 1143
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2207
-  thumb_total_height: 648
+  thumb_total_width: 2247
+  thumb_total_height: 972
 - path: Ally McBeal.jpg
   width: 300
   height: 433
-  thumb: thumbnails_0.jpg?crc=3983eb47
+  thumb: thumbnails_0.jpg?crc=a57bada3
   thumb_x: 1359
   thumb_y: 324
   thumb_width: 224
   thumb_height: 324
-  thumb_total_width: 2207
-  thumb_total_height: 648
+  thumb_total_width: 2247
+  thumb_total_height: 972
 - path: The Real World, Season 6.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_0.jpg?crc=3983eb47
+  thumb: thumbnails_0.jpg?crc=a57bada3
   thumb_x: 1583
   thumb_y: 324
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 2207
-  thumb_total_height: 648
+  thumb_total_width: 2247
+  thumb_total_height: 972
+- path: Animaniacs, Season 5.jpg
+  width: 800
+  height: 1156
+  thumb: thumbnails_0.jpg?crc=a57bada3
+  thumb_x: 1803
+  thumb_y: 324
+  thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2247
+  thumb_total_height: 972
+- path: Beavis and Butt-Head, Season 7.jpg
+  width: 800
+  height: 1176
+  thumb: thumbnails_0.jpg?crc=a57bada3
+  thumb_x: 2027
+  thumb_y: 324
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2247
+  thumb_total_height: 972
+- path: Beavis and Butt-Head, Season 8.jpg
+  width: 800
+  height: 1176
+  thumb: thumbnails_0.jpg?crc=a57bada3
+  thumb_y: 648
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2247
+  thumb_total_height: 972
+- path: Daria.jpg
+  width: 800
+  height: 1176
+  thumb: thumbnails_0.jpg?crc=a57bada3
+  thumb_x: 220
+  thumb_y: 648
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2247
+  thumb_total_height: 972
+- path: Pokémon.jpg
+  width: 800
+  height: 1154
+  thumb: thumbnails_0.jpg?crc=a57bada3
+  thumb_x: 440
+  thumb_y: 648
+  thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2247
+  thumb_total_height: 972
+- path: Rugrats, Season 5.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=a57bada3
+  thumb_x: 664
+  thumb_y: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2247
+  thumb_total_height: 972

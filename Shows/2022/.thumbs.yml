@@ -486,35 +486,62 @@
 - path: The Amazing Race, Season 33.jpg
   width: 800
   height: 1131
-  thumb: thumbnails_1.jpg?crc=57d823a9
+  thumb: thumbnails_1.jpg?crc=74518bda
   thumb_width: 229
   thumb_height: 324
-  thumb_total_width: 951
+  thumb_total_width: 1712
   thumb_total_height: 324
 - path: The Amazing Race, Season 34.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_1.jpg?crc=57d823a9
+  thumb: thumbnails_1.jpg?crc=74518bda
   thumb_x: 229
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 951
+  thumb_total_width: 1712
   thumb_total_height: 324
 - path: The Bachelor, Season 26.jpg
   width: 800
   height: 1000
-  thumb: thumbnails_1.jpg?crc=57d823a9
+  thumb: thumbnails_1.jpg?crc=74518bda
   thumb_x: 449
   thumb_width: 259
   thumb_height: 324
-  thumb_total_width: 951
+  thumb_total_width: 1712
   thumb_total_height: 324
 - path: Top Chef, Season 19.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_1.jpg?crc=57d823a9
+  thumb: thumbnails_1.jpg?crc=74518bda
   thumb_x: 708
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 951
+  thumb_total_width: 1712
+  thumb_total_height: 324
+- path: Borgen, Season 4.jpg
+  width: 800
+  height: 1000
+  thumb: thumbnails_1.jpg?crc=74518bda
+  thumb_x: 951
+  thumb_width: 259
+  thumb_height: 324
+  thumb_total_width: 1712
+  thumb_total_height: 324
+- path: Pachinko.jpg
+  width: 800
+  height: 1066
+  thumb: thumbnails_1.jpg?crc=74518bda
+  thumb_x: 1210
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 1712
+  thumb_total_height: 324
+- path: Russian Doll, Season 2.jpg
+  width: 800
+  height: 1000
+  thumb: thumbnails_1.jpg?crc=74518bda
+  thumb_x: 1453
+  thumb_width: 259
+  thumb_height: 324
+  thumb_total_width: 1712
   thumb_total_height: 324

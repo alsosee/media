@@ -486,80 +486,197 @@
 - path: Keeping Up with the Kardashians, Season 13.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_1.jpg?crc=6fb63f4
+  thumb: thumbnails_1.jpg?crc=2e5281d5
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2035
-  thumb_total_height: 324
+  thumb_total_width: 2251
+  thumb_total_height: 972
 - path: Keeping Up with the Kardashians, Season 14.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_1.jpg?crc=6fb63f4
+  thumb: thumbnails_1.jpg?crc=2e5281d5
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2035
-  thumb_total_height: 324
+  thumb_total_width: 2251
+  thumb_total_height: 972
 - path: Project Runway, Season 16.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_1.jpg?crc=6fb63f4
+  thumb: thumbnails_1.jpg?crc=2e5281d5
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2035
-  thumb_total_height: 324
+  thumb_total_width: 2251
+  thumb_total_height: 972
 - path: RuPaul's Drag Race, Season 9.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_1.jpg?crc=6fb63f4
+  thumb: thumbnails_1.jpg?crc=2e5281d5
   thumb_x: 648
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2035
-  thumb_total_height: 324
+  thumb_total_width: 2251
+  thumb_total_height: 972
 - path: Survivor, Season 34.jpg
   width: 800
   height: 1136
-  thumb: thumbnails_1.jpg?crc=6fb63f4
+  thumb: thumbnails_1.jpg?crc=2e5281d5
   thumb_x: 864
   thumb_width: 228
   thumb_height: 324
-  thumb_total_width: 2035
-  thumb_total_height: 324
+  thumb_total_width: 2251
+  thumb_total_height: 972
 - path: Survivor, Season 35.jpg
   width: 800
   height: 1132
-  thumb: thumbnails_1.jpg?crc=6fb63f4
+  thumb: thumbnails_1.jpg?crc=2e5281d5
   thumb_x: 1092
   thumb_width: 229
   thumb_height: 324
-  thumb_total_width: 2035
-  thumb_total_height: 324
+  thumb_total_width: 2251
+  thumb_total_height: 972
 - path: The Amazing Race, Season 29.jpg
   width: 800
   height: 1156
-  thumb: thumbnails_1.jpg?crc=6fb63f4
+  thumb: thumbnails_1.jpg?crc=2e5281d5
   thumb_x: 1321
   thumb_width: 224
   thumb_height: 324
-  thumb_total_width: 2035
-  thumb_total_height: 324
+  thumb_total_width: 2251
+  thumb_total_height: 972
 - path: The Bachelor, Season 21.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_1.jpg?crc=6fb63f4
+  thumb: thumbnails_1.jpg?crc=2e5281d5
   thumb_x: 1545
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2035
-  thumb_total_height: 324
+  thumb_total_width: 2251
+  thumb_total_height: 972
 - path: Top Chef, Season 15.jpg
   width: 800
   height: 1050
-  thumb: thumbnails_1.jpg?crc=6fb63f4
+  thumb: thumbnails_1.jpg?crc=2e5281d5
   thumb_x: 1788
   thumb_width: 247
   thumb_height: 324
-  thumb_total_width: 2035
-  thumb_total_height: 324
+  thumb_total_width: 2251
+  thumb_total_height: 972
+- path: Big Little Lies.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_1.jpg?crc=2e5281d5
+  thumb_x: 2035
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2251
+  thumb_total_height: 972
+- path: Crazy Ex-Girlfriend, Season 3.jpg
+  width: 800
+  height: 1155
+  thumb: thumbnails_1.jpg?crc=2e5281d5
+  thumb_y: 324
+  thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2251
+  thumb_total_height: 972
+- path: Gomorrah, Season 3.jpg
+  width: 800
+  height: 1141
+  thumb: thumbnails_1.jpg?crc=2e5281d5
+  thumb_x: 224
+  thumb_y: 324
+  thumb_width: 227
+  thumb_height: 324
+  thumb_total_width: 2251
+  thumb_total_height: 972
+- path: How to Get Away with Murder, Season 4.jpg
+  width: 800
+  height: 1176
+  thumb: thumbnails_1.jpg?crc=2e5281d5
+  thumb_x: 451
+  thumb_y: 324
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2251
+  thumb_total_height: 972
+- path: Jane the Virgin, Season 4.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_1.jpg?crc=2e5281d5
+  thumb_x: 671
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2251
+  thumb_total_height: 972
+- path: Master of None, Season 2.jpg
+  width: 800
+  height: 1185
+  thumb: thumbnails_1.jpg?crc=2e5281d5
+  thumb_x: 887
+  thumb_y: 324
+  thumb_width: 219
+  thumb_height: 324
+  thumb_total_width: 2251
+  thumb_total_height: 972
+- path: Mindhunter.jpg
+  width: 800
+  height: 1185
+  thumb: thumbnails_1.jpg?crc=2e5281d5
+  thumb_x: 1106
+  thumb_y: 324
+  thumb_width: 219
+  thumb_height: 324
+  thumb_total_width: 2251
+  thumb_total_height: 972
+- path: Money Heist.jpg
+  width: 800
+  height: 1176
+  thumb: thumbnails_1.jpg?crc=2e5281d5
+  thumb_x: 1325
+  thumb_y: 324
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2251
+  thumb_total_height: 972
+- path: Pokémon, Season 21.jpg
+  width: 800
+  height: 1124
+  thumb: thumbnails_1.jpg?crc=2e5281d5
+  thumb_x: 1545
+  thumb_y: 324
+  thumb_width: 230
+  thumb_height: 324
+  thumb_total_width: 2251
+  thumb_total_height: 972
+- path: Silicon Valley, Season 4.jpg
+  width: 800
+  height: 1156
+  thumb: thumbnails_1.jpg?crc=2e5281d5
+  thumb_x: 1775
+  thumb_y: 324
+  thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2251
+  thumb_total_height: 972
+- path: The Big Bang Theory, Season 11.jpg
+  width: 800
+  height: 1156
+  thumb: thumbnails_1.jpg?crc=2e5281d5
+  thumb_x: 1999
+  thumb_y: 324
+  thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2251
+  thumb_total_height: 972
+- path: Transparent, Season 4.jpg
+  width: 800
+  height: 1156
+  thumb: thumbnails_1.jpg?crc=2e5281d5
+  thumb_y: 648
+  thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2251
+  thumb_total_height: 972

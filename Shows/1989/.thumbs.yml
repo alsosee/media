@@ -1,7 +1,7 @@
 - path: Cheers, Season 8.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=8d0d669a
+  thumb: thumbnails_0.jpg?crc=bae168fc
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2198
@@ -9,7 +9,7 @@
 - path: Seinfeld.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=8d0d669a
+  thumb: thumbnails_0.jpg?crc=bae168fc
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
@@ -18,7 +18,7 @@
 - path: Chip 'n Dale Rescue Rangers.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=8d0d669a
+  thumb: thumbnails_0.jpg?crc=bae168fc
   thumb_x: 432
   thumb_width: 216
   thumb_height: 324
@@ -27,7 +27,7 @@
 - path: The Simpsons.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=8d0d669a
+  thumb: thumbnails_0.jpg?crc=bae168fc
   thumb_x: 648
   thumb_width: 216
   thumb_height: 324
@@ -36,7 +36,7 @@
 - path: Doctor Who, Season 26.jpg
   width: 1080
   height: 1620
-  thumb: thumbnails_0.jpg?crc=8d0d669a
+  thumb: thumbnails_0.jpg?crc=bae168fc
   thumb_x: 864
   thumb_width: 216
   thumb_height: 324
@@ -45,7 +45,7 @@
 - path: Mister Rogers' Neighborhood, Season 20.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=8d0d669a
+  thumb: thumbnails_0.jpg?crc=bae168fc
   thumb_x: 1080
   thumb_width: 220
   thumb_height: 324
@@ -54,7 +54,7 @@
 - path: Roseanne, Season 2.jpg
   width: 1383
   height: 2048
-  thumb: thumbnails_0.jpg?crc=8d0d669a
+  thumb: thumbnails_0.jpg?crc=bae168fc
   thumb_x: 1300
   thumb_width: 219
   thumb_height: 324
@@ -63,7 +63,7 @@
 - path: Saturday Night Live, Season 15.jpg
   width: 2160
   height: 2880
-  thumb: thumbnails_0.jpg?crc=8d0d669a
+  thumb: thumbnails_0.jpg?crc=bae168fc
   thumb_x: 1519
   thumb_width: 243
   thumb_height: 324
@@ -72,7 +72,7 @@
 - path: Sesame Street, Season 21.jpg
   width: 2000
   height: 3000
-  thumb: thumbnails_0.jpg?crc=8d0d669a
+  thumb: thumbnails_0.jpg?crc=bae168fc
   thumb_x: 1762
   thumb_width: 216
   thumb_height: 324
@@ -81,7 +81,7 @@
 - path: The Cosby Show, Season 6.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=8d0d669a
+  thumb: thumbnails_0.jpg?crc=bae168fc
   thumb_x: 1978
   thumb_width: 220
   thumb_height: 324
@@ -90,7 +90,7 @@
 - path: The Golden Girls, Season 5.jpg
   width: 1000
   height: 1500
-  thumb: thumbnails_0.jpg?crc=8d0d669a
+  thumb: thumbnails_0.jpg?crc=bae168fc
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
@@ -99,7 +99,7 @@
 - path: Dallas, Season 13.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=8d0d669a
+  thumb: thumbnails_0.jpg?crc=bae168fc
   thumb_x: 216
   thumb_y: 324
   thumb_width: 220
@@ -109,7 +109,7 @@
 - path: Quantum Leap, Season 2.jpg
   width: 1500
   height: 2005
-  thumb: thumbnails_0.jpg?crc=8d0d669a
+  thumb: thumbnails_0.jpg?crc=bae168fc
   thumb_x: 436
   thumb_y: 324
   thumb_width: 242
@@ -119,7 +119,7 @@
 - path: Quantum Leap.jpg
   width: 1611
   height: 2208
-  thumb: thumbnails_0.jpg?crc=8d0d669a
+  thumb: thumbnails_0.jpg?crc=bae168fc
   thumb_x: 678
   thumb_y: 324
   thumb_width: 236
@@ -129,7 +129,7 @@
 - path: The Wonder Years, Season 3.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=8d0d669a
+  thumb: thumbnails_0.jpg?crc=bae168fc
   thumb_x: 914
   thumb_y: 324
   thumb_width: 220
@@ -139,10 +139,30 @@
 - path: thirtysomething, Season 3.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=8d0d669a
+  thumb: thumbnails_0.jpg?crc=bae168fc
   thumb_x: 1134
   thumb_y: 324
   thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2198
+  thumb_total_height: 648
+- path: Blackadder, Season 4.jpg
+  width: 800
+  height: 1151
+  thumb: thumbnails_0.jpg?crc=bae168fc
+  thumb_x: 1354
+  thumb_y: 324
+  thumb_width: 225
+  thumb_height: 324
+  thumb_total_width: 2198
+  thumb_total_height: 648
+- path: Dragon Ball Z.jpg
+  width: 800
+  height: 1120
+  thumb: thumbnails_0.jpg?crc=bae168fc
+  thumb_x: 1579
+  thumb_y: 324
+  thumb_width: 231
   thumb_height: 324
   thumb_total_width: 2198
   thumb_total_height: 648
