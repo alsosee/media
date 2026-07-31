@@ -1,71 +1,89 @@
 - path: Doctor Who, Season 15.jpg
   width: 1080
   height: 1620
-  thumb: thumbnails_0.jpg?crc=832851e5
+  thumb: thumbnails_0.jpg?crc=4f4c457
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1781
+  thumb_total_width: 2217
   thumb_total_height: 324
 - path: Roots.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=832851e5
+  thumb: thumbnails_0.jpg?crc=4f4c457
   thumb_x: 216
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1781
+  thumb_total_width: 2217
   thumb_total_height: 324
 - path: Saturday Night Live, Season 3.jpg
   width: 2160
   height: 2880
-  thumb: thumbnails_0.jpg?crc=832851e5
+  thumb: thumbnails_0.jpg?crc=4f4c457
   thumb_x: 436
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1781
+  thumb_total_width: 2217
   thumb_total_height: 324
 - path: Sesame Street, Season 9.jpg
   width: 2000
   height: 3000
-  thumb: thumbnails_0.jpg?crc=832851e5
+  thumb: thumbnails_0.jpg?crc=4f4c457
   thumb_x: 679
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1781
+  thumb_total_width: 2217
   thumb_total_height: 324
 - path: The Carol Burnett Show, Season 11.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=832851e5
+  thumb: thumbnails_0.jpg?crc=4f4c457
   thumb_x: 895
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1781
+  thumb_total_width: 2217
   thumb_total_height: 324
 - path: The Jeffersons, Season 4.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=832851e5
+  thumb: thumbnails_0.jpg?crc=4f4c457
   thumb_x: 1115
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1781
+  thumb_total_width: 2217
   thumb_total_height: 324
 - path: The Muppet Show, Season 2.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=832851e5
+  thumb: thumbnails_0.jpg?crc=4f4c457
   thumb_x: 1335
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1781
+  thumb_total_width: 2217
   thumb_total_height: 324
 - path: Happy Days, Season 5.jpg
   width: 333
   height: 476
-  thumb: thumbnails_0.jpg?crc=832851e5
+  thumb: thumbnails_0.jpg?crc=4f4c457
   thumb_x: 1555
   thumb_width: 226
   thumb_height: 324
-  thumb_total_width: 1781
+  thumb_total_width: 2217
+  thumb_total_height: 324
+- path: Barney Miller, Season 4.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=4f4c457
+  thumb_x: 1781
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2217
+  thumb_total_height: 324
+- path: Kojak, Season 5.jpg
+  width: 800
+  height: 1176
+  thumb: thumbnails_0.jpg?crc=4f4c457
+  thumb_x: 1997
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2217
   thumb_total_height: 324

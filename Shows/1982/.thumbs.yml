@@ -1,98 +1,108 @@
 - path: Cheers.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=7b821c9a
+  thumb: thumbnails_0.jpg?crc=d7a1170f
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2215
-  thumb_total_height: 583
+  thumb_total_height: 648
 - path: Doctor Who, Season 19.jpg
   width: 220
   height: 259
-  thumb: thumbnails_0.jpg?crc=7b821c9a
+  thumb: thumbnails_0.jpg?crc=d7a1170f
+  thumb_x: 227
   thumb_y: 324
   thumb_width: 220
   thumb_height: 259
   thumb_total_width: 2215
-  thumb_total_height: 583
+  thumb_total_height: 648
 - path: Mister Rogers' Neighborhood, Season 12.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=7b821c9a
+  thumb: thumbnails_0.jpg?crc=d7a1170f
   thumb_x: 216
   thumb_width: 220
   thumb_height: 324
   thumb_total_width: 2215
-  thumb_total_height: 583
+  thumb_total_height: 648
 - path: Mister Rogers' Neighborhood, Season 13.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=7b821c9a
+  thumb: thumbnails_0.jpg?crc=d7a1170f
   thumb_x: 436
   thumb_width: 220
   thumb_height: 324
   thumb_total_width: 2215
-  thumb_total_height: 583
+  thumb_total_height: 648
 - path: Saturday Night Live, Season 8.jpg
   width: 2160
   height: 2880
-  thumb: thumbnails_0.jpg?crc=7b821c9a
+  thumb: thumbnails_0.jpg?crc=d7a1170f
   thumb_x: 656
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2215
-  thumb_total_height: 583
+  thumb_total_height: 648
 - path: Sesame Street, Season 14.jpg
   width: 2000
   height: 3000
-  thumb: thumbnails_0.jpg?crc=7b821c9a
+  thumb: thumbnails_0.jpg?crc=d7a1170f
   thumb_x: 899
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2215
-  thumb_total_height: 583
+  thumb_total_height: 648
 - path: The Jeffersons, Season 9.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=7b821c9a
+  thumb: thumbnails_0.jpg?crc=d7a1170f
   thumb_x: 1115
   thumb_width: 220
   thumb_height: 324
   thumb_total_width: 2215
-  thumb_total_height: 583
+  thumb_total_height: 648
 - path: Dallas, Season 6.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=7b821c9a
+  thumb: thumbnails_0.jpg?crc=d7a1170f
   thumb_x: 1335
   thumb_width: 220
   thumb_height: 324
   thumb_total_width: 2215
-  thumb_total_height: 583
+  thumb_total_height: 648
 - path: Happy Days, Season 10.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=7b821c9a
+  thumb: thumbnails_0.jpg?crc=d7a1170f
   thumb_x: 1555
   thumb_width: 220
   thumb_height: 324
   thumb_total_width: 2215
-  thumb_total_height: 583
+  thumb_total_height: 648
 - path: St. Elsewhere.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=7b821c9a
+  thumb: thumbnails_0.jpg?crc=d7a1170f
   thumb_x: 1775
   thumb_width: 220
   thumb_height: 324
   thumb_total_width: 2215
-  thumb_total_height: 583
+  thumb_total_height: 648
 - path: Yes Minister, Season 3.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_0.jpg?crc=7b821c9a
+  thumb: thumbnails_0.jpg?crc=d7a1170f
   thumb_x: 1995
   thumb_width: 220
   thumb_height: 324
   thumb_total_width: 2215
-  thumb_total_height: 583
+  thumb_total_height: 648
+- path: Knight Rider.jpg
+  width: 800
+  height: 1141
+  thumb: thumbnails_0.jpg?crc=d7a1170f
+  thumb_y: 324
+  thumb_width: 227
+  thumb_height: 324
+  thumb_total_width: 2215
+  thumb_total_height: 648

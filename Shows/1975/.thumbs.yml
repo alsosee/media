@@ -1,80 +1,118 @@
 - path: Doctor Who, Season 13.jpg
   width: 1080
   height: 1620
-  thumb: thumbnails_0.jpg?crc=91655ad9
+  thumb: thumbnails_0.jpg?crc=d9f1a3c1
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2003
-  thumb_total_height: 324
+  thumb_total_width: 2225
+  thumb_total_height: 648
 - path: Fawlty Towers.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=91655ad9
+  thumb: thumbnails_0.jpg?crc=d9f1a3c1
   thumb_x: 216
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 2003
-  thumb_total_height: 324
+  thumb_total_width: 2225
+  thumb_total_height: 648
 - path: Mister Rogers' Neighborhood, Season 8.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=91655ad9
+  thumb: thumbnails_0.jpg?crc=d9f1a3c1
   thumb_x: 436
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 2003
-  thumb_total_height: 324
+  thumb_total_width: 2225
+  thumb_total_height: 648
 - path: Saturday Night Live.jpg
   width: 2160
   height: 2880
-  thumb: thumbnails_0.jpg?crc=91655ad9
+  thumb: thumbnails_0.jpg?crc=d9f1a3c1
   thumb_x: 656
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2003
-  thumb_total_height: 324
+  thumb_total_width: 2225
+  thumb_total_height: 648
 - path: Sesame Street, Season 7.jpg
   width: 2000
   height: 3000
-  thumb: thumbnails_0.jpg?crc=91655ad9
+  thumb: thumbnails_0.jpg?crc=d9f1a3c1
   thumb_x: 899
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2003
-  thumb_total_height: 324
+  thumb_total_width: 2225
+  thumb_total_height: 648
 - path: The Carol Burnett Show, Season 9.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=91655ad9
+  thumb: thumbnails_0.jpg?crc=d9f1a3c1
   thumb_x: 1115
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 2003
-  thumb_total_height: 324
+  thumb_total_width: 2225
+  thumb_total_height: 648
 - path: The Jeffersons, Season 2.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=91655ad9
+  thumb: thumbnails_0.jpg?crc=d9f1a3c1
   thumb_x: 1335
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 2003
-  thumb_total_height: 324
+  thumb_total_width: 2225
+  thumb_total_height: 648
 - path: The Jeffersons.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=91655ad9
+  thumb: thumbnails_0.jpg?crc=d9f1a3c1
   thumb_x: 1555
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 2003
-  thumb_total_height: 324
+  thumb_total_width: 2225
+  thumb_total_height: 648
 - path: Happy Days, Season 3.jpg
   width: 314
   height: 445
-  thumb: thumbnails_0.jpg?crc=91655ad9
+  thumb: thumbnails_0.jpg?crc=d9f1a3c1
   thumb_x: 1775
   thumb_width: 228
   thumb_height: 324
-  thumb_total_width: 2003
-  thumb_total_height: 324
+  thumb_total_width: 2225
+  thumb_total_height: 648
+- path: Barney Miller, Season 2.jpg
+  width: 800
+  height: 1167
+  thumb: thumbnails_0.jpg?crc=d9f1a3c1
+  thumb_x: 2003
+  thumb_width: 222
+  thumb_height: 324
+  thumb_total_width: 2225
+  thumb_total_height: 648
+- path: Barney Miller.jpg
+  width: 800
+  height: 1087
+  thumb: thumbnails_0.jpg?crc=d9f1a3c1
+  thumb_y: 324
+  thumb_width: 238
+  thumb_height: 324
+  thumb_total_width: 2225
+  thumb_total_height: 648
+- path: Kojak, Season 3.jpg
+  width: 800
+  height: 1176
+  thumb: thumbnails_0.jpg?crc=d9f1a3c1
+  thumb_x: 238
+  thumb_y: 324
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2225
+  thumb_total_height: 648
+- path: Sanford and Son, Season 5.jpg
+  width: 800
+  height: 1156
+  thumb: thumbnails_0.jpg?crc=d9f1a3c1
+  thumb_x: 458
+  thumb_y: 324
+  thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2225
+  thumb_total_height: 648

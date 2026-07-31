@@ -1,80 +1,108 @@
 - path: Doctor Who, Season 14.jpg
   width: 220
   height: 266
-  thumb: thumbnails_0.jpg?crc=89c1897c
-  thumb_x: 1785
+  thumb: thumbnails_0.jpg?crc=e1496e06
+  thumb_x: 224
+  thumb_y: 324
   thumb_width: 220
   thumb_height: 266
-  thumb_total_width: 2005
-  thumb_total_height: 324
+  thumb_total_width: 2221
+  thumb_total_height: 648
 - path: Mister Rogers' Neighborhood, Season 9.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=89c1897c
+  thumb: thumbnails_0.jpg?crc=e1496e06
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 2005
-  thumb_total_height: 324
+  thumb_total_width: 2221
+  thumb_total_height: 648
 - path: Saturday Night Live, Season 2.jpg
   width: 2160
   height: 2880
-  thumb: thumbnails_0.jpg?crc=89c1897c
+  thumb: thumbnails_0.jpg?crc=e1496e06
   thumb_x: 220
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2005
-  thumb_total_height: 324
+  thumb_total_width: 2221
+  thumb_total_height: 648
 - path: Sesame Street, Season 8.jpg
   width: 2000
   height: 3000
-  thumb: thumbnails_0.jpg?crc=89c1897c
+  thumb: thumbnails_0.jpg?crc=e1496e06
   thumb_x: 463
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2005
-  thumb_total_height: 324
+  thumb_total_width: 2221
+  thumb_total_height: 648
 - path: The Carol Burnett Show, Season 10.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=89c1897c
+  thumb: thumbnails_0.jpg?crc=e1496e06
   thumb_x: 679
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 2005
-  thumb_total_height: 324
+  thumb_total_width: 2221
+  thumb_total_height: 648
 - path: The Jeffersons, Season 3.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=89c1897c
+  thumb: thumbnails_0.jpg?crc=e1496e06
   thumb_x: 899
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 2005
-  thumb_total_height: 324
+  thumb_total_width: 2221
+  thumb_total_height: 648
 - path: The Muppet Show.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=89c1897c
+  thumb: thumbnails_0.jpg?crc=e1496e06
   thumb_x: 1119
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 2005
-  thumb_total_height: 324
+  thumb_total_width: 2221
+  thumb_total_height: 648
 - path: Happy Days, Season 4.jpg
   width: 349
   height: 500
-  thumb: thumbnails_0.jpg?crc=89c1897c
+  thumb: thumbnails_0.jpg?crc=e1496e06
   thumb_x: 1339
   thumb_width: 226
   thumb_height: 324
-  thumb_total_width: 2005
-  thumb_total_height: 324
+  thumb_total_width: 2221
+  thumb_total_height: 648
 - path: I, Claudius.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_0.jpg?crc=89c1897c
+  thumb: thumbnails_0.jpg?crc=e1496e06
   thumb_x: 1565
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 2005
-  thumb_total_height: 324
+  thumb_total_width: 2221
+  thumb_total_height: 648
+- path: Barney Miller, Season 3.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=e1496e06
+  thumb_x: 1785
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2221
+  thumb_total_height: 648
+- path: Kojak, Season 4.jpg
+  width: 800
+  height: 1176
+  thumb: thumbnails_0.jpg?crc=e1496e06
+  thumb_x: 2001
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2221
+  thumb_total_height: 648
+- path: Sanford and Son, Season 6.jpg
+  width: 800
+  height: 1156
+  thumb: thumbnails_0.jpg?crc=e1496e06
+  thumb_y: 324
+  thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2221
+  thumb_total_height: 648

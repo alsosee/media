@@ -1,80 +1,98 @@
 - path: Doctor Who, Season 18.jpg
   width: 1080
   height: 1620
-  thumb: thumbnails_0.jpg?crc=e560ac9
+  thumb: thumbnails_0.jpg?crc=761ac9e4
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1962
-  thumb_total_height: 324
+  thumb_total_width: 2207
+  thumb_total_height: 594
 - path: Saturday Night Live, Season 6.jpg
   width: 2160
   height: 2880
-  thumb: thumbnails_0.jpg?crc=e560ac9
+  thumb: thumbnails_0.jpg?crc=761ac9e4
   thumb_x: 216
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1962
-  thumb_total_height: 324
+  thumb_total_width: 2207
+  thumb_total_height: 594
 - path: Sesame Street, Season 12.jpg
   width: 2000
   height: 3000
-  thumb: thumbnails_0.jpg?crc=e560ac9
+  thumb: thumbnails_0.jpg?crc=761ac9e4
   thumb_x: 459
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1962
-  thumb_total_height: 324
+  thumb_total_width: 2207
+  thumb_total_height: 594
 - path: The Jeffersons, Season 7.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=e560ac9
+  thumb: thumbnails_0.jpg?crc=761ac9e4
   thumb_x: 675
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1962
-  thumb_total_height: 324
+  thumb_total_width: 2207
+  thumb_total_height: 594
 - path: The Muppet Show, Season 5.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=e560ac9
+  thumb: thumbnails_0.jpg?crc=761ac9e4
   thumb_x: 895
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1962
-  thumb_total_height: 324
+  thumb_total_width: 2207
+  thumb_total_height: 594
 - path: Cosmos.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=e560ac9
+  thumb: thumbnails_0.jpg?crc=761ac9e4
   thumb_x: 1115
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1962
-  thumb_total_height: 324
+  thumb_total_width: 2207
+  thumb_total_height: 594
 - path: Dallas, Season 4.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=e560ac9
+  thumb: thumbnails_0.jpg?crc=761ac9e4
   thumb_x: 1335
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1962
-  thumb_total_height: 324
+  thumb_total_width: 2207
+  thumb_total_height: 594
 - path: Happy Days, Season 8.jpg
   width: 187
   height: 270
-  thumb: thumbnails_0.jpg?crc=e560ac9
-  thumb_x: 1775
+  thumb: thumbnails_0.jpg?crc=761ac9e4
+  thumb_y: 324
   thumb_width: 187
   thumb_height: 270
-  thumb_total_width: 1962
-  thumb_total_height: 324
+  thumb_total_width: 2207
+  thumb_total_height: 594
 - path: Yes Minister.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_0.jpg?crc=e560ac9
+  thumb: thumbnails_0.jpg?crc=761ac9e4
   thumb_x: 1555
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1962
-  thumb_total_height: 324
+  thumb_total_width: 2207
+  thumb_total_height: 594
+- path: Barney Miller, Season 7.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=761ac9e4
+  thumb_x: 1775
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2207
+  thumb_total_height: 594
+- path: WKRP in Cincinnati, Season 3.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=761ac9e4
+  thumb_x: 1991
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2207
+  thumb_total_height: 594

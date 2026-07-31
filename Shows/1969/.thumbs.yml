@@ -1,53 +1,80 @@
 - path: Mister Rogers' Neighborhood, Season 2.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=79b24b09
+  thumb: thumbnails_0.jpg?crc=aaa245a4
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1317
+  thumb_total_width: 1969
   thumb_total_height: 324
 - path: Monty Python's Flying Circus.jpg
   width: 418
   height: 600
-  thumb: thumbnails_0.jpg?crc=79b24b09
+  thumb: thumbnails_0.jpg?crc=aaa245a4
   thumb_x: 220
   thumb_width: 225
   thumb_height: 324
-  thumb_total_width: 1317
+  thumb_total_width: 1969
   thumb_total_height: 324
 - path: Sesame Street.jpg
   width: 2000
   height: 3000
-  thumb: thumbnails_0.jpg?crc=79b24b09
+  thumb: thumbnails_0.jpg?crc=aaa245a4
   thumb_x: 445
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1317
+  thumb_total_width: 1969
   thumb_total_height: 324
 - path: The Carol Burnett Show, Season 3.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=79b24b09
+  thumb: thumbnails_0.jpg?crc=aaa245a4
   thumb_x: 661
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1317
+  thumb_total_width: 1969
   thumb_total_height: 324
 - path: Bewitched, Season 6.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=79b24b09
+  thumb: thumbnails_0.jpg?crc=aaa245a4
   thumb_x: 881
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1317
+  thumb_total_width: 1969
   thumb_total_height: 324
 - path: Mission Impossible, Season 4.jpg
   width: 1400
   height: 2100
-  thumb: thumbnails_0.jpg?crc=79b24b09
+  thumb: thumbnails_0.jpg?crc=aaa245a4
   thumb_x: 1101
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1317
+  thumb_total_width: 1969
+  thumb_total_height: 324
+- path: Bonanza, Season 11.jpg
+  width: 800
+  height: 1176
+  thumb: thumbnails_0.jpg?crc=aaa245a4
+  thumb_x: 1317
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 1969
+  thumb_total_height: 324
+- path: Gunsmoke, Season 15.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=aaa245a4
+  thumb_x: 1537
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1969
+  thumb_total_height: 324
+- path: The Brady Bunch.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=aaa245a4
+  thumb_x: 1753
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1969
   thumb_total_height: 324

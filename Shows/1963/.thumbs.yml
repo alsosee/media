@@ -1,35 +1,71 @@
 - path: Doctor Who.jpg
   width: 1080
   height: 1620
-  thumb: thumbnails_0.jpg?crc=6cde1be8
+  thumb: thumbnails_0.jpg?crc=7050b34b
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 880
+  thumb_total_width: 1756
   thumb_total_height: 324
 - path: The Andy Griffith Show, Season 4.jpg
   width: 340
   height: 491
-  thumb: thumbnails_0.jpg?crc=6cde1be8
+  thumb: thumbnails_0.jpg?crc=7050b34b
   thumb_x: 216
   thumb_width: 224
   thumb_height: 324
-  thumb_total_width: 880
+  thumb_total_width: 1756
   thumb_total_height: 324
 - path: The Dick Van Dyke Show, Season 3.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=6cde1be8
+  thumb: thumbnails_0.jpg?crc=7050b34b
   thumb_x: 440
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 880
+  thumb_total_width: 1756
   thumb_total_height: 324
 - path: The Fugitive.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=6cde1be8
+  thumb: thumbnails_0.jpg?crc=7050b34b
   thumb_x: 660
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 880
+  thumb_total_width: 1756
+  thumb_total_height: 324
+- path: Bonanza, Season 5.jpg
+  width: 800
+  height: 1176
+  thumb: thumbnails_0.jpg?crc=7050b34b
+  thumb_x: 880
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 1756
+  thumb_total_height: 324
+- path: Gunsmoke, Season 9.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=7050b34b
+  thumb_x: 1100
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1756
+  thumb_total_height: 324
+- path: Perry Mason, Season 7.jpg
+  width: 800
+  height: 1176
+  thumb: thumbnails_0.jpg?crc=7050b34b
+  thumb_x: 1316
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 1756
+  thumb_total_height: 324
+- path: The Outer Limits.jpg
+  width: 800
+  height: 1176
+  thumb: thumbnails_0.jpg?crc=7050b34b
+  thumb_x: 1536
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 1756
   thumb_total_height: 324

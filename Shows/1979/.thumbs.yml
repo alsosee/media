@@ -1,71 +1,89 @@
 - path: Doctor Who, Season 17.jpg
   width: 1080
   height: 1620
-  thumb: thumbnails_0.jpg?crc=15c9b8f1
+  thumb: thumbnails_0.jpg?crc=afdceaaa
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1802
+  thumb_total_width: 2234
   thumb_total_height: 324
 - path: Fawlty Towers, Season 2.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=15c9b8f1
+  thumb: thumbnails_0.jpg?crc=afdceaaa
   thumb_x: 216
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1802
+  thumb_total_width: 2234
   thumb_total_height: 324
 - path: Mister Rogers' Neighborhood, Season 10.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=15c9b8f1
+  thumb: thumbnails_0.jpg?crc=afdceaaa
   thumb_x: 436
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1802
+  thumb_total_width: 2234
   thumb_total_height: 324
 - path: Saturday Night Live, Season 5.jpg
   width: 2160
   height: 2880
-  thumb: thumbnails_0.jpg?crc=15c9b8f1
+  thumb: thumbnails_0.jpg?crc=afdceaaa
   thumb_x: 656
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1802
+  thumb_total_width: 2234
   thumb_total_height: 324
 - path: The Jeffersons, Season 6.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=15c9b8f1
+  thumb: thumbnails_0.jpg?crc=afdceaaa
   thumb_x: 899
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1802
+  thumb_total_width: 2234
   thumb_total_height: 324
 - path: The Muppet Show, Season 4.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=15c9b8f1
+  thumb: thumbnails_0.jpg?crc=afdceaaa
   thumb_x: 1119
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1802
+  thumb_total_width: 2234
   thumb_total_height: 324
 - path: Dallas, Season 3.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=15c9b8f1
+  thumb: thumbnails_0.jpg?crc=afdceaaa
   thumb_x: 1339
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1802
+  thumb_total_width: 2234
   thumb_total_height: 324
 - path: Happy Days, Season 7.jpg
   width: 1536
   height: 2048
-  thumb: thumbnails_0.jpg?crc=15c9b8f1
+  thumb: thumbnails_0.jpg?crc=afdceaaa
   thumb_x: 1559
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1802
+  thumb_total_width: 2234
+  thumb_total_height: 324
+- path: Barney Miller, Season 6.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=afdceaaa
+  thumb_x: 1802
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2234
+  thumb_total_height: 324
+- path: WKRP in Cincinnati, Season 2.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=afdceaaa
+  thumb_x: 2018
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2234
   thumb_total_height: 324

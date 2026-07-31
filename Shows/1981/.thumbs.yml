@@ -1,62 +1,80 @@
 - path: Mister Rogers' Neighborhood, Season 11.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=8bfe0291
+  thumb: thumbnails_0.jpg?crc=86c269a9
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1559
+  thumb_total_width: 1991
   thumb_total_height: 324
 - path: Saturday Night Live, Season 7.jpg
   width: 2160
   height: 2880
-  thumb: thumbnails_0.jpg?crc=8bfe0291
+  thumb: thumbnails_0.jpg?crc=86c269a9
   thumb_x: 220
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1559
+  thumb_total_width: 1991
   thumb_total_height: 324
 - path: Sesame Street, Season 13.jpg
   width: 2000
   height: 3000
-  thumb: thumbnails_0.jpg?crc=8bfe0291
+  thumb: thumbnails_0.jpg?crc=86c269a9
   thumb_x: 463
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1559
+  thumb_total_width: 1991
   thumb_total_height: 324
 - path: The Jeffersons, Season 8.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=8bfe0291
+  thumb: thumbnails_0.jpg?crc=86c269a9
   thumb_x: 679
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1559
+  thumb_total_width: 1991
   thumb_total_height: 324
 - path: Dallas, Season 5.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=8bfe0291
+  thumb: thumbnails_0.jpg?crc=86c269a9
   thumb_x: 899
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1559
+  thumb_total_width: 1991
   thumb_total_height: 324
 - path: Happy Days, Season 9.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=8bfe0291
+  thumb: thumbnails_0.jpg?crc=86c269a9
   thumb_x: 1119
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1559
+  thumb_total_width: 1991
   thumb_total_height: 324
 - path: Yes Minister, Season 2.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_0.jpg?crc=8bfe0291
+  thumb: thumbnails_0.jpg?crc=86c269a9
   thumb_x: 1339
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1559
+  thumb_total_width: 1991
+  thumb_total_height: 324
+- path: Barney Miller, Season 8.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=86c269a9
+  thumb_x: 1559
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1991
+  thumb_total_height: 324
+- path: WKRP in Cincinnati, Season 4.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=86c269a9
+  thumb_x: 1775
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 1991
   thumb_total_height: 324
