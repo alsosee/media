@@ -1,35 +1,44 @@
 - path: Doctor Who, Season 11.jpg
   width: 1080
   height: 1620
-  thumb: thumbnails_0.jpg?crc=b72bed58
+  thumb: thumbnails_0.jpg?crc=54b8a3f3
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 872
+  thumb_total_width: 1092
   thumb_total_height: 324
 - path: Mister Rogers' Neighborhood, Season 6.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=b72bed58
+  thumb: thumbnails_0.jpg?crc=54b8a3f3
   thumb_x: 216
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 872
+  thumb_total_width: 1092
   thumb_total_height: 324
 - path: Sesame Street, Season 5.jpg
   width: 2000
   height: 3000
-  thumb: thumbnails_0.jpg?crc=b72bed58
+  thumb: thumbnails_0.jpg?crc=54b8a3f3
   thumb_x: 436
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 872
+  thumb_total_width: 1092
   thumb_total_height: 324
 - path: The Carol Burnett Show, Season 7.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=b72bed58
+  thumb: thumbnails_0.jpg?crc=54b8a3f3
   thumb_x: 652
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 872
+  thumb_total_width: 1092
+  thumb_total_height: 324
+- path: The World at War.jpg
+  width: 680
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=54b8a3f3
+  thumb_x: 872
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 1092
   thumb_total_height: 324
