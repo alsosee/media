@@ -494,89 +494,128 @@
 - path: Crazy Ex-Girlfriend, Season 4.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_1.jpg?crc=d303e7
+  thumb: thumbnails_1.jpg?crc=8140dcc1
   thumb_width: 220
   thumb_height: 324
   thumb_total_width: 2291
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: How to Get Away with Murder, Season 5.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_1.jpg?crc=d303e7
+  thumb: thumbnails_1.jpg?crc=8140dcc1
   thumb_x: 220
   thumb_width: 220
   thumb_height: 324
   thumb_total_width: 2291
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Pokémon, Season 22.jpg
   width: 800
   height: 1068
-  thumb: thumbnails_1.jpg?crc=d303e7
+  thumb: thumbnails_1.jpg?crc=8140dcc1
   thumb_x: 440
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2291
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Pose.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_1.jpg?crc=d303e7
+  thumb: thumbnails_1.jpg?crc=8140dcc1
   thumb_x: 683
   thumb_width: 220
   thumb_height: 324
   thumb_total_width: 2291
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Silicon Valley, Season 5.jpg
   width: 800
   height: 1156
-  thumb: thumbnails_1.jpg?crc=d303e7
+  thumb: thumbnails_1.jpg?crc=8140dcc1
   thumb_x: 903
   thumb_width: 224
   thumb_height: 324
   thumb_total_width: 2291
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: The Big Bang Theory, Season 12.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_1.jpg?crc=d303e7
+  thumb: thumbnails_1.jpg?crc=8140dcc1
   thumb_x: 1127
   thumb_width: 220
   thumb_height: 324
   thumb_total_width: 2291
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Murphy Brown, Season 11.jpg
   width: 800
   height: 1104
-  thumb: thumbnails_1.jpg?crc=d303e7
+  thumb: thumbnails_1.jpg?crc=8140dcc1
   thumb_x: 1347
   thumb_width: 234
   thumb_height: 324
   thumb_total_width: 2291
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: New Girl, Season 7.jpg
   width: 800
   height: 1084
-  thumb: thumbnails_1.jpg?crc=d303e7
+  thumb: thumbnails_1.jpg?crc=8140dcc1
   thumb_x: 1581
   thumb_width: 239
   thumb_height: 324
   thumb_total_width: 2291
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Shameless, Season 9.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=d303e7
+  thumb: thumbnails_1.jpg?crc=8140dcc1
   thumb_x: 1820
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2291
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Suits, Season 8.jpg
   width: 800
   height: 1135
-  thumb: thumbnails_1.jpg?crc=d303e7
+  thumb: thumbnails_1.jpg?crc=8140dcc1
   thumb_x: 2063
   thumb_width: 228
   thumb_height: 324
   thumb_total_width: 2291
-  thumb_total_height: 324
+  thumb_total_height: 648
+- path: Call My Agent!, Season 3.jpg
+  width: 800
+  height: 947
+  thumb: thumbnails_1.jpg?crc=8140dcc1
+  thumb_y: 324
+  thumb_width: 274
+  thumb_height: 324
+  thumb_total_width: 2291
+  thumb_total_height: 648
+- path: GLOW, Season 2.jpg
+  width: 800
+  height: 1176
+  thumb: thumbnails_1.jpg?crc=8140dcc1
+  thumb_x: 274
+  thumb_y: 324
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2291
+  thumb_total_height: 648
+- path: Sharp Objects.jpg
+  width: 800
+  height: 1176
+  thumb: thumbnails_1.jpg?crc=8140dcc1
+  thumb_x: 494
+  thumb_y: 324
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2291
+  thumb_total_height: 648
+- path: Unbreakable Kimmy Schmidt, Season 4.jpg
+  width: 800
+  height: 1184
+  thumb: thumbnails_1.jpg?crc=8140dcc1
+  thumb_x: 714
+  thumb_y: 324
+  thumb_width: 219
+  thumb_height: 324
+  thumb_total_width: 2291
+  thumb_total_height: 648
