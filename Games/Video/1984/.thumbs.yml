@@ -1,8 +1,17 @@
 - path: Alien.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=80b861c8
+  thumb: thumbnails_0.jpg?crc=4afa52ab
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 243
+  thumb_total_width: 486
+  thumb_total_height: 324
+- path: Tetris.jpg
+  width: 800
+  height: 1066
+  thumb: thumbnails_0.jpg?crc=4afa52ab
+  thumb_x: 243
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 486
   thumb_total_height: 324

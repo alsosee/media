@@ -1,17 +1,44 @@
 - path: Aliens Alien 2.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=8b4d30f3
+  thumb: thumbnails_0.jpg?crc=3a2a69c7
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 486
+  thumb_total_width: 1215
   thumb_total_height: 324
 - path: Street Fighter.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=8b4d30f3
+  thumb: thumbnails_0.jpg?crc=3a2a69c7
   thumb_x: 243
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 486
+  thumb_total_width: 1215
+  thumb_total_height: 324
+- path: Contra.jpg
+  width: 800
+  height: 1066
+  thumb: thumbnails_0.jpg?crc=3a2a69c7
+  thumb_x: 486
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 1215
+  thumb_total_height: 324
+- path: Final Fantasy.jpg
+  width: 800
+  height: 1066
+  thumb: thumbnails_0.jpg?crc=3a2a69c7
+  thumb_x: 729
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 1215
+  thumb_total_height: 324
+- path: Mega Man.jpg
+  width: 800
+  height: 1066
+  thumb: thumbnails_0.jpg?crc=3a2a69c7
+  thumb_x: 972
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 1215
   thumb_total_height: 324

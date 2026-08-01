@@ -1,26 +1,53 @@
 - path: Aliens The Computer Game - Activision.jpg
   width: 800
   height: 1026
-  thumb: thumbnails_0.jpg?crc=79ba8e5b
+  thumb: thumbnails_0.jpg?crc=cc07109e
   thumb_width: 252
   thumb_height: 324
-  thumb_total_width: 747
+  thumb_total_width: 1476
   thumb_total_height: 324
 - path: Aliens The Computer Game - Software Studios.jpg
   width: 800
   height: 1026
-  thumb: thumbnails_0.jpg?crc=79ba8e5b
+  thumb: thumbnails_0.jpg?crc=cc07109e
   thumb_x: 252
   thumb_width: 252
   thumb_height: 324
-  thumb_total_width: 747
+  thumb_total_width: 1476
   thumb_total_height: 324
 - path: The Legend of Zelda.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=79ba8e5b
+  thumb: thumbnails_0.jpg?crc=cc07109e
   thumb_x: 504
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 747
+  thumb_total_width: 1476
+  thumb_total_height: 324
+- path: Castlevania.jpg
+  width: 800
+  height: 1066
+  thumb: thumbnails_0.jpg?crc=cc07109e
+  thumb_x: 747
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 1476
+  thumb_total_height: 324
+- path: Dragon Quest.jpg
+  width: 800
+  height: 1066
+  thumb: thumbnails_0.jpg?crc=cc07109e
+  thumb_x: 990
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 1476
+  thumb_total_height: 324
+- path: Metroid.jpg
+  width: 800
+  height: 1066
+  thumb: thumbnails_0.jpg?crc=cc07109e
+  thumb_x: 1233
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 1476
   thumb_total_height: 324
