@@ -1,178 +1,197 @@
 - path: Silent Hill.jpg
   width: 600
   height: 900
-  thumb: thumbnails_0.jpg?crc=e9459a20
+  thumb: thumbnails_0.jpg?crc=4c1ab40
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2403
-  thumb_total_height: 648
+  thumb_total_width: 2430
+  thumb_total_height: 972
 - path: Aliens versus Predator.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=e9459a20
+  thumb: thumbnails_0.jpg?crc=4c1ab40
   thumb_x: 216
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2403
-  thumb_total_height: 648
+  thumb_total_width: 2430
+  thumb_total_height: 972
 - path: Amerzone The Explorer's Legacy.jpg
   width: 800
   height: 1065
-  thumb: thumbnails_0.jpg?crc=e9459a20
+  thumb: thumbnails_0.jpg?crc=4c1ab40
   thumb_x: 459
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2403
-  thumb_total_height: 648
+  thumb_total_width: 2430
+  thumb_total_height: 972
 - path: Command & Conquer Tiberian Sun.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=e9459a20
+  thumb: thumbnails_0.jpg?crc=4c1ab40
   thumb_x: 702
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2403
-  thumb_total_height: 648
+  thumb_total_width: 2430
+  thumb_total_height: 972
 - path: EverQuest.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=e9459a20
+  thumb: thumbnails_0.jpg?crc=4c1ab40
   thumb_x: 945
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2403
-  thumb_total_height: 648
+  thumb_total_width: 2430
+  thumb_total_height: 972
 - path: Final Fantasy VIII.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=e9459a20
+  thumb: thumbnails_0.jpg?crc=4c1ab40
   thumb_x: 1188
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2403
-  thumb_total_height: 648
+  thumb_total_width: 2430
+  thumb_total_height: 972
 - path: Grand Theft Auto 2.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=e9459a20
+  thumb: thumbnails_0.jpg?crc=4c1ab40
   thumb_x: 1431
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2403
-  thumb_total_height: 648
+  thumb_total_width: 2430
+  thumb_total_height: 972
 - path: Half-Life Opposing Force.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=e9459a20
+  thumb: thumbnails_0.jpg?crc=4c1ab40
   thumb_x: 1674
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2403
-  thumb_total_height: 648
+  thumb_total_width: 2430
+  thumb_total_height: 972
 - path: Need for Speed High Stakes.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=e9459a20
+  thumb: thumbnails_0.jpg?crc=4c1ab40
   thumb_x: 1917
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2403
-  thumb_total_height: 648
+  thumb_total_width: 2430
+  thumb_total_height: 972
 - path: Persona 2 Innocent Sin.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=e9459a20
+  thumb: thumbnails_0.jpg?crc=4c1ab40
   thumb_x: 2160
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2403
-  thumb_total_height: 648
+  thumb_total_width: 2430
+  thumb_total_height: 972
 - path: Prince of Persia 3D.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=e9459a20
+  thumb: thumbnails_0.jpg?crc=4c1ab40
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2403
-  thumb_total_height: 648
+  thumb_total_width: 2430
+  thumb_total_height: 972
 - path: Quake III Arena.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=e9459a20
+  thumb: thumbnails_0.jpg?crc=4c1ab40
   thumb_x: 243
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2403
-  thumb_total_height: 648
+  thumb_total_width: 2430
+  thumb_total_height: 972
 - path: Resident Evil 3 Nemesis.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=e9459a20
+  thumb: thumbnails_0.jpg?crc=4c1ab40
   thumb_x: 486
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2403
-  thumb_total_height: 648
+  thumb_total_width: 2430
+  thumb_total_height: 972
 - path: Street Fighter III 3rd Strike.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=e9459a20
+  thumb: thumbnails_0.jpg?crc=4c1ab40
   thumb_x: 729
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2403
-  thumb_total_height: 648
+  thumb_total_width: 2430
+  thumb_total_height: 972
 - path: Tomb Raider The Last Revelation.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=e9459a20
+  thumb: thumbnails_0.jpg?crc=4c1ab40
   thumb_x: 972
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2403
-  thumb_total_height: 648
+  thumb_total_width: 2430
+  thumb_total_height: 972
 - path: Tony Hawk's Pro Skater.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=e9459a20
+  thumb: thumbnails_0.jpg?crc=4c1ab40
   thumb_x: 1215
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2403
-  thumb_total_height: 648
+  thumb_total_width: 2430
+  thumb_total_height: 972
 - path: Vib-Ribbon.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=e9459a20
+  thumb: thumbnails_0.jpg?crc=4c1ab40
   thumb_x: 1458
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2403
-  thumb_total_height: 648
+  thumb_total_width: 2430
+  thumb_total_height: 972
 - path: Warpath Jurassic Park.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=e9459a20
+  thumb: thumbnails_0.jpg?crc=4c1ab40
   thumb_x: 1701
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2403
-  thumb_total_height: 648
+  thumb_total_width: 2430
+  thumb_total_height: 972
 - path: Worms Armageddon.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=e9459a20
+  thumb: thumbnails_0.jpg?crc=4c1ab40
   thumb_x: 1944
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2403
-  thumb_total_height: 648
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: Planescape Torment.jpg
+  width: 800
+  height: 1065
+  thumb: thumbnails_0.jpg?crc=4c1ab40
+  thumb_x: 2187
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
+- path: System Shock 2.jpg
+  width: 800
+  height: 1066
+  thumb: thumbnails_0.jpg?crc=4c1ab40
+  thumb_y: 648
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 972
