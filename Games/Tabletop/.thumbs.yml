@@ -9,17 +9,138 @@
 - path: Cyberpunk.jpg
   width: 1147
   height: 1491
-  thumb: thumbnails_0.jpg?crc=3e3a56d6
+  thumb: thumbnails_0.jpg?crc=3c3628b9
+  thumb_x: 911
   thumb_width: 249
   thumb_height: 324
-  thumb_total_width: 573
-  thumb_total_height: 324
+  thumb_total_width: 2923
+  thumb_total_height: 555
 - path: The Last of Us Escape the Dark.jpg
   width: 1000
   height: 1000
-  thumb: thumbnails_0.jpg?crc=3e3a56d6
-  thumb_x: 249
+  thumb: thumbnails_0.jpg?crc=3c3628b9
+  thumb_x: 324
   thumb_width: 324
   thumb_height: 324
-  thumb_total_width: 573
-  thumb_total_height: 324
+  thumb_total_width: 2923
+  thumb_total_height: 555
+- path: Catan.jpg
+  width: 800
+  height: 985
+  thumb: thumbnails_0.jpg?crc=3c3628b9
+  thumb_x: 648
+  thumb_width: 263
+  thumb_height: 324
+  thumb_total_width: 2923
+  thumb_total_height: 555
+- path: Codenames.jpg
+  width: 800
+  height: 600
+  thumb: thumbnails_0.jpg?crc=3c3628b9
+  thumb_x: 2599
+  thumb_width: 324
+  thumb_height: 243
+  thumb_total_width: 2923
+  thumb_total_height: 555
+- path: Dominion.jpg
+  width: 800
+  height: 800
+  thumb: thumbnails_0.jpg?crc=3c3628b9
+  thumb_x: 1160
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 2923
+  thumb_total_height: 555
+- path: Gloomhaven.jpg
+  width: 800
+  height: 571
+  thumb: thumbnails_0.jpg?crc=3c3628b9
+  thumb_y: 324
+  thumb_width: 324
+  thumb_height: 231
+  thumb_total_width: 2923
+  thumb_total_height: 555
+- path: Magic The Gathering.jpg
+  width: 800
+  height: 1117
+  thumb: thumbnails_0.jpg?crc=3c3628b9
+  thumb_x: 1484
+  thumb_width: 232
+  thumb_height: 324
+  thumb_total_width: 2923
+  thumb_total_height: 555
+- path: Monopoly.jpg
+  width: 800
+  height: 425
+  thumb: thumbnails_0.jpg?crc=3c3628b9
+  thumb_x: 1296
+  thumb_y: 324
+  thumb_width: 324
+  thumb_height: 172
+  thumb_total_width: 2923
+  thumb_total_height: 555
+- path: Pandemic.jpg
+  width: 800
+  height: 1103
+  thumb: thumbnails_0.jpg?crc=3c3628b9
+  thumb_x: 2040
+  thumb_width: 235
+  thumb_height: 324
+  thumb_total_width: 2923
+  thumb_total_height: 555
+- path: Risk.jpg
+  width: 800
+  height: 488
+  thumb: thumbnails_0.jpg?crc=3c3628b9
+  thumb_x: 972
+  thumb_y: 324
+  thumb_width: 324
+  thumb_height: 197
+  thumb_total_width: 2923
+  thumb_total_height: 555
+- path: Scrabble.jpg
+  width: 800
+  height: 530
+  thumb: thumbnails_0.jpg?crc=3c3628b9
+  thumb_x: 648
+  thumb_y: 324
+  thumb_width: 324
+  thumb_height: 214
+  thumb_total_width: 2923
+  thumb_total_height: 555
+- path: Terraforming Mars.jpg
+  width: 800
+  height: 800
+  thumb: thumbnails_0.jpg?crc=3c3628b9
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 2923
+  thumb_total_height: 555
+- path: Ticket to Ride.jpg
+  width: 800
+  height: 800
+  thumb: thumbnails_0.jpg?crc=3c3628b9
+  thumb_x: 1716
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 2923
+  thumb_total_height: 555
+- path: Warhammer 40,000.jpg
+  width: 800
+  height: 554
+  thumb: thumbnails_0.jpg?crc=3c3628b9
+  thumb_x: 324
+  thumb_y: 324
+  thumb_width: 324
+  thumb_height: 224
+  thumb_total_width: 2923
+  thumb_total_height: 555
+- path: Wingspan.jpg
+  width: 800
+  height: 782
+  thumb: thumbnails_0.jpg?crc=3c3628b9
+  thumb_x: 2275
+  thumb_width: 324
+  thumb_height: 316
+  thumb_total_width: 2923
+  thumb_total_height: 555
