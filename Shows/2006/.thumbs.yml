@@ -486,35 +486,148 @@
 - path: Top Chef.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_1.jpg?crc=8cfada1c
+  thumb: thumbnails_1.jpg?crc=b9c910ed
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 884
-  thumb_total_height: 324
+  thumb_total_width: 2225
+  thumb_total_height: 648
 - path: Desperate Housewives, Season 3.jpg
   width: 800
   height: 1156
-  thumb: thumbnails_1.jpg?crc=8cfada1c
+  thumb: thumbnails_1.jpg?crc=b9c910ed
   thumb_x: 216
   thumb_width: 224
   thumb_height: 324
-  thumb_total_width: 884
-  thumb_total_height: 324
+  thumb_total_width: 2225
+  thumb_total_height: 648
 - path: Pokémon, Season 9.jpg
   width: 800
   height: 1154
-  thumb: thumbnails_1.jpg?crc=8cfada1c
+  thumb: thumbnails_1.jpg?crc=b9c910ed
   thumb_x: 440
   thumb_width: 224
   thumb_height: 324
-  thumb_total_width: 884
-  thumb_total_height: 324
+  thumb_total_width: 2225
+  thumb_total_height: 648
 - path: Prime Suspect, Season 7.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_1.jpg?crc=8cfada1c
+  thumb: thumbnails_1.jpg?crc=b9c910ed
   thumb_x: 664
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 884
-  thumb_total_height: 324
+  thumb_total_width: 2225
+  thumb_total_height: 648
+- path: Bones, Season 2.jpg
+  width: 800
+  height: 1141
+  thumb: thumbnails_1.jpg?crc=b9c910ed
+  thumb_x: 884
+  thumb_width: 227
+  thumb_height: 324
+  thumb_total_width: 2225
+  thumb_total_height: 648
+- path: Boston Legal, Season 3.jpg
+  width: 800
+  height: 1176
+  thumb: thumbnails_1.jpg?crc=b9c910ed
+  thumb_x: 1111
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2225
+  thumb_total_height: 648
+- path: Entourage, Season 3.jpg
+  width: 800
+  height: 1156
+  thumb: thumbnails_1.jpg?crc=b9c910ed
+  thumb_x: 1331
+  thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2225
+  thumb_total_height: 648
+- path: Heroes.jpg
+  width: 800
+  height: 1141
+  thumb: thumbnails_1.jpg?crc=b9c910ed
+  thumb_x: 1555
+  thumb_width: 227
+  thumb_height: 324
+  thumb_total_width: 2225
+  thumb_total_height: 648
+- path: Monk, Season 5.jpg
+  width: 800
+  height: 1141
+  thumb: thumbnails_1.jpg?crc=b9c910ed
+  thumb_x: 1782
+  thumb_width: 227
+  thumb_height: 324
+  thumb_total_width: 2225
+  thumb_total_height: 648
+- path: Nip Tuck, Season 4.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_1.jpg?crc=b9c910ed
+  thumb_x: 2009
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2225
+  thumb_total_height: 648
+- path: One Tree Hill, Season 4.jpg
+  width: 800
+  height: 1155
+  thumb: thumbnails_1.jpg?crc=b9c910ed
+  thumb_y: 324
+  thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2225
+  thumb_total_height: 648
+- path: Prison Break, Season 2.jpg
+  width: 800
+  height: 1141
+  thumb: thumbnails_1.jpg?crc=b9c910ed
+  thumb_x: 224
+  thumb_y: 324
+  thumb_width: 227
+  thumb_height: 324
+  thumb_total_width: 2225
+  thumb_total_height: 648
+- path: The L Word, Season 3.jpg
+  width: 800
+  height: 1143
+  thumb: thumbnails_1.jpg?crc=b9c910ed
+  thumb_x: 451
+  thumb_y: 324
+  thumb_width: 227
+  thumb_height: 324
+  thumb_total_width: 2225
+  thumb_total_height: 648
+- path: The O.C., Season 4.jpg
+  width: 800
+  height: 1141
+  thumb: thumbnails_1.jpg?crc=b9c910ed
+  thumb_x: 678
+  thumb_y: 324
+  thumb_width: 227
+  thumb_height: 324
+  thumb_total_width: 2225
+  thumb_total_height: 648
+- path: Ugly Betty.jpg
+  width: 800
+  height: 1156
+  thumb: thumbnails_1.jpg?crc=b9c910ed
+  thumb_x: 905
+  thumb_y: 324
+  thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2225
+  thumb_total_height: 648
+- path: Weeds, Season 2.jpg
+  width: 800
+  height: 1156
+  thumb: thumbnails_1.jpg?crc=b9c910ed
+  thumb_x: 1129
+  thumb_y: 324
+  thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2225
+  thumb_total_height: 648

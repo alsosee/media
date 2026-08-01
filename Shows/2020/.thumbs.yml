@@ -486,35 +486,44 @@
 - path: Top Chef, Season 17.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_1.jpg?crc=33ef83df
+  thumb: thumbnails_1.jpg?crc=8355d506
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 899
+  thumb_total_width: 1158
   thumb_total_height: 324
 - path: Money Heist, Season 3.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_1.jpg?crc=33ef83df
+  thumb: thumbnails_1.jpg?crc=8355d506
   thumb_x: 216
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 899
+  thumb_total_width: 1158
   thumb_total_height: 324
 - path: Pokémon, Season 24.jpg
   width: 800
   height: 1096
-  thumb: thumbnails_1.jpg?crc=33ef83df
+  thumb: thumbnails_1.jpg?crc=8355d506
   thumb_x: 436
   thumb_width: 236
   thumb_height: 324
-  thumb_total_width: 899
+  thumb_total_width: 1158
   thumb_total_height: 324
 - path: Star Wars The Clone Wars, Season 7.jpg
   width: 800
   height: 1141
-  thumb: thumbnails_1.jpg?crc=33ef83df
+  thumb: thumbnails_1.jpg?crc=8355d506
   thumb_x: 672
   thumb_width: 227
   thumb_height: 324
-  thumb_total_width: 899
+  thumb_total_width: 1158
+  thumb_total_height: 324
+- path: Shameless, Season 11.jpg
+  width: 800
+  height: 1000
+  thumb: thumbnails_1.jpg?crc=8355d506
+  thumb_x: 899
+  thumb_width: 259
+  thumb_height: 324
+  thumb_total_width: 1158
   thumb_total_height: 324

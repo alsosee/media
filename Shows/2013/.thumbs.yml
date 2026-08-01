@@ -486,62 +486,128 @@
 - path: The Real World, Season 28.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_1.jpg?crc=944c7482
+  thumb: thumbnails_1.jpg?crc=a65b6c8b
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1617
-  thumb_total_height: 324
+  thumb_total_width: 2286
+  thumb_total_height: 648
 - path: Top Chef, Season 11.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_1.jpg?crc=944c7482
+  thumb: thumbnails_1.jpg?crc=a65b6c8b
   thumb_x: 243
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1617
-  thumb_total_height: 324
+  thumb_total_width: 2286
+  thumb_total_height: 648
 - path: Borgen, Season 3.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_1.jpg?crc=944c7482
+  thumb: thumbnails_1.jpg?crc=a65b6c8b
   thumb_x: 459
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1617
-  thumb_total_height: 324
+  thumb_total_width: 2286
+  thumb_total_height: 648
 - path: Pokémon, Season 16.jpg
   width: 800
   height: 1136
-  thumb: thumbnails_1.jpg?crc=944c7482
+  thumb: thumbnails_1.jpg?crc=a65b6c8b
   thumb_x: 679
   thumb_width: 228
   thumb_height: 324
-  thumb_total_width: 1617
-  thumb_total_height: 324
+  thumb_total_width: 2286
+  thumb_total_height: 648
 - path: Pokémon, Season 17.jpg
   width: 800
   height: 1018
-  thumb: thumbnails_1.jpg?crc=944c7482
+  thumb: thumbnails_1.jpg?crc=a65b6c8b
   thumb_x: 907
   thumb_width: 254
   thumb_height: 324
-  thumb_total_width: 1617
-  thumb_total_height: 324
+  thumb_total_width: 2286
+  thumb_total_height: 648
 - path: The Big Bang Theory, Season 7.jpg
   width: 800
   height: 1097
-  thumb: thumbnails_1.jpg?crc=944c7482
+  thumb: thumbnails_1.jpg?crc=a65b6c8b
   thumb_x: 1161
   thumb_width: 236
   thumb_height: 324
-  thumb_total_width: 1617
-  thumb_total_height: 324
+  thumb_total_width: 2286
+  thumb_total_height: 648
 - path: The Legend of Korra, Season 2.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_1.jpg?crc=944c7482
+  thumb: thumbnails_1.jpg?crc=a65b6c8b
   thumb_x: 1397
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1617
-  thumb_total_height: 324
+  thumb_total_width: 2286
+  thumb_total_height: 648
+- path: Bones, Season 9.jpg
+  width: 800
+  height: 1141
+  thumb: thumbnails_1.jpg?crc=a65b6c8b
+  thumb_x: 1617
+  thumb_width: 227
+  thumb_height: 324
+  thumb_total_width: 2286
+  thumb_total_height: 648
+- path: Glee, Season 5.jpg
+  width: 800
+  height: 1136
+  thumb: thumbnails_1.jpg?crc=a65b6c8b
+  thumb_x: 1844
+  thumb_width: 228
+  thumb_height: 324
+  thumb_total_width: 2286
+  thumb_total_height: 648
+- path: New Girl, Season 3.jpg
+  width: 800
+  height: 1211
+  thumb: thumbnails_1.jpg?crc=a65b6c8b
+  thumb_x: 2072
+  thumb_width: 214
+  thumb_height: 324
+  thumb_total_width: 2286
+  thumb_total_height: 648
+- path: Shameless, Season 3.jpg
+  width: 800
+  height: 1156
+  thumb: thumbnails_1.jpg?crc=a65b6c8b
+  thumb_y: 324
+  thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2286
+  thumb_total_height: 648
+- path: Sons of Anarchy, Season 6.jpg
+  width: 800
+  height: 1141
+  thumb: thumbnails_1.jpg?crc=a65b6c8b
+  thumb_x: 224
+  thumb_y: 324
+  thumb_width: 227
+  thumb_height: 324
+  thumb_total_width: 2286
+  thumb_total_height: 648
+- path: Suits, Season 3.jpg
+  width: 800
+  height: 1147
+  thumb: thumbnails_1.jpg?crc=a65b6c8b
+  thumb_x: 451
+  thumb_y: 324
+  thumb_width: 226
+  thumb_height: 324
+  thumb_total_width: 2286
+  thumb_total_height: 648
+- path: True Blood, Season 6.jpg
+  width: 800
+  height: 1156
+  thumb: thumbnails_1.jpg?crc=a65b6c8b
+  thumb_x: 677
+  thumb_y: 324
+  thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2286
+  thumb_total_height: 648

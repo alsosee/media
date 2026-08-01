@@ -486,35 +486,158 @@
 - path: Star Wars The Clone Wars, Season 2.jpg
   width: 800
   height: 1140
-  thumb: thumbnails_1.jpg?crc=d3a1000e
+  thumb: thumbnails_1.jpg?crc=13a2abc
   thumb_width: 227
   thumb_height: 324
-  thumb_total_width: 883
-  thumb_total_height: 324
+  thumb_total_width: 2221
+  thumb_total_height: 648
 - path: The Big Bang Theory, Season 3.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_1.jpg?crc=d3a1000e
+  thumb: thumbnails_1.jpg?crc=13a2abc
   thumb_x: 227
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 883
-  thumb_total_height: 324
+  thumb_total_width: 2221
+  thumb_total_height: 648
 - path: The Killing, Season 2.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_1.jpg?crc=d3a1000e
+  thumb: thumbnails_1.jpg?crc=13a2abc
   thumb_x: 443
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 883
-  thumb_total_height: 324
+  thumb_total_width: 2221
+  thumb_total_height: 648
 - path: The Thick of It, Season 3.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_1.jpg?crc=d3a1000e
+  thumb: thumbnails_1.jpg?crc=13a2abc
   thumb_x: 663
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 883
-  thumb_total_height: 324
+  thumb_total_width: 2221
+  thumb_total_height: 648
+- path: Bones, Season 5.jpg
+  width: 800
+  height: 1141
+  thumb: thumbnails_1.jpg?crc=13a2abc
+  thumb_x: 883
+  thumb_width: 227
+  thumb_height: 324
+  thumb_total_width: 2221
+  thumb_total_height: 648
+- path: Entourage, Season 6.jpg
+  width: 800
+  height: 1155
+  thumb: thumbnails_1.jpg?crc=13a2abc
+  thumb_x: 1110
+  thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2221
+  thumb_total_height: 648
+- path: Glee.jpg
+  width: 800
+  height: 1176
+  thumb: thumbnails_1.jpg?crc=13a2abc
+  thumb_x: 1334
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2221
+  thumb_total_height: 648
+- path: Gossip Girl, Season 3.jpg
+  width: 800
+  height: 1176
+  thumb: thumbnails_1.jpg?crc=13a2abc
+  thumb_x: 1554
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2221
+  thumb_total_height: 648
+- path: Heroes, Season 4.jpg
+  width: 800
+  height: 1141
+  thumb: thumbnails_1.jpg?crc=13a2abc
+  thumb_x: 1774
+  thumb_width: 227
+  thumb_height: 324
+  thumb_total_width: 2221
+  thumb_total_height: 648
+- path: Monk, Season 8.jpg
+  width: 800
+  height: 1176
+  thumb: thumbnails_1.jpg?crc=13a2abc
+  thumb_x: 2001
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2221
+  thumb_total_height: 648
+- path: Nip Tuck, Season 6.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_1.jpg?crc=13a2abc
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2221
+  thumb_total_height: 648
+- path: One Tree Hill, Season 7.jpg
+  width: 800
+  height: 1155
+  thumb: thumbnails_1.jpg?crc=13a2abc
+  thumb_x: 216
+  thumb_y: 324
+  thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2221
+  thumb_total_height: 648
+- path: Sons of Anarchy, Season 2.jpg
+  width: 800
+  height: 1156
+  thumb: thumbnails_1.jpg?crc=13a2abc
+  thumb_x: 440
+  thumb_y: 324
+  thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2221
+  thumb_total_height: 648
+- path: The L Word, Season 6.jpg
+  width: 800
+  height: 1136
+  thumb: thumbnails_1.jpg?crc=13a2abc
+  thumb_x: 664
+  thumb_y: 324
+  thumb_width: 228
+  thumb_height: 324
+  thumb_total_width: 2221
+  thumb_total_height: 648
+- path: True Blood, Season 2.jpg
+  width: 800
+  height: 1156
+  thumb: thumbnails_1.jpg?crc=13a2abc
+  thumb_x: 892
+  thumb_y: 324
+  thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2221
+  thumb_total_height: 648
+- path: Ugly Betty, Season 4.jpg
+  width: 800
+  height: 1156
+  thumb: thumbnails_1.jpg?crc=13a2abc
+  thumb_x: 1116
+  thumb_y: 324
+  thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2221
+  thumb_total_height: 648
+- path: Weeds, Season 5.jpg
+  width: 800
+  height: 1155
+  thumb: thumbnails_1.jpg?crc=13a2abc
+  thumb_x: 1340
+  thumb_y: 324
+  thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2221
+  thumb_total_height: 648

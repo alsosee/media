@@ -486,8 +486,98 @@
 - path: The Thick of It, Season 4.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_1.jpg?crc=7983de1c
+  thumb: thumbnails_1.jpg?crc=6aad435
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 220
-  thumb_total_height: 324
+  thumb_total_width: 2243
+  thumb_total_height: 648
+- path: Bones, Season 8.jpg
+  width: 800
+  height: 1141
+  thumb: thumbnails_1.jpg?crc=6aad435
+  thumb_x: 220
+  thumb_width: 227
+  thumb_height: 324
+  thumb_total_width: 2243
+  thumb_total_height: 648
+- path: Glee, Season 4.jpg
+  width: 800
+  height: 1176
+  thumb: thumbnails_1.jpg?crc=6aad435
+  thumb_x: 447
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2243
+  thumb_total_height: 648
+- path: Gossip Girl, Season 6.jpg
+  width: 800
+  height: 1176
+  thumb: thumbnails_1.jpg?crc=6aad435
+  thumb_x: 667
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2243
+  thumb_total_height: 648
+- path: New Girl, Season 2.jpg
+  width: 800
+  height: 1135
+  thumb: thumbnails_1.jpg?crc=6aad435
+  thumb_x: 887
+  thumb_width: 228
+  thumb_height: 324
+  thumb_total_width: 2243
+  thumb_total_height: 648
+- path: One Tree Hill, Season 9.jpg
+  width: 800
+  height: 1155
+  thumb: thumbnails_1.jpg?crc=6aad435
+  thumb_x: 1115
+  thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2243
+  thumb_total_height: 648
+- path: Shameless, Season 2.jpg
+  width: 800
+  height: 1156
+  thumb: thumbnails_1.jpg?crc=6aad435
+  thumb_x: 1339
+  thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2243
+  thumb_total_height: 648
+- path: Sons of Anarchy, Season 5.jpg
+  width: 800
+  height: 1141
+  thumb: thumbnails_1.jpg?crc=6aad435
+  thumb_x: 1563
+  thumb_width: 227
+  thumb_height: 324
+  thumb_total_width: 2243
+  thumb_total_height: 648
+- path: Suits, Season 2.jpg
+  width: 800
+  height: 1132
+  thumb: thumbnails_1.jpg?crc=6aad435
+  thumb_x: 1790
+  thumb_width: 229
+  thumb_height: 324
+  thumb_total_width: 2243
+  thumb_total_height: 648
+- path: True Blood, Season 5.jpg
+  width: 800
+  height: 1156
+  thumb: thumbnails_1.jpg?crc=6aad435
+  thumb_x: 2019
+  thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2243
+  thumb_total_height: 648
+- path: Weeds, Season 8.jpg
+  width: 800
+  height: 1155
+  thumb: thumbnails_1.jpg?crc=6aad435
+  thumb_y: 324
+  thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2243
+  thumb_total_height: 648

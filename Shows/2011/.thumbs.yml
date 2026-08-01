@@ -486,62 +486,158 @@
 - path: Top Chef, Season 9.jpg
   width: 800
   height: 1185
-  thumb: thumbnails_1.jpg?crc=960fb025
+  thumb: thumbnails_1.jpg?crc=cb75be26
   thumb_width: 219
   thumb_height: 324
-  thumb_total_width: 1548
-  thumb_total_height: 324
+  thumb_total_width: 2219
+  thumb_total_height: 648
 - path: Beavis and Butt-Head, Season 9.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_1.jpg?crc=960fb025
+  thumb: thumbnails_1.jpg?crc=cb75be26
   thumb_x: 219
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1548
-  thumb_total_height: 324
+  thumb_total_width: 2219
+  thumb_total_height: 648
 - path: Borgen, Season 2.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_1.jpg?crc=960fb025
+  thumb: thumbnails_1.jpg?crc=cb75be26
   thumb_x: 439
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1548
-  thumb_total_height: 324
+  thumb_total_width: 2219
+  thumb_total_height: 648
 - path: Desperate Housewives, Season 8.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_1.jpg?crc=960fb025
+  thumb: thumbnails_1.jpg?crc=cb75be26
   thumb_x: 659
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1548
-  thumb_total_height: 324
+  thumb_total_width: 2219
+  thumb_total_height: 648
 - path: Pokémon, Season 14.jpg
   width: 800
   height: 1154
-  thumb: thumbnails_1.jpg?crc=960fb025
+  thumb: thumbnails_1.jpg?crc=cb75be26
   thumb_x: 879
   thumb_width: 224
   thumb_height: 324
-  thumb_total_width: 1548
-  thumb_total_height: 324
+  thumb_total_width: 2219
+  thumb_total_height: 648
 - path: Star Wars The Clone Wars, Season 4.jpg
   width: 800
   height: 1130
-  thumb: thumbnails_1.jpg?crc=960fb025
+  thumb: thumbnails_1.jpg?crc=cb75be26
   thumb_x: 1103
   thumb_width: 229
   thumb_height: 324
-  thumb_total_width: 1548
-  thumb_total_height: 324
+  thumb_total_width: 2219
+  thumb_total_height: 648
 - path: The Big Bang Theory, Season 5.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_1.jpg?crc=960fb025
+  thumb: thumbnails_1.jpg?crc=cb75be26
   thumb_x: 1332
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1548
-  thumb_total_height: 324
+  thumb_total_width: 2219
+  thumb_total_height: 648
+- path: Bones, Season 7.jpg
+  width: 800
+  height: 1141
+  thumb: thumbnails_1.jpg?crc=cb75be26
+  thumb_x: 1548
+  thumb_width: 227
+  thumb_height: 324
+  thumb_total_width: 2219
+  thumb_total_height: 648
+- path: Entourage, Season 8.jpg
+  width: 800
+  height: 1155
+  thumb: thumbnails_1.jpg?crc=cb75be26
+  thumb_x: 1775
+  thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2219
+  thumb_total_height: 648
+- path: Glee, Season 3.jpg
+  width: 800
+  height: 1176
+  thumb: thumbnails_1.jpg?crc=cb75be26
+  thumb_x: 1999
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2219
+  thumb_total_height: 648
+- path: Gossip Girl, Season 5.jpg
+  width: 800
+  height: 1176
+  thumb: thumbnails_1.jpg?crc=cb75be26
+  thumb_y: 324
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2219
+  thumb_total_height: 648
+- path: New Girl.jpg
+  width: 800
+  height: 1185
+  thumb: thumbnails_1.jpg?crc=cb75be26
+  thumb_x: 220
+  thumb_y: 324
+  thumb_width: 219
+  thumb_height: 324
+  thumb_total_width: 2219
+  thumb_total_height: 648
+- path: Shameless.jpg
+  width: 800
+  height: 1156
+  thumb: thumbnails_1.jpg?crc=cb75be26
+  thumb_x: 439
+  thumb_y: 324
+  thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2219
+  thumb_total_height: 648
+- path: Sons of Anarchy, Season 4.jpg
+  width: 800
+  height: 1141
+  thumb: thumbnails_1.jpg?crc=cb75be26
+  thumb_x: 663
+  thumb_y: 324
+  thumb_width: 227
+  thumb_height: 324
+  thumb_total_width: 2219
+  thumb_total_height: 648
+- path: Suits.jpg
+  width: 800
+  height: 1156
+  thumb: thumbnails_1.jpg?crc=cb75be26
+  thumb_x: 890
+  thumb_y: 324
+  thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2219
+  thumb_total_height: 648
+- path: True Blood, Season 4.jpg
+  width: 800
+  height: 1156
+  thumb: thumbnails_1.jpg?crc=cb75be26
+  thumb_x: 1114
+  thumb_y: 324
+  thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2219
+  thumb_total_height: 648
+- path: Weeds, Season 7.jpg
+  width: 800
+  height: 1155
+  thumb: thumbnails_1.jpg?crc=cb75be26
+  thumb_x: 1338
+  thumb_y: 324
+  thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2219
+  thumb_total_height: 648

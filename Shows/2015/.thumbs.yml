@@ -486,7 +486,7 @@
 - path: RuPaul's Drag Race, Season 7.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_1.jpg?crc=cedeb939
+  thumb: thumbnails_1.jpg?crc=e2cc193e
   thumb_width: 220
   thumb_height: 324
   thumb_total_width: 2288
@@ -494,7 +494,7 @@
 - path: Survivor, Season 30.jpg
   width: 800
   height: 1120
-  thumb: thumbnails_1.jpg?crc=cedeb939
+  thumb: thumbnails_1.jpg?crc=e2cc193e
   thumb_x: 220
   thumb_width: 231
   thumb_height: 324
@@ -503,7 +503,7 @@
 - path: Survivor, Season 31.jpg
   width: 800
   height: 1120
-  thumb: thumbnails_1.jpg?crc=cedeb939
+  thumb: thumbnails_1.jpg?crc=e2cc193e
   thumb_x: 451
   thumb_width: 231
   thumb_height: 324
@@ -512,7 +512,7 @@
 - path: The Amazing Race, Season 26.jpg
   width: 800
   height: 1156
-  thumb: thumbnails_1.jpg?crc=cedeb939
+  thumb: thumbnails_1.jpg?crc=e2cc193e
   thumb_x: 682
   thumb_width: 224
   thumb_height: 324
@@ -521,7 +521,7 @@
 - path: The Amazing Race, Season 27.jpg
   width: 800
   height: 1156
-  thumb: thumbnails_1.jpg?crc=cedeb939
+  thumb: thumbnails_1.jpg?crc=e2cc193e
   thumb_x: 906
   thumb_width: 224
   thumb_height: 324
@@ -530,7 +530,7 @@
 - path: The Bachelor, Season 19.jpg
   width: 800
   height: 1065
-  thumb: thumbnails_1.jpg?crc=cedeb939
+  thumb: thumbnails_1.jpg?crc=e2cc193e
   thumb_x: 1130
   thumb_width: 243
   thumb_height: 324
@@ -539,7 +539,7 @@
 - path: Top Chef, Season 13.jpg
   width: 800
   height: 1050
-  thumb: thumbnails_1.jpg?crc=cedeb939
+  thumb: thumbnails_1.jpg?crc=e2cc193e
   thumb_x: 1373
   thumb_width: 247
   thumb_height: 324
@@ -548,7 +548,7 @@
 - path: Crazy Ex-Girlfriend.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_1.jpg?crc=cedeb939
+  thumb: thumbnails_1.jpg?crc=e2cc193e
   thumb_x: 1620
   thumb_width: 220
   thumb_height: 324
@@ -557,7 +557,7 @@
 - path: How to Get Away with Murder, Season 2.jpg
   width: 800
   height: 1156
-  thumb: thumbnails_1.jpg?crc=cedeb939
+  thumb: thumbnails_1.jpg?crc=e2cc193e
   thumb_x: 1840
   thumb_width: 224
   thumb_height: 324
@@ -566,7 +566,7 @@
 - path: Jane the Virgin, Season 2.jpg
   width: 800
   height: 1156
-  thumb: thumbnails_1.jpg?crc=cedeb939
+  thumb: thumbnails_1.jpg?crc=e2cc193e
   thumb_x: 2064
   thumb_width: 224
   thumb_height: 324
@@ -575,7 +575,7 @@
 - path: Master of None.jpg
   width: 800
   height: 1185
-  thumb: thumbnails_1.jpg?crc=cedeb939
+  thumb: thumbnails_1.jpg?crc=e2cc193e
   thumb_y: 324
   thumb_width: 219
   thumb_height: 324
@@ -584,7 +584,7 @@
 - path: Peep Show, Season 9.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_1.jpg?crc=cedeb939
+  thumb: thumbnails_1.jpg?crc=e2cc193e
   thumb_x: 219
   thumb_y: 324
   thumb_width: 220
@@ -594,7 +594,7 @@
 - path: Pokémon, Season 18.jpg
   width: 800
   height: 1125
-  thumb: thumbnails_1.jpg?crc=cedeb939
+  thumb: thumbnails_1.jpg?crc=e2cc193e
   thumb_x: 439
   thumb_y: 324
   thumb_width: 230
@@ -604,7 +604,7 @@
 - path: Silicon Valley, Season 2.jpg
   width: 800
   height: 1141
-  thumb: thumbnails_1.jpg?crc=cedeb939
+  thumb: thumbnails_1.jpg?crc=e2cc193e
   thumb_x: 669
   thumb_y: 324
   thumb_width: 227
@@ -614,7 +614,7 @@
 - path: The Big Bang Theory, Season 9.jpg
   width: 800
   height: 1156
-  thumb: thumbnails_1.jpg?crc=cedeb939
+  thumb: thumbnails_1.jpg?crc=e2cc193e
   thumb_x: 896
   thumb_y: 324
   thumb_width: 224
@@ -624,10 +624,50 @@
 - path: Transparent, Season 2.jpg
   width: 800
   height: 1156
-  thumb: thumbnails_1.jpg?crc=cedeb939
+  thumb: thumbnails_1.jpg?crc=e2cc193e
   thumb_x: 1120
   thumb_y: 324
   thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2288
+  thumb_total_height: 648
+- path: Bones, Season 11.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_1.jpg?crc=e2cc193e
+  thumb_x: 1344
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2288
+  thumb_total_height: 648
+- path: Glee, Season 6.jpg
+  width: 800
+  height: 1121
+  thumb: thumbnails_1.jpg?crc=e2cc193e
+  thumb_x: 1560
+  thumb_y: 324
+  thumb_width: 231
+  thumb_height: 324
+  thumb_total_width: 2288
+  thumb_total_height: 648
+- path: Shameless, Season 5.jpg
+  width: 800
+  height: 1156
+  thumb: thumbnails_1.jpg?crc=e2cc193e
+  thumb_x: 1791
+  thumb_y: 324
+  thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2288
+  thumb_total_height: 648
+- path: Suits, Season 5.jpg
+  width: 800
+  height: 1199
+  thumb: thumbnails_1.jpg?crc=e2cc193e
+  thumb_x: 2015
+  thumb_y: 324
+  thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2288
   thumb_total_height: 648
