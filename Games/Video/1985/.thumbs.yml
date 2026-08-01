@@ -1,8 +1,17 @@
 - path: Super Mario Bros..jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=6488dec2
+  thumb: thumbnails_0.jpg?crc=9e3e1ae9
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 243
+  thumb_total_width: 486
+  thumb_total_height: 324
+- path: Ultima IV Quest of the Avatar.jpg
+  width: 800
+  height: 1066
+  thumb: thumbnails_0.jpg?crc=9e3e1ae9
+  thumb_x: 243
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 486
   thumb_total_height: 324
