@@ -1,7 +1,7 @@
 - path: Cheers, Season 3.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=f7a9d4c3
+  thumb: thumbnails_0.jpg?crc=6b7c3917
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2218
@@ -9,7 +9,7 @@
 - path: Doctor Who, Season 21.jpg
   width: 1080
   height: 1620
-  thumb: thumbnails_0.jpg?crc=f7a9d4c3
+  thumb: thumbnails_0.jpg?crc=6b7c3917
   thumb_x: 216
   thumb_width: 216
   thumb_height: 324
@@ -18,7 +18,7 @@
 - path: Mister Rogers' Neighborhood, Season 15.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=f7a9d4c3
+  thumb: thumbnails_0.jpg?crc=6b7c3917
   thumb_x: 432
   thumb_width: 220
   thumb_height: 324
@@ -27,7 +27,7 @@
 - path: Saturday Night Live, Season 10.jpg
   width: 2160
   height: 2880
-  thumb: thumbnails_0.jpg?crc=f7a9d4c3
+  thumb: thumbnails_0.jpg?crc=6b7c3917
   thumb_x: 652
   thumb_width: 243
   thumb_height: 324
@@ -36,7 +36,7 @@
 - path: Sesame Street, Season 16.jpg
   width: 2000
   height: 3000
-  thumb: thumbnails_0.jpg?crc=f7a9d4c3
+  thumb: thumbnails_0.jpg?crc=6b7c3917
   thumb_x: 895
   thumb_width: 216
   thumb_height: 324
@@ -45,7 +45,7 @@
 - path: The Cosby Show.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=f7a9d4c3
+  thumb: thumbnails_0.jpg?crc=6b7c3917
   thumb_x: 1111
   thumb_width: 220
   thumb_height: 324
@@ -54,7 +54,7 @@
 - path: The Jeffersons, Season 11.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=f7a9d4c3
+  thumb: thumbnails_0.jpg?crc=6b7c3917
   thumb_x: 1331
   thumb_width: 220
   thumb_height: 324
@@ -63,7 +63,7 @@
 - path: Dallas, Season 8.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=f7a9d4c3
+  thumb: thumbnails_0.jpg?crc=6b7c3917
   thumb_x: 1551
   thumb_width: 220
   thumb_height: 324
@@ -72,7 +72,7 @@
 - path: St. Elsewhere, Season 3.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=f7a9d4c3
+  thumb: thumbnails_0.jpg?crc=6b7c3917
   thumb_x: 1771
   thumb_width: 220
   thumb_height: 324
@@ -81,7 +81,7 @@
 - path: Knight Rider, Season 3.jpg
   width: 800
   height: 1141
-  thumb: thumbnails_0.jpg?crc=f7a9d4c3
+  thumb: thumbnails_0.jpg?crc=6b7c3917
   thumb_x: 1991
   thumb_width: 227
   thumb_height: 324
@@ -90,9 +90,49 @@
 - path: The A-Team, Season 3.jpg
   width: 800
   height: 1156
-  thumb: thumbnails_0.jpg?crc=f7a9d4c3
+  thumb: thumbnails_0.jpg?crc=6b7c3917
   thumb_y: 324
   thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2218
+  thumb_total_height: 648
+- path: Cagney & Lacey, Season 3.jpg
+  width: 800
+  height: 1176
+  thumb: thumbnails_0.jpg?crc=6b7c3917
+  thumb_x: 224
+  thumb_y: 324
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2218
+  thumb_total_height: 648
+- path: Cagney & Lacey, Season 4.jpg
+  width: 800
+  height: 1176
+  thumb: thumbnails_0.jpg?crc=6b7c3917
+  thumb_x: 444
+  thumb_y: 324
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2218
+  thumb_total_height: 648
+- path: Dynasty, Season 5.jpg
+  width: 800
+  height: 1176
+  thumb: thumbnails_0.jpg?crc=6b7c3917
+  thumb_x: 664
+  thumb_y: 324
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2218
+  thumb_total_height: 648
+- path: Newhart, Season 3.jpg
+  width: 800
+  height: 1176
+  thumb: thumbnails_0.jpg?crc=6b7c3917
+  thumb_x: 884
+  thumb_y: 324
+  thumb_width: 220
   thumb_height: 324
   thumb_total_width: 2218
   thumb_total_height: 648

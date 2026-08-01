@@ -1,89 +1,128 @@
 - path: Doctor Who, Season 17.jpg
   width: 1080
   height: 1620
-  thumb: thumbnails_0.jpg?crc=afdceaaa
+  thumb: thumbnails_0.jpg?crc=d517457a
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2234
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Fawlty Towers, Season 2.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=afdceaaa
+  thumb: thumbnails_0.jpg?crc=d517457a
   thumb_x: 216
   thumb_width: 220
   thumb_height: 324
   thumb_total_width: 2234
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Mister Rogers' Neighborhood, Season 10.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=afdceaaa
+  thumb: thumbnails_0.jpg?crc=d517457a
   thumb_x: 436
   thumb_width: 220
   thumb_height: 324
   thumb_total_width: 2234
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Saturday Night Live, Season 5.jpg
   width: 2160
   height: 2880
-  thumb: thumbnails_0.jpg?crc=afdceaaa
+  thumb: thumbnails_0.jpg?crc=d517457a
   thumb_x: 656
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2234
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: The Jeffersons, Season 6.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=afdceaaa
+  thumb: thumbnails_0.jpg?crc=d517457a
   thumb_x: 899
   thumb_width: 220
   thumb_height: 324
   thumb_total_width: 2234
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: The Muppet Show, Season 4.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=afdceaaa
+  thumb: thumbnails_0.jpg?crc=d517457a
   thumb_x: 1119
   thumb_width: 220
   thumb_height: 324
   thumb_total_width: 2234
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Dallas, Season 3.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=afdceaaa
+  thumb: thumbnails_0.jpg?crc=d517457a
   thumb_x: 1339
   thumb_width: 220
   thumb_height: 324
   thumb_total_width: 2234
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Happy Days, Season 7.jpg
   width: 1536
   height: 2048
-  thumb: thumbnails_0.jpg?crc=afdceaaa
+  thumb: thumbnails_0.jpg?crc=d517457a
   thumb_x: 1559
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2234
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Barney Miller, Season 6.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=afdceaaa
+  thumb: thumbnails_0.jpg?crc=d517457a
   thumb_x: 1802
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2234
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: WKRP in Cincinnati, Season 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=afdceaaa
+  thumb: thumbnails_0.jpg?crc=d517457a
   thumb_x: 2018
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2234
-  thumb_total_height: 324
+  thumb_total_height: 648
+- path: Hawaii Five-O, Season 12.jpg
+  width: 800
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=d517457a
+  thumb_y: 324
+  thumb_width: 259
+  thumb_height: 324
+  thumb_total_width: 2234
+  thumb_total_height: 648
+- path: Lou Grant, Season 3.jpg
+  width: 800
+  height: 1156
+  thumb: thumbnails_0.jpg?crc=d517457a
+  thumb_x: 259
+  thumb_y: 324
+  thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2234
+  thumb_total_height: 648
+- path: One Day at a Time, Season 5.jpg
+  width: 800
+  height: 1176
+  thumb: thumbnails_0.jpg?crc=d517457a
+  thumb_x: 483
+  thumb_y: 324
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2234
+  thumb_total_height: 648
+- path: Soap, Season 3.jpg
+  width: 800
+  height: 1176
+  thumb: thumbnails_0.jpg?crc=d517457a
+  thumb_x: 703
+  thumb_y: 324
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2234
+  thumb_total_height: 648

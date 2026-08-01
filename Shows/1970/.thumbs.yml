@@ -1,89 +1,98 @@
 - path: Doctor Who, Season 7.jpg
   width: 1080
   height: 1620
-  thumb: thumbnails_0.jpg?crc=f372f019
+  thumb: thumbnails_0.jpg?crc=b335c1aa
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2186
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Mister Rogers' Neighborhood, Season 3.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=f372f019
+  thumb: thumbnails_0.jpg?crc=b335c1aa
   thumb_x: 216
   thumb_width: 220
   thumb_height: 324
   thumb_total_width: 2186
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Monty Python's Flying Circus, Season 2.jpg
   width: 343
   height: 500
-  thumb: thumbnails_0.jpg?crc=f372f019
+  thumb: thumbnails_0.jpg?crc=b335c1aa
   thumb_x: 436
   thumb_width: 222
   thumb_height: 324
   thumb_total_width: 2186
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Sesame Street, Season 2.jpg
   width: 2000
   height: 3000
-  thumb: thumbnails_0.jpg?crc=f372f019
+  thumb: thumbnails_0.jpg?crc=b335c1aa
   thumb_x: 658
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2186
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: The Carol Burnett Show, Season 4.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=f372f019
+  thumb: thumbnails_0.jpg?crc=b335c1aa
   thumb_x: 874
   thumb_width: 220
   thumb_height: 324
   thumb_total_width: 2186
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Bewitched, Season 7.jpg
   width: 400
   height: 578
-  thumb: thumbnails_0.jpg?crc=f372f019
+  thumb: thumbnails_0.jpg?crc=b335c1aa
   thumb_x: 1094
   thumb_width: 224
   thumb_height: 324
   thumb_total_width: 2186
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Mission Impossible, Season 5.jpg
   width: 1400
   height: 2100
-  thumb: thumbnails_0.jpg?crc=f372f019
+  thumb: thumbnails_0.jpg?crc=b335c1aa
   thumb_x: 1318
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2186
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Bonanza, Season 12.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_0.jpg?crc=f372f019
+  thumb: thumbnails_0.jpg?crc=b335c1aa
   thumb_x: 1534
   thumb_width: 220
   thumb_height: 324
   thumb_total_width: 2186
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Gunsmoke, Season 16.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=f372f019
+  thumb: thumbnails_0.jpg?crc=b335c1aa
   thumb_x: 1754
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2186
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: The Brady Bunch, Season 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=f372f019
+  thumb: thumbnails_0.jpg?crc=b335c1aa
   thumb_x: 1970
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2186
-  thumb_total_height: 324
+  thumb_total_height: 648
+- path: Hawaii Five-O, Season 3.jpg
+  width: 800
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=b335c1aa
+  thumb_y: 324
+  thumb_width: 259
+  thumb_height: 324
+  thumb_total_width: 2186
+  thumb_total_height: 648

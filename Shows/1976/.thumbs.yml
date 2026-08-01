@@ -1,108 +1,158 @@
 - path: Doctor Who, Season 14.jpg
   width: 220
   height: 266
-  thumb: thumbnails_0.jpg?crc=e1496e06
-  thumb_x: 224
+  thumb: thumbnails_0.jpg?crc=8f08dbee
+  thumb_x: 1369
   thumb_y: 324
   thumb_width: 220
   thumb_height: 266
-  thumb_total_width: 2221
+  thumb_total_width: 2211
   thumb_total_height: 648
 - path: Mister Rogers' Neighborhood, Season 9.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=e1496e06
+  thumb: thumbnails_0.jpg?crc=8f08dbee
+  thumb_x: 1991
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 2221
+  thumb_total_width: 2211
   thumb_total_height: 648
 - path: Saturday Night Live, Season 2.jpg
   width: 2160
   height: 2880
-  thumb: thumbnails_0.jpg?crc=e1496e06
-  thumb_x: 220
+  thumb: thumbnails_0.jpg?crc=8f08dbee
+  thumb_x: 1748
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2221
+  thumb_total_width: 2211
   thumb_total_height: 648
 - path: Sesame Street, Season 8.jpg
   width: 2000
   height: 3000
-  thumb: thumbnails_0.jpg?crc=e1496e06
-  thumb_x: 463
+  thumb: thumbnails_0.jpg?crc=8f08dbee
+  thumb_x: 656
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2221
+  thumb_total_width: 2211
   thumb_total_height: 648
 - path: The Carol Burnett Show, Season 10.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=e1496e06
-  thumb_x: 679
+  thumb: thumbnails_0.jpg?crc=8f08dbee
+  thumb_x: 220
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 2221
+  thumb_total_width: 2211
   thumb_total_height: 648
 - path: The Jeffersons, Season 3.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=e1496e06
-  thumb_x: 899
+  thumb: thumbnails_0.jpg?crc=8f08dbee
+  thumb_x: 1088
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 2221
+  thumb_total_width: 2211
   thumb_total_height: 648
 - path: The Muppet Show.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=e1496e06
-  thumb_x: 1119
+  thumb: thumbnails_0.jpg?crc=8f08dbee
+  thumb_x: 1308
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 2221
+  thumb_total_width: 2211
   thumb_total_height: 648
 - path: Happy Days, Season 4.jpg
   width: 349
   height: 500
-  thumb: thumbnails_0.jpg?crc=e1496e06
-  thumb_x: 1339
+  thumb: thumbnails_0.jpg?crc=8f08dbee
+  thumb_y: 324
   thumb_width: 226
   thumb_height: 324
-  thumb_total_width: 2221
+  thumb_total_width: 2211
   thumb_total_height: 648
 - path: I, Claudius.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_0.jpg?crc=e1496e06
-  thumb_x: 1565
+  thumb: thumbnails_0.jpg?crc=8f08dbee
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 2221
+  thumb_total_width: 2211
   thumb_total_height: 648
 - path: Barney Miller, Season 3.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=e1496e06
-  thumb_x: 1785
+  thumb: thumbnails_0.jpg?crc=8f08dbee
+  thumb_x: 872
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2221
+  thumb_total_width: 2211
   thumb_total_height: 648
 - path: Kojak, Season 4.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_0.jpg?crc=e1496e06
-  thumb_x: 2001
+  thumb: thumbnails_0.jpg?crc=8f08dbee
+  thumb_x: 1528
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 2221
+  thumb_total_width: 2211
   thumb_total_height: 648
 - path: Sanford and Son, Season 6.jpg
   width: 800
   height: 1156
-  thumb: thumbnails_0.jpg?crc=e1496e06
+  thumb: thumbnails_0.jpg?crc=8f08dbee
+  thumb_x: 226
   thumb_y: 324
   thumb_width: 224
   thumb_height: 324
-  thumb_total_width: 2221
+  thumb_total_width: 2211
+  thumb_total_height: 648
+- path: Good Times, Season 4.jpg
+  width: 800
+  height: 1176
+  thumb: thumbnails_0.jpg?crc=8f08dbee
+  thumb_x: 450
+  thumb_y: 324
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2211
+  thumb_total_height: 648
+- path: Hawaii Five-O, Season 9.jpg
+  width: 800
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=8f08dbee
+  thumb_x: 670
+  thumb_y: 324
+  thumb_width: 259
+  thumb_height: 324
+  thumb_total_width: 2211
+  thumb_total_height: 648
+- path: Maude, Season 5.jpg
+  width: 800
+  height: 1176
+  thumb: thumbnails_0.jpg?crc=8f08dbee
+  thumb_x: 929
+  thumb_y: 324
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2211
+  thumb_total_height: 648
+- path: One Day at a Time, Season 2.jpg
+  width: 800
+  height: 1176
+  thumb: thumbnails_0.jpg?crc=8f08dbee
+  thumb_x: 1149
+  thumb_y: 324
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2211
+  thumb_total_height: 648
+- path: The Bob Newhart Show, Season 5.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=8f08dbee
+  thumb_x: 440
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2211
   thumb_total_height: 648

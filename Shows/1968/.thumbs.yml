@@ -1,62 +1,71 @@
 - path: Doctor Who, Season 6.jpg
   width: 1080
   height: 1620
-  thumb: thumbnails_0.jpg?crc=c4d8d819
+  thumb: thumbnails_0.jpg?crc=a865ae42
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1528
+  thumb_total_width: 1787
   thumb_total_height: 324
 - path: Mister Rogers' Neighborhood.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=c4d8d819
+  thumb: thumbnails_0.jpg?crc=a865ae42
   thumb_x: 216
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1528
+  thumb_total_width: 1787
   thumb_total_height: 324
 - path: The Carol Burnett Show, Season 2.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=c4d8d819
+  thumb: thumbnails_0.jpg?crc=a865ae42
   thumb_x: 436
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1528
+  thumb_total_width: 1787
   thumb_total_height: 324
 - path: Bewitched, Season 5.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=c4d8d819
+  thumb: thumbnails_0.jpg?crc=a865ae42
   thumb_x: 656
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1528
+  thumb_total_width: 1787
   thumb_total_height: 324
 - path: Mission Impossible, Season 3.jpg
   width: 1400
   height: 2100
-  thumb: thumbnails_0.jpg?crc=c4d8d819
+  thumb: thumbnails_0.jpg?crc=a865ae42
   thumb_x: 876
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1528
+  thumb_total_width: 1787
   thumb_total_height: 324
 - path: Bonanza, Season 10.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_0.jpg?crc=c4d8d819
+  thumb: thumbnails_0.jpg?crc=a865ae42
   thumb_x: 1092
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1528
+  thumb_total_width: 1787
   thumb_total_height: 324
 - path: Gunsmoke, Season 14.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=c4d8d819
+  thumb: thumbnails_0.jpg?crc=a865ae42
   thumb_x: 1312
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1528
+  thumb_total_width: 1787
+  thumb_total_height: 324
+- path: Hawaii Five-O.jpg
+  width: 800
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=a865ae42
+  thumb_x: 1528
+  thumb_width: 259
+  thumb_height: 324
+  thumb_total_width: 1787
   thumb_total_height: 324

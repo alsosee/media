@@ -1,80 +1,89 @@
 - path: Doctor Who, Season 3.jpg
   width: 1080
   height: 1620
-  thumb: thumbnails_0.jpg?crc=3f3ffe7a
+  thumb: thumbnails_0.jpg?crc=ab8b6a4e
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1983
+  thumb_total_width: 2223
   thumb_total_height: 324
 - path: The Andy Griffith Show, Season 6.jpg
   width: 340
   height: 491
-  thumb: thumbnails_0.jpg?crc=3f3ffe7a
+  thumb: thumbnails_0.jpg?crc=ab8b6a4e
   thumb_x: 216
   thumb_width: 224
   thumb_height: 324
-  thumb_total_width: 1983
+  thumb_total_width: 2223
   thumb_total_height: 324
 - path: The Dick Van Dyke Show, Season 5.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=3f3ffe7a
+  thumb: thumbnails_0.jpg?crc=ab8b6a4e
   thumb_x: 440
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1983
+  thumb_total_width: 2223
   thumb_total_height: 324
 - path: Bewitched, Season 2.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=3f3ffe7a
+  thumb: thumbnails_0.jpg?crc=ab8b6a4e
   thumb_x: 660
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1983
+  thumb_total_width: 2223
   thumb_total_height: 324
 - path: The Fugitive, Season 3.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=3f3ffe7a
+  thumb: thumbnails_0.jpg?crc=ab8b6a4e
   thumb_x: 880
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1983
+  thumb_total_width: 2223
   thumb_total_height: 324
 - path: Bonanza, Season 7.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_0.jpg?crc=3f3ffe7a
+  thumb: thumbnails_0.jpg?crc=ab8b6a4e
   thumb_x: 1100
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1983
+  thumb_total_width: 2223
   thumb_total_height: 324
 - path: Gilligan's Island, Season 2.jpg
   width: 800
   height: 1141
-  thumb: thumbnails_0.jpg?crc=3f3ffe7a
+  thumb: thumbnails_0.jpg?crc=ab8b6a4e
   thumb_x: 1320
   thumb_width: 227
   thumb_height: 324
-  thumb_total_width: 1983
+  thumb_total_width: 2223
   thumb_total_height: 324
 - path: Gunsmoke, Season 11.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=3f3ffe7a
+  thumb: thumbnails_0.jpg?crc=ab8b6a4e
   thumb_x: 1547
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1983
+  thumb_total_width: 2223
   thumb_total_height: 324
 - path: Perry Mason, Season 9.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_0.jpg?crc=3f3ffe7a
+  thumb: thumbnails_0.jpg?crc=ab8b6a4e
   thumb_x: 1763
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1983
+  thumb_total_width: 2223
+  thumb_total_height: 324
+- path: Lost in Space.jpg
+  width: 800
+  height: 1081
+  thumb: thumbnails_0.jpg?crc=ab8b6a4e
+  thumb_x: 1983
+  thumb_width: 240
+  thumb_height: 324
+  thumb_total_width: 2223
   thumb_total_height: 324

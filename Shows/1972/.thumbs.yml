@@ -1,108 +1,138 @@
 - path: Doctor Who, Season 10.jpg
   width: 220
   height: 259
-  thumb: thumbnails_0.jpg?crc=3c1e059d
-  thumb_x: 220
+  thumb: thumbnails_0.jpg?crc=e4d13bba
+  thumb_x: 919
   thumb_y: 324
   thumb_width: 220
   thumb_height: 259
-  thumb_total_width: 2197
-  thumb_total_height: 590
+  thumb_total_width: 2193
+  thumb_total_height: 648
 - path: Doctor Who, Season 9.jpg
   width: 220
   height: 266
-  thumb: thumbnails_0.jpg?crc=3c1e059d
+  thumb: thumbnails_0.jpg?crc=e4d13bba
+  thumb_x: 699
   thumb_y: 324
   thumb_width: 220
   thumb_height: 266
-  thumb_total_width: 2197
-  thumb_total_height: 590
+  thumb_total_width: 2193
+  thumb_total_height: 648
 - path: Mister Rogers' Neighborhood, Season 5.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=3c1e059d
+  thumb: thumbnails_0.jpg?crc=e4d13bba
+  thumb_x: 432
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 2197
-  thumb_total_height: 590
+  thumb_total_width: 2193
+  thumb_total_height: 648
 - path: Monty Python's Flying Circus, Season 3.jpg
   width: 418
   height: 600
-  thumb: thumbnails_0.jpg?crc=3c1e059d
-  thumb_x: 220
+  thumb: thumbnails_0.jpg?crc=e4d13bba
+  thumb_x: 652
   thumb_width: 225
   thumb_height: 324
-  thumb_total_width: 2197
-  thumb_total_height: 590
+  thumb_total_width: 2193
+  thumb_total_height: 648
 - path: Sesame Street, Season 4.jpg
   width: 2000
   height: 3000
-  thumb: thumbnails_0.jpg?crc=3c1e059d
-  thumb_x: 445
+  thumb: thumbnails_0.jpg?crc=e4d13bba
+  thumb_x: 877
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2197
-  thumb_total_height: 590
+  thumb_total_width: 2193
+  thumb_total_height: 648
 - path: The Carol Burnett Show, Season 6.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=3c1e059d
-  thumb_x: 661
+  thumb: thumbnails_0.jpg?crc=e4d13bba
+  thumb_x: 1093
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 2197
-  thumb_total_height: 590
+  thumb_total_width: 2193
+  thumb_total_height: 648
 - path: Mission Impossible, Season 7.jpg
   width: 1400
   height: 2100
-  thumb: thumbnails_0.jpg?crc=3c1e059d
-  thumb_x: 881
+  thumb: thumbnails_0.jpg?crc=e4d13bba
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2197
-  thumb_total_height: 590
+  thumb_total_width: 2193
+  thumb_total_height: 648
 - path: Bonanza, Season 14.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_0.jpg?crc=3c1e059d
-  thumb_x: 1097
+  thumb: thumbnails_0.jpg?crc=e4d13bba
+  thumb_x: 1529
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 2197
-  thumb_total_height: 590
+  thumb_total_width: 2193
+  thumb_total_height: 648
 - path: Gunsmoke, Season 18.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=3c1e059d
-  thumb_x: 1317
+  thumb: thumbnails_0.jpg?crc=e4d13bba
+  thumb_x: 216
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2197
-  thumb_total_height: 590
+  thumb_total_width: 2193
+  thumb_total_height: 648
 - path: Sanford and Son, Season 2.jpg
   width: 800
   height: 1156
-  thumb: thumbnails_0.jpg?crc=3c1e059d
-  thumb_x: 1533
+  thumb: thumbnails_0.jpg?crc=e4d13bba
+  thumb_x: 1969
   thumb_width: 224
   thumb_height: 324
-  thumb_total_width: 2197
-  thumb_total_height: 590
+  thumb_total_width: 2193
+  thumb_total_height: 648
 - path: Sanford and Son.jpg
   width: 800
   height: 1156
-  thumb: thumbnails_0.jpg?crc=3c1e059d
-  thumb_x: 1757
+  thumb: thumbnails_0.jpg?crc=e4d13bba
+  thumb_y: 324
   thumb_width: 224
   thumb_height: 324
-  thumb_total_width: 2197
-  thumb_total_height: 590
+  thumb_total_width: 2193
+  thumb_total_height: 648
 - path: The Brady Bunch, Season 4.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=3c1e059d
-  thumb_x: 1981
+  thumb: thumbnails_0.jpg?crc=e4d13bba
+  thumb_x: 224
+  thumb_y: 324
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2197
-  thumb_total_height: 590
+  thumb_total_width: 2193
+  thumb_total_height: 648
+- path: Hawaii Five-O, Season 5.jpg
+  width: 800
+  height: 1000
+  thumb: thumbnails_0.jpg?crc=e4d13bba
+  thumb_x: 440
+  thumb_y: 324
+  thumb_width: 259
+  thumb_height: 324
+  thumb_total_width: 2193
+  thumb_total_height: 648
+- path: Maude.jpg
+  width: 800
+  height: 1176
+  thumb: thumbnails_0.jpg?crc=e4d13bba
+  thumb_x: 1749
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2193
+  thumb_total_height: 648
+- path: The Bob Newhart Show.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=e4d13bba
+  thumb_x: 1313
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2193
+  thumb_total_height: 648

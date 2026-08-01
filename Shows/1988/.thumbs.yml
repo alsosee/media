@@ -1,168 +1,207 @@
 - path: Cheers, Season 7.jpg
   width: 490
   height: 738
-  thumb: thumbnails_0.jpg?crc=2f189882
+  thumb: thumbnails_0.jpg?crc=eaf9b3ef
   thumb_width: 215
   thumb_height: 324
-  thumb_total_width: 2197
-  thumb_total_height: 648
+  thumb_total_width: 2250
+  thumb_total_height: 972
 - path: Dragon Ball, Season 8.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=2f189882
+  thumb: thumbnails_0.jpg?crc=eaf9b3ef
   thumb_x: 215
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2197
-  thumb_total_height: 648
+  thumb_total_width: 2250
+  thumb_total_height: 972
 - path: Dragon Ball, Season 9.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=2f189882
+  thumb: thumbnails_0.jpg?crc=eaf9b3ef
   thumb_x: 431
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2197
-  thumb_total_height: 648
+  thumb_total_width: 2250
+  thumb_total_height: 972
 - path: Doctor Who, Season 25.jpg
   width: 1080
   height: 1620
-  thumb: thumbnails_0.jpg?crc=2f189882
+  thumb: thumbnails_0.jpg?crc=eaf9b3ef
   thumb_x: 647
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2197
-  thumb_total_height: 648
+  thumb_total_width: 2250
+  thumb_total_height: 972
 - path: Mister Rogers' Neighborhood, Season 19.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=2f189882
+  thumb: thumbnails_0.jpg?crc=eaf9b3ef
   thumb_x: 863
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 2197
-  thumb_total_height: 648
+  thumb_total_width: 2250
+  thumb_total_height: 972
 - path: Roseanne.jpg
   width: 1383
   height: 2048
-  thumb: thumbnails_0.jpg?crc=2f189882
+  thumb: thumbnails_0.jpg?crc=eaf9b3ef
   thumb_x: 1083
   thumb_width: 219
   thumb_height: 324
-  thumb_total_width: 2197
-  thumb_total_height: 648
+  thumb_total_width: 2250
+  thumb_total_height: 972
 - path: Saturday Night Live, Season 14.jpg
   width: 2160
   height: 2880
-  thumb: thumbnails_0.jpg?crc=2f189882
+  thumb: thumbnails_0.jpg?crc=eaf9b3ef
   thumb_x: 1302
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2197
-  thumb_total_height: 648
+  thumb_total_width: 2250
+  thumb_total_height: 972
 - path: Sesame Street, Season 20.jpg
   width: 2000
   height: 3000
-  thumb: thumbnails_0.jpg?crc=2f189882
+  thumb: thumbnails_0.jpg?crc=eaf9b3ef
   thumb_x: 1545
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2197
-  thumb_total_height: 648
+  thumb_total_width: 2250
+  thumb_total_height: 972
 - path: The Cosby Show, Season 5.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=2f189882
+  thumb: thumbnails_0.jpg?crc=eaf9b3ef
   thumb_x: 1761
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 2197
-  thumb_total_height: 648
+  thumb_total_width: 2250
+  thumb_total_height: 972
 - path: The Golden Girls, Season 4.jpg
   width: 1000
   height: 1500
-  thumb: thumbnails_0.jpg?crc=2f189882
+  thumb: thumbnails_0.jpg?crc=eaf9b3ef
   thumb_x: 1981
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2197
-  thumb_total_height: 648
+  thumb_total_width: 2250
+  thumb_total_height: 972
 - path: Dallas, Season 12.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=2f189882
+  thumb: thumbnails_0.jpg?crc=eaf9b3ef
   thumb_y: 324
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 2197
-  thumb_total_height: 648
+  thumb_total_width: 2250
+  thumb_total_height: 972
 - path: Moonlighting, Season 5.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=2f189882
+  thumb: thumbnails_0.jpg?crc=eaf9b3ef
   thumb_x: 220
   thumb_y: 324
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 2197
-  thumb_total_height: 648
+  thumb_total_width: 2250
+  thumb_total_height: 972
 - path: The Wonder Years, Season 2.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=2f189882
+  thumb: thumbnails_0.jpg?crc=eaf9b3ef
   thumb_x: 440
   thumb_y: 324
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 2197
-  thumb_total_height: 648
+  thumb_total_width: 2250
+  thumb_total_height: 972
 - path: The Wonder Years.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=2f189882
+  thumb: thumbnails_0.jpg?crc=eaf9b3ef
   thumb_x: 660
   thumb_y: 324
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 2197
-  thumb_total_height: 648
+  thumb_total_width: 2250
+  thumb_total_height: 972
 - path: thirtysomething, Season 2.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=2f189882
+  thumb: thumbnails_0.jpg?crc=eaf9b3ef
   thumb_x: 880
   thumb_y: 324
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 2197
-  thumb_total_height: 648
+  thumb_total_width: 2250
+  thumb_total_height: 972
 - path: A Different World, Season 2.jpg
   width: 800
   height: 1075
-  thumb: thumbnails_0.jpg?crc=2f189882
+  thumb: thumbnails_0.jpg?crc=eaf9b3ef
   thumb_x: 1100
   thumb_y: 324
   thumb_width: 241
   thumb_height: 324
-  thumb_total_width: 2197
-  thumb_total_height: 648
+  thumb_total_width: 2250
+  thumb_total_height: 972
 - path: L.A. Law, Season 3.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_0.jpg?crc=2f189882
+  thumb: thumbnails_0.jpg?crc=eaf9b3ef
   thumb_x: 1341
   thumb_y: 324
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 2197
-  thumb_total_height: 648
+  thumb_total_width: 2250
+  thumb_total_height: 972
 - path: Murphy Brown.jpg
   width: 800
   height: 1104
-  thumb: thumbnails_0.jpg?crc=2f189882
+  thumb: thumbnails_0.jpg?crc=eaf9b3ef
   thumb_x: 1561
   thumb_y: 324
   thumb_width: 234
   thumb_height: 324
-  thumb_total_width: 2197
-  thumb_total_height: 648
+  thumb_total_width: 2250
+  thumb_total_height: 972
+- path: China Beach, Season 2.jpg
+  width: 800
+  height: 1128
+  thumb: thumbnails_0.jpg?crc=eaf9b3ef
+  thumb_x: 1795
+  thumb_y: 324
+  thumb_width: 230
+  thumb_height: 324
+  thumb_total_width: 2250
+  thumb_total_height: 972
+- path: China Beach.jpg
+  width: 800
+  height: 1151
+  thumb: thumbnails_0.jpg?crc=eaf9b3ef
+  thumb_x: 2025
+  thumb_y: 324
+  thumb_width: 225
+  thumb_height: 324
+  thumb_total_width: 2250
+  thumb_total_height: 972
+- path: Dynasty, Season 9.jpg
+  width: 800
+  height: 1176
+  thumb: thumbnails_0.jpg?crc=eaf9b3ef
+  thumb_y: 648
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2250
+  thumb_total_height: 972
+- path: Newhart, Season 7.jpg
+  width: 800
+  height: 1176
+  thumb: thumbnails_0.jpg?crc=eaf9b3ef
+  thumb_x: 220
+  thumb_y: 648
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2250
+  thumb_total_height: 972

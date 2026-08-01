@@ -1,80 +1,118 @@
 - path: Mister Rogers' Neighborhood, Season 11.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=86c269a9
+  thumb: thumbnails_0.jpg?crc=e554277b
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1991
-  thumb_total_height: 324
+  thumb_total_width: 2211
+  thumb_total_height: 648
 - path: Saturday Night Live, Season 7.jpg
   width: 2160
   height: 2880
-  thumb: thumbnails_0.jpg?crc=86c269a9
+  thumb: thumbnails_0.jpg?crc=e554277b
   thumb_x: 220
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1991
-  thumb_total_height: 324
+  thumb_total_width: 2211
+  thumb_total_height: 648
 - path: Sesame Street, Season 13.jpg
   width: 2000
   height: 3000
-  thumb: thumbnails_0.jpg?crc=86c269a9
+  thumb: thumbnails_0.jpg?crc=e554277b
   thumb_x: 463
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1991
-  thumb_total_height: 324
+  thumb_total_width: 2211
+  thumb_total_height: 648
 - path: The Jeffersons, Season 8.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=86c269a9
+  thumb: thumbnails_0.jpg?crc=e554277b
   thumb_x: 679
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1991
-  thumb_total_height: 324
+  thumb_total_width: 2211
+  thumb_total_height: 648
 - path: Dallas, Season 5.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=86c269a9
+  thumb: thumbnails_0.jpg?crc=e554277b
   thumb_x: 899
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1991
-  thumb_total_height: 324
+  thumb_total_width: 2211
+  thumb_total_height: 648
 - path: Happy Days, Season 9.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=86c269a9
+  thumb: thumbnails_0.jpg?crc=e554277b
   thumb_x: 1119
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1991
-  thumb_total_height: 324
+  thumb_total_width: 2211
+  thumb_total_height: 648
 - path: Yes Minister, Season 2.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_0.jpg?crc=86c269a9
+  thumb: thumbnails_0.jpg?crc=e554277b
   thumb_x: 1339
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 1991
-  thumb_total_height: 324
+  thumb_total_width: 2211
+  thumb_total_height: 648
 - path: Barney Miller, Season 8.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=86c269a9
+  thumb: thumbnails_0.jpg?crc=e554277b
   thumb_x: 1559
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1991
-  thumb_total_height: 324
+  thumb_total_width: 2211
+  thumb_total_height: 648
 - path: WKRP in Cincinnati, Season 4.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=86c269a9
+  thumb: thumbnails_0.jpg?crc=e554277b
   thumb_x: 1775
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1991
-  thumb_total_height: 324
+  thumb_total_width: 2211
+  thumb_total_height: 648
+- path: Dynasty, Season 2.jpg
+  width: 800
+  height: 1176
+  thumb: thumbnails_0.jpg?crc=e554277b
+  thumb_x: 1991
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2211
+  thumb_total_height: 648
+- path: Dynasty.jpg
+  width: 800
+  height: 1176
+  thumb: thumbnails_0.jpg?crc=e554277b
+  thumb_y: 324
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2211
+  thumb_total_height: 648
+- path: Lou Grant, Season 5.jpg
+  width: 800
+  height: 1156
+  thumb: thumbnails_0.jpg?crc=e554277b
+  thumb_x: 220
+  thumb_y: 324
+  thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2211
+  thumb_total_height: 648
+- path: One Day at a Time, Season 7.jpg
+  width: 800
+  height: 1176
+  thumb: thumbnails_0.jpg?crc=e554277b
+  thumb_x: 444
+  thumb_y: 324
+  thumb_width: 220
+  thumb_height: 324
+  thumb_total_width: 2211
+  thumb_total_height: 648
