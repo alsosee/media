@@ -1,10 +1,10 @@
 - path: Dungeons & Dragons.png
   width: 1500
   height: 1500
-  thumb: thumbnails_0.png?crc=249f9c5e
+  thumb: thumbnails_0.png?crc=f816a43a
   thumb_width: 324
   thumb_height: 324
-  thumb_total_width: 324
+  thumb_total_width: 1658
   thumb_total_height: 324
 - path: Cyberpunk.jpg
   width: 1147
@@ -159,16 +159,6 @@
   thumb_height: 324
   thumb_total_width: 3057
   thumb_total_height: 879
-- path: Backgammon.jpg
-  width: 800
-  height: 521
-  thumb: thumbnails_0.jpg?crc=966b5d4c
-  thumb_x: 972
-  thumb_y: 648
-  thumb_width: 324
-  thumb_height: 211
-  thumb_total_width: 3057
-  thumb_total_height: 879
 - path: Blades in the Dark.jpg
   width: 800
   height: 1200
@@ -176,25 +166,6 @@
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 3057
-  thumb_total_height: 879
-- path: Call of Cthulhu.jpg
-  width: 800
-  height: 1034
-  thumb: thumbnails_0.jpg?crc=966b5d4c
-  thumb_x: 2306
-  thumb_width: 251
-  thumb_height: 324
-  thumb_total_width: 3057
-  thumb_total_height: 879
-- path: Cards Against Humanity.jpg
-  width: 800
-  height: 420
-  thumb: thumbnails_0.jpg?crc=966b5d4c
-  thumb_x: 1944
-  thumb_y: 648
-  thumb_width: 324
-  thumb_height: 170
   thumb_total_width: 3057
   thumb_total_height: 879
 - path: Chess.jpg
@@ -226,15 +197,6 @@
   thumb_height: 313
   thumb_total_width: 3057
   thumb_total_height: 879
-- path: Munchkin.jpg
-  width: 800
-  height: 1212
-  thumb: thumbnails_0.jpg?crc=966b5d4c
-  thumb_x: 1395
-  thumb_width: 214
-  thumb_height: 324
-  thumb_total_width: 3057
-  thumb_total_height: 879
 - path: Pathfinder Roleplaying Game.jpg
   width: 800
   height: 987
@@ -254,12 +216,48 @@
   thumb_height: 260
   thumb_total_width: 3057
   thumb_total_height: 879
-- path: Vampire The Masquerade.jpg
+- path: Backgammon.png
+  width: 800
+  height: 521
+  thumb: thumbnails_0.png?crc=f816a43a
+  thumb_x: 1010
+  thumb_width: 324
+  thumb_height: 211
+  thumb_total_width: 1658
+  thumb_total_height: 324
+- path: Call of Cthulhu.png
+  width: 800
+  height: 1034
+  thumb: thumbnails_0.png?crc=f816a43a
+  thumb_x: 324
+  thumb_width: 251
+  thumb_height: 324
+  thumb_total_width: 1658
+  thumb_total_height: 324
+- path: Cards Against Humanity.png
+  width: 800
+  height: 420
+  thumb: thumbnails_0.png?crc=f816a43a
+  thumb_x: 1334
+  thumb_width: 324
+  thumb_height: 170
+  thumb_total_width: 1658
+  thumb_total_height: 324
+- path: Munchkin.png
+  width: 800
+  height: 1212
+  thumb: thumbnails_0.png?crc=f816a43a
+  thumb_x: 575
+  thumb_width: 214
+  thumb_height: 324
+  thumb_total_width: 1658
+  thumb_total_height: 324
+- path: Vampire The Masquerade.png
   width: 800
   height: 1169
-  thumb: thumbnails_0.jpg?crc=966b5d4c
-  thumb_x: 1174
+  thumb: thumbnails_0.png?crc=f816a43a
+  thumb_x: 789
   thumb_width: 221
   thumb_height: 324
-  thumb_total_width: 3057
-  thumb_total_height: 879
+  thumb_total_width: 1658
+  thumb_total_height: 324
