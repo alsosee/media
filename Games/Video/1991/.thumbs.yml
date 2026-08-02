@@ -1,89 +1,98 @@
 - path: Captain Commando.jpg
   width: 800
   height: 1065
-  thumb: thumbnails_0.jpg?crc=8c5e90a8
+  thumb: thumbnails_0.jpg?crc=e68e3a31
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Sonic the Hedgehog.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=8c5e90a8
+  thumb: thumbnails_0.jpg?crc=e68e3a31
   thumb_x: 243
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Street Fighter II The World Warrior.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=8c5e90a8
+  thumb: thumbnails_0.jpg?crc=e68e3a31
   thumb_x: 486
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Streets of Rage.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=8c5e90a8
+  thumb: thumbnails_0.jpg?crc=e68e3a31
   thumb_x: 729
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Sid Meier's Civilization.jpg
   width: 800
   height: 1068
-  thumb: thumbnails_0.jpg?crc=8c5e90a8
+  thumb: thumbnails_0.jpg?crc=e68e3a31
   thumb_x: 972
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: The Legend of Zelda A Link to the Past.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=8c5e90a8
+  thumb: thumbnails_0.jpg?crc=e68e3a31
   thumb_x: 1215
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Lemmings.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=8c5e90a8
+  thumb: thumbnails_0.jpg?crc=e68e3a31
   thumb_x: 1458
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Metroid II Return of Samus.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=8c5e90a8
+  thumb: thumbnails_0.jpg?crc=e68e3a31
   thumb_x: 1701
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Final Fantasy IV.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=8c5e90a8
+  thumb: thumbnails_0.jpg?crc=e68e3a31
   thumb_x: 1944
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Monkey Island 2 LeChucks Revenge.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=8c5e90a8
+  thumb: thumbnails_0.jpg?crc=e68e3a31
   thumb_x: 2187
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 324
+  thumb_total_height: 648
+- path: Super Ghouls n Ghosts.jpg
+  width: 800
+  height: 1065
+  thumb: thumbnails_0.jpg?crc=e68e3a31
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
