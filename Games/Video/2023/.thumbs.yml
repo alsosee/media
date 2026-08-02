@@ -1,287 +1,296 @@
 - path: Baldur's Gate 3.jpg
   width: 1440
   height: 2160
-  thumb: thumbnails_0.jpg?crc=8b2bb65d
+  thumb: thumbnails_0.jpg?crc=c0093fb9
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Cyberpunk 2077 Phantom Liberty.jpeg
   width: 1200
   height: 1600
-  thumb: thumbnails_0.jpg?crc=8b2bb65d
+  thumb: thumbnails_0.jpg?crc=c0093fb9
   thumb_x: 216
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Alan Wake 2.jpg
   width: 1200
   height: 1600
-  thumb: thumbnails_0.jpg?crc=8b2bb65d
+  thumb: thumbnails_0.jpg?crc=c0093fb9
   thumb_x: 459
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Stray Gods.jpg
   width: 720
   height: 1080
-  thumb: thumbnails_0.jpg?crc=8b2bb65d
+  thumb: thumbnails_0.jpg?crc=c0093fb9
   thumb_x: 702
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Forza Motorsport.jpg
   width: 1000
   height: 1250
-  thumb: thumbnails_0.jpg?crc=8b2bb65d
+  thumb: thumbnails_0.jpg?crc=c0093fb9
   thumb_x: 918
   thumb_width: 259
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: 'The Expanse: A Telltale Series.jpg'
   width: 666
   height: 1000
-  thumb: thumbnails_0.jpg?crc=8b2bb65d
+  thumb: thumbnails_0.jpg?crc=c0093fb9
   thumb_x: 1177
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Deliver Us Mars.jpg
   width: 900
   height: 1200
-  thumb: thumbnails_0.jpg?crc=8b2bb65d
+  thumb: thumbnails_0.jpg?crc=c0093fb9
   thumb_x: 1393
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Aliens Dark Descent.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=8b2bb65d
+  thumb: thumbnails_0.jpg?crc=c0093fb9
   thumb_x: 1636
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Assassin's Creed Mirage.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=8b2bb65d
+  thumb: thumbnails_0.jpg?crc=c0093fb9
   thumb_x: 1879
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Assassin's Creed Nexus VR.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=8b2bb65d
+  thumb: thumbnails_0.jpg?crc=c0093fb9
   thumb_x: 2122
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Counter-Strike 2.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=8b2bb65d
+  thumb: thumbnails_0.jpg?crc=c0093fb9
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Cyberpunk 2077 Phantom Liberty.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=8b2bb65d
+  thumb: thumbnails_0.jpg?crc=c0093fb9
   thumb_x: 243
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Darkest Dungeon II.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=8b2bb65d
+  thumb: thumbnails_0.jpg?crc=c0093fb9
   thumb_x: 486
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Dredge.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=8b2bb65d
+  thumb: thumbnails_0.jpg?crc=c0093fb9
   thumb_x: 729
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Forza Customs.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=8b2bb65d
+  thumb: thumbnails_0.jpg?crc=c0093fb9
   thumb_x: 972
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Hello Kitty Island Adventure.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=8b2bb65d
+  thumb: thumbnails_0.jpg?crc=c0093fb9
   thumb_x: 1215
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Hi-Fi Rush.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=8b2bb65d
+  thumb: thumbnails_0.jpg?crc=c0093fb9
   thumb_x: 1458
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Jurassic Park Classic Games Collection.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=8b2bb65d
+  thumb: thumbnails_0.jpg?crc=c0093fb9
   thumb_x: 1701
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Resident Evil 4.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=8b2bb65d
+  thumb: thumbnails_0.jpg?crc=c0093fb9
   thumb_x: 1944
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: SpongeBob SquarePants The Cosmic Shake.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=8b2bb65d
+  thumb: thumbnails_0.jpg?crc=c0093fb9
   thumb_x: 2187
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: The Bookwalker Thief of Tales.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=8b2bb65d
+  thumb: thumbnails_0.jpg?crc=c0093fb9
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: The Expanse A Telltale Series.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=8b2bb65d
+  thumb: thumbnails_0.jpg?crc=c0093fb9
   thumb_x: 243
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: The Talos Principle 2.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=8b2bb65d
+  thumb: thumbnails_0.jpg?crc=c0093fb9
   thumb_x: 486
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Tomb Raider Reloaded.jpg
   width: 800
   height: 1068
-  thumb: thumbnails_0.jpg?crc=8b2bb65d
+  thumb: thumbnails_0.jpg?crc=c0093fb9
   thumb_x: 729
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Turbo Overkill.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=8b2bb65d
+  thumb: thumbnails_0.jpg?crc=c0093fb9
   thumb_x: 972
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Viewfinder.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=8b2bb65d
+  thumb: thumbnails_0.jpg?crc=c0093fb9
   thumb_x: 1215
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Warcraft Rumble.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=8b2bb65d
+  thumb: thumbnails_0.jpg?crc=c0093fb9
   thumb_x: 1458
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: The Legend of Zelda Tears of the Kingdom.jpg
   width: 800
   height: 1065
-  thumb: thumbnails_0.jpg?crc=8b2bb65d
+  thumb: thumbnails_0.jpg?crc=c0093fb9
   thumb_x: 1701
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Diablo IV.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=8b2bb65d
+  thumb: thumbnails_0.jpg?crc=c0093fb9
   thumb_x: 1944
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Final Fantasy XVI.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=8b2bb65d
+  thumb: thumbnails_0.jpg?crc=c0093fb9
   thumb_x: 2187
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
+- path: Street Fighter 6.jpg
+  width: 800
+  height: 1062
+  thumb: thumbnails_0.jpg?crc=c0093fb9
+  thumb_y: 972
+  thumb_width: 244
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 1296

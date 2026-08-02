@@ -1,89 +1,98 @@
 - path: Alien 3.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=c599788f
+  thumb: thumbnails_0.jpg?crc=502a01b
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Mortal Kombat.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=c599788f
+  thumb: thumbnails_0.jpg?crc=502a01b
   thumb_x: 243
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Sonic the Hedgehog 2.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=c599788f
+  thumb: thumbnails_0.jpg?crc=502a01b
   thumb_x: 486
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Streets of Rage 2.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=c599788f
+  thumb: thumbnails_0.jpg?crc=502a01b
   thumb_x: 729
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: The Addams Family.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=c599788f
+  thumb: thumbnails_0.jpg?crc=502a01b
   thumb_x: 972
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Undercover Cops.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=c599788f
+  thumb: thumbnails_0.jpg?crc=502a01b
   thumb_x: 1215
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Super Mario Kart.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=c599788f
+  thumb: thumbnails_0.jpg?crc=502a01b
   thumb_x: 1458
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Kirbys Dream Land.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=c599788f
+  thumb: thumbnails_0.jpg?crc=502a01b
   thumb_x: 1701
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Wolfenstein 3D.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=c599788f
+  thumb: thumbnails_0.jpg?crc=502a01b
   thumb_x: 1944
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Dragon Quest V Hand of the Heavenly Bride.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=c599788f
+  thumb: thumbnails_0.jpg?crc=502a01b
   thumb_x: 2187
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 324
+  thumb_total_height: 648
+- path: Contra III The Alien Wars.jpg
+  width: 800
+  height: 1066
+  thumb: thumbnails_0.jpg?crc=502a01b
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
