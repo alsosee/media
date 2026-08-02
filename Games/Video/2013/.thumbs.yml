@@ -364,3 +364,20 @@
   thumb_height: 324
   thumb_total_width: 2430
   thumb_total_height: 1296
+- path: Flappy Bird.png
+  width: 800
+  height: 800
+  thumb: thumbnails_0.png?crc=cbc5d884
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 648
+  thumb_total_height: 324
+- path: Plants vs. Zombies 2.png
+  width: 800
+  height: 367
+  thumb: thumbnails_0.png?crc=cbc5d884
+  thumb_x: 324
+  thumb_width: 324
+  thumb_height: 148
+  thumb_total_width: 648
+  thumb_total_height: 324

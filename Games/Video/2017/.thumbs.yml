@@ -334,3 +334,11 @@
   thumb_height: 324
   thumb_total_width: 2430
   thumb_total_height: 1296
+- path: Fire Emblem Heroes.png
+  width: 800
+  height: 800
+  thumb: thumbnails_0.png?crc=edecf562
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 324
+  thumb_total_height: 324

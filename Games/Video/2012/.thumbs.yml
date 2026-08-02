@@ -364,3 +364,11 @@
   thumb_height: 324
   thumb_total_width: 2430
   thumb_total_height: 1296
+- path: Subway Surfers.png
+  width: 800
+  height: 1421
+  thumb: thumbnails_0.png?crc=ccaafe53
+  thumb_width: 182
+  thumb_height: 324
+  thumb_total_width: 182
+  thumb_total_height: 324

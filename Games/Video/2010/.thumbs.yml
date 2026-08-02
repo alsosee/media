@@ -374,3 +374,20 @@
   thumb_height: 324
   thumb_total_width: 2430
   thumb_total_height: 1296
+- path: Cut the Rope.png
+  width: 800
+  height: 351
+  thumb: thumbnails_0.png?crc=b2475c89
+  thumb_width: 324
+  thumb_height: 142
+  thumb_total_width: 648
+  thumb_total_height: 142
+- path: Fruit Ninja.png
+  width: 800
+  height: 315
+  thumb: thumbnails_0.png?crc=b2475c89
+  thumb_x: 324
+  thumb_width: 324
+  thumb_height: 127
+  thumb_total_width: 648
+  thumb_total_height: 142
