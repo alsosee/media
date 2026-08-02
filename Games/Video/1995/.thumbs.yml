@@ -1,62 +1,71 @@
 - path: Addams Family Values.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=ad1c80ee
+  thumb: thumbnails_0.jpg?crc=7cb12366
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1701
+  thumb_total_width: 1944
   thumb_total_height: 324
 - path: Aliens A Comic Book Adventure.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=ad1c80ee
+  thumb: thumbnails_0.jpg?crc=7cb12366
   thumb_x: 243
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1701
+  thumb_total_width: 1944
   thumb_total_height: 324
 - path: Command & Conquer.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=ad1c80ee
+  thumb: thumbnails_0.jpg?crc=7cb12366
   thumb_x: 486
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1701
+  thumb_total_width: 1944
   thumb_total_height: 324
 - path: Tekken 2.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=ad1c80ee
+  thumb: thumbnails_0.jpg?crc=7cb12366
   thumb_x: 729
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1701
+  thumb_total_width: 1944
   thumb_total_height: 324
 - path: Warcraft II Tides of Darkness.jpg
   width: 800
   height: 1065
-  thumb: thumbnails_0.jpg?crc=ad1c80ee
+  thumb: thumbnails_0.jpg?crc=7cb12366
   thumb_x: 972
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1701
+  thumb_total_width: 1944
   thumb_total_height: 324
 - path: Worms.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=ad1c80ee
+  thumb: thumbnails_0.jpg?crc=7cb12366
   thumb_x: 1215
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1701
+  thumb_total_width: 1944
   thumb_total_height: 324
 - path: Chrono Trigger.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=ad1c80ee
+  thumb: thumbnails_0.jpg?crc=7cb12366
   thumb_x: 1458
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1701
+  thumb_total_width: 1944
+  thumb_total_height: 324
+- path: Super Mario World 2 Yoshis Island.jpg
+  width: 800
+  height: 1066
+  thumb: thumbnails_0.jpg?crc=7cb12366
+  thumb_x: 1701
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 1944
   thumb_total_height: 324
