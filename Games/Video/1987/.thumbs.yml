@@ -1,53 +1,89 @@
 - path: Aliens Alien 2.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=a2bc983e
+  thumb: thumbnails_0.jpg?crc=6aa408b9
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1458
+  thumb_total_width: 2430
   thumb_total_height: 324
 - path: Street Fighter.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=a2bc983e
+  thumb: thumbnails_0.jpg?crc=6aa408b9
   thumb_x: 243
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1458
+  thumb_total_width: 2430
   thumb_total_height: 324
 - path: Contra.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=a2bc983e
+  thumb: thumbnails_0.jpg?crc=6aa408b9
   thumb_x: 486
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1458
+  thumb_total_width: 2430
   thumb_total_height: 324
 - path: Final Fantasy.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=a2bc983e
+  thumb: thumbnails_0.jpg?crc=6aa408b9
   thumb_x: 729
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1458
+  thumb_total_width: 2430
   thumb_total_height: 324
 - path: Mega Man.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=a2bc983e
+  thumb: thumbnails_0.jpg?crc=6aa408b9
   thumb_x: 972
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1458
+  thumb_total_width: 2430
   thumb_total_height: 324
 - path: NetHack.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=a2bc983e
+  thumb: thumbnails_0.jpg?crc=6aa408b9
   thumb_x: 1215
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1458
+  thumb_total_width: 2430
+  thumb_total_height: 324
+- path: Double Dragon.jpg
+  width: 800
+  height: 1066
+  thumb: thumbnails_0.jpg?crc=6aa408b9
+  thumb_x: 1458
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 324
+- path: Maniac Mansion.jpg
+  width: 800
+  height: 1066
+  thumb: thumbnails_0.jpg?crc=6aa408b9
+  thumb_x: 1701
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 324
+- path: Phantasy Star.jpg
+  width: 800
+  height: 1066
+  thumb: thumbnails_0.jpg?crc=6aa408b9
+  thumb_x: 1944
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 324
+- path: R-Type.jpg
+  width: 800
+  height: 1066
+  thumb: thumbnails_0.jpg?crc=6aa408b9
+  thumb_x: 2187
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
   thumb_total_height: 324

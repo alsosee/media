@@ -1,53 +1,62 @@
 - path: Alien 3.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=346aac23
+  thumb: thumbnails_0.jpg?crc=89115ab6
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1458
+  thumb_total_width: 1701
   thumb_total_height: 324
 - path: Mortal Kombat.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=346aac23
+  thumb: thumbnails_0.jpg?crc=89115ab6
   thumb_x: 243
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1458
+  thumb_total_width: 1701
   thumb_total_height: 324
 - path: Sonic the Hedgehog 2.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=346aac23
+  thumb: thumbnails_0.jpg?crc=89115ab6
   thumb_x: 486
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1458
+  thumb_total_width: 1701
   thumb_total_height: 324
 - path: Streets of Rage 2.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=346aac23
+  thumb: thumbnails_0.jpg?crc=89115ab6
   thumb_x: 729
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1458
+  thumb_total_width: 1701
   thumb_total_height: 324
 - path: The Addams Family.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=346aac23
+  thumb: thumbnails_0.jpg?crc=89115ab6
   thumb_x: 972
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1458
+  thumb_total_width: 1701
   thumb_total_height: 324
 - path: Undercover Cops.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=346aac23
+  thumb: thumbnails_0.jpg?crc=89115ab6
   thumb_x: 1215
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1458
+  thumb_total_width: 1701
+  thumb_total_height: 324
+- path: Super Mario Kart.jpg
+  width: 800
+  height: 1066
+  thumb: thumbnails_0.jpg?crc=89115ab6
+  thumb_x: 1458
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 1701
   thumb_total_height: 324

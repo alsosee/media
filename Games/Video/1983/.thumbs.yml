@@ -1,8 +1,26 @@
 - path: Halloween.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=ab29c5fe
+  thumb: thumbnails_0.jpg?crc=395828f7
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 243
+  thumb_total_width: 729
+  thumb_total_height: 324
+- path: Dragon's Lair.jpg
+  width: 800
+  height: 1066
+  thumb: thumbnails_0.jpg?crc=395828f7
+  thumb_x: 243
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 729
+  thumb_total_height: 324
+- path: M.U.L.E.jpg
+  width: 800
+  height: 1066
+  thumb: thumbnails_0.jpg?crc=395828f7
+  thumb_x: 486
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 729
   thumb_total_height: 324
