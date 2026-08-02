@@ -1,277 +1,287 @@
 - path: John Wick Hex.jpg
   width: 600
   height: 800
-  thumb: thumbnails_0.jpg?crc=36a21b97
+  thumb: thumbnails_0.jpg?crc=f67e3678
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2430
+  thumb_total_width: 2493
   thumb_total_height: 972
 - path: Alien Blackout.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=36a21b97
+  thumb: thumbnails_0.jpg?crc=f67e3678
   thumb_x: 243
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2430
+  thumb_total_width: 2493
   thumb_total_height: 972
 - path: Apex Legends.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=36a21b97
+  thumb: thumbnails_0.jpg?crc=f67e3678
   thumb_x: 486
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2430
+  thumb_total_width: 2493
   thumb_total_height: 972
 - path: Control.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=36a21b97
+  thumb: thumbnails_0.jpg?crc=f67e3678
   thumb_x: 729
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2430
+  thumb_total_width: 2493
   thumb_total_height: 972
 - path: Disco Elysium.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=36a21b97
+  thumb: thumbnails_0.jpg?crc=f67e3678
   thumb_x: 972
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2430
+  thumb_total_width: 2493
   thumb_total_height: 972
 - path: Forza Street.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=36a21b97
+  thumb: thumbnails_0.jpg?crc=f67e3678
   thumb_x: 1215
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2430
+  thumb_total_width: 2493
   thumb_total_height: 972
 - path: Ice Age Scrat's Nutty Adventure.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=36a21b97
+  thumb: thumbnails_0.jpg?crc=f67e3678
   thumb_x: 1458
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2430
+  thumb_total_width: 2493
   thumb_total_height: 972
 - path: Manifold Garden.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=36a21b97
+  thumb: thumbnails_0.jpg?crc=f67e3678
   thumb_x: 1701
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2430
+  thumb_total_width: 2493
   thumb_total_height: 972
 - path: Need for Speed Heat.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=36a21b97
+  thumb: thumbnails_0.jpg?crc=f67e3678
   thumb_x: 1944
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2430
+  thumb_total_width: 2493
   thumb_total_height: 972
 - path: Outer Wilds.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=36a21b97
+  thumb: thumbnails_0.jpg?crc=f67e3678
   thumb_x: 2187
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2430
+  thumb_total_width: 2493
   thumb_total_height: 972
 - path: Rebel Cops.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=36a21b97
+  thumb: thumbnails_0.jpg?crc=f67e3678
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2430
+  thumb_total_width: 2493
   thumb_total_height: 972
 - path: Resident Evil 2.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=36a21b97
+  thumb: thumbnails_0.jpg?crc=f67e3678
   thumb_x: 243
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2430
+  thumb_total_width: 2493
   thumb_total_height: 972
 - path: Slay the Spire.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=36a21b97
+  thumb: thumbnails_0.jpg?crc=f67e3678
   thumb_x: 486
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2430
+  thumb_total_width: 2493
   thumb_total_height: 972
 - path: Superliminal.jpg
   width: 800
   height: 1065
-  thumb: thumbnails_0.jpg?crc=36a21b97
+  thumb: thumbnails_0.jpg?crc=f67e3678
   thumb_x: 729
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2430
+  thumb_total_width: 2493
   thumb_total_height: 972
 - path: The Addams Family Mystery Mansion.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=36a21b97
+  thumb: thumbnails_0.jpg?crc=f67e3678
   thumb_x: 972
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2430
+  thumb_total_width: 2493
   thumb_total_height: 972
 - path: The Outer Worlds.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=36a21b97
+  thumb: thumbnails_0.jpg?crc=f67e3678
   thumb_x: 1215
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2430
+  thumb_total_width: 2493
   thumb_total_height: 972
 - path: World of Warcraft Classic.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=36a21b97
+  thumb: thumbnails_0.jpg?crc=f67e3678
   thumb_x: 1458
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2430
+  thumb_total_width: 2493
   thumb_total_height: 972
 - path: Sekiro Shadows Die Twice.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=36a21b97
+  thumb: thumbnails_0.jpg?crc=f67e3678
   thumb_x: 1701
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2430
+  thumb_total_width: 2493
   thumb_total_height: 972
 - path: Pokémon Sword and Shield.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=36a21b97
+  thumb: thumbnails_0.jpg?crc=f67e3678
   thumb_x: 1944
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2430
+  thumb_total_width: 2493
   thumb_total_height: 972
 - path: Fire Emblem Three Houses.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=36a21b97
+  thumb: thumbnails_0.jpg?crc=f67e3678
   thumb_x: 2187
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2430
+  thumb_total_width: 2493
   thumb_total_height: 972
 - path: Persona 5 Royal.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=36a21b97
+  thumb: thumbnails_0.jpg?crc=f67e3678
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2430
+  thumb_total_width: 2493
   thumb_total_height: 972
 - path: Anno 1800.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=36a21b97
+  thumb: thumbnails_0.jpg?crc=f67e3678
   thumb_x: 243
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2430
+  thumb_total_width: 2493
   thumb_total_height: 972
 - path: A Short Hike.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=36a21b97
+  thumb: thumbnails_0.jpg?crc=f67e3678
   thumb_x: 486
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2430
+  thumb_total_width: 2493
   thumb_total_height: 972
 - path: Mortal Kombat 11.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=36a21b97
+  thumb: thumbnails_0.jpg?crc=f67e3678
   thumb_x: 729
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2430
+  thumb_total_width: 2493
   thumb_total_height: 972
 - path: Baba Is You.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=36a21b97
+  thumb: thumbnails_0.jpg?crc=f67e3678
   thumb_x: 972
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2430
+  thumb_total_width: 2493
   thumb_total_height: 972
 - path: Blasphemous.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=36a21b97
+  thumb: thumbnails_0.jpg?crc=f67e3678
   thumb_x: 1215
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2430
+  thumb_total_width: 2493
   thumb_total_height: 972
 - path: Star Wars Jedi Fallen Order.jpg
   width: 800
   height: 1070
-  thumb: thumbnails_0.jpg?crc=36a21b97
+  thumb: thumbnails_0.jpg?crc=f67e3678
   thumb_x: 1458
   thumb_y: 648
   thumb_width: 242
   thumb_height: 324
-  thumb_total_width: 2430
+  thumb_total_width: 2493
   thumb_total_height: 972
 - path: Sayonara Wild Hearts.jpg
   width: 800
   height: 800
-  thumb: thumbnails_0.jpg?crc=36a21b97
+  thumb: thumbnails_0.jpg?crc=f67e3678
   thumb_x: 1700
   thumb_y: 648
   thumb_width: 324
   thumb_height: 324
-  thumb_total_width: 2430
+  thumb_total_width: 2493
   thumb_total_height: 972
 - path: Planet Zoo.jpg
   width: 800
   height: 1142
-  thumb: thumbnails_0.jpg?crc=36a21b97
+  thumb: thumbnails_0.jpg?crc=f67e3678
   thumb_x: 2024
   thumb_y: 648
   thumb_width: 227
   thumb_height: 324
-  thumb_total_width: 2430
+  thumb_total_width: 2493
+  thumb_total_height: 972
+- path: Metro Exodus.jpg
+  width: 800
+  height: 1070
+  thumb: thumbnails_0.jpg?crc=f67e3678
+  thumb_x: 2251
+  thumb_y: 648
+  thumb_width: 242
+  thumb_height: 324
+  thumb_total_width: 2493
   thumb_total_height: 972
