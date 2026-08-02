@@ -1,8 +1,8 @@
 - path: The Last of Us.jpg
   width: 667
   height: 1000
-  thumb: thumbnails_0.jpg?crc=fe23677c
-  thumb_x: 729
+  thumb: thumbnails_0.jpg?crc=b279dc21
+  thumb_x: 972
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2430
@@ -10,7 +10,7 @@
 - path: AVP Evolution.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=fe23677c
+  thumb: thumbnails_0.jpg?crc=b279dc21
   thumb_x: 1701
   thumb_y: 324
   thumb_width: 243
@@ -20,7 +20,7 @@
 - path: Aliens Colonial Marines.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=fe23677c
+  thumb: thumbnails_0.jpg?crc=b279dc21
   thumb_x: 486
   thumb_width: 243
   thumb_height: 324
@@ -29,9 +29,8 @@
 - path: Assassin's Creed IV Black Flag.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=fe23677c
-  thumb_x: 1458
-  thumb_y: 324
+  thumb: thumbnails_0.jpg?crc=b279dc21
+  thumb_x: 729
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
@@ -39,8 +38,9 @@
 - path: Assassin's Creed Pirates.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=fe23677c
-  thumb_x: 945
+  thumb: thumbnails_0.jpg?crc=b279dc21
+  thumb_x: 1458
+  thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
@@ -48,7 +48,7 @@
 - path: BioShock Infinite.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=fe23677c
+  thumb: thumbnails_0.jpg?crc=b279dc21
   thumb_x: 1188
   thumb_width: 243
   thumb_height: 324
@@ -57,7 +57,7 @@
 - path: Call of Juarez Gunslinger.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=fe23677c
+  thumb: thumbnails_0.jpg?crc=b279dc21
   thumb_x: 1431
   thumb_width: 243
   thumb_height: 324
@@ -66,7 +66,7 @@
 - path: Counter-Strike Online 2.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=fe23677c
+  thumb: thumbnails_0.jpg?crc=b279dc21
   thumb_x: 243
   thumb_width: 243
   thumb_height: 324
@@ -75,7 +75,7 @@
 - path: Danmaku Unlimited 2.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=fe23677c
+  thumb: thumbnails_0.jpg?crc=b279dc21
   thumb_x: 1917
   thumb_width: 243
   thumb_height: 324
@@ -84,8 +84,9 @@
 - path: Dead Space 3.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=fe23677c
-  thumb_x: 2160
+  thumb: thumbnails_0.jpg?crc=b279dc21
+  thumb_x: 1944
+  thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
@@ -93,7 +94,7 @@
 - path: Final Fantasy XIV Online.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=fe23677c
+  thumb: thumbnails_0.jpg?crc=b279dc21
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
@@ -102,7 +103,7 @@
 - path: Forza Motorsport 5.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=fe23677c
+  thumb: thumbnails_0.jpg?crc=b279dc21
   thumb_x: 243
   thumb_y: 324
   thumb_width: 243
@@ -112,7 +113,7 @@
 - path: God of War Ascension.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=fe23677c
+  thumb: thumbnails_0.jpg?crc=b279dc21
   thumb_x: 486
   thumb_y: 324
   thumb_width: 243
@@ -122,8 +123,8 @@
 - path: Grand Theft Auto V.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=fe23677c
-  thumb_x: 1944
+  thumb: thumbnails_0.jpg?crc=b279dc21
+  thumb_x: 729
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
@@ -132,8 +133,8 @@
 - path: Lara Croft Reflections.jpg
   width: 800
   height: 451
-  thumb: thumbnails_0.jpg?crc=fe23677c
-  thumb_x: 486
+  thumb: thumbnails_0.jpg?crc=b279dc21
+  thumb_x: 729
   thumb_y: 972
   thumb_width: 324
   thumb_height: 182
@@ -142,7 +143,7 @@
 - path: Metal Gear Rising Revengeance.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=fe23677c
+  thumb: thumbnails_0.jpg?crc=b279dc21
   thumb_x: 1215
   thumb_y: 324
   thumb_width: 243
@@ -152,7 +153,7 @@
 - path: Need for Speed Rivals.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=fe23677c
+  thumb: thumbnails_0.jpg?crc=b279dc21
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
@@ -160,7 +161,7 @@
 - path: Old School RuneScape.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=fe23677c
+  thumb: thumbnails_0.jpg?crc=b279dc21
   thumb_x: 1674
   thumb_width: 243
   thumb_height: 324
@@ -169,9 +170,8 @@
 - path: Papers, Please.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=fe23677c
-  thumb_x: 729
-  thumb_y: 324
+  thumb: thumbnails_0.jpg?crc=b279dc21
+  thumb_x: 2160
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
@@ -179,7 +179,7 @@
 - path: Path of Exile.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=fe23677c
+  thumb: thumbnails_0.jpg?crc=b279dc21
   thumb_x: 2187
   thumb_y: 324
   thumb_width: 243
@@ -189,7 +189,7 @@
 - path: Payday 2.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=fe23677c
+  thumb: thumbnails_0.jpg?crc=b279dc21
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
@@ -198,7 +198,7 @@
 - path: Prince of Persia The Shadow and the Flame.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=fe23677c
+  thumb: thumbnails_0.jpg?crc=b279dc21
   thumb_x: 243
   thumb_y: 648
   thumb_width: 243
@@ -208,7 +208,7 @@
 - path: Rayman Legends.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=fe23677c
+  thumb: thumbnails_0.jpg?crc=b279dc21
   thumb_x: 486
   thumb_y: 648
   thumb_width: 243
@@ -218,7 +218,7 @@
 - path: SpongeBob SquarePants Plankton's Robotic Revenge.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=fe23677c
+  thumb: thumbnails_0.jpg?crc=b279dc21
   thumb_x: 729
   thumb_y: 648
   thumb_width: 243
@@ -228,7 +228,7 @@
 - path: StarCraft II Heart of the Swarm.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=fe23677c
+  thumb: thumbnails_0.jpg?crc=b279dc21
   thumb_x: 972
   thumb_y: 648
   thumb_width: 243
@@ -238,7 +238,7 @@
 - path: The Wolf Among Us.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=fe23677c
+  thumb: thumbnails_0.jpg?crc=b279dc21
   thumb_x: 1215
   thumb_y: 648
   thumb_width: 243
@@ -248,7 +248,7 @@
 - path: Tom Clancy's Splinter Cell Blacklist.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=fe23677c
+  thumb: thumbnails_0.jpg?crc=b279dc21
   thumb_x: 1458
   thumb_y: 648
   thumb_width: 243
@@ -258,7 +258,7 @@
 - path: Tomb Raider.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=fe23677c
+  thumb: thumbnails_0.jpg?crc=b279dc21
   thumb_x: 1701
   thumb_y: 648
   thumb_width: 243
@@ -268,7 +268,7 @@
 - path: Worms 3.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=fe23677c
+  thumb: thumbnails_0.jpg?crc=b279dc21
   thumb_x: 1944
   thumb_y: 648
   thumb_width: 243
@@ -278,7 +278,7 @@
 - path: Worms Clan Wars.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=fe23677c
+  thumb: thumbnails_0.jpg?crc=b279dc21
   thumb_x: 2187
   thumb_y: 648
   thumb_width: 243
@@ -288,7 +288,7 @@
 - path: Dota 2.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=fe23677c
+  thumb: thumbnails_0.jpg?crc=b279dc21
   thumb_y: 972
   thumb_width: 243
   thumb_height: 324
@@ -297,7 +297,7 @@
 - path: The Legend of Zelda A Link Between Worlds.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=fe23677c
+  thumb: thumbnails_0.jpg?crc=b279dc21
   thumb_x: 243
   thumb_y: 972
   thumb_width: 243
@@ -307,7 +307,17 @@
 - path: Pokémon X and Y.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=fe23677c
+  thumb: thumbnails_0.jpg?crc=b279dc21
+  thumb_x: 486
+  thumb_y: 972
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 1296
+- path: Super Mario 3D World.jpg
+  width: 800
+  height: 1065
+  thumb: thumbnails_0.jpg?crc=b279dc21
   thumb_x: 972
   thumb_y: 324
   thumb_width: 243
