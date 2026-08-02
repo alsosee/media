@@ -1,89 +1,98 @@
 - path: Addams Family Values.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=3808ab9a
+  thumb: thumbnails_0.jpg?crc=3657ebf8
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Aliens A Comic Book Adventure.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=3808ab9a
+  thumb: thumbnails_0.jpg?crc=3657ebf8
   thumb_x: 243
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Command & Conquer.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=3808ab9a
+  thumb: thumbnails_0.jpg?crc=3657ebf8
   thumb_x: 486
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Tekken 2.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=3808ab9a
+  thumb: thumbnails_0.jpg?crc=3657ebf8
   thumb_x: 729
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Warcraft II Tides of Darkness.jpg
   width: 800
   height: 1065
-  thumb: thumbnails_0.jpg?crc=3808ab9a
+  thumb: thumbnails_0.jpg?crc=3657ebf8
   thumb_x: 972
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Worms.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=3808ab9a
+  thumb: thumbnails_0.jpg?crc=3657ebf8
   thumb_x: 1215
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Chrono Trigger.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=3808ab9a
+  thumb: thumbnails_0.jpg?crc=3657ebf8
   thumb_x: 1458
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Super Mario World 2 Yoshis Island.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=3808ab9a
+  thumb: thumbnails_0.jpg?crc=3657ebf8
   thumb_x: 1701
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Donkey Kong Country 2 Diddys Kong Quest.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=3808ab9a
+  thumb: thumbnails_0.jpg?crc=3657ebf8
   thumb_x: 1944
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Full Throttle.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=3808ab9a
+  thumb: thumbnails_0.jpg?crc=3657ebf8
   thumb_x: 2187
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 324
+  thumb_total_height: 648
+- path: Clock Tower.jpg
+  width: 800
+  height: 1068
+  thumb: thumbnails_0.jpg?crc=3657ebf8
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
