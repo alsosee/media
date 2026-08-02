@@ -9,138 +9,257 @@
 - path: Cyberpunk.jpg
   width: 1147
   height: 1491
-  thumb: thumbnails_0.jpg?crc=3c3628b9
-  thumb_x: 911
+  thumb: thumbnails_0.jpg?crc=966b5d4c
+  thumb_x: 540
+  thumb_y: 324
   thumb_width: 249
   thumb_height: 324
-  thumb_total_width: 2923
-  thumb_total_height: 555
+  thumb_total_width: 3057
+  thumb_total_height: 879
 - path: The Last of Us Escape the Dark.jpg
   width: 1000
   height: 1000
-  thumb: thumbnails_0.jpg?crc=3c3628b9
-  thumb_x: 324
+  thumb: thumbnails_0.jpg?crc=966b5d4c
+  thumb_x: 1113
+  thumb_y: 324
   thumb_width: 324
   thumb_height: 324
-  thumb_total_width: 2923
-  thumb_total_height: 555
+  thumb_total_width: 3057
+  thumb_total_height: 879
 - path: Catan.jpg
   width: 800
   height: 985
-  thumb: thumbnails_0.jpg?crc=3c3628b9
+  thumb: thumbnails_0.jpg?crc=966b5d4c
   thumb_x: 648
   thumb_width: 263
   thumb_height: 324
-  thumb_total_width: 2923
-  thumb_total_height: 555
+  thumb_total_width: 3057
+  thumb_total_height: 879
 - path: Codenames.jpg
   width: 800
   height: 600
-  thumb: thumbnails_0.jpg?crc=3c3628b9
-  thumb_x: 2599
+  thumb: thumbnails_0.jpg?crc=966b5d4c
+  thumb_x: 2733
+  thumb_y: 324
   thumb_width: 324
   thumb_height: 243
-  thumb_total_width: 2923
-  thumb_total_height: 555
+  thumb_total_width: 3057
+  thumb_total_height: 879
 - path: Dominion.jpg
   width: 800
   height: 800
-  thumb: thumbnails_0.jpg?crc=3c3628b9
-  thumb_x: 1160
+  thumb: thumbnails_0.jpg?crc=966b5d4c
+  thumb_x: 324
   thumb_width: 324
   thumb_height: 324
-  thumb_total_width: 2923
-  thumb_total_height: 555
+  thumb_total_width: 3057
+  thumb_total_height: 879
 - path: Gloomhaven.jpg
   width: 800
   height: 571
-  thumb: thumbnails_0.jpg?crc=3c3628b9
-  thumb_y: 324
+  thumb: thumbnails_0.jpg?crc=966b5d4c
+  thumb_y: 648
   thumb_width: 324
   thumb_height: 231
-  thumb_total_width: 2923
-  thumb_total_height: 555
+  thumb_total_width: 3057
+  thumb_total_height: 879
 - path: Magic The Gathering.jpg
   width: 800
   height: 1117
-  thumb: thumbnails_0.jpg?crc=3c3628b9
-  thumb_x: 1484
+  thumb: thumbnails_0.jpg?crc=966b5d4c
+  thumb_x: 1609
   thumb_width: 232
   thumb_height: 324
-  thumb_total_width: 2923
-  thumb_total_height: 555
+  thumb_total_width: 3057
+  thumb_total_height: 879
 - path: Monopoly.jpg
   width: 800
   height: 425
-  thumb: thumbnails_0.jpg?crc=3c3628b9
-  thumb_x: 1296
-  thumb_y: 324
+  thumb: thumbnails_0.jpg?crc=966b5d4c
+  thumb_x: 1620
+  thumb_y: 648
   thumb_width: 324
   thumb_height: 172
-  thumb_total_width: 2923
-  thumb_total_height: 555
+  thumb_total_width: 3057
+  thumb_total_height: 879
 - path: Pandemic.jpg
   width: 800
   height: 1103
-  thumb: thumbnails_0.jpg?crc=3c3628b9
-  thumb_x: 2040
+  thumb: thumbnails_0.jpg?crc=966b5d4c
+  thumb_x: 2071
   thumb_width: 235
   thumb_height: 324
-  thumb_total_width: 2923
-  thumb_total_height: 555
+  thumb_total_width: 3057
+  thumb_total_height: 879
 - path: Risk.jpg
   width: 800
   height: 488
-  thumb: thumbnails_0.jpg?crc=3c3628b9
-  thumb_x: 972
-  thumb_y: 324
+  thumb: thumbnails_0.jpg?crc=966b5d4c
+  thumb_x: 1296
+  thumb_y: 648
   thumb_width: 324
   thumb_height: 197
-  thumb_total_width: 2923
-  thumb_total_height: 555
+  thumb_total_width: 3057
+  thumb_total_height: 879
 - path: Scrabble.jpg
   width: 800
   height: 530
-  thumb: thumbnails_0.jpg?crc=3c3628b9
+  thumb: thumbnails_0.jpg?crc=966b5d4c
   thumb_x: 648
-  thumb_y: 324
+  thumb_y: 648
   thumb_width: 324
   thumb_height: 214
-  thumb_total_width: 2923
-  thumb_total_height: 555
+  thumb_total_width: 3057
+  thumb_total_height: 879
 - path: Terraforming Mars.jpg
   width: 800
   height: 800
-  thumb: thumbnails_0.jpg?crc=3c3628b9
+  thumb: thumbnails_0.jpg?crc=966b5d4c
+  thumb_x: 216
+  thumb_y: 324
   thumb_width: 324
   thumb_height: 324
-  thumb_total_width: 2923
-  thumb_total_height: 555
+  thumb_total_width: 3057
+  thumb_total_height: 879
 - path: Ticket to Ride.jpg
   width: 800
   height: 800
-  thumb: thumbnails_0.jpg?crc=3c3628b9
-  thumb_x: 1716
+  thumb: thumbnails_0.jpg?crc=966b5d4c
   thumb_width: 324
   thumb_height: 324
-  thumb_total_width: 2923
-  thumb_total_height: 555
+  thumb_total_width: 3057
+  thumb_total_height: 879
 - path: Warhammer 40,000.jpg
   width: 800
   height: 554
-  thumb: thumbnails_0.jpg?crc=3c3628b9
+  thumb: thumbnails_0.jpg?crc=966b5d4c
   thumb_x: 324
-  thumb_y: 324
+  thumb_y: 648
   thumb_width: 324
   thumb_height: 224
-  thumb_total_width: 2923
-  thumb_total_height: 555
+  thumb_total_width: 3057
+  thumb_total_height: 879
 - path: Wingspan.jpg
   width: 800
   height: 782
-  thumb: thumbnails_0.jpg?crc=3c3628b9
-  thumb_x: 2275
+  thumb: thumbnails_0.jpg?crc=966b5d4c
+  thumb_x: 1437
+  thumb_y: 324
   thumb_width: 324
   thumb_height: 316
-  thumb_total_width: 2923
-  thumb_total_height: 555
+  thumb_total_width: 3057
+  thumb_total_height: 879
+- path: Azul.jpg
+  width: 800
+  height: 800
+  thumb: thumbnails_0.jpg?crc=966b5d4c
+  thumb_x: 789
+  thumb_y: 324
+  thumb_width: 324
+  thumb_height: 324
+  thumb_total_width: 3057
+  thumb_total_height: 879
+- path: Backgammon.jpg
+  width: 800
+  height: 521
+  thumb: thumbnails_0.jpg?crc=966b5d4c
+  thumb_x: 972
+  thumb_y: 648
+  thumb_width: 324
+  thumb_height: 211
+  thumb_total_width: 3057
+  thumb_total_height: 879
+- path: Blades in the Dark.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=966b5d4c
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 3057
+  thumb_total_height: 879
+- path: Call of Cthulhu.jpg
+  width: 800
+  height: 1034
+  thumb: thumbnails_0.jpg?crc=966b5d4c
+  thumb_x: 2306
+  thumb_width: 251
+  thumb_height: 324
+  thumb_total_width: 3057
+  thumb_total_height: 879
+- path: Cards Against Humanity.jpg
+  width: 800
+  height: 420
+  thumb: thumbnails_0.jpg?crc=966b5d4c
+  thumb_x: 1944
+  thumb_y: 648
+  thumb_width: 324
+  thumb_height: 170
+  thumb_total_width: 3057
+  thumb_total_height: 879
+- path: Chess.jpg
+  width: 800
+  height: 736
+  thumb: thumbnails_0.jpg?crc=966b5d4c
+  thumb_x: 2085
+  thumb_y: 324
+  thumb_width: 324
+  thumb_height: 298
+  thumb_total_width: 3057
+  thumb_total_height: 879
+- path: Diplomacy.jpg
+  width: 800
+  height: 1126
+  thumb: thumbnails_0.jpg?crc=966b5d4c
+  thumb_x: 1841
+  thumb_width: 230
+  thumb_height: 324
+  thumb_total_width: 3057
+  thumb_total_height: 879
+- path: Go.jpg
+  width: 800
+  height: 774
+  thumb: thumbnails_0.jpg?crc=966b5d4c
+  thumb_x: 1761
+  thumb_y: 324
+  thumb_width: 324
+  thumb_height: 313
+  thumb_total_width: 3057
+  thumb_total_height: 879
+- path: Munchkin.jpg
+  width: 800
+  height: 1212
+  thumb: thumbnails_0.jpg?crc=966b5d4c
+  thumb_x: 1395
+  thumb_width: 214
+  thumb_height: 324
+  thumb_total_width: 3057
+  thumb_total_height: 879
+- path: Pathfinder Roleplaying Game.jpg
+  width: 800
+  height: 987
+  thumb: thumbnails_0.jpg?crc=966b5d4c
+  thumb_x: 911
+  thumb_width: 263
+  thumb_height: 324
+  thumb_total_width: 3057
+  thumb_total_height: 879
+- path: Twilight Imperium.jpg
+  width: 800
+  height: 644
+  thumb: thumbnails_0.jpg?crc=966b5d4c
+  thumb_x: 2409
+  thumb_y: 324
+  thumb_width: 324
+  thumb_height: 260
+  thumb_total_width: 3057
+  thumb_total_height: 879
+- path: Vampire The Masquerade.jpg
+  width: 800
+  height: 1169
+  thumb: thumbnails_0.jpg?crc=966b5d4c
+  thumb_x: 1174
+  thumb_width: 221
+  thumb_height: 324
+  thumb_total_width: 3057
+  thumb_total_height: 879
