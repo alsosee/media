@@ -1,277 +1,296 @@
 - path: Cyberpunk 2077.jpg
   width: 1200
   height: 1600
-  thumb: thumbnails_0.jpg?crc=465c377
+  thumb: thumbnails_0.jpg?crc=d92500be
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: One-Punch Man A Hero Nobody Knows.jpg
   width: 720
   height: 1080
-  thumb: thumbnails_0.jpg?crc=465c377
+  thumb: thumbnails_0.jpg?crc=d92500be
   thumb_x: 243
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: The Last of Us Part II.jpg
   width: 720
   height: 1000
-  thumb: thumbnails_0.jpg?crc=465c377
+  thumb: thumbnails_0.jpg?crc=d92500be
   thumb_x: 459
   thumb_width: 233
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Desperados III.jpg
   width: 1200
   height: 1600
-  thumb: thumbnails_0.jpg?crc=465c377
+  thumb: thumbnails_0.jpg?crc=d92500be
   thumb_x: 692
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Assassin's Creed Valhalla.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=465c377
+  thumb: thumbnails_0.jpg?crc=d92500be
   thumb_x: 935
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Call of Duty Black Ops Cold War.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=465c377
+  thumb: thumbnails_0.jpg?crc=d92500be
   thumb_x: 1178
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Command & Conquer Remastered Collection.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=465c377
+  thumb: thumbnails_0.jpg?crc=d92500be
   thumb_x: 1421
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Doom Eternal.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=465c377
+  thumb: thumbnails_0.jpg?crc=d92500be
   thumb_x: 1664
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Hades.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=465c377
+  thumb: thumbnails_0.jpg?crc=d92500be
   thumb_x: 1907
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Half-Life Alyx.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=465c377
+  thumb: thumbnails_0.jpg?crc=d92500be
   thumb_x: 2150
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Jets'n'Guns 2.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=465c377
+  thumb: thumbnails_0.jpg?crc=d92500be
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Jurassic World Aftermath.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=465c377
+  thumb: thumbnails_0.jpg?crc=d92500be
   thumb_x: 243
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Jurassic World Evolution Complete Edition.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=465c377
+  thumb: thumbnails_0.jpg?crc=d92500be
   thumb_x: 486
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Prince of Persia The Dagger of Time.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=465c377
+  thumb: thumbnails_0.jpg?crc=d92500be
   thumb_x: 729
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Resident Evil 3.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=465c377
+  thumb: thumbnails_0.jpg?crc=d92500be
   thumb_x: 972
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: SpongeBob SquarePants Battle for Bikini Bottom - Rehydrated.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=465c377
+  thumb: thumbnails_0.jpg?crc=d92500be
   thumb_x: 1215
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: The Elder Scrolls Blades.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=465c377
+  thumb: thumbnails_0.jpg?crc=d92500be
   thumb_x: 1458
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Warcraft III Reforged.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=465c377
+  thumb: thumbnails_0.jpg?crc=d92500be
   thumb_x: 1701
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Watch Dogs Legion.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=465c377
+  thumb: thumbnails_0.jpg?crc=d92500be
   thumb_x: 1944
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: World of Warcraft Shadowlands.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=465c377
+  thumb: thumbnails_0.jpg?crc=d92500be
   thumb_x: 2187
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Worms Rumble.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=465c377
+  thumb: thumbnails_0.jpg?crc=d92500be
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Animal Crossing New Horizons.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=465c377
+  thumb: thumbnails_0.jpg?crc=d92500be
   thumb_x: 243
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Genshin Impact.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=465c377
+  thumb: thumbnails_0.jpg?crc=d92500be
   thumb_x: 486
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Valorant.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=465c377
+  thumb: thumbnails_0.jpg?crc=d92500be
   thumb_x: 729
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Factorio.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=465c377
+  thumb: thumbnails_0.jpg?crc=d92500be
   thumb_x: 972
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Crusader Kings III.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=465c377
+  thumb: thumbnails_0.jpg?crc=d92500be
   thumb_x: 1215
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Spiritfarer.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=465c377
+  thumb: thumbnails_0.jpg?crc=d92500be
   thumb_x: 1458
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Phasmophobia.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=465c377
+  thumb: thumbnails_0.jpg?crc=d92500be
   thumb_x: 1701
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Ori and the Will of the Wisps.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=465c377
+  thumb: thumbnails_0.jpg?crc=d92500be
   thumb_x: 1944
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 972
+  thumb_total_height: 1296
+- path: Microsoft Flight Simulator.jpg
+  width: 800
+  height: 1121
+  thumb: thumbnails_0.jpg?crc=d92500be
+  thumb_x: 2187
+  thumb_y: 648
+  thumb_width: 231
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 1296
+- path: SnowRunner.jpg
+  width: 800
+  height: 1118
+  thumb: thumbnails_0.jpg?crc=d92500be
+  thumb_y: 972
+  thumb_width: 232
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 1296

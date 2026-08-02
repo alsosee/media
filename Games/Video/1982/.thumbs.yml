@@ -1,17 +1,26 @@
 - path: Alien.jpg
   width: 800
   height: 500
-  thumb: thumbnails_0.jpg?crc=aab3bd47
-  thumb_x: 243
+  thumb: thumbnails_0.jpg?crc=7ce5f8
+  thumb_x: 454
   thumb_width: 324
   thumb_height: 202
-  thumb_total_width: 567
+  thumb_total_width: 778
   thumb_total_height: 324
 - path: Ms. Pac-Man.jpg
   width: 800
   height: 1065
-  thumb: thumbnails_0.jpg?crc=aab3bd47
+  thumb: thumbnails_0.jpg?crc=7ce5f8
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 567
+  thumb_total_width: 778
+  thumb_total_height: 324
+- path: Microsoft Flight Simulator.jpg
+  width: 800
+  height: 1227
+  thumb: thumbnails_0.jpg?crc=7ce5f8
+  thumb_x: 243
+  thumb_width: 211
+  thumb_height: 324
+  thumb_total_width: 778
   thumb_total_height: 324

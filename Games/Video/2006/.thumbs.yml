@@ -1,9 +1,8 @@
 - path: Aliens Extermination.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=244a13c1
-  thumb_x: 972
-  thumb_y: 648
+  thumb: thumbnails_0.jpg?crc=fec3fcb7
+  thumb_x: 469
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2431
@@ -11,8 +10,8 @@
 - path: Desperados 2 Coopers Revenge.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=244a13c1
-  thumb_x: 715
+  thumb: thumbnails_0.jpg?crc=fec3fcb7
+  thumb_x: 729
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
@@ -21,8 +20,9 @@
 - path: Half-Life 2 Episode One.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=244a13c1
-  thumb_x: 243
+  thumb: thumbnails_0.jpg?crc=fec3fcb7
+  thumb_x: 486
+  thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2431
@@ -30,9 +30,8 @@
 - path: Need for Speed Carbon.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=244a13c1
-  thumb_x: 958
-  thumb_y: 324
+  thumb: thumbnails_0.jpg?crc=fec3fcb7
+  thumb_x: 712
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2431
@@ -40,8 +39,8 @@
 - path: Saints Row.jpg
   width: 800
   height: 1068
-  thumb: thumbnails_0.jpg?crc=244a13c1
-  thumb_x: 973
+  thumb: thumbnails_0.jpg?crc=fec3fcb7
+  thumb_x: 955
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2431
@@ -49,8 +48,8 @@
 - path: SpongeBob SquarePants Creature from the Krusty Krab.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=244a13c1
-  thumb_x: 1216
+  thumb: thumbnails_0.jpg?crc=fec3fcb7
+  thumb_x: 1198
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2431
@@ -58,8 +57,8 @@
 - path: The Elder Scrolls IV Oblivion.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=244a13c1
-  thumb_x: 1459
+  thumb: thumbnails_0.jpg?crc=fec3fcb7
+  thumb_x: 1441
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2431
@@ -67,8 +66,8 @@
 - path: Tom Clancy's Splinter Cell Double Agent.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=244a13c1
-  thumb_x: 1702
+  thumb: thumbnails_0.jpg?crc=fec3fcb7
+  thumb_x: 1684
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2431
@@ -76,8 +75,8 @@
 - path: Tom Clancy's Splinter Cell Essentials.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=244a13c1
-  thumb_x: 1945
+  thumb: thumbnails_0.jpg?crc=fec3fcb7
+  thumb_x: 1927
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2431
@@ -85,8 +84,8 @@
 - path: Tomb Raider Legend.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=244a13c1
-  thumb_x: 2188
+  thumb: thumbnails_0.jpg?crc=fec3fcb7
+  thumb_x: 2170
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2431
@@ -94,7 +93,7 @@
 - path: Tomb Raider Puzzle Paradox.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=244a13c1
+  thumb: thumbnails_0.jpg?crc=fec3fcb7
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
@@ -103,7 +102,7 @@
 - path: Worms Open Warfare.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=244a13c1
+  thumb: thumbnails_0.jpg?crc=fec3fcb7
   thumb_x: 243
   thumb_y: 324
   thumb_width: 243
@@ -113,7 +112,7 @@
 - path: Wii Sports.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=244a13c1
+  thumb: thumbnails_0.jpg?crc=fec3fcb7
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2431
@@ -121,8 +120,9 @@
 - path: Okami.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=244a13c1
-  thumb_x: 486
+  thumb: thumbnails_0.jpg?crc=fec3fcb7
+  thumb_x: 973
+  thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2431
@@ -130,8 +130,9 @@
 - path: Gears of War.jpg
   width: 800
   height: 1064
-  thumb: thumbnails_0.jpg?crc=244a13c1
-  thumb_x: 729
+  thumb: thumbnails_0.jpg?crc=fec3fcb7
+  thumb_x: 243
+  thumb_y: 648
   thumb_width: 244
   thumb_height: 324
   thumb_total_width: 2431
@@ -139,8 +140,8 @@
 - path: Dwarf Fortress.jpg
   width: 800
   height: 1062
-  thumb: thumbnails_0.jpg?crc=244a13c1
-  thumb_x: 1201
+  thumb: thumbnails_0.jpg?crc=fec3fcb7
+  thumb_x: 1215
   thumb_y: 324
   thumb_width: 244
   thumb_height: 324
@@ -149,8 +150,8 @@
 - path: Roblox.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=244a13c1
-  thumb_x: 1445
+  thumb: thumbnails_0.jpg?crc=fec3fcb7
+  thumb_x: 1459
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
@@ -159,8 +160,8 @@
 - path: The Legend of Zelda Twilight Princess.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=244a13c1
-  thumb_x: 1688
+  thumb: thumbnails_0.jpg?crc=fec3fcb7
+  thumb_x: 1702
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
@@ -169,8 +170,8 @@
 - path: Pokémon Diamond and Pearl.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=244a13c1
-  thumb_x: 1931
+  thumb: thumbnails_0.jpg?crc=fec3fcb7
+  thumb_x: 1945
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
@@ -179,8 +180,8 @@
 - path: New Super Mario Bros.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=244a13c1
-  thumb_x: 2174
+  thumb: thumbnails_0.jpg?crc=fec3fcb7
+  thumb_x: 2188
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
@@ -189,7 +190,7 @@
 - path: Final Fantasy XII.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=244a13c1
+  thumb: thumbnails_0.jpg?crc=fec3fcb7
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
@@ -198,9 +199,9 @@
 - path: Company of Heroes.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=244a13c1
-  thumb_x: 243
-  thumb_y: 648
+  thumb: thumbnails_0.jpg?crc=fec3fcb7
+  thumb_x: 972
+  thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2431
@@ -208,8 +209,8 @@
 - path: Rule of Rose.jpg
   width: 800
   height: 1068
-  thumb: thumbnails_0.jpg?crc=244a13c1
-  thumb_x: 486
+  thumb: thumbnails_0.jpg?crc=fec3fcb7
+  thumb_x: 487
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
@@ -218,8 +219,8 @@
 - path: Phoenix Wright Ace Attorney - Justice for All.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=244a13c1
-  thumb_x: 729
+  thumb: thumbnails_0.jpg?crc=fec3fcb7
+  thumb_x: 730
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
@@ -228,8 +229,8 @@
 - path: Elite Beat Agents.jpg
   width: 800
   height: 719
-  thumb: thumbnails_0.jpg?crc=244a13c1
-  thumb_x: 1215
+  thumb: thumbnails_0.jpg?crc=fec3fcb7
+  thumb_x: 1445
   thumb_y: 648
   thumb_width: 324
   thumb_height: 291
@@ -238,10 +239,19 @@
 - path: Guitar Hero II.jpg
   width: 800
   height: 1132
-  thumb: thumbnails_0.jpg?crc=244a13c1
-  thumb_x: 486
-  thumb_y: 324
+  thumb: thumbnails_0.jpg?crc=fec3fcb7
+  thumb_x: 1216
+  thumb_y: 648
   thumb_width: 229
+  thumb_height: 324
+  thumb_total_width: 2431
+  thumb_total_height: 972
+- path: Microsoft Flight Simulator X.jpg
+  width: 800
+  height: 1147
+  thumb: thumbnails_0.jpg?crc=fec3fcb7
+  thumb_x: 243
+  thumb_width: 226
   thumb_height: 324
   thumb_total_width: 2431
   thumb_total_height: 972
