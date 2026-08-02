@@ -1,26 +1,44 @@
 - path: Super Mario Bros..jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=5151ded1
+  thumb: thumbnails_0.jpg?crc=f3af84c7
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 729
+  thumb_total_width: 1226
   thumb_total_height: 324
 - path: Ultima IV Quest of the Avatar.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=5151ded1
+  thumb: thumbnails_0.jpg?crc=f3af84c7
   thumb_x: 243
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 729
+  thumb_total_width: 1226
   thumb_total_height: 324
 - path: Ghosts n Goblins.jpg
   width: 800
   height: 1065
-  thumb: thumbnails_0.jpg?crc=5151ded1
+  thumb: thumbnails_0.jpg?crc=f3af84c7
   thumb_x: 486
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 729
+  thumb_total_width: 1226
+  thumb_total_height: 324
+- path: The Oregon Trail.jpg
+  width: 800
+  height: 1047
+  thumb: thumbnails_0.jpg?crc=f3af84c7
+  thumb_x: 729
+  thumb_width: 247
+  thumb_height: 324
+  thumb_total_width: 1226
+  thumb_total_height: 324
+- path: Where in the World Is Carmen Sandiego.jpg
+  width: 800
+  height: 1037
+  thumb: thumbnails_0.jpg?crc=f3af84c7
+  thumb_x: 976
+  thumb_width: 250
+  thumb_height: 324
+  thumb_total_width: 1226
   thumb_total_height: 324
