@@ -1,26 +1,35 @@
 - path: Super Mario Bros. 3.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=dc7e136e
+  thumb: thumbnails_0.jpg?crc=cb0a84f1
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 729
+  thumb_total_width: 972
   thumb_total_height: 324
 - path: Ninja Gaiden.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=dc7e136e
+  thumb: thumbnails_0.jpg?crc=cb0a84f1
   thumb_x: 243
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 729
+  thumb_total_width: 972
   thumb_total_height: 324
 - path: Super Mario Bros. 2.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=dc7e136e
+  thumb: thumbnails_0.jpg?crc=cb0a84f1
   thumb_x: 486
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 729
+  thumb_total_width: 972
+  thumb_total_height: 324
+- path: Dragon Quest III.jpg
+  width: 800
+  height: 1066
+  thumb: thumbnails_0.jpg?crc=cb0a84f1
+  thumb_x: 729
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 972
   thumb_total_height: 324

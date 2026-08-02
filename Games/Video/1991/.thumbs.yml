@@ -1,71 +1,80 @@
 - path: Captain Commando.jpg
   width: 800
   height: 1065
-  thumb: thumbnails_0.jpg?crc=7fa47f7b
+  thumb: thumbnails_0.jpg?crc=153c4d2e
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1944
+  thumb_total_width: 2187
   thumb_total_height: 324
 - path: Sonic the Hedgehog.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=7fa47f7b
+  thumb: thumbnails_0.jpg?crc=153c4d2e
   thumb_x: 243
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1944
+  thumb_total_width: 2187
   thumb_total_height: 324
 - path: Street Fighter II The World Warrior.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=7fa47f7b
+  thumb: thumbnails_0.jpg?crc=153c4d2e
   thumb_x: 486
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1944
+  thumb_total_width: 2187
   thumb_total_height: 324
 - path: Streets of Rage.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=7fa47f7b
+  thumb: thumbnails_0.jpg?crc=153c4d2e
   thumb_x: 729
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1944
+  thumb_total_width: 2187
   thumb_total_height: 324
 - path: Sid Meier's Civilization.jpg
   width: 800
   height: 1068
-  thumb: thumbnails_0.jpg?crc=7fa47f7b
+  thumb: thumbnails_0.jpg?crc=153c4d2e
   thumb_x: 972
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1944
+  thumb_total_width: 2187
   thumb_total_height: 324
 - path: The Legend of Zelda A Link to the Past.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=7fa47f7b
+  thumb: thumbnails_0.jpg?crc=153c4d2e
   thumb_x: 1215
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1944
+  thumb_total_width: 2187
   thumb_total_height: 324
 - path: Lemmings.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=7fa47f7b
+  thumb: thumbnails_0.jpg?crc=153c4d2e
   thumb_x: 1458
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1944
+  thumb_total_width: 2187
   thumb_total_height: 324
 - path: Metroid II Return of Samus.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=7fa47f7b
+  thumb: thumbnails_0.jpg?crc=153c4d2e
   thumb_x: 1701
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1944
+  thumb_total_width: 2187
+  thumb_total_height: 324
+- path: Final Fantasy IV.jpg
+  width: 800
+  height: 1066
+  thumb: thumbnails_0.jpg?crc=153c4d2e
+  thumb_x: 1944
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2187
   thumb_total_height: 324
