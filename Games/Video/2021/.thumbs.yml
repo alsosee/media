@@ -1,7 +1,7 @@
 - path: Aliens Fireteam Elite.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=71ffc32d
+  thumb: thumbnails_0.jpg?crc=7ef00dc2
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2428
@@ -9,7 +9,7 @@
 - path: Forza Horizon 5.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=71ffc32d
+  thumb: thumbnails_0.jpg?crc=7ef00dc2
   thumb_x: 243
   thumb_width: 243
   thumb_height: 324
@@ -18,7 +18,7 @@
 - path: Jurassic World Evolution 2.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=71ffc32d
+  thumb: thumbnails_0.jpg?crc=7ef00dc2
   thumb_x: 486
   thumb_width: 243
   thumb_height: 324
@@ -27,7 +27,7 @@
 - path: Marvel's Guardians of the Galaxy.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=71ffc32d
+  thumb: thumbnails_0.jpg?crc=7ef00dc2
   thumb_x: 729
   thumb_width: 243
   thumb_height: 324
@@ -36,7 +36,7 @@
 - path: Pathfinder Wrath of the Righteous.jpg
   width: 800
   height: 1072
-  thumb: thumbnails_0.jpg?crc=71ffc32d
+  thumb: thumbnails_0.jpg?crc=7ef00dc2
   thumb_x: 972
   thumb_width: 241
   thumb_height: 324
@@ -45,7 +45,7 @@
 - path: Resident Evil Village.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=71ffc32d
+  thumb: thumbnails_0.jpg?crc=7ef00dc2
   thumb_x: 1213
   thumb_width: 243
   thumb_height: 324
@@ -54,7 +54,7 @@
 - path: Returnal.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=71ffc32d
+  thumb: thumbnails_0.jpg?crc=7ef00dc2
   thumb_x: 1456
   thumb_width: 243
   thumb_height: 324
@@ -63,7 +63,7 @@
 - path: Road 96.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=71ffc32d
+  thumb: thumbnails_0.jpg?crc=7ef00dc2
   thumb_x: 1699
   thumb_width: 243
   thumb_height: 324
@@ -72,7 +72,7 @@
 - path: The Addams Family Mansion Mayhem.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=71ffc32d
+  thumb: thumbnails_0.jpg?crc=7ef00dc2
   thumb_x: 1942
   thumb_width: 243
   thumb_height: 324
@@ -81,7 +81,7 @@
 - path: The Witcher Monster Slayer.jpg
   width: 800
   height: 1065
-  thumb: thumbnails_0.jpg?crc=71ffc32d
+  thumb: thumbnails_0.jpg?crc=7ef00dc2
   thumb_x: 2185
   thumb_width: 243
   thumb_height: 324
@@ -90,7 +90,7 @@
 - path: World of Warcraft Burning Crusade Classic.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=71ffc32d
+  thumb: thumbnails_0.jpg?crc=7ef00dc2
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
@@ -99,7 +99,7 @@
 - path: Metroid Dread.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=71ffc32d
+  thumb: thumbnails_0.jpg?crc=7ef00dc2
   thumb_x: 243
   thumb_y: 324
   thumb_width: 243
@@ -109,7 +109,7 @@
 - path: Halo Infinite.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=71ffc32d
+  thumb: thumbnails_0.jpg?crc=7ef00dc2
   thumb_x: 486
   thumb_y: 324
   thumb_width: 243
@@ -119,7 +119,7 @@
 - path: Inscryption.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=71ffc32d
+  thumb: thumbnails_0.jpg?crc=7ef00dc2
   thumb_x: 729
   thumb_y: 324
   thumb_width: 243
@@ -129,7 +129,7 @@
 - path: The Forgotten City.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=71ffc32d
+  thumb: thumbnails_0.jpg?crc=7ef00dc2
   thumb_x: 972
   thumb_y: 324
   thumb_width: 243
@@ -139,8 +139,18 @@
 - path: Guilty Gear Strive.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=71ffc32d
+  thumb: thumbnails_0.jpg?crc=7ef00dc2
   thumb_x: 1215
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2428
+  thumb_total_height: 648
+- path: Monster Hunter Rise.jpg
+  width: 800
+  height: 1066
+  thumb: thumbnails_0.jpg?crc=7ef00dc2
+  thumb_x: 1458
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
