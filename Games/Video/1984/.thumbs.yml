@@ -1,26 +1,35 @@
 - path: Alien.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=6fd830d1
+  thumb: thumbnails_0.jpg?crc=216a8ada
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 729
+  thumb_total_width: 972
   thumb_total_height: 324
 - path: Tetris.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=6fd830d1
+  thumb: thumbnails_0.jpg?crc=216a8ada
   thumb_x: 243
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 729
+  thumb_total_width: 972
   thumb_total_height: 324
 - path: Elite.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=6fd830d1
+  thumb: thumbnails_0.jpg?crc=216a8ada
   thumb_x: 486
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 729
+  thumb_total_width: 972
+  thumb_total_height: 324
+- path: Excitebike.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=216a8ada
+  thumb_x: 729
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 972
   thumb_total_height: 324
