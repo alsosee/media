@@ -1,26 +1,53 @@
 - path: Donkey Kong.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=7430663f
+  thumb: thumbnails_0.jpg?crc=2dd1e4c8
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 729
+  thumb_total_width: 1458
   thumb_total_height: 324
 - path: Frogger.jpg
   width: 800
   height: 1069
-  thumb: thumbnails_0.jpg?crc=7430663f
+  thumb: thumbnails_0.jpg?crc=2dd1e4c8
   thumb_x: 243
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 729
+  thumb_total_width: 1458
   thumb_total_height: 324
 - path: Galaga.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=7430663f
+  thumb: thumbnails_0.jpg?crc=2dd1e4c8
   thumb_x: 486
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 729
+  thumb_total_width: 1458
+  thumb_total_height: 324
+- path: Centipede.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=2dd1e4c8
+  thumb_x: 729
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 1458
+  thumb_total_height: 324
+- path: Defender.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=2dd1e4c8
+  thumb_x: 972
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 1458
+  thumb_total_height: 324
+- path: Tempest.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=2dd1e4c8
+  thumb_x: 1215
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 1458
   thumb_total_height: 324

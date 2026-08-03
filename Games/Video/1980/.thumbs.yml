@@ -1,17 +1,26 @@
 - path: Pac-Man.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=3fa0fc9a
+  thumb: thumbnails_0.jpg?crc=4eaa480b
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 486
+  thumb_total_width: 729
   thumb_total_height: 324
 - path: Rogue.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=3fa0fc9a
+  thumb: thumbnails_0.jpg?crc=4eaa480b
   thumb_x: 243
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 486
+  thumb_total_width: 729
+  thumb_total_height: 324
+- path: Missile Command.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=4eaa480b
+  thumb_x: 486
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 729
   thumb_total_height: 324
