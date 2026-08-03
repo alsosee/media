@@ -1,9 +1,8 @@
 - path: Animal Well.jpg
   width: 666
   height: 1000
-  thumb: thumbnails_0.jpg?crc=bbb2ee24
-  thumb_x: 945
-  thumb_y: 324
+  thumb: thumbnails_0.jpg?crc=a9151bdf
+  thumb_x: 486
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2403
@@ -11,8 +10,8 @@
 - path: Silent Hill 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=bbb2ee24
-  thumb_x: 729
+  thumb: thumbnails_0.jpg?crc=a9151bdf
+  thumb_x: 702
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
@@ -21,8 +20,9 @@
 - path: Call of Duty Black Ops 6.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=bbb2ee24
-  thumb_x: 243
+  thumb: thumbnails_0.jpg?crc=a9151bdf
+  thumb_x: 486
+  thumb_y: 324
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2403
@@ -30,8 +30,8 @@
 - path: Balatro.jpg
   width: 1200
   height: 675
-  thumb: thumbnails_0.jpg?crc=bbb2ee24
-  thumb_x: 1161
+  thumb: thumbnails_0.jpg?crc=a9151bdf
+  thumb_x: 1404
   thumb_y: 648
   thumb_width: 324
   thumb_height: 182
@@ -40,7 +40,7 @@
 - path: Akimbot.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=bbb2ee24
+  thumb: thumbnails_0.jpg?crc=a9151bdf
   thumb_x: 945
   thumb_width: 243
   thumb_height: 324
@@ -49,7 +49,7 @@
 - path: Alien Rogue Incursion.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=bbb2ee24
+  thumb: thumbnails_0.jpg?crc=a9151bdf
   thumb_x: 1188
   thumb_width: 243
   thumb_height: 324
@@ -58,7 +58,7 @@
 - path: Berserk Boy.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=bbb2ee24
+  thumb: thumbnails_0.jpg?crc=a9151bdf
   thumb_x: 1431
   thumb_width: 243
   thumb_height: 324
@@ -67,7 +67,7 @@
 - path: Doom + Doom II.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=bbb2ee24
+  thumb: thumbnails_0.jpg?crc=a9151bdf
   thumb_x: 1674
   thumb_width: 243
   thumb_height: 324
@@ -76,7 +76,7 @@
 - path: Dystopika.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=bbb2ee24
+  thumb: thumbnails_0.jpg?crc=a9151bdf
   thumb_x: 1917
   thumb_width: 243
   thumb_height: 324
@@ -85,7 +85,7 @@
 - path: Knock on the Coffin Lid.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=bbb2ee24
+  thumb: thumbnails_0.jpg?crc=a9151bdf
   thumb_x: 2160
   thumb_width: 243
   thumb_height: 324
@@ -94,7 +94,7 @@
 - path: Mullet Madjack Deluxe Edition.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=bbb2ee24
+  thumb: thumbnails_0.jpg?crc=a9151bdf
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
@@ -103,7 +103,7 @@
 - path: Nine Sols.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=bbb2ee24
+  thumb: thumbnails_0.jpg?crc=a9151bdf
   thumb_x: 243
   thumb_y: 324
   thumb_width: 243
@@ -113,7 +113,7 @@
 - path: Prince of Persia The Lost Crown.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=bbb2ee24
+  thumb: thumbnails_0.jpg?crc=a9151bdf
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2403
@@ -121,8 +121,8 @@
 - path: SpongeBob SquarePants The Patrick Star Game.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=bbb2ee24
-  thumb_x: 459
+  thumb: thumbnails_0.jpg?crc=a9151bdf
+  thumb_x: 702
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2403
@@ -130,8 +130,9 @@
 - path: Thank Goodness You're Here!.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=bbb2ee24
-  thumb_x: 702
+  thumb: thumbnails_0.jpg?crc=a9151bdf
+  thumb_x: 243
+  thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2403
@@ -139,7 +140,7 @@
 - path: The Elder Scrolls Castles.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=bbb2ee24
+  thumb: thumbnails_0.jpg?crc=a9151bdf
   thumb_x: 1161
   thumb_y: 324
   thumb_width: 243
@@ -149,7 +150,7 @@
 - path: Tomb Raider I-III Remastered Starring Lara Croft.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=bbb2ee24
+  thumb: thumbnails_0.jpg?crc=a9151bdf
   thumb_x: 1404
   thumb_y: 324
   thumb_width: 243
@@ -159,7 +160,7 @@
 - path: UFO 50.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=bbb2ee24
+  thumb: thumbnails_0.jpg?crc=a9151bdf
   thumb_x: 1647
   thumb_y: 324
   thumb_width: 243
@@ -169,7 +170,7 @@
 - path: Warcraft I Remastered.jpg
   width: 800
   height: 1068
-  thumb: thumbnails_0.jpg?crc=bbb2ee24
+  thumb: thumbnails_0.jpg?crc=a9151bdf
   thumb_x: 1890
   thumb_y: 324
   thumb_width: 243
@@ -179,7 +180,7 @@
 - path: Warcraft II Remastered.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=bbb2ee24
+  thumb: thumbnails_0.jpg?crc=a9151bdf
   thumb_x: 2133
   thumb_y: 324
   thumb_width: 243
@@ -189,7 +190,7 @@
 - path: World of Warcraft Cataclysm Classic.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=bbb2ee24
+  thumb: thumbnails_0.jpg?crc=a9151bdf
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
@@ -198,9 +199,9 @@
 - path: World of Warcraft The War Within.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=bbb2ee24
-  thumb_x: 243
-  thumb_y: 648
+  thumb: thumbnails_0.jpg?crc=a9151bdf
+  thumb_x: 918
+  thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2403
@@ -208,7 +209,7 @@
 - path: Worms Armageddon Anniversary Edition.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=bbb2ee24
+  thumb: thumbnails_0.jpg?crc=a9151bdf
   thumb_x: 486
   thumb_y: 648
   thumb_width: 243
@@ -218,7 +219,7 @@
 - path: STALKER 2 Heart of Chornobyl.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=bbb2ee24
+  thumb: thumbnails_0.jpg?crc=a9151bdf
   thumb_x: 729
   thumb_y: 648
   thumb_width: 216
@@ -228,7 +229,7 @@
 - path: Dragons Dogma 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=bbb2ee24
+  thumb: thumbnails_0.jpg?crc=a9151bdf
   thumb_x: 945
   thumb_y: 648
   thumb_width: 216
@@ -238,9 +239,18 @@
 - path: Satisfactory.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=bbb2ee24
-  thumb_x: 486
-  thumb_y: 324
+  thumb: thumbnails_0.jpg?crc=a9151bdf
+  thumb_x: 1161
+  thumb_y: 648
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2403
+  thumb_total_height: 972
+- path: Astro Bot.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=a9151bdf
+  thumb_x: 243
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2403
