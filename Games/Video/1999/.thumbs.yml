@@ -1,366 +1,395 @@
 - path: Silent Hill.jpg
   width: 600
   height: 900
-  thumb: thumbnails_0.jpg?crc=54828d29
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Aliens versus Predator.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=54828d29
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
   thumb_x: 216
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Amerzone The Explorer's Legacy.jpg
   width: 800
   height: 1065
-  thumb: thumbnails_0.jpg?crc=54828d29
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
   thumb_x: 459
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Command & Conquer Tiberian Sun.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=54828d29
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
   thumb_x: 702
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: EverQuest.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=54828d29
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
   thumb_x: 945
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Final Fantasy VIII.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=54828d29
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
   thumb_x: 1188
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Grand Theft Auto 2.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=54828d29
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
   thumb_x: 1431
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Half-Life Opposing Force.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=54828d29
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
   thumb_x: 1674
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Need for Speed High Stakes.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=54828d29
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
   thumb_x: 1917
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Persona 2 Innocent Sin.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=54828d29
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
   thumb_x: 2160
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Prince of Persia 3D.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=54828d29
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Quake III Arena.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=54828d29
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
   thumb_x: 243
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Resident Evil 3 Nemesis.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=54828d29
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
   thumb_x: 486
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Street Fighter III 3rd Strike.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=54828d29
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
   thumb_x: 729
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Tomb Raider The Last Revelation.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=54828d29
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
   thumb_x: 972
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Tony Hawk's Pro Skater.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=54828d29
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
   thumb_x: 1215
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Vib-Ribbon.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=54828d29
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
   thumb_x: 1458
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Warpath Jurassic Park.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=54828d29
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
   thumb_x: 1701
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Worms Armageddon.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=54828d29
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
   thumb_x: 1944
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Planescape Torment.jpg
   width: 800
   height: 1065
-  thumb: thumbnails_0.jpg?crc=54828d29
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
   thumb_x: 2187
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: System Shock 2.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=54828d29
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Age of Empires II The Age of Kings.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=54828d29
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
   thumb_x: 243
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Heroes of Might and Magic III The Restoration of Erathia.jpg
   width: 800
   height: 1065
-  thumb: thumbnails_0.jpg?crc=54828d29
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
   thumb_x: 486
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: RollerCoaster Tycoon.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=54828d29
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
   thumb_x: 729
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Shenmue.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=54828d29
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
   thumb_x: 972
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Pokémon Gold and Silver.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=54828d29
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
   thumb_x: 1215
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Unreal Tournament.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=54828d29
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
   thumb_x: 1458
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Homeworld.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=54828d29
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
   thumb_x: 1701
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: The Longest Journey.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=54828d29
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
   thumb_x: 1944
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: NBA 2K.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=54828d29
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
   thumb_x: 2187
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Front Mission 3.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=54828d29
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
   thumb_y: 972
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Jagged Alliance 2.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=54828d29
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
   thumb_x: 243
   thumb_y: 972
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Ape Escape.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=54828d29
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
   thumb_x: 486
   thumb_y: 972
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Dungeon Keeper 2.jpg
   width: 800
   height: 1068
-  thumb: thumbnails_0.jpg?crc=54828d29
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
   thumb_x: 729
   thumb_y: 972
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Sid Meier's Alpha Centauri.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=54828d29
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
   thumb_x: 972
   thumb_y: 972
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Mario Golf.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=54828d29
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
   thumb_x: 1215
   thumb_y: 972
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Neopets.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=54828d29
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
   thumb_x: 1458
   thumb_y: 972
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Yu-Gi-Oh! Forbidden Memories.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=54828d29
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
   thumb_x: 1701
   thumb_y: 972
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 1296
+  thumb_total_height: 1620
+- path: ChuChu Rocket!.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
+  thumb_x: 1944
+  thumb_y: 972
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 1620
+- path: Seaman.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
+  thumb_x: 2187
+  thumb_y: 972
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 1620
+- path: Space Channel 5.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=f9e1dbc3
+  thumb_y: 1296
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 1620

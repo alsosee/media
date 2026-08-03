@@ -486,35 +486,44 @@
 - path: Burnout.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=411e92ea
+  thumb: thumbnails_1.jpg?crc=bc5be911
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 972
+  thumb_total_width: 1215
   thumb_total_height: 324
 - path: Project Gotham Racing.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=411e92ea
+  thumb: thumbnails_1.jpg?crc=bc5be911
   thumb_x: 243
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 972
+  thumb_total_width: 1215
   thumb_total_height: 324
 - path: Tom Clancy's Ghost Recon.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=411e92ea
+  thumb: thumbnails_1.jpg?crc=bc5be911
   thumb_x: 486
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 972
+  thumb_total_width: 1215
   thumb_total_height: 324
 - path: Tribes 2.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=411e92ea
+  thumb: thumbnails_1.jpg?crc=bc5be911
   thumb_x: 729
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 972
+  thumb_total_width: 1215
+  thumb_total_height: 324
+- path: Sonic Adventure 2.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_1.jpg?crc=bc5be911
+  thumb_x: 972
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 1215
   thumb_total_height: 324

@@ -1,80 +1,89 @@
 - path: Aliens The Computer Game - Activision.jpg
   width: 800
   height: 1026
-  thumb: thumbnails_0.jpg?crc=ccf95c04
+  thumb: thumbnails_0.jpg?crc=fd021a10
   thumb_width: 252
   thumb_height: 324
-  thumb_total_width: 2205
+  thumb_total_width: 2448
   thumb_total_height: 324
 - path: Aliens The Computer Game - Software Studios.jpg
   width: 800
   height: 1026
-  thumb: thumbnails_0.jpg?crc=ccf95c04
+  thumb: thumbnails_0.jpg?crc=fd021a10
   thumb_x: 252
   thumb_width: 252
   thumb_height: 324
-  thumb_total_width: 2205
+  thumb_total_width: 2448
   thumb_total_height: 324
 - path: The Legend of Zelda.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=ccf95c04
+  thumb: thumbnails_0.jpg?crc=fd021a10
   thumb_x: 504
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2205
+  thumb_total_width: 2448
   thumb_total_height: 324
 - path: Castlevania.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=ccf95c04
+  thumb: thumbnails_0.jpg?crc=fd021a10
   thumb_x: 747
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2205
+  thumb_total_width: 2448
   thumb_total_height: 324
 - path: Dragon Quest.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=ccf95c04
+  thumb: thumbnails_0.jpg?crc=fd021a10
   thumb_x: 990
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2205
+  thumb_total_width: 2448
   thumb_total_height: 324
 - path: Metroid.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=ccf95c04
+  thumb: thumbnails_0.jpg?crc=fd021a10
   thumb_x: 1233
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2205
+  thumb_total_width: 2448
   thumb_total_height: 324
 - path: Bubble Bobble.jpg
   width: 800
   height: 1068
-  thumb: thumbnails_0.jpg?crc=ccf95c04
+  thumb: thumbnails_0.jpg?crc=fd021a10
   thumb_x: 1476
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2205
+  thumb_total_width: 2448
   thumb_total_height: 324
 - path: Out Run.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=ccf95c04
+  thumb: thumbnails_0.jpg?crc=fd021a10
   thumb_x: 1719
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2205
+  thumb_total_width: 2448
   thumb_total_height: 324
 - path: Kid Icarus.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=ccf95c04
+  thumb: thumbnails_0.jpg?crc=fd021a10
   thumb_x: 1962
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2205
+  thumb_total_width: 2448
+  thumb_total_height: 324
+- path: Alex Kidd in Miracle World.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=fd021a10
+  thumb_x: 2205
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2448
   thumb_total_height: 324
