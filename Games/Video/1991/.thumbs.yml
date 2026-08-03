@@ -1,7 +1,7 @@
 - path: Captain Commando.jpg
   width: 800
   height: 1065
-  thumb: thumbnails_0.jpg?crc=b8017c43
+  thumb: thumbnails_0.jpg?crc=1966e31c
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
@@ -9,7 +9,7 @@
 - path: Sonic the Hedgehog.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=b8017c43
+  thumb: thumbnails_0.jpg?crc=1966e31c
   thumb_x: 243
   thumb_width: 243
   thumb_height: 324
@@ -18,7 +18,7 @@
 - path: Street Fighter II The World Warrior.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=b8017c43
+  thumb: thumbnails_0.jpg?crc=1966e31c
   thumb_x: 486
   thumb_width: 243
   thumb_height: 324
@@ -27,7 +27,7 @@
 - path: Streets of Rage.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=b8017c43
+  thumb: thumbnails_0.jpg?crc=1966e31c
   thumb_x: 729
   thumb_width: 243
   thumb_height: 324
@@ -36,7 +36,7 @@
 - path: Sid Meier's Civilization.jpg
   width: 800
   height: 1068
-  thumb: thumbnails_0.jpg?crc=b8017c43
+  thumb: thumbnails_0.jpg?crc=1966e31c
   thumb_x: 972
   thumb_width: 243
   thumb_height: 324
@@ -45,7 +45,7 @@
 - path: The Legend of Zelda A Link to the Past.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=b8017c43
+  thumb: thumbnails_0.jpg?crc=1966e31c
   thumb_x: 1215
   thumb_width: 243
   thumb_height: 324
@@ -54,7 +54,7 @@
 - path: Lemmings.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=b8017c43
+  thumb: thumbnails_0.jpg?crc=1966e31c
   thumb_x: 1458
   thumb_width: 243
   thumb_height: 324
@@ -63,7 +63,7 @@
 - path: Metroid II Return of Samus.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=b8017c43
+  thumb: thumbnails_0.jpg?crc=1966e31c
   thumb_x: 1701
   thumb_width: 243
   thumb_height: 324
@@ -72,7 +72,7 @@
 - path: Final Fantasy IV.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=b8017c43
+  thumb: thumbnails_0.jpg?crc=1966e31c
   thumb_x: 1944
   thumb_width: 243
   thumb_height: 324
@@ -81,7 +81,7 @@
 - path: Monkey Island 2 LeChucks Revenge.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=b8017c43
+  thumb: thumbnails_0.jpg?crc=1966e31c
   thumb_x: 2187
   thumb_width: 243
   thumb_height: 324
@@ -90,7 +90,7 @@
 - path: Super Ghouls n Ghosts.jpg
   width: 800
   height: 1065
-  thumb: thumbnails_0.jpg?crc=b8017c43
+  thumb: thumbnails_0.jpg?crc=1966e31c
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
@@ -99,7 +99,7 @@
 - path: The Simpsons Arcade Game.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=b8017c43
+  thumb: thumbnails_0.jpg?crc=1966e31c
   thumb_x: 243
   thumb_y: 324
   thumb_width: 243
@@ -109,7 +109,7 @@
 - path: Another World.jpg
   width: 800
   height: 1068
-  thumb: thumbnails_0.jpg?crc=b8017c43
+  thumb: thumbnails_0.jpg?crc=1966e31c
   thumb_x: 486
   thumb_y: 324
   thumb_width: 243
@@ -119,7 +119,7 @@
 - path: ToeJam & Earl.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=b8017c43
+  thumb: thumbnails_0.jpg?crc=1966e31c
   thumb_x: 729
   thumb_y: 324
   thumb_width: 243
@@ -129,7 +129,7 @@
 - path: FreeCell.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=b8017c43
+  thumb: thumbnails_0.jpg?crc=1966e31c
   thumb_x: 972
   thumb_y: 324
   thumb_width: 243
@@ -139,8 +139,18 @@
 - path: SkiFree.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=b8017c43
+  thumb: thumbnails_0.jpg?crc=1966e31c
   thumb_x: 1215
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: SimAnt.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=1966e31c
+  thumb_x: 1458
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
