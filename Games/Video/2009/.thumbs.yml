@@ -1,9 +1,8 @@
 - path: Assassin's Creed Bloodlines.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=cbbf709c
-  thumb_x: 1701
-  thumb_y: 324
+  thumb: thumbnails_0.jpg?crc=5998f5bb
+  thumb_x: 1942
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
@@ -11,8 +10,8 @@
 - path: Assassin's Creed II Discovery.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=cbbf709c
-  thumb_x: 1944
+  thumb: thumbnails_0.jpg?crc=5998f5bb
+  thumb_x: 2187
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
@@ -21,9 +20,8 @@
 - path: Assassin's Creed II.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=cbbf709c
-  thumb_x: 1458
-  thumb_y: 324
+  thumb: thumbnails_0.jpg?crc=5998f5bb
+  thumb_x: 486
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
@@ -31,8 +29,8 @@
 - path: Command & Conquer Red Alert 3 Commander's Challenge.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=cbbf709c
-  thumb_x: 243
+  thumb: thumbnails_0.jpg?crc=5998f5bb
+  thumb_x: 729
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
@@ -40,7 +38,7 @@
 - path: Command & Conquer Red Alert 3 Uprising.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=cbbf709c
+  thumb: thumbnails_0.jpg?crc=5998f5bb
   thumb_x: 972
   thumb_width: 243
   thumb_height: 324
@@ -49,7 +47,7 @@
 - path: Command & Conquer Red Alert.jpg
   width: 800
   height: 1072
-  thumb: thumbnails_0.jpg?crc=cbbf709c
+  thumb: thumbnails_0.jpg?crc=5998f5bb
   thumb_x: 1215
   thumb_width: 241
   thumb_height: 324
@@ -58,7 +56,7 @@
 - path: Deadly Creatures.jpg
   width: 800
   height: 1065
-  thumb: thumbnails_0.jpg?crc=cbbf709c
+  thumb: thumbnails_0.jpg?crc=5998f5bb
   thumb_x: 1456
   thumb_width: 243
   thumb_height: 324
@@ -67,7 +65,7 @@
 - path: Eat Lead The Return of Matt Hazard.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=cbbf709c
+  thumb: thumbnails_0.jpg?crc=5998f5bb
   thumb_x: 1699
   thumb_width: 243
   thumb_height: 324
@@ -76,8 +74,9 @@
 - path: Forza Motorsport 3.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=cbbf709c
-  thumb_x: 1942
+  thumb: thumbnails_0.jpg?crc=5998f5bb
+  thumb_x: 1944
+  thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
@@ -85,7 +84,7 @@
 - path: Ice Age Dawn of the Dinosaurs.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=cbbf709c
+  thumb: thumbnails_0.jpg?crc=5998f5bb
   thumb_x: 2185
   thumb_width: 243
   thumb_height: 324
@@ -94,7 +93,7 @@
 - path: League of Legends.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=cbbf709c
+  thumb: thumbnails_0.jpg?crc=5998f5bb
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
@@ -103,7 +102,7 @@
 - path: Madagascar Kartz.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=cbbf709c
+  thumb: thumbnails_0.jpg?crc=5998f5bb
   thumb_x: 243
   thumb_y: 324
   thumb_width: 243
@@ -113,7 +112,7 @@
 - path: Need for Speed Nitro.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=cbbf709c
+  thumb: thumbnails_0.jpg?crc=5998f5bb
   thumb_x: 486
   thumb_y: 324
   thumb_width: 243
@@ -123,7 +122,7 @@
 - path: Need for Speed Shift.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=cbbf709c
+  thumb: thumbnails_0.jpg?crc=5998f5bb
   thumb_x: 729
   thumb_y: 324
   thumb_width: 243
@@ -133,7 +132,7 @@
 - path: Resident Evil 5.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=cbbf709c
+  thumb: thumbnails_0.jpg?crc=5998f5bb
   thumb_x: 972
   thumb_y: 324
   thumb_width: 243
@@ -143,7 +142,7 @@
 - path: SpongeBob's Truth or Square.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=cbbf709c
+  thumb: thumbnails_0.jpg?crc=5998f5bb
   thumb_x: 1215
   thumb_y: 324
   thumb_width: 243
@@ -153,8 +152,9 @@
 - path: Wolfenstein.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=cbbf709c
-  thumb_x: 486
+  thumb: thumbnails_0.jpg?crc=5998f5bb
+  thumb_x: 1458
+  thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
@@ -162,8 +162,9 @@
 - path: Worms 2 Armageddon.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=cbbf709c
-  thumb_x: 729
+  thumb: thumbnails_0.jpg?crc=5998f5bb
+  thumb_x: 1701
+  thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
@@ -171,7 +172,7 @@
 - path: Demon's Souls.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=cbbf709c
+  thumb: thumbnails_0.jpg?crc=5998f5bb
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
@@ -179,9 +180,9 @@
 - path: Borderlands.jpg
   width: 800
   height: 1068
-  thumb: thumbnails_0.jpg?crc=cbbf709c
-  thumb_x: 2187
-  thumb_y: 324
+  thumb: thumbnails_0.jpg?crc=5998f5bb
+  thumb_x: 1461
+  thumb_y: 972
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
@@ -189,7 +190,8 @@
 - path: Dragon Age Origins.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=cbbf709c
+  thumb: thumbnails_0.jpg?crc=5998f5bb
+  thumb_x: 1215
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
@@ -198,7 +200,7 @@
 - path: Call of Duty Modern Warfare 2.jpg
   width: 800
   height: 1065
-  thumb: thumbnails_0.jpg?crc=cbbf709c
+  thumb: thumbnails_0.jpg?crc=5998f5bb
   thumb_x: 243
   thumb_y: 648
   thumb_width: 243
@@ -208,7 +210,7 @@
 - path: Left 4 Dead 2.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=cbbf709c
+  thumb: thumbnails_0.jpg?crc=5998f5bb
   thumb_x: 486
   thumb_y: 648
   thumb_width: 243
@@ -218,7 +220,7 @@
 - path: The Legend of Zelda Spirit Tracks.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=cbbf709c
+  thumb: thumbnails_0.jpg?crc=5998f5bb
   thumb_x: 729
   thumb_y: 648
   thumb_width: 243
@@ -228,7 +230,7 @@
 - path: Anno 1404.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=cbbf709c
+  thumb: thumbnails_0.jpg?crc=5998f5bb
   thumb_x: 972
   thumb_y: 648
   thumb_width: 243
@@ -238,8 +240,7 @@
 - path: The Sims 3.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=cbbf709c
-  thumb_x: 1215
+  thumb: thumbnails_0.jpg?crc=5998f5bb
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
@@ -248,7 +249,7 @@
 - path: Steins;Gate.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=cbbf709c
+  thumb: thumbnails_0.jpg?crc=5998f5bb
   thumb_x: 1458
   thumb_y: 648
   thumb_width: 243
@@ -258,7 +259,7 @@
 - path: Zero Escape Nine Hours Nine Persons Nine Doors.jpg
   width: 800
   height: 1065
-  thumb: thumbnails_0.jpg?crc=cbbf709c
+  thumb: thumbnails_0.jpg?crc=5998f5bb
   thumb_x: 1701
   thumb_y: 648
   thumb_width: 243
@@ -285,8 +286,8 @@
 - path: Words with Friends.jpg
   width: 800
   height: 296
-  thumb: thumbnails_0.jpg?crc=cbbf709c
-  thumb_x: 1218
+  thumb: thumbnails_0.jpg?crc=5998f5bb
+  thumb_x: 1704
   thumb_y: 972
   thumb_width: 324
   thumb_height: 119
@@ -295,7 +296,7 @@
 - path: Batman Arkham Asylum.jpg
   width: 800
   height: 1121
-  thumb: thumbnails_0.jpg?crc=cbbf709c
+  thumb: thumbnails_0.jpg?crc=5998f5bb
   thumb_x: 2187
   thumb_y: 648
   thumb_width: 231
@@ -305,7 +306,7 @@
 - path: Just Dance.jpg
   width: 800
   height: 1129
-  thumb: thumbnails_0.jpg?crc=cbbf709c
+  thumb: thumbnails_0.jpg?crc=5998f5bb
   thumb_y: 972
   thumb_width: 229
   thumb_height: 324
@@ -314,7 +315,7 @@
 - path: Killzone 2.jpg
   width: 800
   height: 920
-  thumb: thumbnails_0.jpg?crc=cbbf709c
+  thumb: thumbnails_0.jpg?crc=5998f5bb
   thumb_x: 229
   thumb_y: 972
   thumb_width: 282
@@ -324,7 +325,7 @@
 - path: STALKER Call of Pripyat.jpg
   width: 800
   height: 1171
-  thumb: thumbnails_0.jpg?crc=cbbf709c
+  thumb: thumbnails_0.jpg?crc=5998f5bb
   thumb_x: 511
   thumb_y: 972
   thumb_width: 221
@@ -334,7 +335,7 @@
 - path: Canabalt.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=cbbf709c
+  thumb: thumbnails_0.jpg?crc=5998f5bb
   thumb_x: 732
   thumb_y: 972
   thumb_width: 243
@@ -344,7 +345,7 @@
 - path: Ghostbusters The Video Game.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=cbbf709c
+  thumb: thumbnails_0.jpg?crc=5998f5bb
   thumb_x: 975
   thumb_y: 972
   thumb_width: 243
@@ -354,7 +355,26 @@
 - path: X-Men Origins Wolverine.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=cbbf709c
+  thumb: thumbnails_0.jpg?crc=5998f5bb
+  thumb_x: 1218
+  thumb_y: 972
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 1296
+- path: 50 Cent Blood on the Sand.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=5998f5bb
+  thumb_x: 243
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 1296
+- path: Brutal Legend.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=5998f5bb
   thumb_x: 1944
   thumb_y: 648
   thumb_width: 243

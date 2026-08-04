@@ -486,17 +486,35 @@
 - path: Ultimate Spider-Man.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=d1fea557
+  thumb: thumbnails_1.jpg?crc=e901f344
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 486
+  thumb_total_width: 972
   thumb_total_height: 324
 - path: Call of Cthulhu Dark Corners of the Earth.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=d1fea557
+  thumb: thumbnails_1.jpg?crc=e901f344
   thumb_x: 243
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 486
+  thumb_total_width: 972
+  thumb_total_height: 324
+- path: 50 Cent Bulletproof.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_1.jpg?crc=e901f344
+  thumb_x: 486
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 972
+  thumb_total_height: 324
+- path: Tony Hawk's American Wasteland.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_1.jpg?crc=e901f344
+  thumb_x: 729
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 972
   thumb_total_height: 324

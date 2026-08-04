@@ -1,386 +1,405 @@
 - path: Silent Hill 3.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=13127e77
+  thumb: thumbnails_0.jpg?crc=47caa518
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2436
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Aliens versus Predator Extinction.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=13127e77
+  thumb: thumbnails_0.jpg?crc=47caa518
   thumb_x: 216
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2436
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Command & Conquer Generals Zero Hour.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=13127e77
+  thumb: thumbnails_0.jpg?crc=47caa518
   thumb_x: 459
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2436
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Command & Conquer Generals.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=13127e77
+  thumb: thumbnails_0.jpg?crc=47caa518
   thumb_x: 702
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2436
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Counter-Strike Neo.jpg
   width: 800
   height: 1068
-  thumb: thumbnails_0.jpg?crc=13127e77
+  thumb: thumbnails_0.jpg?crc=47caa518
   thumb_x: 945
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2436
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Devil May Cry 2.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=13127e77
+  thumb: thumbnails_0.jpg?crc=47caa518
   thumb_x: 1188
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2436
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Jurassic Park Institute Tour Dinosaur Rescue.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=13127e77
+  thumb: thumbnails_0.jpg?crc=47caa518
   thumb_x: 1431
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2436
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Jurassic Park Operation Genesis.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=13127e77
+  thumb: thumbnails_0.jpg?crc=47caa518
   thumb_x: 1674
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2436
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Max Payne 2 The Fall of Max Payne.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=13127e77
+  thumb: thumbnails_0.jpg?crc=47caa518
   thumb_x: 1917
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2436
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Need for Speed Underground.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=13127e77
+  thumb: thumbnails_0.jpg?crc=47caa518
   thumb_x: 2160
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2436
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Prince of Persia The Sands of Time.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=13127e77
+  thumb: thumbnails_0.jpg?crc=47caa518
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2436
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: SpongeBob SquarePants Battle for Bikini Bottom.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=13127e77
+  thumb: thumbnails_0.jpg?crc=47caa518
   thumb_x: 243
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2436
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: The Elder Scrolls Travels Stormhold.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=13127e77
+  thumb: thumbnails_0.jpg?crc=47caa518
   thumb_x: 486
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2436
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Tomb Raider The Angel of Darkness.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=13127e77
+  thumb: thumbnails_0.jpg?crc=47caa518
   thumb_x: 729
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2436
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Tomb Raider The Osiris Codex.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=13127e77
+  thumb: thumbnails_0.jpg?crc=47caa518
   thumb_x: 972
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2436
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Warcraft III The Frozen Throne.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=13127e77
+  thumb: thumbnails_0.jpg?crc=47caa518
   thumb_x: 1215
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2436
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Worms 3D.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=13127e77
+  thumb: thumbnails_0.jpg?crc=47caa518
   thumb_x: 1458
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2436
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: XIII.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=13127e77
+  thumb: thumbnails_0.jpg?crc=47caa518
   thumb_x: 1701
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2436
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Star Wars Knights of the Old Republic.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=13127e77
+  thumb: thumbnails_0.jpg?crc=47caa518
   thumb_x: 1944
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2436
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Call of Duty.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=13127e77
+  thumb: thumbnails_0.jpg?crc=47caa518
   thumb_x: 2187
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2436
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Mario Kart Double Dash!!.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=13127e77
+  thumb: thumbnails_0.jpg?crc=47caa518
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2436
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Shin Megami Tensei III Nocturne.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=13127e77
+  thumb: thumbnails_0.jpg?crc=47caa518
   thumb_x: 243
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2436
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Rise of Nations.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=13127e77
+  thumb: thumbnails_0.jpg?crc=47caa518
   thumb_x: 486
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2436
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Fatal Frame II Crimson Butterfly.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=13127e77
+  thumb: thumbnails_0.jpg?crc=47caa518
   thumb_x: 729
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2436
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: EVE Online.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=13127e77
+  thumb: thumbnails_0.jpg?crc=47caa518
   thumb_x: 972
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2436
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Madden NFL 2004.jpg
   width: 800
   height: 1065
-  thumb: thumbnails_0.jpg?crc=13127e77
+  thumb: thumbnails_0.jpg?crc=47caa518
   thumb_x: 1215
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2436
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: MapleStory.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=13127e77
+  thumb: thumbnails_0.jpg?crc=47caa518
   thumb_x: 1458
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2436
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Tony Hawk's Underground.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=13127e77
+  thumb: thumbnails_0.jpg?crc=47caa518
   thumb_x: 1701
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2436
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Advance Wars 2 Black Hole Rising.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=13127e77
+  thumb: thumbnails_0.jpg?crc=47caa518
   thumb_x: 1944
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2436
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: The Simpsons Hit & Run.jpg
   width: 800
   height: 1040
-  thumb: thumbnails_0.jpg?crc=13127e77
+  thumb: thumbnails_0.jpg?crc=47caa518
   thumb_x: 2187
   thumb_y: 648
   thumb_width: 249
   thumb_height: 324
   thumb_total_width: 2436
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Drakengard.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=13127e77
+  thumb: thumbnails_0.jpg?crc=47caa518
   thumb_y: 972
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2436
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Viewtiful Joe.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=13127e77
+  thumb: thumbnails_0.jpg?crc=47caa518
   thumb_x: 243
   thumb_y: 972
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2436
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Project Gotham Racing 2.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=13127e77
+  thumb: thumbnails_0.jpg?crc=47caa518
   thumb_x: 486
   thumb_y: 972
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2436
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: PlanetSide.jpg
   width: 772
   height: 1080
-  thumb: thumbnails_0.jpg?crc=13127e77
+  thumb: thumbnails_0.jpg?crc=47caa518
   thumb_x: 729
   thumb_y: 972
   thumb_width: 231
   thumb_height: 324
   thumb_total_width: 2436
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Tom Clancy's Rainbow Six 3 Raven Shield.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=13127e77
+  thumb: thumbnails_0.jpg?crc=47caa518
   thumb_x: 960
   thumb_y: 972
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2436
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Wolfenstein Enemy Territory.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=13127e77
+  thumb: thumbnails_0.jpg?crc=47caa518
   thumb_x: 1203
   thumb_y: 972
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2436
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Kingdom of Loathing.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=13127e77
+  thumb: thumbnails_0.jpg?crc=47caa518
   thumb_x: 1446
   thumb_y: 972
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2436
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Finding Nemo.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=13127e77
+  thumb: thumbnails_0.jpg?crc=47caa518
   thumb_x: 1689
   thumb_y: 972
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2436
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Enter the Matrix.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=13127e77
+  thumb: thumbnails_0.jpg?crc=47caa518
   thumb_x: 1932
   thumb_y: 972
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2436
-  thumb_total_height: 1296
+  thumb_total_height: 1620
 - path: Harry Potter Quidditch World Cup.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=13127e77
+  thumb: thumbnails_0.jpg?crc=47caa518
   thumb_x: 2175
   thumb_y: 972
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2436
-  thumb_total_height: 1296
+  thumb_total_height: 1620
+- path: Def Jam Vendetta.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=47caa518
+  thumb_y: 1296
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2436
+  thumb_total_height: 1620
+- path: WWE SmackDown! Here Comes the Pain.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=47caa518
+  thumb_x: 243
+  thumb_y: 1296
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2436
+  thumb_total_height: 1620

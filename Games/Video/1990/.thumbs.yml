@@ -1,89 +1,98 @@
 - path: Aliens.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=8afda197
+  thumb: thumbnails_0.jpg?crc=de127646
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Super Mario World.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=8afda197
+  thumb: thumbnails_0.jpg?crc=de127646
   thumb_x: 243
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: The Secret of Monkey Island.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=8afda197
+  thumb: thumbnails_0.jpg?crc=de127646
   thumb_x: 486
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Dr. Mario.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=8afda197
+  thumb: thumbnails_0.jpg?crc=de127646
   thumb_x: 729
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Smash TV.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=8afda197
+  thumb: thumbnails_0.jpg?crc=de127646
   thumb_x: 972
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: ActRaiser.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=8afda197
+  thumb: thumbnails_0.jpg?crc=de127646
   thumb_x: 1215
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Pilotwings.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=8afda197
+  thumb: thumbnails_0.jpg?crc=de127646
   thumb_x: 1458
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Microsoft Solitaire.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=8afda197
+  thumb: thumbnails_0.jpg?crc=de127646
   thumb_x: 1701
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Minesweeper.jpg
   width: 800
   height: 1065
-  thumb: thumbnails_0.jpg?crc=8afda197
+  thumb: thumbnails_0.jpg?crc=de127646
   thumb_x: 1944
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: SimEarth.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=8afda197
+  thumb: thumbnails_0.jpg?crc=de127646
   thumb_x: 2187
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
-  thumb_total_height: 324
+  thumb_total_height: 648
+- path: Michael Jackson's Moonwalker.jpg
+  width: 800
+  height: 1068
+  thumb: thumbnails_0.jpg?crc=de127646
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
