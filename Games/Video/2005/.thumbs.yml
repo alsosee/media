@@ -486,8 +486,17 @@
 - path: Ultimate Spider-Man.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=55ee5a4b
+  thumb: thumbnails_1.jpg?crc=d1fea557
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 243
+  thumb_total_width: 486
+  thumb_total_height: 324
+- path: Call of Cthulhu Dark Corners of the Earth.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_1.jpg?crc=d1fea557
+  thumb_x: 243
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 486
   thumb_total_height: 324
