@@ -1,44 +1,53 @@
 - path: Super Mario Bros. 3.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=2612be74
+  thumb: thumbnails_0.jpg?crc=51da464f
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1216
+  thumb_total_width: 1459
   thumb_total_height: 324
 - path: Ninja Gaiden.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=2612be74
+  thumb: thumbnails_0.jpg?crc=51da464f
   thumb_x: 243
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1216
+  thumb_total_width: 1459
   thumb_total_height: 324
 - path: Super Mario Bros. 2.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=2612be74
+  thumb: thumbnails_0.jpg?crc=51da464f
   thumb_x: 486
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1216
+  thumb_total_width: 1459
   thumb_total_height: 324
 - path: Dragon Quest III.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=2612be74
+  thumb: thumbnails_0.jpg?crc=51da464f
   thumb_x: 729
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1216
+  thumb_total_width: 1459
   thumb_total_height: 324
 - path: Akira.jpg
   width: 800
   height: 1060
-  thumb: thumbnails_0.jpg?crc=2612be74
+  thumb: thumbnails_0.jpg?crc=51da464f
   thumb_x: 972
   thumb_width: 244
   thumb_height: 324
-  thumb_total_width: 1216
+  thumb_total_width: 1459
+  thumb_total_height: 324
+- path: Snatcher.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=51da464f
+  thumb_x: 1216
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 1459
   thumb_total_height: 324

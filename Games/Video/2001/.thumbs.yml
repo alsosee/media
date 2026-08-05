@@ -486,7 +486,7 @@
 - path: Burnout.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=716ba5c0
+  thumb: thumbnails_1.jpg?crc=fcce70e
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
@@ -494,7 +494,7 @@
 - path: Project Gotham Racing.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=716ba5c0
+  thumb: thumbnails_1.jpg?crc=fcce70e
   thumb_x: 243
   thumb_width: 243
   thumb_height: 324
@@ -503,7 +503,7 @@
 - path: Tom Clancy's Ghost Recon.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=716ba5c0
+  thumb: thumbnails_1.jpg?crc=fcce70e
   thumb_x: 486
   thumb_width: 243
   thumb_height: 324
@@ -512,7 +512,7 @@
 - path: Tribes 2.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=716ba5c0
+  thumb: thumbnails_1.jpg?crc=fcce70e
   thumb_x: 729
   thumb_width: 243
   thumb_height: 324
@@ -521,7 +521,7 @@
 - path: Sonic Adventure 2.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=716ba5c0
+  thumb: thumbnails_1.jpg?crc=fcce70e
   thumb_x: 972
   thumb_width: 243
   thumb_height: 324
@@ -530,7 +530,7 @@
 - path: Gitaroo Man.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=716ba5c0
+  thumb: thumbnails_1.jpg?crc=fcce70e
   thumb_x: 1215
   thumb_width: 243
   thumb_height: 324
@@ -539,7 +539,7 @@
 - path: Mister Mosquito.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=716ba5c0
+  thumb: thumbnails_1.jpg?crc=fcce70e
   thumb_x: 1458
   thumb_width: 243
   thumb_height: 324
@@ -548,7 +548,7 @@
 - path: Harry Potter and the Philosopher's Stone.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=716ba5c0
+  thumb: thumbnails_1.jpg?crc=fcce70e
   thumb_x: 1701
   thumb_width: 243
   thumb_height: 324
@@ -557,7 +557,7 @@
 - path: Clive Barker's Undying.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=716ba5c0
+  thumb: thumbnails_1.jpg?crc=fcce70e
   thumb_x: 1944
   thumb_width: 243
   thumb_height: 324
@@ -566,7 +566,7 @@
 - path: Emperor Battle for Dune.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=716ba5c0
+  thumb: thumbnails_1.jpg?crc=fcce70e
   thumb_x: 2187
   thumb_width: 243
   thumb_height: 324
@@ -575,7 +575,17 @@
 - path: Mobile Suit Gundam Zeonic Front.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=716ba5c0
+  thumb: thumbnails_1.jpg?crc=fcce70e
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: Zone of the Enders.jpg
+  width: 800
+  height: 1068
+  thumb: thumbnails_1.jpg?crc=fcce70e
+  thumb_x: 243
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
