@@ -483,3 +483,11 @@
   thumb_height: 324
   thumb_total_width: 2511
   thumb_total_height: 1620
+- path: Bleach The Blade of Fate.jpg
+  width: 800
+  height: 1065
+  thumb: thumbnails_1.jpg?crc=8703fb64
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 243
+  thumb_total_height: 324

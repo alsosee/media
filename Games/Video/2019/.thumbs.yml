@@ -483,3 +483,11 @@
   thumb_height: 324
   thumb_total_width: 2493
   thumb_total_height: 1620
+- path: One Piece World Seeker.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_1.jpg?crc=97e22d41
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 243
+  thumb_total_height: 324
