@@ -512,8 +512,17 @@
 - path: Star Trek Online.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=bf2b2c5d
+  thumb: thumbnails_1.jpg?crc=c95b520e
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 243
+  thumb_total_width: 486
+  thumb_total_height: 324
+- path: Dante's Inferno.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_1.jpg?crc=c95b520e
+  thumb_x: 243
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 486
   thumb_total_height: 324
