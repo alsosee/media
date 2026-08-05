@@ -1,71 +1,80 @@
 - path: Alien.jpg
   width: 800
   height: 500
-  thumb: thumbnails_0.jpg?crc=7a1c74ce
-  thumb_x: 1669
+  thumb: thumbnails_0.jpg?crc=d5966ad7
+  thumb_x: 1912
   thumb_width: 324
   thumb_height: 202
-  thumb_total_width: 1993
+  thumb_total_width: 2236
   thumb_total_height: 324
 - path: Ms. Pac-Man.jpg
   width: 800
   height: 1065
-  thumb: thumbnails_0.jpg?crc=7a1c74ce
+  thumb: thumbnails_0.jpg?crc=d5966ad7
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1993
+  thumb_total_width: 2236
   thumb_total_height: 324
 - path: Microsoft Flight Simulator.jpg
   width: 800
   height: 1227
-  thumb: thumbnails_0.jpg?crc=7a1c74ce
+  thumb: thumbnails_0.jpg?crc=d5966ad7
   thumb_x: 243
   thumb_width: 211
   thumb_height: 324
-  thumb_total_width: 1993
+  thumb_total_width: 2236
   thumb_total_height: 324
 - path: BurgerTime.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=7a1c74ce
+  thumb: thumbnails_0.jpg?crc=d5966ad7
   thumb_x: 454
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1993
+  thumb_total_width: 2236
   thumb_total_height: 324
 - path: Dig Dug.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=7a1c74ce
+  thumb: thumbnails_0.jpg?crc=d5966ad7
   thumb_x: 697
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1993
+  thumb_total_width: 2236
   thumb_total_height: 324
 - path: Joust.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=7a1c74ce
+  thumb: thumbnails_0.jpg?crc=d5966ad7
   thumb_x: 940
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1993
+  thumb_total_width: 2236
   thumb_total_height: 324
 - path: Qbert.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=7a1c74ce
+  thumb: thumbnails_0.jpg?crc=d5966ad7
   thumb_x: 1183
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1993
+  thumb_total_width: 2236
   thumb_total_height: 324
 - path: Robotron 2084.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=7a1c74ce
+  thumb: thumbnails_0.jpg?crc=d5966ad7
   thumb_x: 1426
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1993
+  thumb_total_width: 2236
+  thumb_total_height: 324
+- path: E.T. the Extra-Terrestrial.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=d5966ad7
+  thumb_x: 1669
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2236
   thumb_total_height: 324

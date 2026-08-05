@@ -1,7 +1,7 @@
 - path: Fester's Quest.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=77f172eb
+  thumb: thumbnails_0.jpg?crc=f6ba5d86
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
@@ -9,7 +9,7 @@
 - path: Final Fight.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=77f172eb
+  thumb: thumbnails_0.jpg?crc=f6ba5d86
   thumb_x: 243
   thumb_width: 243
   thumb_height: 324
@@ -18,7 +18,7 @@
 - path: Friday the 13th.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=77f172eb
+  thumb: thumbnails_0.jpg?crc=f6ba5d86
   thumb_x: 486
   thumb_width: 243
   thumb_height: 324
@@ -27,7 +27,7 @@
 - path: Prince of Persia.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=77f172eb
+  thumb: thumbnails_0.jpg?crc=f6ba5d86
   thumb_x: 729
   thumb_width: 243
   thumb_height: 324
@@ -36,7 +36,7 @@
 - path: SimCity.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=77f172eb
+  thumb: thumbnails_0.jpg?crc=f6ba5d86
   thumb_x: 972
   thumb_width: 243
   thumb_height: 324
@@ -45,7 +45,7 @@
 - path: Populous.jpg
   width: 800
   height: 1068
-  thumb: thumbnails_0.jpg?crc=77f172eb
+  thumb: thumbnails_0.jpg?crc=f6ba5d86
   thumb_x: 1215
   thumb_width: 243
   thumb_height: 324
@@ -54,7 +54,7 @@
 - path: Wonder Boy III The Dragons Trap.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=77f172eb
+  thumb: thumbnails_0.jpg?crc=f6ba5d86
   thumb_x: 1458
   thumb_width: 243
   thumb_height: 324
@@ -63,7 +63,7 @@
 - path: Teenage Mutant Ninja Turtles.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=77f172eb
+  thumb: thumbnails_0.jpg?crc=f6ba5d86
   thumb_x: 1701
   thumb_width: 243
   thumb_height: 324
@@ -72,7 +72,7 @@
 - path: Chip's Challenge.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=77f172eb
+  thumb: thumbnails_0.jpg?crc=f6ba5d86
   thumb_x: 1944
   thumb_width: 243
   thumb_height: 324
@@ -81,7 +81,7 @@
 - path: Bonk's Adventure.jpg
   width: 800
   height: 1065
-  thumb: thumbnails_0.jpg?crc=77f172eb
+  thumb: thumbnails_0.jpg?crc=f6ba5d86
   thumb_x: 2187
   thumb_width: 243
   thumb_height: 324
@@ -90,7 +90,7 @@
 - path: Herzog Zwei.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=77f172eb
+  thumb: thumbnails_0.jpg?crc=f6ba5d86
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
@@ -99,8 +99,18 @@
 - path: Disney's DuckTales.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=77f172eb
+  thumb: thumbnails_0.jpg?crc=f6ba5d86
   thumb_x: 243
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: Who Framed Roger Rabbit.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=f6ba5d86
+  thumb_x: 486
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324

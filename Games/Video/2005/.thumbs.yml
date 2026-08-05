@@ -486,62 +486,71 @@
 - path: Ultimate Spider-Man.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=77430d00
+  thumb: thumbnails_1.jpg?crc=d18d2124
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1701
+  thumb_total_width: 1944
   thumb_total_height: 324
 - path: Call of Cthulhu Dark Corners of the Earth.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=77430d00
+  thumb: thumbnails_1.jpg?crc=d18d2124
   thumb_x: 243
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1701
+  thumb_total_width: 1944
   thumb_total_height: 324
 - path: 50 Cent Bulletproof.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=77430d00
+  thumb: thumbnails_1.jpg?crc=d18d2124
   thumb_x: 486
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1701
+  thumb_total_width: 1944
   thumb_total_height: 324
 - path: Tony Hawk's American Wasteland.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=77430d00
+  thumb: thumbnails_1.jpg?crc=d18d2124
   thumb_x: 729
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1701
+  thumb_total_width: 1944
   thumb_total_height: 324
 - path: Agatha Christie And Then There Were None.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=77430d00
+  thumb: thumbnails_1.jpg?crc=d18d2124
   thumb_x: 972
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1701
+  thumb_total_width: 1944
   thumb_total_height: 324
 - path: The Movies.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=77430d00
+  thumb: thumbnails_1.jpg?crc=d18d2124
   thumb_x: 1215
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1701
+  thumb_total_width: 1944
   thumb_total_height: 324
 - path: Kingdom Hearts II.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=77430d00
+  thumb: thumbnails_1.jpg?crc=d18d2124
   thumb_x: 1458
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 1701
+  thumb_total_width: 1944
+  thumb_total_height: 324
+- path: Predator Concrete Jungle.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_1.jpg?crc=d18d2124
+  thumb_x: 1701
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 1944
   thumb_total_height: 324
