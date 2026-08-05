@@ -503,26 +503,44 @@
 - path: JoJo's Bizarre Adventure All Star Battle.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=968d02b1
+  thumb: thumbnails_1.jpg?crc=e607cc3e
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 729
+  thumb_total_width: 1215
   thumb_total_height: 324
 - path: Lego City Undercover.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=968d02b1
+  thumb: thumbnails_1.jpg?crc=e607cc3e
   thumb_x: 243
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 729
+  thumb_total_width: 1215
   thumb_total_height: 324
 - path: Call of Duty Ghosts.jpg
   width: 800
   height: 1065
-  thumb: thumbnails_1.jpg?crc=968d02b1
+  thumb: thumbnails_1.jpg?crc=e607cc3e
   thumb_x: 486
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 729
+  thumb_total_width: 1215
+  thumb_total_height: 324
+- path: Disney Infinity.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_1.jpg?crc=e607cc3e
+  thumb_x: 729
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 1215
+  thumb_total_height: 324
+- path: DuckTales Remastered.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_1.jpg?crc=e607cc3e
+  thumb_x: 972
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 1215
   thumb_total_height: 324

@@ -486,17 +486,26 @@
 - path: The X-Files Resist or Serve.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=36c55e16
+  thumb: thumbnails_1.jpg?crc=93ea3666
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 486
+  thumb_total_width: 729
   thumb_total_height: 324
 - path: The Lord of the Rings The Third Age.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=36c55e16
+  thumb: thumbnails_1.jpg?crc=93ea3666
   thumb_x: 243
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 486
+  thumb_total_width: 729
+  thumb_total_height: 324
+- path: Kingdom Hearts Chain of Memories.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_1.jpg?crc=93ea3666
+  thumb_x: 486
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 729
   thumb_total_height: 324
