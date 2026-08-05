@@ -512,80 +512,108 @@
 - path: Star Trek Online.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=4a9b1b96
+  thumb: thumbnails_1.jpg?crc=933c38cc
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2187
-  thumb_total_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
 - path: Dante's Inferno.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=4a9b1b96
+  thumb: thumbnails_1.jpg?crc=933c38cc
   thumb_x: 243
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2187
-  thumb_total_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
 - path: Lego Harry Potter Years 1-4.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=4a9b1b96
+  thumb: thumbnails_1.jpg?crc=933c38cc
   thumb_x: 486
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2187
-  thumb_total_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
 - path: Transformers War for Cybertron.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=4a9b1b96
+  thumb: thumbnails_1.jpg?crc=933c38cc
   thumb_x: 729
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2187
-  thumb_total_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
 - path: Epic Mickey.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=4a9b1b96
+  thumb: thumbnails_1.jpg?crc=933c38cc
   thumb_x: 972
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2187
-  thumb_total_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
 - path: Kingdom Hearts Birth by Sleep.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=4a9b1b96
+  thumb: thumbnails_1.jpg?crc=933c38cc
   thumb_x: 1215
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2187
-  thumb_total_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
 - path: Toy Story 3 The Video Game.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=4a9b1b96
+  thumb: thumbnails_1.jpg?crc=933c38cc
   thumb_x: 1458
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2187
-  thumb_total_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
 - path: Back to the Future The Game.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=4a9b1b96
+  thumb: thumbnails_1.jpg?crc=933c38cc
   thumb_x: 1701
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2187
-  thumb_total_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
 - path: Metal Gear Solid Peace Walker.jpg
   width: 800
   height: 1068
-  thumb: thumbnails_1.jpg?crc=4a9b1b96
+  thumb: thumbnails_1.jpg?crc=933c38cc
   thumb_x: 1944
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2187
-  thumb_total_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: DJ Hero 2.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_1.jpg?crc=933c38cc
+  thumb_x: 2187
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: Green Day Rock Band.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_1.jpg?crc=933c38cc
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: Michael Jackson The Experience.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_1.jpg?crc=933c38cc
+  thumb_x: 243
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648

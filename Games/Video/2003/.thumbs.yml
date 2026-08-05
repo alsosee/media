@@ -486,8 +486,17 @@
 - path: Zone of the Enders The 2nd Runner.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=7585288c
+  thumb: thumbnails_1.jpg?crc=8bb288ce
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 243
+  thumb_total_width: 486
+  thumb_total_height: 324
+- path: Karaoke Revolution.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_1.jpg?crc=8bb288ce
+  thumb_x: 243
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 486
   thumb_total_height: 324

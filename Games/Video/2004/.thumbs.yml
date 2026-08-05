@@ -486,35 +486,44 @@
 - path: The X-Files Resist or Serve.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=4ee06950
+  thumb: thumbnails_1.jpg?crc=8243de40
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 972
+  thumb_total_width: 1215
   thumb_total_height: 324
 - path: The Lord of the Rings The Third Age.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=4ee06950
+  thumb: thumbnails_1.jpg?crc=8243de40
   thumb_x: 243
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 972
+  thumb_total_width: 1215
   thumb_total_height: 324
 - path: Kingdom Hearts Chain of Memories.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=4ee06950
+  thumb: thumbnails_1.jpg?crc=8243de40
   thumb_x: 486
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 972
+  thumb_total_width: 1215
   thumb_total_height: 324
 - path: Ghost in the Shell Stand Alone Complex.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=4ee06950
+  thumb: thumbnails_1.jpg?crc=8243de40
   thumb_x: 729
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 972
+  thumb_total_width: 1215
+  thumb_total_height: 324
+- path: SingStar.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_1.jpg?crc=8243de40
+  thumb_x: 972
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 1215
   thumb_total_height: 324
