@@ -1,287 +1,296 @@
 - path: Alien Trilogy.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=e7bd5f20
+  thumb: thumbnails_0.jpg?crc=fec61a9e
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2437
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Broken Sword The Shadow of the Templars.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=e7bd5f20
+  thumb: thumbnails_0.jpg?crc=fec61a9e
   thumb_x: 243
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2437
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Command & Conquer Red Alert.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=e7bd5f20
+  thumb: thumbnails_0.jpg?crc=fec61a9e
   thumb_x: 486
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2437
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Command & Conquer The Covert Operations.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=e7bd5f20
+  thumb: thumbnails_0.jpg?crc=fec61a9e
   thumb_x: 729
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2437
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Quake.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=e7bd5f20
+  thumb: thumbnails_0.jpg?crc=fec61a9e
   thumb_x: 972
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2437
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Resident Evil.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=e7bd5f20
+  thumb: thumbnails_0.jpg?crc=fec61a9e
   thumb_x: 1215
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2437
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: The Elder Scrolls II Daggerfall.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=e7bd5f20
+  thumb: thumbnails_0.jpg?crc=fec61a9e
   thumb_x: 1458
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2437
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: The Settlers II Veni, Vidi, Vici.jpg
   width: 800
   height: 1065
-  thumb: thumbnails_0.jpg?crc=e7bd5f20
+  thumb: thumbnails_0.jpg?crc=fec61a9e
   thumb_x: 1701
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2437
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Tomb Raider.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=e7bd5f20
+  thumb: thumbnails_0.jpg?crc=fec61a9e
   thumb_x: 1944
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2437
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Warcraft II Beyond the Dark Portal.jpg
   width: 800
   height: 1065
-  thumb: thumbnails_0.jpg?crc=e7bd5f20
+  thumb: thumbnails_0.jpg?crc=fec61a9e
   thumb_x: 2187
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2437
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Worms Reinforcements.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=e7bd5f20
+  thumb: thumbnails_0.jpg?crc=fec61a9e
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2437
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Pokémon Red and Blue.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=e7bd5f20
+  thumb: thumbnails_0.jpg?crc=fec61a9e
   thumb_x: 243
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2437
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Super Mario 64.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=e7bd5f20
+  thumb: thumbnails_0.jpg?crc=fec61a9e
   thumb_x: 486
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2437
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Sid Meier's Civilization II.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=e7bd5f20
+  thumb: thumbnails_0.jpg?crc=fec61a9e
   thumb_x: 729
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2437
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: PaRappa the Rapper.jpg
   width: 800
   height: 1065
-  thumb: thumbnails_0.jpg?crc=e7bd5f20
+  thumb: thumbnails_0.jpg?crc=fec61a9e
   thumb_x: 972
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2437
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Mario Kart 64.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=e7bd5f20
+  thumb: thumbnails_0.jpg?crc=fec61a9e
   thumb_x: 1215
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2437
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Kirby Super Star.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=e7bd5f20
+  thumb: thumbnails_0.jpg?crc=fec61a9e
   thumb_x: 1458
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2437
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Duke Nukem 3D.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=e7bd5f20
+  thumb: thumbnails_0.jpg?crc=fec61a9e
   thumb_x: 1701
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2437
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Metal Slug.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=e7bd5f20
+  thumb: thumbnails_0.jpg?crc=fec61a9e
   thumb_x: 1944
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2437
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: The Logical Journey of the Zoombinis.jpg
   width: 800
   height: 1037
-  thumb: thumbnails_0.jpg?crc=e7bd5f20
+  thumb: thumbnails_0.jpg?crc=fec61a9e
   thumb_x: 2187
   thumb_y: 324
   thumb_width: 250
   thumb_height: 324
   thumb_total_width: 2437
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Pilotwings 64.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=e7bd5f20
+  thumb: thumbnails_0.jpg?crc=fec61a9e
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2437
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Wave Race 64.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=e7bd5f20
+  thumb: thumbnails_0.jpg?crc=fec61a9e
   thumb_x: 243
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2437
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Master of Orion II Battle at Antares.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=e7bd5f20
+  thumb: thumbnails_0.jpg?crc=fec61a9e
   thumb_x: 486
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2437
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Panzer Dragoon II Zwei.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=e7bd5f20
+  thumb: thumbnails_0.jpg?crc=fec61a9e
   thumb_x: 729
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2437
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: The House of the Dead.jpg
   width: 800
   height: 1065
-  thumb: thumbnails_0.jpg?crc=e7bd5f20
+  thumb: thumbnails_0.jpg?crc=fec61a9e
   thumb_x: 972
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2437
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Barbie Fashion Designer.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=e7bd5f20
+  thumb: thumbnails_0.jpg?crc=fec61a9e
   thumb_x: 1215
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2437
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Privateer 2 The Darkening.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=e7bd5f20
+  thumb: thumbnails_0.jpg?crc=fec61a9e
   thumb_x: 1458
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2437
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Ripper.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=e7bd5f20
+  thumb: thumbnails_0.jpg?crc=fec61a9e
   thumb_x: 1701
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2437
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Tex Murphy The Pandora Directive.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=e7bd5f20
+  thumb: thumbnails_0.jpg?crc=fec61a9e
   thumb_x: 1944
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2437
-  thumb_total_height: 972
+  thumb_total_height: 1296
 - path: Wing Commander IV The Price of Freedom.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=e7bd5f20
+  thumb: thumbnails_0.jpg?crc=fec61a9e
   thumb_x: 2187
   thumb_y: 648
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2437
-  thumb_total_height: 972
+  thumb_total_height: 1296
+- path: Syndicate Wars.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=fec61a9e
+  thumb_y: 972
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2437
+  thumb_total_height: 1296

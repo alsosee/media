@@ -1,7 +1,7 @@
 - path: Aliens Alien 2.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=b9c8e66a
+  thumb: thumbnails_0.jpg?crc=9f4ae64
   thumb_width: 243
   thumb_height: 324
   thumb_total_width: 2430
@@ -9,7 +9,7 @@
 - path: Street Fighter.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_0.jpg?crc=b9c8e66a
+  thumb: thumbnails_0.jpg?crc=9f4ae64
   thumb_x: 243
   thumb_width: 243
   thumb_height: 324
@@ -18,7 +18,7 @@
 - path: Contra.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=b9c8e66a
+  thumb: thumbnails_0.jpg?crc=9f4ae64
   thumb_x: 486
   thumb_width: 243
   thumb_height: 324
@@ -27,7 +27,7 @@
 - path: Final Fantasy.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=b9c8e66a
+  thumb: thumbnails_0.jpg?crc=9f4ae64
   thumb_x: 729
   thumb_width: 243
   thumb_height: 324
@@ -36,7 +36,7 @@
 - path: Mega Man.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=b9c8e66a
+  thumb: thumbnails_0.jpg?crc=9f4ae64
   thumb_x: 972
   thumb_width: 243
   thumb_height: 324
@@ -45,7 +45,7 @@
 - path: NetHack.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=b9c8e66a
+  thumb: thumbnails_0.jpg?crc=9f4ae64
   thumb_x: 1215
   thumb_width: 243
   thumb_height: 324
@@ -54,7 +54,7 @@
 - path: Double Dragon.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=b9c8e66a
+  thumb: thumbnails_0.jpg?crc=9f4ae64
   thumb_x: 1458
   thumb_width: 243
   thumb_height: 324
@@ -63,7 +63,7 @@
 - path: Maniac Mansion.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=b9c8e66a
+  thumb: thumbnails_0.jpg?crc=9f4ae64
   thumb_x: 1701
   thumb_width: 243
   thumb_height: 324
@@ -72,7 +72,7 @@
 - path: Phantasy Star.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=b9c8e66a
+  thumb: thumbnails_0.jpg?crc=9f4ae64
   thumb_x: 1944
   thumb_width: 243
   thumb_height: 324
@@ -81,7 +81,7 @@
 - path: R-Type.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=b9c8e66a
+  thumb: thumbnails_0.jpg?crc=9f4ae64
   thumb_x: 2187
   thumb_width: 243
   thumb_height: 324
@@ -90,7 +90,7 @@
 - path: Zelda II The Adventure of Link.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=b9c8e66a
+  thumb: thumbnails_0.jpg?crc=9f4ae64
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
@@ -99,8 +99,18 @@
 - path: Tecmo Bowl.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_0.jpg?crc=b9c8e66a
+  thumb: thumbnails_0.jpg?crc=9f4ae64
   thumb_x: 243
+  thumb_y: 324
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 2430
+  thumb_total_height: 648
+- path: Sid Meier's Pirates!.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_0.jpg?crc=9f4ae64
+  thumb_x: 486
   thumb_y: 324
   thumb_width: 243
   thumb_height: 324
