@@ -512,17 +512,35 @@
 - path: Star Trek Online.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=c95b520e
+  thumb: thumbnails_1.jpg?crc=a11bad77
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 486
+  thumb_total_width: 972
   thumb_total_height: 324
 - path: Dante's Inferno.jpg
   width: 800
   height: 1067
-  thumb: thumbnails_1.jpg?crc=c95b520e
+  thumb: thumbnails_1.jpg?crc=a11bad77
   thumb_x: 243
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 486
+  thumb_total_width: 972
+  thumb_total_height: 324
+- path: Lego Harry Potter Years 1-4.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_1.jpg?crc=a11bad77
+  thumb_x: 486
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 972
+  thumb_total_height: 324
+- path: Transformers War for Cybertron.jpg
+  width: 800
+  height: 1067
+  thumb: thumbnails_1.jpg?crc=a11bad77
+  thumb_x: 729
+  thumb_width: 243
+  thumb_height: 324
+  thumb_total_width: 972
   thumb_total_height: 324
