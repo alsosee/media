@@ -486,8 +486,17 @@
 - path: Collateral Beauty.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_1.jpg?crc=b563ab64
+  thumb: thumbnails_1.jpg?crc=9905a9b1
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 216
+  thumb_total_width: 432
+  thumb_total_height: 324
+- path: Now You See Me 2.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_1.jpg?crc=9905a9b1
+  thumb_x: 216
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 432
   thumb_total_height: 324
