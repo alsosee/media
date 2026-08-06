@@ -486,7 +486,7 @@
 - path: The Thick of It, Season 2.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_1.jpg?crc=317b30b5
+  thumb: thumbnails_1.jpg?crc=ec981354
   thumb_width: 220
   thumb_height: 324
   thumb_total_width: 2226
@@ -494,7 +494,7 @@
 - path: The Thick of It.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_1.jpg?crc=317b30b5
+  thumb: thumbnails_1.jpg?crc=ec981354
   thumb_x: 220
   thumb_width: 220
   thumb_height: 324
@@ -503,7 +503,7 @@
 - path: Alias, Season 4.jpg
   width: 800
   height: 1154
-  thumb: thumbnails_1.jpg?crc=317b30b5
+  thumb: thumbnails_1.jpg?crc=ec981354
   thumb_x: 440
   thumb_width: 224
   thumb_height: 324
@@ -512,7 +512,7 @@
 - path: Alias, Season 5.jpg
   width: 800
   height: 1154
-  thumb: thumbnails_1.jpg?crc=317b30b5
+  thumb: thumbnails_1.jpg?crc=ec981354
   thumb_x: 664
   thumb_width: 224
   thumb_height: 324
@@ -521,7 +521,7 @@
 - path: Bones.jpg
   width: 800
   height: 1141
-  thumb: thumbnails_1.jpg?crc=317b30b5
+  thumb: thumbnails_1.jpg?crc=ec981354
   thumb_x: 888
   thumb_width: 227
   thumb_height: 324
@@ -530,7 +530,7 @@
 - path: Boston Legal, Season 2.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_1.jpg?crc=317b30b5
+  thumb: thumbnails_1.jpg?crc=ec981354
   thumb_x: 1115
   thumb_width: 220
   thumb_height: 324
@@ -539,7 +539,7 @@
 - path: Entourage, Season 2.jpg
   width: 800
   height: 1156
-  thumb: thumbnails_1.jpg?crc=317b30b5
+  thumb: thumbnails_1.jpg?crc=ec981354
   thumb_x: 1335
   thumb_width: 224
   thumb_height: 324
@@ -548,7 +548,7 @@
 - path: Monk, Season 4.jpg
   width: 800
   height: 1141
-  thumb: thumbnails_1.jpg?crc=317b30b5
+  thumb: thumbnails_1.jpg?crc=ec981354
   thumb_x: 1559
   thumb_width: 227
   thumb_height: 324
@@ -557,7 +557,7 @@
 - path: Nip Tuck, Season 3.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_1.jpg?crc=317b30b5
+  thumb: thumbnails_1.jpg?crc=ec981354
   thumb_x: 1786
   thumb_width: 216
   thumb_height: 324
@@ -566,7 +566,7 @@
 - path: One Tree Hill, Season 3.jpg
   width: 800
   height: 1155
-  thumb: thumbnails_1.jpg?crc=317b30b5
+  thumb: thumbnails_1.jpg?crc=ec981354
   thumb_x: 2002
   thumb_width: 224
   thumb_height: 324
@@ -575,7 +575,7 @@
 - path: Prison Break.jpg
   width: 800
   height: 1141
-  thumb: thumbnails_1.jpg?crc=317b30b5
+  thumb: thumbnails_1.jpg?crc=ec981354
   thumb_y: 324
   thumb_width: 227
   thumb_height: 324
@@ -584,7 +584,7 @@
 - path: The L Word, Season 2.jpg
   width: 800
   height: 1149
-  thumb: thumbnails_1.jpg?crc=317b30b5
+  thumb: thumbnails_1.jpg?crc=ec981354
   thumb_x: 227
   thumb_y: 324
   thumb_width: 225
@@ -594,7 +594,7 @@
 - path: The O.C., Season 3.jpg
   width: 800
   height: 1141
-  thumb: thumbnails_1.jpg?crc=317b30b5
+  thumb: thumbnails_1.jpg?crc=ec981354
   thumb_x: 452
   thumb_y: 324
   thumb_width: 227
@@ -604,10 +604,40 @@
 - path: Weeds.jpg
   width: 800
   height: 1155
-  thumb: thumbnails_1.jpg?crc=317b30b5
+  thumb: thumbnails_1.jpg?crc=ec981354
   thumb_x: 679
   thumb_y: 324
   thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2226
+  thumb_total_height: 648
+- path: Bleach, Season 2.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_1.jpg?crc=ec981354
+  thumb_x: 903
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2226
+  thumb_total_height: 648
+- path: Bleach, Season 3.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_1.jpg?crc=ec981354
+  thumb_x: 1119
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2226
+  thumb_total_height: 648
+- path: King of the Hill, Season 10.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_1.jpg?crc=ec981354
+  thumb_x: 1335
+  thumb_y: 324
+  thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2226
   thumb_total_height: 648

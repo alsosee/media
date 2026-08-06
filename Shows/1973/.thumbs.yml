@@ -1,7 +1,7 @@
 - path: Doctor Who, Season 11.jpg
   width: 1080
   height: 1620
-  thumb: thumbnails_0.jpg?crc=f1a7d84e
+  thumb: thumbnails_0.jpg?crc=c4b5de7d
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2227
@@ -9,7 +9,7 @@
 - path: Mister Rogers' Neighborhood, Season 6.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=f1a7d84e
+  thumb: thumbnails_0.jpg?crc=c4b5de7d
   thumb_x: 216
   thumb_width: 220
   thumb_height: 324
@@ -18,7 +18,7 @@
 - path: Sesame Street, Season 5.jpg
   width: 2000
   height: 3000
-  thumb: thumbnails_0.jpg?crc=f1a7d84e
+  thumb: thumbnails_0.jpg?crc=c4b5de7d
   thumb_x: 436
   thumb_width: 216
   thumb_height: 324
@@ -27,7 +27,7 @@
 - path: The Carol Burnett Show, Season 7.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=f1a7d84e
+  thumb: thumbnails_0.jpg?crc=c4b5de7d
   thumb_x: 652
   thumb_width: 220
   thumb_height: 324
@@ -36,7 +36,7 @@
 - path: The World at War.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=f1a7d84e
+  thumb: thumbnails_0.jpg?crc=c4b5de7d
   thumb_x: 872
   thumb_width: 220
   thumb_height: 324
@@ -45,7 +45,7 @@
 - path: Gunsmoke, Season 19.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=f1a7d84e
+  thumb: thumbnails_0.jpg?crc=c4b5de7d
   thumb_x: 1092
   thumb_width: 216
   thumb_height: 324
@@ -54,7 +54,7 @@
 - path: Kojak.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_0.jpg?crc=f1a7d84e
+  thumb: thumbnails_0.jpg?crc=c4b5de7d
   thumb_x: 1308
   thumb_width: 220
   thumb_height: 324
@@ -63,7 +63,7 @@
 - path: Sanford and Son, Season 3.jpg
   width: 800
   height: 1156
-  thumb: thumbnails_0.jpg?crc=f1a7d84e
+  thumb: thumbnails_0.jpg?crc=c4b5de7d
   thumb_x: 1528
   thumb_width: 224
   thumb_height: 324
@@ -72,7 +72,7 @@
 - path: The Brady Bunch, Season 5.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=f1a7d84e
+  thumb: thumbnails_0.jpg?crc=c4b5de7d
   thumb_x: 1752
   thumb_width: 216
   thumb_height: 324
@@ -81,7 +81,7 @@
 - path: Hawaii Five-O, Season 6.jpg
   width: 800
   height: 1000
-  thumb: thumbnails_0.jpg?crc=f1a7d84e
+  thumb: thumbnails_0.jpg?crc=c4b5de7d
   thumb_x: 1968
   thumb_width: 259
   thumb_height: 324
@@ -90,7 +90,7 @@
 - path: Maude, Season 2.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_0.jpg?crc=f1a7d84e
+  thumb: thumbnails_0.jpg?crc=c4b5de7d
   thumb_y: 324
   thumb_width: 220
   thumb_height: 324
@@ -99,8 +99,48 @@
 - path: The Bob Newhart Show, Season 2.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=f1a7d84e
+  thumb: thumbnails_0.jpg?crc=c4b5de7d
   thumb_x: 220
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2227
+  thumb_total_height: 648
+- path: All in the Family, Season 4.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=c4b5de7d
+  thumb_x: 436
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2227
+  thumb_total_height: 648
+- path: Columbo, Season 3.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=c4b5de7d
+  thumb_x: 652
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2227
+  thumb_total_height: 648
+- path: MASH, Season 2.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=c4b5de7d
+  thumb_x: 868
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2227
+  thumb_total_height: 648
+- path: The Mary Tyler Moore Show, Season 4.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=c4b5de7d
+  thumb_x: 1084
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324

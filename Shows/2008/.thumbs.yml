@@ -486,89 +486,118 @@
 - path: Heroes, Season 3.jpg
   width: 800
   height: 1141
-  thumb: thumbnails_1.jpg?crc=876020c7
+  thumb: thumbnails_1.jpg?crc=2c4e33ad
   thumb_width: 227
   thumb_height: 324
   thumb_total_width: 2247
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Monk, Season 7.jpg
   width: 800
   height: 1141
-  thumb: thumbnails_1.jpg?crc=876020c7
+  thumb: thumbnails_1.jpg?crc=2c4e33ad
   thumb_x: 227
   thumb_width: 227
   thumb_height: 324
   thumb_total_width: 2247
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: One Tree Hill, Season 5.jpg
   width: 800
   height: 1155
-  thumb: thumbnails_1.jpg?crc=876020c7
+  thumb: thumbnails_1.jpg?crc=2c4e33ad
   thumb_x: 454
   thumb_width: 224
   thumb_height: 324
   thumb_total_width: 2247
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: One Tree Hill, Season 6.jpg
   width: 800
   height: 1155
-  thumb: thumbnails_1.jpg?crc=876020c7
+  thumb: thumbnails_1.jpg?crc=2c4e33ad
   thumb_x: 678
   thumb_width: 224
   thumb_height: 324
   thumb_total_width: 2247
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Prison Break, Season 4.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_1.jpg?crc=876020c7
+  thumb: thumbnails_1.jpg?crc=2c4e33ad
   thumb_x: 902
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2247
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Sons of Anarchy.jpg
   width: 800
   height: 1156
-  thumb: thumbnails_1.jpg?crc=876020c7
+  thumb: thumbnails_1.jpg?crc=2c4e33ad
   thumb_x: 1118
   thumb_width: 224
   thumb_height: 324
   thumb_total_width: 2247
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: The L Word, Season 5.jpg
   width: 800
   height: 1111
-  thumb: thumbnails_1.jpg?crc=876020c7
+  thumb: thumbnails_1.jpg?crc=2c4e33ad
   thumb_x: 1342
   thumb_width: 233
   thumb_height: 324
   thumb_total_width: 2247
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: True Blood.jpg
   width: 800
   height: 1156
-  thumb: thumbnails_1.jpg?crc=876020c7
+  thumb: thumbnails_1.jpg?crc=2c4e33ad
   thumb_x: 1575
   thumb_width: 224
   thumb_height: 324
   thumb_total_width: 2247
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Ugly Betty, Season 3.jpg
   width: 800
   height: 1156
-  thumb: thumbnails_1.jpg?crc=876020c7
+  thumb: thumbnails_1.jpg?crc=2c4e33ad
   thumb_x: 1799
   thumb_width: 224
   thumb_height: 324
   thumb_total_width: 2247
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Weeds, Season 4.jpg
   width: 800
   height: 1155
-  thumb: thumbnails_1.jpg?crc=876020c7
+  thumb: thumbnails_1.jpg?crc=2c4e33ad
   thumb_x: 2023
   thumb_width: 224
   thumb_height: 324
   thumb_total_width: 2247
-  thumb_total_height: 324
+  thumb_total_height: 648
+- path: Bleach, Season 10.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_1.jpg?crc=2c4e33ad
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2247
+  thumb_total_height: 648
+- path: Bleach, Season 9.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_1.jpg?crc=2c4e33ad
+  thumb_x: 216
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2247
+  thumb_total_height: 648
+- path: King of the Hill, Season 13.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_1.jpg?crc=2c4e33ad
+  thumb_x: 432
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2247
+  thumb_total_height: 648

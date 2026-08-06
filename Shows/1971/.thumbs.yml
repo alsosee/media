@@ -1,89 +1,128 @@
 - path: Doctor Who, Season 8.jpg
   width: 1080
   height: 1620
-  thumb: thumbnails_0.jpg?crc=4fb2d7b2
+  thumb: thumbnails_0.jpg?crc=f8a611ac
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2223
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Mister Rogers' Neighborhood, Season 4.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=4fb2d7b2
+  thumb: thumbnails_0.jpg?crc=f8a611ac
   thumb_x: 216
   thumb_width: 220
   thumb_height: 324
   thumb_total_width: 2223
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Sesame Street, Season 3.jpg
   width: 2000
   height: 3000
-  thumb: thumbnails_0.jpg?crc=4fb2d7b2
+  thumb: thumbnails_0.jpg?crc=f8a611ac
   thumb_x: 436
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2223
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: The Carol Burnett Show, Season 5.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=4fb2d7b2
+  thumb: thumbnails_0.jpg?crc=f8a611ac
   thumb_x: 652
   thumb_width: 220
   thumb_height: 324
   thumb_total_width: 2223
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Bewitched, Season 8.jpg
   width: 400
   height: 578
-  thumb: thumbnails_0.jpg?crc=4fb2d7b2
+  thumb: thumbnails_0.jpg?crc=f8a611ac
   thumb_x: 872
   thumb_width: 224
   thumb_height: 324
   thumb_total_width: 2223
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Mission Impossible, Season 6.jpg
   width: 1400
   height: 2100
-  thumb: thumbnails_0.jpg?crc=4fb2d7b2
+  thumb: thumbnails_0.jpg?crc=f8a611ac
   thumb_x: 1096
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2223
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Bonanza, Season 13.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_0.jpg?crc=4fb2d7b2
+  thumb: thumbnails_0.jpg?crc=f8a611ac
   thumb_x: 1312
   thumb_width: 220
   thumb_height: 324
   thumb_total_width: 2223
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Gunsmoke, Season 17.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=4fb2d7b2
+  thumb: thumbnails_0.jpg?crc=f8a611ac
   thumb_x: 1532
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2223
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: The Brady Bunch, Season 3.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=4fb2d7b2
+  thumb: thumbnails_0.jpg?crc=f8a611ac
   thumb_x: 1748
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2223
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Hawaii Five-O, Season 4.jpg
   width: 800
   height: 1000
-  thumb: thumbnails_0.jpg?crc=4fb2d7b2
+  thumb: thumbnails_0.jpg?crc=f8a611ac
   thumb_x: 1964
   thumb_width: 259
   thumb_height: 324
   thumb_total_width: 2223
-  thumb_total_height: 324
+  thumb_total_height: 648
+- path: All in the Family, Season 2.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=f8a611ac
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2223
+  thumb_total_height: 648
+- path: All in the Family.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=f8a611ac
+  thumb_x: 216
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2223
+  thumb_total_height: 648
+- path: Columbo.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=f8a611ac
+  thumb_x: 432
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2223
+  thumb_total_height: 648
+- path: The Mary Tyler Moore Show, Season 2.jpg
+  width: 400
+  height: 578
+  thumb: thumbnails_0.jpg?crc=f8a611ac
+  thumb_x: 648
+  thumb_y: 324
+  thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2223
+  thumb_total_height: 648

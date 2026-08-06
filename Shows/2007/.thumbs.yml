@@ -486,44 +486,89 @@
 - path: Nip Tuck, Season 5.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_1.jpg?crc=6cd4a079
+  thumb: thumbnails_1.jpg?crc=8a0158d2
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 1126
+  thumb_total_width: 2206
   thumb_total_height: 324
 - path: Prison Break, Season 3.jpg
   width: 800
   height: 1141
-  thumb: thumbnails_1.jpg?crc=6cd4a079
+  thumb: thumbnails_1.jpg?crc=8a0158d2
   thumb_x: 216
   thumb_width: 227
   thumb_height: 324
-  thumb_total_width: 1126
+  thumb_total_width: 2206
   thumb_total_height: 324
 - path: The L Word, Season 4.jpg
   width: 800
   height: 1099
-  thumb: thumbnails_1.jpg?crc=6cd4a079
+  thumb: thumbnails_1.jpg?crc=8a0158d2
   thumb_x: 443
   thumb_width: 235
   thumb_height: 324
-  thumb_total_width: 1126
+  thumb_total_width: 2206
   thumb_total_height: 324
 - path: Ugly Betty, Season 2.jpg
   width: 800
   height: 1156
-  thumb: thumbnails_1.jpg?crc=6cd4a079
+  thumb: thumbnails_1.jpg?crc=8a0158d2
   thumb_x: 678
   thumb_width: 224
   thumb_height: 324
-  thumb_total_width: 1126
+  thumb_total_width: 2206
   thumb_total_height: 324
 - path: Weeds, Season 3.jpg
   width: 800
   height: 1155
-  thumb: thumbnails_1.jpg?crc=6cd4a079
+  thumb: thumbnails_1.jpg?crc=8a0158d2
   thumb_x: 902
   thumb_width: 224
   thumb_height: 324
-  thumb_total_width: 1126
+  thumb_total_width: 2206
+  thumb_total_height: 324
+- path: Bleach, Season 6.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_1.jpg?crc=8a0158d2
+  thumb_x: 1126
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2206
+  thumb_total_height: 324
+- path: Bleach, Season 7.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_1.jpg?crc=8a0158d2
+  thumb_x: 1342
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2206
+  thumb_total_height: 324
+- path: Bleach, Season 8.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_1.jpg?crc=8a0158d2
+  thumb_x: 1558
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2206
+  thumb_total_height: 324
+- path: King of the Hill, Season 11.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_1.jpg?crc=8a0158d2
+  thumb_x: 1774
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2206
+  thumb_total_height: 324
+- path: King of the Hill, Season 12.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_1.jpg?crc=8a0158d2
+  thumb_x: 1990
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2206
   thumb_total_height: 324

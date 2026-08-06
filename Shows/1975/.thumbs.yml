@@ -1,168 +1,207 @@
 - path: Doctor Who, Season 13.jpg
   width: 1080
   height: 1620
-  thumb: thumbnails_0.jpg?crc=521eb4b9
+  thumb: thumbnails_0.jpg?crc=9e3d955
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2225
-  thumb_total_height: 648
+  thumb_total_width: 2249
+  thumb_total_height: 972
 - path: Fawlty Towers.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=521eb4b9
+  thumb: thumbnails_0.jpg?crc=9e3d955
   thumb_x: 216
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 2225
-  thumb_total_height: 648
+  thumb_total_width: 2249
+  thumb_total_height: 972
 - path: Mister Rogers' Neighborhood, Season 8.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=521eb4b9
+  thumb: thumbnails_0.jpg?crc=9e3d955
   thumb_x: 436
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 2225
-  thumb_total_height: 648
+  thumb_total_width: 2249
+  thumb_total_height: 972
 - path: Saturday Night Live.jpg
   width: 2160
   height: 2880
-  thumb: thumbnails_0.jpg?crc=521eb4b9
+  thumb: thumbnails_0.jpg?crc=9e3d955
   thumb_x: 656
   thumb_width: 243
   thumb_height: 324
-  thumb_total_width: 2225
-  thumb_total_height: 648
+  thumb_total_width: 2249
+  thumb_total_height: 972
 - path: Sesame Street, Season 7.jpg
   width: 2000
   height: 3000
-  thumb: thumbnails_0.jpg?crc=521eb4b9
+  thumb: thumbnails_0.jpg?crc=9e3d955
   thumb_x: 899
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2225
-  thumb_total_height: 648
+  thumb_total_width: 2249
+  thumb_total_height: 972
 - path: The Carol Burnett Show, Season 9.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=521eb4b9
+  thumb: thumbnails_0.jpg?crc=9e3d955
   thumb_x: 1115
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 2225
-  thumb_total_height: 648
+  thumb_total_width: 2249
+  thumb_total_height: 972
 - path: The Jeffersons, Season 2.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=521eb4b9
+  thumb: thumbnails_0.jpg?crc=9e3d955
   thumb_x: 1335
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 2225
-  thumb_total_height: 648
+  thumb_total_width: 2249
+  thumb_total_height: 972
 - path: The Jeffersons.jpg
   width: 680
   height: 1000
-  thumb: thumbnails_0.jpg?crc=521eb4b9
+  thumb: thumbnails_0.jpg?crc=9e3d955
   thumb_x: 1555
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 2225
-  thumb_total_height: 648
+  thumb_total_width: 2249
+  thumb_total_height: 972
 - path: Happy Days, Season 3.jpg
   width: 314
   height: 445
-  thumb: thumbnails_0.jpg?crc=521eb4b9
+  thumb: thumbnails_0.jpg?crc=9e3d955
   thumb_x: 1775
   thumb_width: 228
   thumb_height: 324
-  thumb_total_width: 2225
-  thumb_total_height: 648
+  thumb_total_width: 2249
+  thumb_total_height: 972
 - path: Barney Miller, Season 2.jpg
   width: 800
   height: 1167
-  thumb: thumbnails_0.jpg?crc=521eb4b9
+  thumb: thumbnails_0.jpg?crc=9e3d955
   thumb_x: 2003
   thumb_width: 222
   thumb_height: 324
-  thumb_total_width: 2225
-  thumb_total_height: 648
+  thumb_total_width: 2249
+  thumb_total_height: 972
 - path: Barney Miller.jpg
   width: 800
   height: 1087
-  thumb: thumbnails_0.jpg?crc=521eb4b9
+  thumb: thumbnails_0.jpg?crc=9e3d955
   thumb_y: 324
   thumb_width: 238
   thumb_height: 324
-  thumb_total_width: 2225
-  thumb_total_height: 648
+  thumb_total_width: 2249
+  thumb_total_height: 972
 - path: Kojak, Season 3.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_0.jpg?crc=521eb4b9
+  thumb: thumbnails_0.jpg?crc=9e3d955
   thumb_x: 238
   thumb_y: 324
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 2225
-  thumb_total_height: 648
+  thumb_total_width: 2249
+  thumb_total_height: 972
 - path: Sanford and Son, Season 5.jpg
   width: 800
   height: 1156
-  thumb: thumbnails_0.jpg?crc=521eb4b9
+  thumb: thumbnails_0.jpg?crc=9e3d955
   thumb_x: 458
   thumb_y: 324
   thumb_width: 224
   thumb_height: 324
-  thumb_total_width: 2225
-  thumb_total_height: 648
+  thumb_total_width: 2249
+  thumb_total_height: 972
 - path: Good Times, Season 3.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_0.jpg?crc=521eb4b9
+  thumb: thumbnails_0.jpg?crc=9e3d955
   thumb_x: 682
   thumb_y: 324
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 2225
-  thumb_total_height: 648
+  thumb_total_width: 2249
+  thumb_total_height: 972
 - path: Hawaii Five-O, Season 8.jpg
   width: 800
   height: 1000
-  thumb: thumbnails_0.jpg?crc=521eb4b9
+  thumb: thumbnails_0.jpg?crc=9e3d955
   thumb_x: 902
   thumb_y: 324
   thumb_width: 259
   thumb_height: 324
-  thumb_total_width: 2225
-  thumb_total_height: 648
+  thumb_total_width: 2249
+  thumb_total_height: 972
 - path: Maude, Season 4.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_0.jpg?crc=521eb4b9
+  thumb: thumbnails_0.jpg?crc=9e3d955
   thumb_x: 1161
   thumb_y: 324
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 2225
-  thumb_total_height: 648
+  thumb_total_width: 2249
+  thumb_total_height: 972
 - path: One Day at a Time.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_0.jpg?crc=521eb4b9
+  thumb: thumbnails_0.jpg?crc=9e3d955
   thumb_x: 1381
   thumb_y: 324
   thumb_width: 220
   thumb_height: 324
-  thumb_total_width: 2225
-  thumb_total_height: 648
+  thumb_total_width: 2249
+  thumb_total_height: 972
 - path: The Bob Newhart Show, Season 4.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_0.jpg?crc=521eb4b9
+  thumb: thumbnails_0.jpg?crc=9e3d955
   thumb_x: 1601
   thumb_y: 324
   thumb_width: 216
   thumb_height: 324
-  thumb_total_width: 2225
-  thumb_total_height: 648
+  thumb_total_width: 2249
+  thumb_total_height: 972
+- path: All in the Family, Season 6.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=9e3d955
+  thumb_x: 1817
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2249
+  thumb_total_height: 972
+- path: Columbo, Season 5.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=9e3d955
+  thumb_x: 2033
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2249
+  thumb_total_height: 972
+- path: MASH, Season 4.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_0.jpg?crc=9e3d955
+  thumb_y: 648
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2249
+  thumb_total_height: 972
+- path: The Mary Tyler Moore Show, Season 6.jpg
+  width: 400
+  height: 578
+  thumb: thumbnails_0.jpg?crc=9e3d955
+  thumb_x: 216
+  thumb_y: 648
+  thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2249
+  thumb_total_height: 972

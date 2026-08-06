@@ -486,7 +486,7 @@
 - path: Desperate Housewives, Season 7.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_1.jpg?crc=d852cadd
+  thumb: thumbnails_1.jpg?crc=a7306ddf
   thumb_width: 220
   thumb_height: 324
   thumb_total_width: 2207
@@ -494,7 +494,7 @@
 - path: Peep Show, Season 7.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_1.jpg?crc=d852cadd
+  thumb: thumbnails_1.jpg?crc=a7306ddf
   thumb_x: 220
   thumb_width: 220
   thumb_height: 324
@@ -503,7 +503,7 @@
 - path: Pokémon, Season 13.jpg
   width: 800
   height: 1154
-  thumb: thumbnails_1.jpg?crc=d852cadd
+  thumb: thumbnails_1.jpg?crc=a7306ddf
   thumb_x: 440
   thumb_width: 224
   thumb_height: 324
@@ -512,7 +512,7 @@
 - path: Star Wars The Clone Wars, Season 3.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_1.jpg?crc=d852cadd
+  thumb: thumbnails_1.jpg?crc=a7306ddf
   thumb_x: 664
   thumb_width: 216
   thumb_height: 324
@@ -521,7 +521,7 @@
 - path: The Big Bang Theory, Season 4.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_1.jpg?crc=d852cadd
+  thumb: thumbnails_1.jpg?crc=a7306ddf
   thumb_x: 880
   thumb_width: 216
   thumb_height: 324
@@ -530,7 +530,7 @@
 - path: The Boondocks, Season 3.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_1.jpg?crc=d852cadd
+  thumb: thumbnails_1.jpg?crc=a7306ddf
   thumb_x: 1096
   thumb_width: 220
   thumb_height: 324
@@ -539,7 +539,7 @@
 - path: Bones, Season 6.jpg
   width: 800
   height: 1141
-  thumb: thumbnails_1.jpg?crc=d852cadd
+  thumb: thumbnails_1.jpg?crc=a7306ddf
   thumb_x: 1316
   thumb_width: 227
   thumb_height: 324
@@ -548,7 +548,7 @@
 - path: Entourage, Season 7.jpg
   width: 800
   height: 1155
-  thumb: thumbnails_1.jpg?crc=d852cadd
+  thumb: thumbnails_1.jpg?crc=a7306ddf
   thumb_x: 1543
   thumb_width: 224
   thumb_height: 324
@@ -557,7 +557,7 @@
 - path: Glee, Season 2.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_1.jpg?crc=d852cadd
+  thumb: thumbnails_1.jpg?crc=a7306ddf
   thumb_x: 1767
   thumb_width: 220
   thumb_height: 324
@@ -566,7 +566,7 @@
 - path: Gossip Girl, Season 4.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_1.jpg?crc=d852cadd
+  thumb: thumbnails_1.jpg?crc=a7306ddf
   thumb_x: 1987
   thumb_width: 220
   thumb_height: 324
@@ -575,7 +575,7 @@
 - path: One Tree Hill, Season 8.jpg
   width: 800
   height: 1155
-  thumb: thumbnails_1.jpg?crc=d852cadd
+  thumb: thumbnails_1.jpg?crc=a7306ddf
   thumb_y: 324
   thumb_width: 224
   thumb_height: 324
@@ -584,7 +584,7 @@
 - path: Sons of Anarchy, Season 3.jpg
   width: 800
   height: 1156
-  thumb: thumbnails_1.jpg?crc=d852cadd
+  thumb: thumbnails_1.jpg?crc=a7306ddf
   thumb_x: 224
   thumb_y: 324
   thumb_width: 224
@@ -594,7 +594,7 @@
 - path: True Blood, Season 3.jpg
   width: 800
   height: 1156
-  thumb: thumbnails_1.jpg?crc=d852cadd
+  thumb: thumbnails_1.jpg?crc=a7306ddf
   thumb_x: 448
   thumb_y: 324
   thumb_width: 224
@@ -604,10 +604,30 @@
 - path: Weeds, Season 6.jpg
   width: 800
   height: 1155
-  thumb: thumbnails_1.jpg?crc=d852cadd
+  thumb: thumbnails_1.jpg?crc=a7306ddf
   thumb_x: 672
   thumb_y: 324
   thumb_width: 224
+  thumb_height: 324
+  thumb_total_width: 2207
+  thumb_total_height: 648
+- path: Bleach, Season 14.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_1.jpg?crc=a7306ddf
+  thumb_x: 896
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2207
+  thumb_total_height: 648
+- path: Futurama, Season 6.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_1.jpg?crc=a7306ddf
+  thumb_x: 1112
+  thumb_y: 324
+  thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2207
   thumb_total_height: 648

@@ -486,7 +486,7 @@
 - path: The Amazing Race, Season 33.jpg
   width: 800
   height: 1131
-  thumb: thumbnails_1.jpg?crc=c8f573b1
+  thumb: thumbnails_1.jpg?crc=ba3c448c
   thumb_width: 229
   thumb_height: 324
   thumb_total_width: 2377
@@ -494,7 +494,7 @@
 - path: The Amazing Race, Season 34.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_1.jpg?crc=c8f573b1
+  thumb: thumbnails_1.jpg?crc=ba3c448c
   thumb_x: 229
   thumb_width: 220
   thumb_height: 324
@@ -503,7 +503,7 @@
 - path: The Bachelor, Season 26.jpg
   width: 800
   height: 1000
-  thumb: thumbnails_1.jpg?crc=c8f573b1
+  thumb: thumbnails_1.jpg?crc=ba3c448c
   thumb_x: 449
   thumb_width: 259
   thumb_height: 324
@@ -512,7 +512,7 @@
 - path: Top Chef, Season 19.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_1.jpg?crc=c8f573b1
+  thumb: thumbnails_1.jpg?crc=ba3c448c
   thumb_x: 708
   thumb_width: 243
   thumb_height: 324
@@ -521,7 +521,7 @@
 - path: Borgen, Season 4.jpg
   width: 800
   height: 1000
-  thumb: thumbnails_1.jpg?crc=c8f573b1
+  thumb: thumbnails_1.jpg?crc=ba3c448c
   thumb_x: 951
   thumb_width: 259
   thumb_height: 324
@@ -530,7 +530,7 @@
 - path: Pachinko.jpg
   width: 800
   height: 1066
-  thumb: thumbnails_1.jpg?crc=c8f573b1
+  thumb: thumbnails_1.jpg?crc=ba3c448c
   thumb_x: 1210
   thumb_width: 243
   thumb_height: 324
@@ -539,7 +539,7 @@
 - path: Russian Doll, Season 2.jpg
   width: 800
   height: 1000
-  thumb: thumbnails_1.jpg?crc=c8f573b1
+  thumb: thumbnails_1.jpg?crc=ba3c448c
   thumb_x: 1453
   thumb_width: 259
   thumb_height: 324
@@ -548,7 +548,7 @@
 - path: Alice in Borderland, Season 2.jpg
   width: 800
   height: 1130
-  thumb: thumbnails_1.jpg?crc=c8f573b1
+  thumb: thumbnails_1.jpg?crc=ba3c448c
   thumb_x: 1712
   thumb_width: 229
   thumb_height: 324
@@ -557,7 +557,7 @@
 - path: Babylon Berlin, Season 4.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_1.jpg?crc=c8f573b1
+  thumb: thumbnails_1.jpg?crc=ba3c448c
   thumb_x: 1941
   thumb_width: 220
   thumb_height: 324
@@ -566,7 +566,7 @@
 - path: Fauda, Season 4.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_1.jpg?crc=c8f573b1
+  thumb: thumbnails_1.jpg?crc=ba3c448c
   thumb_x: 2161
   thumb_width: 216
   thumb_height: 324
@@ -575,7 +575,7 @@
 - path: Heartstopper.jpg
   width: 800
   height: 1120
-  thumb: thumbnails_1.jpg?crc=c8f573b1
+  thumb: thumbnails_1.jpg?crc=ba3c448c
   thumb_y: 324
   thumb_width: 231
   thumb_height: 324
@@ -584,7 +584,7 @@
 - path: Search Party, Season 5.jpg
   width: 800
   height: 1185
-  thumb: thumbnails_1.jpg?crc=c8f573b1
+  thumb: thumbnails_1.jpg?crc=ba3c448c
   thumb_x: 231
   thumb_y: 324
   thumb_width: 219
@@ -594,10 +594,30 @@
 - path: The Rehearsal.jpg
   width: 800
   height: 1185
-  thumb: thumbnails_1.jpg?crc=c8f573b1
+  thumb: thumbnails_1.jpg?crc=ba3c448c
   thumb_x: 450
   thumb_y: 324
   thumb_width: 219
+  thumb_height: 324
+  thumb_total_width: 2377
+  thumb_total_height: 648
+- path: Bleach, Season 17.jpg
+  width: 800
+  height: 1131
+  thumb: thumbnails_1.jpg?crc=ba3c448c
+  thumb_x: 669
+  thumb_y: 324
+  thumb_width: 229
+  thumb_height: 324
+  thumb_total_width: 2377
+  thumb_total_height: 648
+- path: Chainsaw Man.jpg
+  width: 800
+  height: 1200
+  thumb: thumbnails_1.jpg?crc=ba3c448c
+  thumb_x: 898
+  thumb_y: 324
+  thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2377
   thumb_total_height: 648
