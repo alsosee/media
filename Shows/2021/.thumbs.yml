@@ -486,89 +486,98 @@
 - path: Master of None, Season 3.jpg
   width: 800
   height: 1185
-  thumb: thumbnails_1.jpg?crc=aba03a2c
+  thumb: thumbnails_1.jpg?crc=c27977e4
   thumb_width: 219
   thumb_height: 324
   thumb_total_width: 2252
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Money Heist, Season 4.jpg
   width: 800
   height: 1176
-  thumb: thumbnails_1.jpg?crc=aba03a2c
+  thumb: thumbnails_1.jpg?crc=c27977e4
   thumb_x: 219
   thumb_width: 220
   thumb_height: 324
   thumb_total_width: 2252
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Pokémon, Season 25.jpg
   width: 800
   height: 1200
-  thumb: thumbnails_1.jpg?crc=aba03a2c
+  thumb: thumbnails_1.jpg?crc=c27977e4
   thumb_x: 439
   thumb_width: 216
   thumb_height: 324
   thumb_total_width: 2252
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Pose, Season 3.jpg
   width: 800
   height: 1166
-  thumb: thumbnails_1.jpg?crc=aba03a2c
+  thumb: thumbnails_1.jpg?crc=c27977e4
   thumb_x: 655
   thumb_width: 222
   thumb_height: 324
   thumb_total_width: 2252
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Station Eleven.jpg
   width: 800
   height: 1185
-  thumb: thumbnails_1.jpg?crc=aba03a2c
+  thumb: thumbnails_1.jpg?crc=c27977e4
   thumb_x: 877
   thumb_width: 219
   thumb_height: 324
   thumb_total_width: 2252
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: It's a Sin.jpg
   width: 800
   height: 1098
-  thumb: thumbnails_1.jpg?crc=aba03a2c
+  thumb: thumbnails_1.jpg?crc=c27977e4
   thumb_x: 1096
   thumb_width: 236
   thumb_height: 324
   thumb_total_width: 2252
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Lupin, Season 2.jpg
   width: 800
   height: 1159
-  thumb: thumbnails_1.jpg?crc=aba03a2c
+  thumb: thumbnails_1.jpg?crc=c27977e4
   thumb_x: 1332
   thumb_width: 223
   thumb_height: 324
   thumb_total_width: 2252
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Lupin.jpg
   width: 800
   height: 1185
-  thumb: thumbnails_1.jpg?crc=aba03a2c
+  thumb: thumbnails_1.jpg?crc=c27977e4
   thumb_x: 1555
   thumb_width: 219
   thumb_height: 324
   thumb_total_width: 2252
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Search Party, Season 4.jpg
   width: 800
   height: 1185
-  thumb: thumbnails_1.jpg?crc=aba03a2c
+  thumb: thumbnails_1.jpg?crc=c27977e4
   thumb_x: 1774
   thumb_width: 219
   thumb_height: 324
   thumb_total_width: 2252
-  thumb_total_height: 324
+  thumb_total_height: 648
 - path: Sex Education, Season 3.jpg
   width: 800
   height: 1000
-  thumb: thumbnails_1.jpg?crc=aba03a2c
+  thumb: thumbnails_1.jpg?crc=c27977e4
   thumb_x: 1993
   thumb_width: 259
   thumb_height: 324
   thumb_total_width: 2252
-  thumb_total_height: 324
+  thumb_total_height: 648
+- path: Robot Chicken, Season 11.jpg
+  width: 500
+  height: 750
+  thumb: thumbnails_1.jpg?crc=c27977e4
+  thumb_y: 324
+  thumb_width: 216
+  thumb_height: 324
+  thumb_total_width: 2252
+  thumb_total_height: 648
